@@ -59,11 +59,17 @@ def run_hub(duration_sec: int = 60, num_cells: int = 3, interval: float = 2.0):
     while time.time() - start < duration_sec:
         n += 1
         # Each cell asks a different question
-        question = [
+        questions = [
             "what is the substrate",
             "what is the cell",
             "what is the witness",
-        ][n % num_cells]
+            "what is the canon",
+            "what is the link",
+            "what is the tick",
+            "what is between anchors",
+            "what is negative space",
+        ]
+        question = questions[n % len(questions)]
 
         # Each cell queries canon independently
         responses = []
