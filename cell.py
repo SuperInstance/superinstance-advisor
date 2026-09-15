@@ -212,6 +212,14 @@ class Cell:
 
         Returns the 8 primitives + witness log size + tick count.
         """
+        def safe_asdict(obj):
+            """asdict that handles non-dataclass dicts gracefully."""
+            try:
+                return asdict(obj)
+            except TypeError:
+                # Already a dict or doesn't have asdict fields
+                return dict(obj) if hasattr(obj, '__dict__') else obj
+
         return {
             "address": self.address,
             "name": self.name,
@@ -221,11 +229,11 @@ class Cell:
             "primitives": {
                 "Z_in_count": len(self.z_in),
                 "Z_out_count": len(self.z_out),
-                "JEPA": asdict(self.jepa),
-                "DoubleEntry": asdict(self.double_entry),
-                "Vibe": asdict(self.vibe),
-                "GC": asdict(self.gc),
-                "Murmur": asdict(self.murmur),
+                "JEPA": safe_asdict(self.jepa),
+                "DoubleEntry": safe_asdict(self.double_entry),
+                "Vibe": safe_asdict(self.vibe),
+                "GC": safe_asdict(self.gc),
+                "Murmur": safe_asdict(self.murmur),
                 "Graph": {
                     "neighbors": list(self.graph.neighbors),
                     "edge_count": len(self.graph.edges),
