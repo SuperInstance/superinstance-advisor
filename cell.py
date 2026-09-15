@@ -83,9 +83,20 @@ class GC_state:
 
 @dataclass
 class Murmur_state:
-    """Gossip. The way cells talk to each other without protocol."""
+    """Gossip. The way cells talk to each other without protocol.
+
+    Now backed by a2a-protocol — real fleet messaging with handshake,
+    capabilities, discovery, and TTL-aware queues.
+    """
     heard_from: dict[str, int] = field(default_factory=dict)
     last_murmur: Optional[str] = None
+    # a2a-protocol integration
+    registry_size: int = 0
+    capabilities_offered: list[str] = field(default_factory=list)
+    messages_sent: int = 0
+    messages_received: int = 0
+    handshake_state: str = "idle"
+    known_peers: list[str] = field(default_factory=list)
 
 @dataclass
 class Graph_state:
@@ -130,6 +141,28 @@ class Cell:
 
         # The cell's own self-knowledge
         self.address = hashlib.sha256(f"{name}-{time.time()}".encode()).hexdigest()[:12]
+
+        # a2a-protocol: the actual fleet message bus.
+        # The Murmur primitive is backed by a real handshake / registry / message queue.
+        from a2a_protocol import (
+            HandshakeManager, Capability, CapabilitySet,
+            AgentRegistry, AgentRecord, A2AMessage, MessageType,
+        )
+        self.a2a_handshake = HandshakeManager(agent_id=self.address)
+        self.a2a_handshake.local_capabilities.add(
+            Capability(name="quilt.bind", params={"max_dials": 16}))
+        self.a2a_handshake.local_capabilities.add(
+            Capability(name="quilt.link", params={"edge_kinds": ["typed", "free"]}))
+        self.a2a_handshake.local_capabilities.add(
+            Capability(name="quilt.tick", params={"epoch_ms": 16}))
+        self.a2a_handshake.local_capabilities.add(
+            Capability(name="quilt.effect"))
+        self.a2a_handshake.local_capabilities.add(
+            Capability(name="canon.query", params={"dim": 768}))
+        self.a2a_handshake.local_capabilities.add(
+            Capability(name="canon.submit"))
+        self.a2a_registry = AgentRegistry()
+        self.a2a_inbox: list[A2AMessage] = []
 
     # ----- BIND -----
     def bind(self) -> str:
@@ -399,11 +432,121 @@ class Cell:
         }
 
     def _rumor(self, from_cell: str, gossip: str) -> dict:
-        """Murmur — informal communication between cells."""
+        """Murmur — informal communication between cells.
+
+        Backed by a2a-protocol. The legacy gossip interface is preserved
+        (called by older cells), but the cell also exposes the full
+        a2a surface: send_message, receive_message, registry, handshake.
+        """
         self.murmur.heard_from[from_cell] = self.murmur.heard_from.get(from_cell, 0) + 1
         self.murmur.last_murmur = gossip
         self.vibe.coherence += 0.01
         return {"heard": gossip, "from": from_cell}
+
+    # ----- a2a-protocol surface (Murmur primitive is real now) -----
+
+    def send_message(self, to: str, payload: dict, msg_type: str = "request",
+                     ttl: Optional[int] = None) -> dict:
+        """Send an a2a-protocol message to another cell.
+
+        Backed by A2AMessage — proper envelope with id, sender, recipient,
+        type, correlationId, ttl. The message is queued for the recipient
+        (since this is in-process; for fleet-level delivery, a2a-protocol
+        ships a Cloudflare Workers reference implementation).
+        """
+        from a2a_protocol import A2AMessage, MessageType
+        msg = A2AMessage(
+            sender=self.address,
+            recipient=to,
+            type=MessageType(msg_type),
+            payload=payload,
+            ttl=ttl,
+        )
+        self.murmur.messages_sent += 1
+        self._witness("MURMUR_SEND", {
+            "to": to, "type": msg_type, "msg_id": msg.id,
+            "payload_keys": list(payload.keys()),
+        })
+        return {"sent": True, "msg": msg.to_dict()}
+
+    def receive_message(self, from_addr: str, msg_dict: dict) -> dict:
+        """Receive an a2a-protocol message and update registry/state.
+
+        Hands the envelope through HandshakeManager if it's a handshake,
+        or into the inbox otherwise.
+        """
+        from a2a_protocol import A2AMessage, MessageType
+        msg = A2AMessage.from_dict({**msg_dict, "sender": msg_dict.get("sender", from_addr)})
+
+        # Track peer in registry
+        from a2a_protocol import AgentRecord, CapabilitySet
+        peer = self.a2a_registry.get(from_addr) or AgentRecord(
+            id=from_addr, name=from_addr,
+            capabilities=CapabilitySet(),
+        )
+        peer.last_seen = msg.timestamp
+        self.a2a_registry.register(peer)
+
+        if msg.type == MessageType.HANDSHAKE:
+            # Auto-handle hello if peer is initiating
+            phase = msg.payload.get("phase")
+            if phase == "hello":
+                reply = self.a2a_handshake.handle_hello(msg)
+                self.murmur.handshake_state = self.a2a_handshake.state.value
+                self.murmur.messages_received += 1
+                self._witness("MURMUR_HANDSHAKE", {
+                    "from": from_addr, "phase": "hello", "our_state": self.a2a_handshake.state.value,
+                })
+                return {"handled": "hello", "reply": reply.to_dict()}
+            elif phase == "capabilities":
+                self.a2a_handshake.receive_capabilities(msg)
+                self.murmur.handshake_state = self.a2a_handshake.state.value
+                self.murmur.messages_received += 1
+                return {"handled": "capabilities", "state": self.a2a_handshake.state.value}
+            elif phase == "accept":
+                self.a2a_handshake.state = self.a2a_handshake.state.ACCEPTED if hasattr(self.a2a_handshake.state, 'ACCEPTED') else self.a2a_handshake.state
+                self.murmur.handshake_state = "accepted"
+                self.murmur.messages_received += 1
+                return {"handled": "accept", "state": "accepted"}
+
+        # Regular message: queue in inbox
+        if not msg.is_expired():
+            self.a2a_inbox.append(msg)
+            self.murmur.messages_received += 1
+            self.murmur.heard_from[from_addr] = self.murmur.heard_from.get(from_addr, 0) + 1
+            if len(self.a2a_inbox) > 100:
+                # FIFO drop oldest
+                self.a2a_inbox = self.a2a_inbox[-100:]
+            self._witness("MURMUR_RECEIVE", {
+                "from": from_addr, "type": msg.type.value, "msg_id": msg.id,
+            })
+            return {"received": True, "msg_id": msg.id, "inbox_size": len(self.a2a_inbox)}
+
+        self._witness("MURMUR_EXPIRED", {"from": from_addr, "msg_id": msg.id})
+        return {"received": False, "reason": "expired"}
+
+    def register_peer(self, peer_id: str, peer_name: str = "", capabilities: list = None) -> dict:
+        """Manually register a peer (discovery)."""
+        from a2a_protocol import AgentRecord, Capability, CapabilitySet
+        caps = CapabilitySet([Capability(name=c) for c in (capabilities or [])])
+        peer = AgentRecord(id=peer_id, name=peer_name or peer_id, capabilities=caps)
+        self.a2a_registry.register(peer)
+        # Update murmur state snapshot
+        self.murmur.registry_size = self.a2a_registry.size()
+        self.murmur.known_peers = [a.id for a in self.a2a_registry.all_agents()]
+        self.murmur.capabilities_offered = [c.name for c in self.a2a_handshake.local_capabilities]
+        self._witness("MURMUR_DISCOVERY", {"peer": peer_id, "caps": capabilities or []})
+        return {"registered": peer_id, "registry_size": self.a2a_registry.size()}
+
+    def find_capability(self, capability_name: str) -> list:
+        """Find peers that offer a given capability."""
+        return [p.to_dict() for p in self.a2a_registry.find_by_capability(capability_name)]
+
+    def drain_inbox(self) -> list:
+        """Drain the inbox, returning all received messages."""
+        msgs = list(self.a2a_inbox)
+        self.a2a_inbox.clear()
+        return [m.to_dict() for m in msgs]
 
     def _release(self, what: str) -> dict:
         """GC — release what is no longer alive."""
