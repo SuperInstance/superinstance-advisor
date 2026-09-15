@@ -1,0 +1,129 @@
+{
+  "summary": {
+    "passing": 18,
+    "total": 24
+  },
+  "results": [
+    {
+      "test": "cell.effect('advise')",
+      "ok": true,
+      "detail": "advice=The cell answers from the witness log. Closest canon piece i..."
+    },
+    {
+      "test": "cell.effect('shape_negative_space')",
+      "ok": true,
+      "detail": "verdict=edge_of_canon"
+    },
+    {
+      "test": "cell.effect('test_simulate')",
+      "ok": true,
+      "detail": "sub_cells=2"
+    },
+    {
+      "test": "cell.view()",
+      "ok": true,
+      "detail": "8 primitives, witness_count=5"
+    },
+    {
+      "test": "query: 'the cost of garbage collection in real-t...'",
+      "ok": true,
+      "detail": "top=canon.paper_85-the-cost-of-the-witness (0.712)"
+    },
+    {
+      "test": "query: 'what does the canon say about negative s...'",
+      "ok": true,
+      "detail": "top=canon.essay_108-the-space-between-anchors (0.785)"
+    },
+    {
+      "test": "query: 'cell substrate witness...'",
+      "ok": true,
+      "detail": "top=canon.paper_85-the-cost-of-the-witness (0.794)"
+    },
+    {
+      "test": "a2a_protocol importable",
+      "ok": false,
+      "detail": "not installed: No module named 'a2a_protocol'"
+    },
+    {
+      "test": "github SuperInstance/quilt-live-canon",
+      "ok": true,
+      "detail": "574KB - the live canon worker"
+    },
+    {
+      "test": "github SuperInstance/cell-runtime",
+      "ok": true,
+      "detail": "17KB - the canonical cell"
+    },
+    {
+      "test": "github SuperInstance/cell-runtime-rs",
+      "ok": false,
+      "detail": "HTTP 404"
+    },
+    {
+      "test": "github SuperInstance/a2a-protocol",
+      "ok": true,
+      "detail": "53KB - fleet messaging"
+    },
+    {
+      "test": "github SuperInstance/canon-zoo",
+      "ok": true,
+      "detail": "11KB - the inspiration zoo"
+    },
+    {
+      "test": "github SuperInstance/casting-call",
+      "ok": true,
+      "detail": "432KB - which model plays which role"
+    },
+    {
+      "test": "github SuperInstance/agent-dna",
+      "ok": true,
+      "detail": "26KB - genetic code for vessels"
+    },
+    {
+      "test": "github SuperInstance/keeper-agent",
+      "ok": true,
+      "detail": "13855KB - secret-keeper proxy"
+    },
+    {
+      "test": "github SuperInstance/swarm-anchor",
+      "ok": true,
+      "detail": "30KB - shared state for swarms"
+    },
+    {
+      "test": "github SuperInstance/canonical-form",
+      "ok": true,
+      "detail": "6KB - deterministic encoding"
+    },
+    {
+      "test": "github SuperInstance/porch",
+      "ok": true,
+      "detail": "6KB - CLI for 3am thoughts"
+    },
+    {
+      "test": "github SuperInstance/river-dream-log",
+      "ok": true,
+      "detail": "8KB - agentic journaling"
+    },
+    {
+      "test": "live-canon /api/canon/hash",
+      "ok": false,
+      "detail": "unreachable: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "test": "live-canon /api/canon",
+      "ok": false,
+      "detail": "unreachable: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "test": "live-canon /api/canon/navigate",
+      "ok": false,
+      "detail": "unreachable: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "test": "live-canon /api/vibe",
+      "ok": false,
+      "detail": "unreachable: HTTP Error 503: Service Unavailable"
+    }
+  ],
+  "ts": 1789454721.5778353
+}
