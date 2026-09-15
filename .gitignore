@@ -2,7 +2,8 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
-*.npz
+*.log
+# Don't commit the npz (large, regenerable); do commit the derived map + heartbeat
+data/full_canon.npz
 .venv/
 venv/
-*.log
