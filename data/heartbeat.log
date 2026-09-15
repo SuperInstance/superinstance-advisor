@@ -1,0 +1,99 @@
+# Heartbeat log — Tue Sep 15 06:39:42 2026
+# Iteration: question → scout → skeptic → integrator → witness → tester
+
+[iter 0] q: What is the substrate of a witness?
+  scout → nearest: canon.paper_85-the-cost-of-the-witness
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=1 root=659ef135567f37bc
+  tester → edge_of_canon
+[iter 1] q: How does a cell know its sibling cells?
+  scout → nearest: 78-the-cell-in-time
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=2 root=7d48100a43c9ef8a
+  tester → edge_of_canon
+[iter 2] q: When two cells disagree, who witnesses the disagreement?
+  scout → nearest: 80-the-cell-in-witness
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=3 root=603241d1e9e9697f
+  tester → edge_of_canon
+[iter 3] q: What does GC cost when the substrate is the witness log?
+  scout → nearest: canon.paper_85-the-cost-of-the-witness
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=4 root=d84b1062196a12d3
+  tester → edge_of_canon
+[iter 4] q: How does the IDE remain portable across 31 languages?
+  scout → nearest: agents-and-ai.THE-TWENTY-LANGUAGES
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=5 root=358da84809335af3
+  tester → edge_of_canon
+[iter 5] q: What is the negative space between two anchors?
+  scout → nearest: canon.essay_108-the-space-between-anchors
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=6 root=e05c8e3b30c80fee
+  tester → edge_of_canon
+[iter 6] q: When the substrate is destroyed, what survives?
+  scout → nearest: 56-the-substrate
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=7 root=64077377dd7c928f
+  tester → edge_of_canon
+[iter 7] q: How does the witness log chain across the substrate boundary?
+  scout → nearest: canon.paper_85-the-cost-of-the-witness
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=8 root=da84d677e46fcf47
+  tester → edge_of_canon
+[iter 8] q: What is the substrate of recursion?
+  scout → nearest: a2a.ornith_wearing_voices
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=9 root=b8d61a9719bb7ddb
+  tester → edge_of_canon
+[iter 9] q: How does a cell measure itself?
+  scout → nearest: 78-the-cell-in-time
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=10 root=c64123ee0c95b12a
+  tester → edge_of_canon
+[iter 10] q: Where does the cell end and the substrate begin?
+  scout → nearest: 56-the-substrate
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=11 root=43aa99c8f51406e7
+  tester → edge_of_canon
+[iter 11] q: What does it mean for a cell to be honest?
+  scout → nearest: 41-the-cells-4-seasons
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=12 root=a4e5127f5a5fa148
+  tester → edge_of_canon
+[iter 12] q: How does the canon preserve its own negative space?
+  scout → nearest: canon.essay_108-the-space-between-anchors
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=13 root=7fa2966d3baa265f
+  tester → edge_of_canon
+[iter 13] q: What is the cost of JEPA's prediction error?
+  scout → nearest: archive.versions.THE-DISTANCE-FROM-QUESTION-TO-ANSWER--QWEN35-CAPITAL
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=14 root=b176561466a62b17
+  tester → edge_of_canon
+[iter 14] q: How does DoubleEntry know when conservation is broken?
+  scout → nearest: agents-and-ai.THE-DIVIDE-BY-ZERO-ROOM
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=15 root=841ab86e48fd236d
+  tester → edge_of_canon
+[iter 15] q: What is the witness of the witness?
+  scout → nearest: 69-the-cell-is-the-witness
+  skeptic → edge_of_canon
+  integrator → 2 sub-cells
+  witness → tick=16 root=9091df6e82868b18
+  tester → edge_of_canon
