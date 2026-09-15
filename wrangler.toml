@@ -1,0 +1,27 @@
+name = "cell-heartbeat-worker"
+main = "heartbeat_worker.js"
+compatibility_date = "2024-09-01"
+
+# Schedule: every 5 minutes
+[triggers]
+crons = ["*/5 * * * *"]
+
+# AI binding for bge-base-en-v1.5 embeddings
+[ai]
+binding = "AI"
+
+# Vectorize for canon lookup (768d)
+[[vectorize]]
+binding = "VECTORIZE"
+index_name = "quilt-canon-v2"
+
+# KV for witness log
+[[kv_namespaces]]
+binding = "CELL_WITNESS_KV"
+id = "REPLACE_WITH_REAL_KV_ID"
+
+[vars]
+CANON_BACKEND = "https://live-canon.superinstance.dev"
+
+# Optional: Hono-style CORS for the /run and /view endpoints
+# (not needed for cron-only mode)
