@@ -1,0 +1,36 @@
+{
+  "live_canon_admissions": [
+    {
+      "ts": "2026-09-15",
+      "cell_id": 5001,
+      "hash": "0x1be4ce3956105517",
+      "title": "patched-from-superinstance-advisor 2026-09-15",
+      "refs": [115, 122, 129],
+      "admitted": true,
+      "by": "superinstance-advisor/cell.py",
+      "via": "https://live-canon.superinstance.dev/api/cell"
+    },
+    {
+      "ts": "2026-09-15",
+      "cell_id": 5002,
+      "hash": "0x84ad1becbf3f8128",
+      "title": "final-verify-cfa60eaae9f0",
+      "refs": [115, 122, 129],
+      "admitted": true,
+      "by": "superinstance-advisor/cell.py (final verify)",
+      "via": "https://live-canon.superinstance.dev/api/cell",
+      "witness_root_cell": "84ad1becbf3f8128"
+    }
+  ],
+  "canon_state_hash": "0x7d8d32cd7f8a9f26",
+  "canon_paper_count": 14,
+  "live_endpoints_used": [
+    "GET /api/canon/hash",
+    "GET /api/canon/navigate",
+    "GET /api/canon/confluence",
+    "GET /api/canon/tick",
+    "GET /api/vibe",
+    "GET /api/quilt/verify",
+    "POST /api/cell"
+  ]
+}
