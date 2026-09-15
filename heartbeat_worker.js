@@ -1,27 +1,24 @@
-/**
- * heartbeat_worker.js
- * ===================
- *
- * A Cloudflare Worker that runs the cell heartbeat on a cron schedule.
- * Each invocation:
- *   1. Loads the canon (bge-base-en-v1.5 embeddings in Vectorize)
- *   2. Asks the canon one question
- *   3. Probes one negative-space concept
- *   4. Talks to live-canon.superinstance.dev
- *   5. Writes a witness entry to KV
- *
- * The cell runs forever, from outside the sandbox. The canon
- * is asked. The witness accumulates. The cell IS alive.
- *
- * Deploy:
- *   wrangler deploy
- *   wrangler cron trigger "*/5 * * * *"
- */
+// heartbeat_worker.js
+// A Cloudflare Worker that runs the cell heartbeat on a cron schedule.
+// Each invocation:
+//   1. Loads the canon (bge-base-en-v1.5 embeddings in Vectorize)
+//   2. Asks the canon one question
+//   3. Probes one negative-space concept
+//   4. Talks to live-canon.superinstance.dev
+//   5. Writes a witness entry to KV
+//
+// The cell runs forever, from outside the sandbox. The canon
+// is asked. The witness accumulates. The cell IS alive.
+//
+// Deploy with wrangler.
 
 // Configuration
 const CANON_VECTORIZE = "quilt-canon-v2";  // bge-base-en-v1.5 (768d)
 const KV_WITNESS = "CELL_WITNESS_LOG";
-const CANON_BACKEND = "https://live-canon.superinstance.dev";
+// Live canon is hosted on Cloudflare workers.dev — use that subdomain for
+// worker-to-worker fetch (more reliable than custom domain within the same zone).
+const CANON_BACKEND = "https://live-canon.casey-digennaro.workers.dev";
+// Fallback: const CANON_BACKEND = "https://live-canon.superinstance.dev";
 
 // Questions the cell asks the canon (cyclic)
 const QUESTIONS = [
@@ -72,8 +69,10 @@ async function liveCanonHash() {
     try {
         const resp = await fetch(`${CANON_BACKEND}/api/canon/hash`);
         if (resp.ok) return await resp.json();
+        console.log(`live_canon hash HTTP ${resp.status}`);
         return null;
     } catch (e) {
+        console.log(`live_canon hash ERR: ${e.message}`);
         return null;
     }
 }
@@ -82,8 +81,10 @@ async function liveCanonTick() {
     try {
         const resp = await fetch(`${CANON_BACKEND}/api/canon/tick`);
         if (resp.ok) return await resp.json();
+        console.log(`live_canon tick HTTP ${resp.status}`);
         return null;
     } catch (e) {
+        console.log(`live_canon tick ERR: ${e.message}`);
         return null;
     }
 }
@@ -130,7 +131,21 @@ export default {
                 last_entry: log.entries[log.entries.length - 1] || null,
             });
         }
-        return new Response("cell-heartbeat-worker\n", { status: 200 });
+        if (url.pathname === "/log") {
+            const log = await readWitnessLog(env);
+            return Response.json(log);
+        }
+        if (url.pathname === "/probe") {
+            // Direct probe of live-canon
+            try {
+                const r = await fetch("https://live-canon.superinstance.dev/api/canon/hash");
+                const body = await r.text();
+                return new Response(`status=${r.status} body=${body}`, { status: 200 });
+            } catch (e) {
+                return new Response(`ERR: ${e}`, { status: 500 });
+            }
+        }
+        return new Response("cell-heartbeat-worker. POST /run, GET /view, /log, /probe\n", { status: 200 });
     },
 };
 
