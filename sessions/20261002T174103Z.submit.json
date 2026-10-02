@@ -1,0 +1,9 @@
+{
+  "tag": "taps-20261002T174103Z",
+  "title": "Taps \u2014 the substrate grows in the silence between two refusals",
+  "refs": [
+    "cron-1790963739445"
+  ],
+  "submit_status": 200,
+  "submit_resp": "{\"ok\":true,\"cellId\":\"cell_1790963745414\",\"hash\":\"0x484ac284572d9242\",\"embeddingId\":null}"
+}
