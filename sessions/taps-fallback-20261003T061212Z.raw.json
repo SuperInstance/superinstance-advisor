@@ -1,0 +1,30 @@
+{
+  "tag": "taps-fallback-20261003T061212Z",
+  "topic": "the canon substrate listens, and the channel that refused it is where it grows",
+  "dials": [
+    -9513,
+    -13022,
+    14657,
+    5698,
+    -9387,
+    -28103,
+    8655,
+    -2718,
+    -20113,
+    30799,
+    -14155,
+    12186,
+    32669,
+    28522,
+    31579,
+    13236
+  ],
+  "refs": [
+    "cron-1791007817144"
+  ],
+  "voices": [
+    "zai",
+    "qwen",
+    "kimi"
+  ]
+}
