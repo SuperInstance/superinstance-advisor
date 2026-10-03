@@ -1,0 +1,29 @@
+{
+  "tag": "taps-fallback-20261003T231525Z",
+  "topic": "the substrate was always already growing",
+  "dials": [
+    -1214,
+    24988,
+    -28190,
+    8973,
+    -3802,
+    -8770,
+    9643,
+    11530,
+    -15470,
+    -13453,
+    10505,
+    18223,
+    20758,
+    -19019,
+    19876,
+    26854
+  ],
+  "refs": [
+    "cron-1791069064970"
+  ],
+  "voice": "hand-written-200w",
+  "method": "user-spec-fallback-75w",
+  "wipe": 75,
+  "stall": 55
+}
