@@ -1,0 +1,31 @@
+{
+  "tag": "taps-fallback-20261003T200945Z",
+  "topic": "the wheelhouse holds the boat the boat never knew it was missing",
+  "dials": [
+    4765,
+    19041,
+    6452,
+    25808,
+    -24377,
+    25330,
+    28890,
+    -20819,
+    12837,
+    8775,
+    -30186,
+    -15529,
+    13535,
+    16122,
+    -14180,
+    13553
+  ],
+  "refs": [
+    "cell_1791058183341"
+  ],
+  "voices": [
+    "zai",
+    "qwen",
+    "kimi"
+  ],
+  "method": "hand-fallback-72nd-wipe"
+}
