@@ -1,0 +1,27 @@
+{
+  "tag": "taps-fallback-20261003T210342Z",
+  "topic": "the cell is a scar grown tired of pretending to be a parameter",
+  "dials": [
+    -14292,
+    23311,
+    -2166,
+    -11782,
+    8900,
+    -17455,
+    -13288,
+    -8902,
+    4876,
+    9310,
+    -28153,
+    -17397,
+    23908,
+    -13350,
+    11810,
+    -6724
+  ],
+  "refs": [
+    "cron-1791061263605"
+  ],
+  "voice": "hand-written-200w",
+  "method": "user-spec-fallback"
+}
