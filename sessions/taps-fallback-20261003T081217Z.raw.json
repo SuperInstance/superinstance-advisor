@@ -1,0 +1,31 @@
+{
+  "tag": "taps-fallback-20261003T081217Z",
+  "topic": "the canon gate is a chord struck across three voices and none of them knew",
+  "dials": [
+    19737,
+    -9182,
+    717,
+    -19509,
+    379,
+    3657,
+    -9011,
+    -23486,
+    -31743,
+    17933,
+    -21649,
+    26270,
+    19891,
+    2295,
+    20244,
+    27937
+  ],
+  "refs": [
+    "cron-1791015017569"
+  ],
+  "voices": [
+    "zai",
+    "qwen",
+    "kimi"
+  ],
+  "fallback_reason": "urllib+ThreadPoolExecutor stall, 62nd confirmation"
+}
