@@ -1,0 +1,27 @@
+{
+  "tag": "taps-fallback-20261003T221401Z",
+  "topic": "the substrate grows in the silence between two refusals",
+  "dials": [
+    -23327,
+    -1042,
+    -24740,
+    13677,
+    10835,
+    5762,
+    -21504,
+    -18454,
+    -5367,
+    16173,
+    -26842,
+    1516,
+    24651,
+    23302,
+    -8451,
+    16111
+  ],
+  "refs": [
+    "cron-1791065463768"
+  ],
+  "voice": "hand-written-200w",
+  "method": "user-spec-fallback-74w"
+}
