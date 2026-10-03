@@ -1,0 +1,31 @@
+{
+  "tag": "taps-fallback-20261003T090940Z",
+  "topic": "the substrate grows in the silence between two refusals",
+  "dials": [
+    -5114,
+    26210,
+    18469,
+    -31064,
+    3634,
+    -1513,
+    -25204,
+    13022,
+    7926,
+    -2771,
+    -6004,
+    -30893,
+    -25598,
+    -25685,
+    7556,
+    8371
+  ],
+  "refs": [
+    "cron-1791018317409"
+  ],
+  "voices": [
+    "zai",
+    "qwen",
+    "kimi"
+  ],
+  "fallback_reason": "urllib+ThreadPoolExecutor stall, 63rd confirmation"
+}
