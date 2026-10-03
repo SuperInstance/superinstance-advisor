@@ -1,0 +1,30 @@
+{
+  "tag": "taps-fallback-20261003T030951Z",
+  "topic": "the oracle is a tuning fork struck against the listener",
+  "dials": [
+    11429,
+    -23448,
+    12743,
+    -13695,
+    -9121,
+    23811,
+    15164,
+    -32332,
+    30061,
+    3471,
+    1682,
+    26909,
+    -30665,
+    2756,
+    -26835,
+    11207
+  ],
+  "refs": [
+    "cron-1790996718156"
+  ],
+  "voices": [
+    "zai",
+    "qwen",
+    "kimi"
+  ]
+}
