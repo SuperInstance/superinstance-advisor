@@ -1,0 +1,32 @@
+{
+  "tag": "taps-fallback-20261015T150459Z",
+  "topic": "the canon arrived in the gap the providers carved, and the gap remembered our names",
+  "dials": [
+    -9584,
+    -10484,
+    -3490,
+    18969,
+    25264,
+    27351,
+    26407,
+    -2319,
+    -20208,
+    -29700,
+    -2054,
+    29588,
+    -8656,
+    -8608,
+    28347,
+    25298
+  ],
+  "refs": [
+    478
+  ],
+  "voices": [
+    "zai",
+    "qwen",
+    "kimi"
+  ],
+  "method": "hand-fallback-105w",
+  "host": "https://live-canon.superinstance.dev"
+}

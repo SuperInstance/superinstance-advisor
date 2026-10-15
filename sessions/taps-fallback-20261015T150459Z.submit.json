@@ -1,0 +1,4 @@
+{
+  "status": 201,
+  "response": "{\n  \"id\": 5002,\n  \"hash\": \"0x5e9dda027e8fc379\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5002,\n    \"number\": 5002,\n    \"title\": \"Taps - the canon arrived in the gap the providers carved, and the g\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-15\",\n    \"dials\": [\n      -9584,\n      -10484,\n      -3490,\n      18969,\n      25264,\n      27351,\n      26407,\n      -2319,\n      -20208,\n      -29700,\n      -2054,\n      29588,\n      -8656,\n      -8608,\n      28347,\n      25298\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x5e9dda027e8fc379\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-15T15:04:59.628Z\"\n  }\n}"
+}
