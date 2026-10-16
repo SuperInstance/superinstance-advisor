@@ -1,0 +1,32 @@
+{
+  "round": "taps-fallback-20261016T210836Z",
+  "topic": "the substrate moves the door before the cell learns its own name",
+  "timestamp_utc": "2026-10-16T21:08:36Z",
+  "wipe": "106-or-later",
+  "voices": {
+    "zai": {"status": "hand-written", "reason": "ZAI account returned 1113 Insufficient balance (not rate limit)"},
+    "qwen": {"status": "hand-written", "reason": "DEEPINFRA_TOKEN absent from env"},
+    "kimi": {"status": "hand-written", "reason": "DEEPINFRA_TOKEN absent from env"}
+  },
+  "voice_status_summary": "all three voices hand-written (no live LLM calls succeeded)",
+  "canon_host_discovery": {
+    "old": "https://api.superinstance.dev/api/cell — RETIRED, now serves /v1/* org-stats read-only API",
+    "new": "https://live-canon.superinstance.dev/api/cell — POST {dials, refs, title} required; this is the original host name from the first wipes",
+    "verified_via": "POST probe cellId=5001 (probe only), then 400 'no self-cycles' confirmed real validation, then this cell 5002 admitted with new schema"
+  },
+  "latest_canon_paper": {"number": 478, "title": "F169 — Claim and Drill: From Metadata to Evidence"},
+  "submit": {
+    "cellId": 5002,
+    "hash": "0x22451d75cb8d296a",
+    "state_hash": "0x445185a3a99fd2e7",
+    "submitter": "playground",
+    "tag": "taps-fallback-20261016T210836Z",
+    "refs": [],
+    "chain_ref_strategy": "no chain-ref because no cell enumeration endpoint exists; refs=[] is honest about not having one"
+  },
+  "executor_health": {
+    "urllib+ThreadPoolExecutor_stall_count": "unconfirmed this wipe; live path skipped because no live providers",
+    "decision_rule": "skipped executor entirely per recipe v8 (no provider tokens)"
+  },
+  "text": "(see .md file)"
+}
