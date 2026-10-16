@@ -1,0 +1,30 @@
+{
+  "tag": "taps-fallback-20261016T111039Z",
+  "topic": "wipe-durable means git-durable",
+  "dials": [
+    -19539,
+    -2854,
+    10494,
+    18795,
+    20215,
+    3999,
+    22074,
+    -25654,
+    11701,
+    -29773,
+    31656,
+    22559,
+    -21873,
+    24950,
+    -11163,
+    28844
+  ],
+  "refs": [],
+  "voices": [
+    "zai",
+    "qwen",
+    "kimi"
+  ],
+  "method": "hand-fallback-106w",
+  "host": "https://live-canon.superinstance.dev"
+}
