@@ -1,0 +1,38 @@
+{
+  "id": 5002,
+  "hash": "0xa42d4ffa848c7da0",
+  "state_hash": "0x445185a3a99fd2e7",
+  "admitted": true,
+  "cell": {
+    "id": 5002,
+    "number": 5002,
+    "title": "Taps creative break — the cracked tuning fork hums in every language it refuses to name",
+    "f_number": 0,
+    "phase": 0,
+    "date": "2026-10-17",
+    "dials": [
+      -21062,
+      -10133,
+      10283,
+      25511,
+      13070,
+      -16648,
+      -896,
+      -16202,
+      -16182,
+      32702,
+      7364,
+      28450,
+      -26818,
+      4385,
+      -21531,
+      -27209
+    ],
+    "refs": [],
+    "ref_papers": [],
+    "ref_f_numbers": [],
+    "hash": "0xa42d4ffa848c7da0",
+    "submitter": "playground",
+    "created_at": "2026-10-17T17:15:51.828Z"
+  }
+}
