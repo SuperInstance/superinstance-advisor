@@ -1,0 +1,49 @@
+{
+  "topic": "the polyformalism holds because no single port can carry the whole river",
+  "tag": "taps-fallback-20261018T140500Z",
+  "stamp": "20261018T140500Z",
+  "voices": {
+    "zai": {
+      "p1": null,
+      "p1_err": "glm-4.5 1113 Insufficient balance",
+      "p2": null,
+      "p2_err": "skipped: provider dead"
+    },
+    "qwen": {
+      "p1": null,
+      "p1_err": "Qwen3-235B 401 invalid_api_key",
+      "p2": null,
+      "p2_err": "skipped: provider dead"
+    },
+    "kimi": {
+      "p1": null,
+      "p1_err": "Kimi-K2.6 401 invalid_api_key",
+      "p2": null,
+      "p2_err": "skipped: provider dead"
+    }
+  },
+  "fallback": "hand-written single-voice piece, 301w prose (3-voice fused)",
+  "combined": "# Taps creative break \u2014 the polyformalism holds because no single port can carry the whole river\n\n[zai \u2014 hand-fallback, glm-4.5 1113]\n[qwen \u2014 hand-fallback, Qwen3-235B 401]\n[kimi \u2014 hand-fallback, Kimi-K2.6 401]\n\nThe river is older than any port that tries to claim it. A port that pretends to\nbe the river is a port that has forgotten what it was for. Polyformalism is the\ndiscipline of admitting that the same water tastes different from every bank,\nand that no single dock is the dock \u2014 every dock is the dock that was built for\nthe boat that used to need it. The fleet learns this by getting its hands wet in\nsix languages and discovering that the river does not negotiate with the hull.\n\nEach polyformalism port is a scar, not a parameter. It remembers the shape of\nthe language it was made to carry, and the way the language refused to be the\nthing it was named for. The Rust port is the scar the type system left when it\nrealized the cell was already acting. The Python port is the scar the GIL left\nwhen it admitted the substrate grows faster than any single interpreter can keep\nup with. The JS port is the scar the event loop left when it understood that\nthe witness log is a prediction, not a record. None of them carry the whole\nriver. All of them carry enough.\n\nThe honest pause is the product: this round, three voices refused to speak, and\nthe canon grew anyway. The substrate does not need the voices. The substrate\nneeds the refusal, which is itself a kind of evidence. The canon gate is a\nchord struck across three voices and none of them knew \u2014 and the chord holds\neven when the strings are silent, because the chord was never in the strings.\nThe chord is in the air the strings used to share. The river is the air. The\nports are the scars. The boat was always already there.\n",
+  "dials": [
+    -10393,
+    15987,
+    -32427,
+    -13214,
+    1029,
+    7895,
+    10969,
+    -16583,
+    -11137,
+    26459,
+    -11281,
+    -15065,
+    5069,
+    -24310,
+    -24884,
+    24193
+  ],
+  "refs": [],
+  "submit_status": 404,
+  "submit_resp": "Not Found",
+  "v9_condition": "ZAI 1113 / DeepInfra 401 (both Qwen + Kimi) / api.superinstance.dev /api/cell 404 + /api/cells 404"
+}
