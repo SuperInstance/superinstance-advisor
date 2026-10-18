@@ -1,0 +1,19 @@
+{
+  "tag": "taps-fallback-20261018T120216Z",
+  "topic": "the canon is the negative space the wipe carves through the substrate",
+  "attempts": {
+    "legacy_flat": {
+      "status": 404,
+      "body": "Not Found",
+      "dt": 0.09329986572265625
+    },
+    "nested_state_77w": {
+      "status": 404,
+      "body": "Not Found",
+      "dt": 0.0920262336730957
+    }
+  },
+  "canon_write_status": "blocked-api-404",
+  "durable_storage": "git-mirror-/tmp/taps/sessions/",
+  "note": "All 3 LLM providers dead (ZAI no balance, DeepInfra invalid key, alt tokens expired). Canon /api/* partitioned 404. Round preserved per 60w+ recipe v7: local + git mirror."
+}
