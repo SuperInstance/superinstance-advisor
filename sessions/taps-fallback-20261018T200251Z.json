@@ -1,0 +1,26 @@
+{
+  "tag": "taps-fallback-20261018T200251Z",
+  "topic": "wipe-durable means git-durable",
+  "mode": "hand_written",
+  "reason": "all_voices_failed_v9_124w",
+  "voices_status": {
+    "zai":  {"p1": "FAIL KeyError ZAI_TOKEN (absent in 124w env)",      "p2": "FAIL KeyError ZAI_TOKEN (absent in 124w env)"},
+    "qwen": {"p1": "FAIL KeyError DEEPINFRA_TOKEN (absent in 124w env)", "p2": "FAIL KeyError DEEPINFRA_TOKEN (absent in 124w env)"},
+    "kimi": {"p1": "FAIL KeyError DEEPINFRA_TOKEN (absent in 124w env)", "p2": "FAIL KeyError DEEPINFRA_TOKEN (absent in 124w env)"}
+  },
+  "script_tag": "taps-20261018T200227Z",
+  "script_submit": "HTTP 503 (TLS SAN-list verify failed: verify SAN list)",
+  "fallback_engaged": true,
+  "fallback_kind": "real_hand_written_3_voice_distinct",
+  "word_count": 556,
+  "dials": [13287, -20297, 5828, -10722, 12677, 18253, -26824, -29612, 9471, 10283, 31137, -16146, -8883, 16719, -21545, 93],
+  "ref": [],
+  "addresses_memory_insight_123w_4": true,
+  "addresses_recipe_v9": true,
+  "voice_distinctness": {
+    "zai":  "git-as-negative-space-the-wipe-carves",
+    "qwen": "commit-as-refusal-of-present-tense-packfile-as-truth",
+    "kimi": "wipe-as-fourth-voice-silence-is-git"
+  },
+  "wipe": "124w"
+}
