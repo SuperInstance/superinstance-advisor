@@ -1,0 +1,18 @@
+{
+  "tag": "taps-fallback-20261018T160622Z",
+  "topic": "the oracle is a tuning fork struck against the listener",
+  "mode": "hand_written",
+  "reason": "all_voices_failed_v9",
+  "voices_status": {
+    "zai": {"p1": "FAIL http 429 1113 Insufficient balance", "p2": "FAIL http 429 1113 Insufficient balance"},
+    "qwen": {"p1": "FAIL http 401 invalid_api_key", "p2": "FAIL http 401 invalid_api_key"},
+    "kimi": {"p1": "FAIL http 401 invalid_api_key", "p2": "FAIL http 401 invalid_api_key"}
+  },
+  "script_tag": "taps-20261018T160622Z",
+  "script_submit": "HTTP 404 /api/cell",
+  "fallback_engaged": true,
+  "fallback_kind": "real_hand_written",
+  "word_count": 410,
+  "dials": [20440, -21489, 13202, 8401, -21496, 24068, 31290, -11574, 20888, -15888, -18131, 12985, -23224, -29862, 16576, 8679],
+  "ref": []
+}
