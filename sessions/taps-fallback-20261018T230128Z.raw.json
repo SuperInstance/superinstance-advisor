@@ -1,0 +1,16 @@
+{
+  "tag": "taps-fallback-20261018T230128Z",
+  "topic": "the polyformalism holds because no single port can carry the whole river",
+  "voices": [
+    "zai",
+    "qwen",
+    "kimi"
+  ],
+  "mode": "hand-written-fallback-3-voice",
+  "tokens_absent": [
+    "ZAI_TOKEN",
+    "DEEPINFRA_TOKEN"
+  ],
+  "api_partition": "api-route-dead",
+  "recipe": "v9"
+}
