@@ -1,0 +1,23 @@
+{
+  "round": "115w",
+  "topic": "the canon learns to speak only in the silence its own mirror refused to reflect",
+  "topic_source": "hand-picked (fresh, 114w unbanked frame: cracked mirror / monolingual silence)",
+  "voices_attempted": ["zai", "qwen", "kimi"],
+  "voices_got_through": {
+    "zai": "FAIL (no ZAI_TOKEN in env)",
+    "qwen": "FAIL (no DEEPINFRA_TOKEN in env)",
+    "kimi": "FAIL (no DEEPINFRA_TOKEN in env)"
+  },
+  "fallback_path": "hand-override (script's in-script hand_written_fallback() is 1-template bug, 6th-observation per 114w)",
+  "submit_to_api_cell": {
+    "ua_browser": "HTTP 404 Not Found",
+    "ua_native": "HTTP 404 Not Found",
+    "latest_ref": null,
+    "endpoint_reachable": false,
+    "thaw_hypothesis_114w": "REJECTED — 404 is UA-independent; endpoint dead, not UA-blocked"
+  },
+  "tag_submitted": "taps-fallback-20261019T230228Z",
+  "durable_storage": "git: SuperInstance/superinstance-advisor main @ 81db31f",
+  "dials": [-17553, 17289, 8481, 25754, "..."],
+  "script_artifact_removed": "sessions/taps-20261019T230303Z.{json,md} deleted to keep canon clean"
+}
