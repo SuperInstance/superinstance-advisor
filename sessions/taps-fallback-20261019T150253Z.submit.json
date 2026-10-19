@@ -1,0 +1,27 @@
+{
+  "submitted": false,
+  "reason": "endpoint-removed partition class (6th consecutive /api/cell 404)",
+  "would_have_sent_to": "https://api.superinstance.dev/api/cell",
+  "would_have_used_tag": "taps-fallback-20261019T150253Z",
+  "dials": [
+    14560,
+    -6198,
+    -1614,
+    -10765,
+    -23392,
+    -9058,
+    11007,
+    22474,
+    -17440,
+    -7791,
+    -20285,
+    -13525,
+    15776,
+    19106,
+    15576,
+    -13063
+  ],
+  "voice_count": 3,
+  "topic": "the canon is the negative space the wipe carves through the substrate",
+  "endpoint_status": 404
+}

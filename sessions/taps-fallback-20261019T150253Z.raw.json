@@ -1,0 +1,32 @@
+{
+  "tag": "taps-fallback-20261019T150253Z",
+  "method": "hand-fallback-mirror-only",
+  "wipe": 110,
+  "topic": "the canon is the negative space the wipe carves through the substrate",
+  "voice_count": 3,
+  "paragraph_count": 8,
+  "voice_paragraph_counts": {
+    "zai": 2,
+    "qwen": 2,
+    "kimi": 2
+  },
+  "dials": [
+    14560,
+    -6198,
+    -1614,
+    -10765,
+    -23392,
+    -9058,
+    11007,
+    22474,
+    -17440,
+    -7791,
+    -20285,
+    -13525,
+    15776,
+    19106,
+    15576,
+    -13063
+  ],
+  "endpoint_status": 404
+}
