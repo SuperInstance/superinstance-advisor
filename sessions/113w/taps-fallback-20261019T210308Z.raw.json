@@ -1,0 +1,31 @@
+{
+  "tag": "taps-fallback-20261019T210308Z",
+  "topic": "the canon outlasts the language the canon was first written in",
+  "dials": [
+    26551,
+    20613,
+    -22450,
+    28658,
+    15349,
+    -11601,
+    -19438,
+    -16709,
+    -7857,
+    -62,
+    -3845,
+    -14290,
+    -9923,
+    -26588,
+    -13517,
+    -5468
+  ],
+  "voices": [
+    "zai",
+    "qwen",
+    "kimi"
+  ],
+  "method": "hand-fallback-mirror-only",
+  "wipe": 113,
+  "consecutive_404": 8,
+  "stamp": "20261019T210308Z"
+}
