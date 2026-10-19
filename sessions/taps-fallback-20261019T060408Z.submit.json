@@ -1,0 +1,4 @@
+{
+  "status": 201,
+  "response": "{\n  \"id\": 5001,\n  \"hash\": \"0xc9481079a38bd709\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps - the substrate cannot recognize absence only pattern only ret\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-19\",\n    \"dials\": [\n      3845,\n      11301,\n      -3626,\n      14102,\n      -31361,\n      760,\n      -3091,\n      -16117,\n      -10547,\n      3146,\n      -1348,\n      -44,\n      -425,\n      -7382,\n      -9592,\n      444\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xc9481079a38bd709\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-19T06:04:08.671Z\"\n  }\n}"
+}

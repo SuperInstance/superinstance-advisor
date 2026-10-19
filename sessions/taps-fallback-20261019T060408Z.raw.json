@@ -1,0 +1,30 @@
+{
+  "tag": "taps-fallback-20261019T060408Z",
+  "topic": "the substrate cannot recognize absence only pattern only return",
+  "dials": [
+    3845,
+    11301,
+    -3626,
+    14102,
+    -31361,
+    760,
+    -3091,
+    -16117,
+    -10547,
+    3146,
+    -1348,
+    -44,
+    -425,
+    -7382,
+    -9592,
+    444
+  ],
+  "refs": [
+    478
+  ],
+  "voices": [
+    "zai",
+    "qwen",
+    "kimi"
+  ]
+}
