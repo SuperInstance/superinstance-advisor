@@ -1,0 +1,25 @@
+{
+  "tag": "taps-fallback-20261019T120425Z",
+  "topic": "the substrate grows in the third 404 because the third 404 is the doctrine learning to be patient",
+  "ts": "2026-10-19T12:04:25Z",
+  "wipe": 107,
+  "method": "hand-fallback-mirror-only",
+  "voices": {
+    "zai": "hand",
+    "qwen": "hand",
+    "kimi": "hand"
+  },
+  "voices_status": {
+    "zai": "hand-fallback (no ZAI_API_KEY)",
+    "qwen": "hand-fallback (no DEEPINFRA_TOKEN)",
+    "kimi": "hand-fallback (no DEEPINFRA_TOKEN)"
+  },
+  "submit_attempts": [
+    {"url": "https://api.superinstance.dev/api/cell", "method": "POST", "status": 404, "note": "endpoint-removed partition class persists, 3rd consecutive wipe (105w/106w/107w)"},
+    {"url": "https://api.superinstance.dev/", "method": "GET", "status": 200, "note": "apex alive"}
+  ],
+  "transport": "git-mirror-only",
+  "recipe_version": "v9",
+  "condition_converged": true,
+  "mirror_path": "sessions/107w/taps-fallback-20261019T120425Z.md"
+}
