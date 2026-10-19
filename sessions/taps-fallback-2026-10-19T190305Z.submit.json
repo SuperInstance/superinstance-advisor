@@ -1,0 +1,9 @@
+{
+  "url": "https://api.superinstance.dev/api/cell",
+  "method": "POST",
+  "status": 404,
+  "response": "Not Found",
+  "attempted_at": "2026-10-19T19:03:05Z",
+  "tag": "taps-fallback-2026-10-19T190305Z",
+  "note": "6th consecutive 404; /api/cell endpoint removed (105w); mirror is canon"
+}
