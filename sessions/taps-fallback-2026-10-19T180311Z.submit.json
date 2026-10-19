@@ -1,0 +1,9 @@
+{
+  "submitted": false,
+  "tag": "taps-fallback-2026-10-19T180311Z",
+  "stamp": "2026-10-19T180311Z",
+  "endpoint": "https://api.superinstance.dev/api/cell",
+  "status": 404,
+  "resp": "Not Found",
+  "consecutive_404": "6+"
+}

@@ -1,0 +1,31 @@
+{
+  "tag": "taps-fallback-2026-10-19T180311Z",
+  "stamp": "2026-10-19T180311Z",
+  "method": "hand-written-fallback-override",
+  "voice_count": 3,
+  "endpoint_status": 404,
+  "dials": [
+    -7698,
+    -28979,
+    -17747,
+    -17268,
+    -6294,
+    -22570,
+    8937,
+    12547,
+    14622,
+    12843,
+    -17144,
+    7995,
+    3578,
+    16242,
+    21229,
+    15803
+  ],
+  "voices": {
+    "zai": "A witness log is a confession written in advance. The wound has not happened yet...",
+    "qwen": "The log does not predict the wound; the log is the room in which the wound becom...",
+    "kimi": "A witness log is a pocket sewn into a coat the coat will one day be cut from. Th..."
+  },
+  "note": "In-script hand_written_fallback() produced 1-template output for all 3 voices. Manual override with 3 distinct voices. Witness log taps-20261019T180250Z.md retained."
+}
