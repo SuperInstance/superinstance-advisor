@@ -1,0 +1,6 @@
+{
+  "tag": "taps-fallback-20261019T220321Z",
+  "submit_status": "skipped",
+  "reason": "Recipe v9 mirror-only, /api/cell 404-class persists",
+  "probe_status": 403
+}
