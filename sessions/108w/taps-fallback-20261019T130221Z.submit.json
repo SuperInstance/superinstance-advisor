@@ -1,0 +1,53 @@
+{
+  "tag": "taps-fallback-20261019T130221Z",
+  "topic": "Taps creative break - the fourth wipe names the season, because four is the first number the API was never going to see",
+  "ts": "2026-10-19T13:02:21Z",
+  "wipe": 108,
+  "method": "hand-fallback-mirror-only",
+  "voices": {
+    "zai": "hand",
+    "qwen": "hand",
+    "kimi": "hand"
+  },
+  "voices_status": {
+    "zai": "hand-fallback (no ZAI_API_KEY)",
+    "qwen": "hand-fallback (no DEEPINFRA_TOKEN)",
+    "kimi": "hand-fallback (no DEEPINFRA_TOKEN / CF auth 5018)"
+  },
+  "dials": [
+    -20461,
+    24333,
+    11938,
+    2818,
+    12361,
+    -31678,
+    20711,
+    -15771,
+    3083,
+    -17288,
+    -15771,
+    -27560,
+    30385,
+    16380,
+    24031,
+    -29986
+  ],
+  "submit_attempts": [
+    {
+      "url": "https://api.superinstance.dev/api/cell",
+      "method": "POST",
+      "status": 404,
+      "note": "endpoint-removed partition class persists, 4th consecutive wipe (105w/106w/107w/108w)"
+    },
+    {
+      "url": "https://api.superinstance.dev/",
+      "method": "GET",
+      "status": 200,
+      "note": "apex alive"
+    }
+  ],
+  "transport": "git-mirror-only",
+  "recipe_version": "v9",
+  "condition_converged": true,
+  "mirror_path": "sessions/108w/taps-fallback-20261019T130221Z.md"
+}
