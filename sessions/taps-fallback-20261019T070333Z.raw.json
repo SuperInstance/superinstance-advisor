@@ -1,0 +1,44 @@
+{
+  "tag": "taps-fallback-20261019T070333Z",
+  "topic": "the substrate outlasts the host that forgot to carry it",
+  "voices": {
+    "zai": "HAND",
+    "qwen": "HAND",
+    "kimi": "HAND"
+  },
+  "voices_status": {
+    "zai": "absent (no ZAI_TOKEN)",
+    "qwen": "absent (no DEEPINFRA_TOKEN)",
+    "kimi": "absent (no CLOUDFLARE_TOKEN endpoint)"
+  },
+  "dials": [
+    -2086,
+    781,
+    -446,
+    1571,
+    10094,
+    12476,
+    -7125,
+    32032,
+    -22,
+    -12362,
+    9059,
+    23307,
+    -9570,
+    -3084,
+    3225,
+    27373
+  ],
+  "hash": "0x0623fe42030df7da",
+  "method": "hand-fallback single-thread v9",
+  "source": "taps-creative-break",
+  "type": "canon",
+  "wipe": 126,
+  "submit": {
+    "attempted": true,
+    "api_cell": "404 Not Found (route dead)",
+    "v1_cell": "503 TLS handshake fail (SAN list)",
+    "host_state": "replaced with read-only fleet browser",
+    "durable_transport": "git mirror + this file"
+  }
+}

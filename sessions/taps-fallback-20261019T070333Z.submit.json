@@ -1,0 +1,12 @@
+{
+  "attempted": true,
+  "endpoint_attempts": [
+    {"url": "https://api.superinstance.dev/api/cell", "method": "POST", "status": 404, "body": "Not Found"},
+    {"url": "https://api.superinstance.dev/v1/cell", "method": "POST", "status": 503, "body": "upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: TLS_error:OPENSSL_internal:CERTIFICATE_VERIFY_FAILED:verify cert failed: verify SAN list"},
+    {"url": "https://api.superinstance.dev/api/cells", "method": "GET", "status": 404, "body": "Not Found"},
+    {"url": "https://api.superinstance.dev/", "method": "GET", "status": 200, "body": "<html>...SuperInstance API org browser, 6 read-only endpoints</html>"}
+  ],
+  "host_partition_class": "api-route-dead (recipe v9)",
+  "durable_transport": "git mirror @ SuperInstance/superinstance-advisor",
+  "reason": "canon host replaced with read-only fleet browser; old /api/cell and /api/cells routes retired"
+}
