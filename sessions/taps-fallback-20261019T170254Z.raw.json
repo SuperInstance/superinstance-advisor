@@ -1,0 +1,10 @@
+{
+  "method": "wipe-111",
+  "voice_count": 3,
+  "endpoint_status": 404,
+  "consecutive_404_wipes": 7,
+  "fallback_kind": "hand-override",
+  "broken_in_script_fallback": true,
+  "topic": "the substrate was always already growing",
+  "tag": "taps-fallback-20261019T170254Z"
+}
