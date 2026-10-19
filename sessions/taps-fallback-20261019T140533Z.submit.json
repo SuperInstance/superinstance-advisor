@@ -1,0 +1,29 @@
+{
+  "submitted": false,
+  "reason": "endpoint-removed partition class (5th consecutive /api/cell 404)",
+  "would_have_sent_to": "https://api.superinstance.dev/api/cell",
+  "would_have_used_tag": "taps-fallback-20261019T140533Z",
+  "dials": [
+    3255,
+    -18755,
+    -32621,
+    12816,
+    -25867,
+    -31940,
+    12799,
+    -12521,
+    20047,
+    -5,
+    -5589,
+    8452,
+    4157,
+    -2042,
+    14275,
+    5800
+  ],
+  "refs": [],
+  "title": "Taps \u2014 the substrate grows in the silence between two refusals",
+  "topic": "the substrate grows in the silence between two refusals",
+  "text_chars": 5708,
+  "method": "hand-fallback-mirror-only"
+}
