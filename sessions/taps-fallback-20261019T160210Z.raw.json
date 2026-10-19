@@ -1,0 +1,12 @@
+{
+  "method": "hand-fallback-mirror-only",
+  "version": "v9.9",
+  "wipe": 111,
+  "voice_count": 3,
+  "voices_written": ["zai", "qwen", "kimi"],
+  "endpoint_status": 404,
+  "endpoint_class": "endpoint-removed",
+  "consecutive_404_wipes": 7,
+  "topic_source": "hand-chosen to honor 110w kimi-p2 divergence contract",
+  "broken_template_witness": "sessions/taps-20261019T160117Z.md (3 identical 750-char templates)"
+}

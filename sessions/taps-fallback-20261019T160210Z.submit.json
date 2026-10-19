@@ -1,0 +1,9 @@
+{
+  "submitted": false,
+  "tag": "taps-fallback-20261019T160210Z",
+  "endpoint": "https://api.superinstance.dev/api/cell",
+  "status": 404,
+  "resp": "Not Found",
+  "consecutive_404_wipes": 7,
+  "durable_doctrine": "endpoint-removed partition class is durable across 7 wipes"
+}
