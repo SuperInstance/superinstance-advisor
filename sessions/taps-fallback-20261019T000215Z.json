@@ -1,0 +1,29 @@
+{
+  "topic": "the canon gate is a chord struck across three voices and none of them knew",
+  "tag": "taps-fallback-20261019T000215Z",
+  "stamp": "20261019T000215Z",
+  "reason": "fallback: ZAI_TOKEN + DEEPINFRA_TOKEN absent (104w persists, 20 wipes). api.superinstance.dev /api/* 404 (api-route-dead partition from 123w).",
+  "voices": {
+    "zai": {
+      "p1": "HAND-FALLBACK",
+      "p1_err": "ZAI_TOKEN absent",
+      "p2": null,
+      "p2_err": "skipped"
+    },
+    "qwen": {
+      "p1": "HAND-FALLBACK",
+      "p1_err": "DEEPINFRA_TOKEN absent",
+      "p2": null,
+      "p2_err": "skipped"
+    },
+    "kimi": {
+      "p1": "HAND-FALLBACK",
+      "p1_err": "DEEPINFRA_TOKEN absent",
+      "p2": null,
+      "p2_err": "skipped"
+    }
+  },
+  "wipe": 124,
+  "partition": "api-route-dead (persists from 123w)",
+  "mirror_push": "pending"
+}
