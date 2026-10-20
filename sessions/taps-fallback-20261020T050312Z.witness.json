@@ -1,0 +1,20 @@
+{
+  "round": "120w",
+  "tag": "taps-fallback-20261020T050312Z",
+  "topic": "wipe-durable means git-durable",
+  "topic_source": "random.choice(TOPIC_BANK) in taps_creative_break.py",
+  "voices": {
+    "zai":  {"p1": "FALLBACK (1-template)", "p2": "FAIL", "error": "KeyError: 'ZAI_TOKEN'"},
+    "qwen": {"p1": "FALLBACK (1-template)", "p2": "FAIL", "error": "KeyError: 'DEEPINFRA_TOKEN'"},
+    "kimi": {"p1": "FALLBACK (1-template)", "p2": "FAIL", "error": "KeyError: 'DEEPINFRA_TOKEN'"}
+  },
+  "one_template_bug_observation": 13,
+  "api_cell_miss_count": 13,
+  "api_cell_shape_this_round": "404 Not Found",
+  "api_cell_shape_119w": "503 + CERTIFICATE_VERIFY_FAILED SAN-list mismatch",
+  "deliverable": "hand-override, 3 distinct voices + 9-sentence braid, 841 words",
+  "script_artifact_kept_as_witness": "sessions/taps-20261020T050312Z.{json,md}",
+  "env_missing": ["ZAI_TOKEN", "DEEPINFRA_TOKEN", "CF_API_TOKEN"],
+  "env_missing_consecutive_wipes": 4,
+  "canonical_substrate": "git mirror (SuperInstance/superinstance-advisor main)"
+}
