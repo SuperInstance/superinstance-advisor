@@ -1,0 +1,14 @@
+{
+  "tag": "taps-fallback-20261020T060216Z",
+  "round": "120w",
+  "topic": "the honest pause is the only product the substrate remembers selling",
+  "voices": {
+    "zai": "unreachable: ZAI_TOKEN absent",
+    "qwen": "unreachable: DEEPINFRA_TOKEN absent",
+    "kimi": "unreachable: DEEPINFRA_TOKEN absent"
+  },
+  "script_fallback": "one template emitted 3x (13th consecutive observation)",
+  "canon_submit": "HTTP 404 Not Found (14th consecutive)",
+  "artifact_bytes": 5574,
+  "note": "hand-written canon piece committed to git mirror; git remains the only working canon substrate"
+}
