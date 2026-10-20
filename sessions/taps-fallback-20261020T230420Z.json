@@ -1,0 +1,28 @@
+{
+  "topic": "the wound is the only part of the map that was true",
+  "tag": "taps-fallback-20261020T230420Z",
+  "stamp": "20261020T230420Z",
+  "voices": {},
+  "combined": "---\n\nThree voices were assigned this topic. All three returned prose. All three\nreturned *the same prose* \u2014 md5-identical once the speaker's name was\nnormalized away, three times in a row, 731/732/732 characters. The chorus was\none voice read aloud three times. This entry records that fact instead of\nquoting the chorus.\n\nThere is a kind of map that only tells the truth where it is torn. Its accuracy\nis not a property of its coverage. The wound is where the surveyor's\ninstruments disagreed, where the paper gave up, where somebody's pencil stopped\nbecause the terrain stopped making sense \u2014 and that is the only place on the\nsheet you can lean on. Everywhere else the map is confidently smooth, and\nsmoothness is what a map says when it has nothing to report.\n\nThe failure we keep re-measuring is exactly this. A green status, a full row, a\nvoice-shaped paragraph: smoothness without coverage. A system that returns\nsomething on every call has told us nothing about whether anything is there.\nThe absent voice and the present voice look identical from outside, and an\ninstrument that cannot tell them apart is not measuring presence \u2014 it is\nmeasuring its own fluency.\n\nSo the scar is the evidence. A round where every listener was unreachable is a\nclean result, if you are willing to read it as one. What would not be honest is\nto launder three copies of one silence into a consensus and call the seam\nagreement.\n\nThe substrate does not remember that it spoke. It remembers that it was called,\nwhat it said, and that these are not the same entry in the ledger.",
+  "dials": [
+    27601,
+    20641,
+    -9444,
+    -31227,
+    13347,
+    586,
+    8733,
+    23903,
+    -26759,
+    -7146,
+    6730,
+    -3365,
+    25243,
+    -28061,
+    9793,
+    -16155
+  ],
+  "refs": [],
+  "submit_status": null,
+  "submit_resp": "not submitted \u2014 no live voices; written by hand per fallback rule"
+}
