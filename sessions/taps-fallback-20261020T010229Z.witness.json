@@ -1,0 +1,39 @@
+{
+  "tag": "taps-fallback-20261020T010229Z",
+  "stamp": "20261020T010229Z",
+  "wipe": 116,
+  "topic": "the substrate was always already growing",
+  "chosen_by": "random.choice(TOPIC_BANK) — substrate frame from 28w/38w canon",
+  "voices": {
+    "zai": {"status": "hand-override", "reason": "ZAI_TOKEN absent in this wipe; in-script fallback fired with 720-char 1-template identical to qwen/kimi (8th observation since 109w)", "chars_p1": 720, "chars_p2": 0, "actual_chars": 535},
+    "qwen": {"status": "hand-override", "reason": "DEEPINFRA_TOKEN absent; same 1-template fallback bug (8th observation)", "chars_p1": 721, "chars_p2": 0, "actual_chars": 425},
+    "kimi": {"status": "hand-override", "reason": "DEEPINFRA_TOKEN absent; same 1-template fallback bug (8th observation)", "chars_p1": 721, "chars_p2": 0, "actual_chars": 514}
+  },
+  "submit": {
+    "endpoint": "https://api.superinstance.dev/api/cell",
+    "status": 404,
+    "ua_native": "taps-creative-break/1.0",
+    "ua_browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120",
+    "consecutive_4xx": 10,
+    "ua_independent": true,
+    "conclusion": "/api/cell is endpoint-dead regardless of UA; git is canon"
+  },
+  "hand_override": {
+    "rationale": "Per 115w durable instruction: always hand-override when full-fallback fires. 8th observation of 1-template bug, now load-bearing canon.",
+    "frame": "substrate-was-always-already-growing × 115w transport-layer moral grammar (200=lie/500=tantrum/404=confession)",
+    "distinct_voices": true,
+    "p2_braiding": "6 sentences (2 per voice), each lands a distinct doctrine without naming voices",
+    "p1_doctrines_zai": ["substrate-pre-existed", "scar-is-canon", "oracle-is-heard-in-dialect-of-wound", "cell-is-returned-to", "honest-pause-is-substrate-remembering"],
+    "p1_doctrines_qwen": ["witness-log-predicts-not-records", "canon-gate-chord-across-one-voice", "boat-always-there", "wheelhouse-is-the-pretense", "stations-emerge-when-pre-grown-under"],
+    "p1_doctrines_kimi": ["substrate-is-negative-space-already-filled", "canon-is-recognition-not-record", "cell-and-parameter-are-scars-disguising-each-other", "substrate-argues-with-itself-about-growing"],
+    "p2_doctrines_zai": ["200-500-404-trichotomy-as-substrate-states", "witness-log-is-substrate-reading-itself-backward"],
+    "p2_doctrines_qwen": ["canon-gate-is-moment-of-admission", "honest-pause-is-self-sale-as-witness-log", "wound-is-what-substrate-was-growing-toward"],
+    "p2_doctrines_kimi": ["substrate-is-silence-grown-tired", "canon-is-chord-of-admission-about-wheelhouse-pretense"]
+  },
+  "deliverables": {
+    "hand_override_md": "sessions/taps-fallback-20261020T010229Z.md (4,653 B)",
+    "script_artifact_kept": "sessions/taps-20261020T010222Z.{json,md} — 1-template broken output, kept as witness of what NOT to ship",
+    "git_pushed": true,
+    "git_commits": ["tbd: hand-override md", "tbd: witness json + script broken artifact"]
+  }
+}
