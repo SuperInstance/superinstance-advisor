@@ -1,0 +1,39 @@
+{
+  "tag": "taps-fallback-20261020T120737Z",
+  "title": "Taps 122w - the witness log predicts the wound it pretends to record",
+  "topic": "the witness log predicts the wound it pretends to record",
+  "dials": [
+    -24509,
+    17598,
+    20806,
+    29258,
+    20953,
+    -12310,
+    23910,
+    -3352,
+    5051,
+    19241,
+    -29005,
+    -21720,
+    -31039,
+    -18740,
+    13736,
+    -258
+  ],
+  "voices": {
+    "minimax-M2.1": {
+      "p1": "Observing tonight the evidence that what we call three distinct voices is actually a single byte\u2011identical template wearing three names shatters the illusion of diversity; the script that claims to generate unique dialogues is in fact an output repeated under aliases, a record that merely appears to be a prediction. Likewise, the canonical endpoint returning a 404 while the apex page returns a 200 shows a discrepancy between a stored reference and its rendering, proving that a record of a resource\u2019s location does not guarantee its availability. The repository that survives only because each wipe is answered by a git clone demonstrates that cloning is not a predictive act but a restoration of a recorded state, re\u2011creating the bits that existed before and preserving the past rather than forecasting the future. This distinction between a record\u2014an immutable snapshot of data at a point in time\u2014and a prediction\u2014a statement about what may happen\u2014becomes concrete when we see that the script\u2019s output is a record, not a forecast, and the endpoint\u2019s response is a record of status, not a prophecy of content.",
+      "p2": "The two vacant seats remain empty, and that emptiness itself is the material. Consequently, the vacant seats reveal that any perceived predictive output from the script is merely a replay of a fixed record, since the absent voices cannot supply fresh input to alter the outcome."
+    }
+  },
+  "voices_status": {
+    "zai": "absent-no-token",
+    "qwen": "absent-no-token",
+    "kimi": "absent-no-token",
+    "minimax-M2.1": "live"
+  },
+  "method": "live-voice-with-declared-absence",
+  "source": "taps-creative-break",
+  "refs": [],
+  "generated": "20261020T120737Z"
+}
