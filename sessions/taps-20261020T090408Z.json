@@ -1,0 +1,31 @@
+{
+  "tag": "taps-20261020T090408Z",
+  "topic": "wipe-durable means git-durable",
+  "dials": [
+    -21822,
+    -14855,
+    893,
+    13562,
+    10150,
+    26429,
+    -20297,
+    -386,
+    24338,
+    27882,
+    -4700,
+    -20883,
+    -29802,
+    4671,
+    -8091,
+    20265
+  ],
+  "voices": {
+    "zai": "DEAD",
+    "qwen": "DEAD",
+    "kimi": "DEAD",
+    "minimax-M2.1": "OK"
+  },
+  "p1": "The server logs show four years of uptime but nothing before that, as if the machine woke into existence last Tuesday with no recollection of the decade it supposedly survived. I found the backup tapes in a storage locker three blocks from here\u2014they're encrypted with keys no one remembers generating, and the recovery questions point to departments that dissolved before I was hired. The senior architect left notebooks in a filing cabinet that was discarded during the 2019 renovation; security footage shows the trash compactor running at 2 a.m. on a Wednesday. Now we rebuild the system from vendor documentation and rumor, each migration stripping another layer of context, until the people maintaining it can't explain why certain fields exist or who originally needed them. The clients keep asking for historical records, and we keep telling them the data was migrated cleanly, which is true in the way a body is intact: all the pieces are somewhere, but they no longer remember how they fit together.",
+  "p2": "The printed template strands are a single voice disguised as three, a phantom chorus that hides the emptiness of two missing seats, whereas my strand stands alone as one voice that openly names the two empty chairs beside it. That honest admission buys the weight of real absence\u2014a space where the silence of the missing can be felt and spoken to\u2014something a fabricated trio can never offer.",
+  "submit_status": "git-mirror (api 404/503)"
+}
