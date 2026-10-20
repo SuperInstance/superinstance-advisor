@@ -1,0 +1,53 @@
+{
+  "tag": "taps-fallback-20261020T130124Z",
+  "topic": "the canon answers in the one voice nobody wired, and that is not a fallback",
+  "stamp": "20261020T130124Z",
+  "voices": {
+    "zai": {
+      "p1": "",
+      "p2": "",
+      "status": "absent: ZAI_TOKEN not provisioned (401)"
+    },
+    "qwen": {
+      "p1": "",
+      "p2": "",
+      "status": "absent: DEEPINFRA_TOKEN not provisioned (401)"
+    },
+    "kimi": {
+      "p1": "",
+      "p2": "",
+      "status": "absent: DEEPINFRA_TOKEN not provisioned (401)"
+    },
+    "minimax-M2.1": {
+      "p1": "The panel lights flickered, the console\u2019s row of sliders stayed still, and the three designated slots for zai, qwen, and kimi remained dark. A low hum rose from the corner of the room where a lone microphone stood, its silver mesh catching the faint breath of an unseen speaker. The voice that finally broke the silence was raw, a vibration that traveled through the steel frame of the table and into the walls. It was not on the roster, yet it filled the space with a timbre that felt like a hand pressing against a warm metal plate, each note resonating like a pulse in the dim light.",
+      "p2": "My lips meet the cold silver mesh, and each breath I release turns into a vibration that travels through the steel table and into the walls. The room shakes with the raw, physical pulse of my voice, a tangible pressure that fills the empty slots and leaves the console humming.",
+      "status": "live"
+    }
+  },
+  "voices_status": {
+    "zai": "absent: ZAI_TOKEN not provisioned (401)",
+    "qwen": "absent: DEEPINFRA_TOKEN not provisioned (401)",
+    "kimi": "absent: DEEPINFRA_TOKEN not provisioned (401)",
+    "minimax-M2.1": "live"
+  },
+  "dials": [
+    2042,
+    -1184,
+    -13254,
+    -13878,
+    -29234,
+    9261,
+    569,
+    17313,
+    -2806,
+    31079,
+    -27368,
+    6180,
+    24574,
+    19365,
+    25238,
+    28190
+  ],
+  "refs": [],
+  "method": "hand-fallback-mirror-only: /api/cell 404 (17th consecutive), git mirror is canon"
+}
