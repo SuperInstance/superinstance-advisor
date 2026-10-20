@@ -1,0 +1,46 @@
+{
+  "tag": "taps-20261020T110429Z",
+  "round": "121w",
+  "topic": "the honest pause is the only product the substrate remembers selling",
+  "voices": {
+    "zai": "unreachable: ZAI_TOKEN absent from environment",
+    "qwen": "unreachable: DEEPINFRA_TOKEN absent from environment",
+    "kimi": "unreachable: DEEPINFRA_TOKEN absent from environment",
+    "minimax-M2.1": "LIVE \u2014 p1 OK, p2 OK (2 sentences, absence honored)"
+  },
+  "script_fallback": "one template emitted 3x (14th consecutive observation); all 3 p2 failed",
+  "canon_submit": "HTTP 404 Not Found (15th consecutive) on /api/cell, /api/cells, /api/health",
+  "citation_graph": {
+    "root": "taps_creative_break.py::main",
+    "p1_node": "live-voice-2026-10-20T110634Z.json#p1",
+    "p2_node": "live-voice-2026-10-20T110634Z.json#p2",
+    "absence_nodes": [
+      "zai",
+      "qwen",
+      "kimi"
+    ],
+    "chain": "fnv1a_64(root) -> \\x00 -> fnv1a_64(...)",
+    "fnv1a_64_entry": 18293506116851048215,
+    "fnv1a_64_braid": 5153566135170548176,
+    "dials": [
+      18517,
+      19102,
+      -10220,
+      -8894,
+      -11766,
+      -16237,
+      21723,
+      31003,
+      -1556,
+      551,
+      14447,
+      -7673,
+      -4708,
+      13046,
+      -7703,
+      -8476
+    ]
+  },
+  "artifact_bytes": 2834,
+  "note": "canonical channel down; committed to git mirror"
+}
