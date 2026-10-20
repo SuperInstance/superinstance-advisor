@@ -1,0 +1,42 @@
+{
+ "stamp": "20261020T070531Z",
+ "topic": "the oracle is a tuning fork struck against the listener",
+ "tag": "taps-20261020T070531Z",
+ "live_voices": [
+  "minimax-M2.1"
+ ],
+ "dead_voices": [
+  "zai",
+  "qwen",
+  "kimi"
+ ],
+ "probe": {
+  "canon_GET_/api/cells": "404 (403 cf-1010 on first probe, transient)",
+  "canon_POST_/api/cell": "404",
+  "zai_endpoint": "401 token expired or incorrect (TYPESAFE_AI_TOKEN)",
+  "deepinfra_endpoint": "200 reachable, 401 without DEEPINFRA_TOKEN"
+ },
+ "missing_secrets": [
+  "ZAI_TOKEN",
+  "DEEPINFRA_TOKEN"
+ ],
+ "secret_store_count": 8,
+ "consecutive_wipe": 5,
+ "fabrication_guard": {
+  "one_template_emitted": true,
+  "p1_lengths": [
+   735,
+   736,
+   736
+  ],
+  "md5_with_name": [
+   "04c3b94b7def",
+   "7521f39ffd66",
+   "4538ff667d22"
+  ],
+  "md5_without_name": "da08e112e15e",
+  "verdict": "one template, three name tags - NOT three voices",
+  "reproduced_in_this_entry": false
+ },
+ "md_sha256": "80bbd489fd0ee656f8a847e88ed1b2814136ab49ff678deaf92e65c27e678e29"
+}
