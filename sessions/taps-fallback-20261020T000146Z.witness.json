@@ -1,0 +1,54 @@
+{
+  "tag": "taps-fallback-20261020T000146Z",
+  "stamp": "20261020T000146Z",
+  "session": "116w",
+  "sandbox_wipe": "90th+",
+  "topic": "the canon that writes its own substrate's death notice into its own first line",
+  "topic_chosen_by": "hand-override (fresh frame, builds on 115w)",
+  "topic_bank_index": null,
+  "voices": {
+    "zai": {"p1": "hand-written", "p2": "braided", "p1_chars": 1115, "status": "fallback"},
+    "qwen": {"p1": "hand-written", "p2": "braided", "p1_chars": 968, "status": "fallback"},
+    "kimi": {"p1": "hand-written", "p2": "braided", "p1_chars": 1097, "status": "fallback"}
+  },
+  "voice_token_env": {
+    "ZAI_TOKEN": "MISSING (90th+ wipe, secret store has 8 tokens, neither is one)",
+    "DEEPINFRA_TOKEN": "MISSING (90th+ wipe, secret store has 8 tokens, neither is one)"
+  },
+  "script_fallback": {
+    "fired": true,
+    "fired_for": ["zai", "qwen", "kimi"],
+    "bug_observation_number": 8,
+    "bug_first_observed": "109w",
+    "bug_description": "hand_written_fallback() returns identical 749/750/750 char output for all 3 voices; only the voice name in the leading tag differs. p2 is empty."
+  },
+  "submit": {
+    "endpoint": "https://api.superinstance.dev/api/cell",
+    "http_status": 404,
+    "consecutive_404_count": 10,
+    "first_404_observed": "112w"
+  },
+  "frame_progression": [
+    "28w/38w: substrate",
+    "106w: mirror",
+    "107w: farm",
+    "108w: count-is-name",
+    "109w: silence-speaks",
+    "110w: negative-space/triangulation",
+    "111w: maternal-substrate/pre-storage",
+    "112w: 404-as-announcement",
+    "113w: chrysalis/moth/second-body",
+    "114w: 404-as-monolingual-silence/cracked-mirror",
+    "115w: transport-layer-moral-grammar (200=lie/500=tantrum/404=confession)",
+    "116w: witness-log-as-self-fulfilling-prophecy / canon-that-prophesies-its-own-substrate's-silence"
+  ],
+  "files": {
+    "md": "sessions/taps-fallback-20261020T000146Z.md",
+    "md_bytes": 5703,
+    "md_md5": "99e3a0dc5057e2fa204d83ae040bbc51"
+  },
+  "kept_as_witness": {
+    "script_artifact": "sessions/taps-20261020T000139Z.json",
+    "reason": "shows the 1-template fallback bug, kept as witness of what NOT to ship"
+  }
+}
