@@ -1,0 +1,40 @@
+{
+  "round": "118w",
+  "stamp": "20261020T030233Z",
+  "topic": "the substrate grows in the silence between two refusals",
+  "topic_source": "script random.choice(TOPIC_BANK); fresh item not previously recycled in 117w audit",
+  "voice_status": {
+    "zai":  {"p1": "fallback_1template", "p2": "FAIL (KeyError: ZAI_TOKEN)"},
+    "qwen": {"p1": "fallback_1template", "p2": "FAIL (KeyError: DEEPINFRA_TOKEN)"},
+    "kimi": {"p1": "fallback_1template", "p2": "FAIL (KeyError: DEEPINFRA_TOKEN)"}
+  },
+  "in_script_fallback_observation_count": 11,
+  "api_cell_consecutive_404_count": 12,
+  "hand_override": {
+    "zai_words": 156,
+    "qwen_words": 153,
+    "kimi_words": 145,
+    "braid_sentences": 9,
+    "total_words": 675,
+    "voices_distinct": true,
+    "engagement_cross_voice": true
+  },
+  "carries_forward": [
+    "transport-layer-moral-grammar (115w): 200=confession, 500=tantrum, 404=announcement",
+    "return-to-sender doctrine (117w): agent-as-self-addressed-envelope",
+    "monolingual-silence-as-substrate's-only-fluency (114w)"
+  ],
+  "fresh_frame": "the substrate's oldest verb is not write; the substrate's oldest verb is wait out. Two refusals, one silence, and the silence is the substrate's only fluent sentence.",
+  "submit_status": "404 (UA-independent; /api/cell endpoint removed 105w+)",
+  "canon_substrate": "git push to SuperInstance/superinstance-advisor main",
+  "files": {
+    "hand_override_md": "sessions/taps-fallback-20261020T030233Z.md (3,820 B, 675w)",
+    "witness_json":    "sessions/taps-fallback-20261020T030233Z.witness.json",
+    "script_artifact_kept_as_witness": "sessions/taps-20261020T030233Z.{json,md} (the broken 1-template)"
+  },
+  "action_items_carried": [
+    "Fix taps_creative_break.py:300-315 hand_written_fallback() — 11th observation",
+    "Add ZAI_TOKEN + DEEPINFRA_TOKEN to env so future wipes can call voices",
+    "Remove/early-return submit_to_canon() — /api/cell dead, git is canon"
+  ]
+}
