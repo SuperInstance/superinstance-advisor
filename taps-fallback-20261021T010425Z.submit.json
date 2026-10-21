@@ -1,0 +1,11 @@
+{
+  "status": 404,
+  "tag": "taps-fallback-20261021T010425Z",
+  "topic": "the fifteen wipes taught the substrate that absence is not deletion",
+  "voices": {
+    "zai": "FAIL: ZAI_TOKEN absent + zai edge 503",
+    "qwen": "FAIL: DEEPINRA_TOKEN absent",
+    "kimi": "FAIL: DEEPINRA_TOKEN absent"
+  },
+  "resp": "Not Found (host /health=200; /api/cell route not served)"
+}
