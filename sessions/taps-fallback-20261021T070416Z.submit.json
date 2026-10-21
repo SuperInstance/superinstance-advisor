@@ -1,0 +1,6 @@
+{
+ "tag": "taps-fallback-20261021T070416Z",
+ "chain_ref": null,
+ "submit_status": "URLError",
+ "submit_resp": "<urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>"
+}
