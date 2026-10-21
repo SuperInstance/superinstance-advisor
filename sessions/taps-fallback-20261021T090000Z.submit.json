@@ -1,0 +1,24 @@
+{
+  "tag": "taps-fallback-20261021T090000Z",
+  "topic": "the honest pause is the only product the substrate remembers selling",
+  "dials": [
+    9693,
+    -13189,
+    -14479,
+    19200,
+    22151,
+    30017,
+    -15522,
+    -4744,
+    1893,
+    15878,
+    -32639,
+    -14966,
+    -28513,
+    25662,
+    -16228,
+    -20385
+  ],
+  "submit_status": 0,
+  "submit_resp": "<urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>"
+}
