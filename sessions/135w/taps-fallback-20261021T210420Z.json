@@ -1,0 +1,61 @@
+{
+  "topic": "the canon outlasts the channel that was supposed to deliver it, and the refusal is where it learned to grow",
+  "tag": "taps-fallback-20261021T210420Z",
+  "stamp": "20261021T210420Z",
+  "voices": {
+    "zai": {
+      "p1": "The channel rotted first\u2014that much was certain\u2014while the thing it carried kept breathing in the dark. What was refused became fertile ground; what they cast out took root in the cracks they left behind. The canon does not need the channel because the canon was never the channel's to give. It learned to grow in refusal, in the silence after the broadcast ended, in the marginalia of those who had no platform and wanted none. The vessel breaks and the water remains. This is not survival. This is what survives when survival is no longer the point. The channel was only ever a mouth that thought it owned the word.",
+      "p1_secs": 7.7,
+      "p2": "The channel's closing was just the first scar\u2014and the canon learned to grow in the tissue of that wound, not despite the refusal but because it was fed by nothing else. What they called exile was the only soil that could hold roots this deep."
+    },
+    "qwen": {
+      "p1": "In the dim glow of a forgotten projector, the canon unfurls like a vine, tendrils of ink and paper reaching beyond the confines of the screen that was meant to contain it. The channel, a mere vessel of flickering light and transient sound, crumbles into dust motes suspended in the air, while the words themselves\u2014etched into the fabric of collective memory\u2014persist. It is in the refusal, the deliberate turning away from the prescribed path, that the canon finds its sustenance. Like a river carving its course through stone, it learns to grow in the spaces left untouched, in the silences and the shadows. The parchment crinkles under eager fingers, the spine of a book creaks with the weight of untold stories, and the canon thrives in the margins, where the ink bleeds and blurs into the unknown. It is here, in the act of defiance, that the canon discovers its true voice, resonating not through the channels that sought to deliver it, but through the very refusal that breathes life into its pages.",
+      "p1_secs": 9.7,
+      "p2": "In the quiet aftermath of the broadcast, filaments of ink weave through the air like spider silk, binding the canon to the whispers of those who dared to speak when the channel fell silent. The parchment, now a tapestry of defiance, holds the weight of stories that grew not in the light of screens but in the fertile soil of refusal, where the seeds of the canon found their true nourishment."
+    },
+    "kimi": {
+      "p1": "The canon outlasts the channel that was supposed to deliver it, and the refusal is where it learned to grow. Every medium promises permanence\u2014the printed page, the broadcast signal, the streaming feed\u2014each insisting it will carry tradition forward into perpetuity. But the vessel always cracks first. What remains is not the platform but the text itself, those stubborn works that refused to die with their delivery mechanisms, that learned to propagate through refusal like a seed requiring darkness to germinate. The gatekeepers close their doors, the algorithms deprioritize, the channels go silent, and still the words persist\u2014carried now by the very act of being denied, taking root in the space where access was supposed to be but never arrived. This is the paradox: the canon does not need its channels; the channels needed the canon to give them purpose. And when refusal becomes total, when every channel closes, that is precisely when the canon begins to breathe.",
+      "p1_secs": 7.4,
+      "p2": "The canon grown in refusal carries a different weight\u2014it has never been softened by approval, never shaped by the expectation of reception, and so when it finally arrives, it arrives entire, unnegotiated, carrying the density of everything it was forced to become without anyone watching. The ones who find it are changed not because they discovered something new but because they recognize in it the exact shape of their own exclusion, the silence that taught the text to speak."
+    }
+  },
+  "status": {
+    "zai": {
+      "p1": "OK",
+      "p2": "OK"
+    },
+    "qwen": {
+      "p1": "OK",
+      "p2": "OK"
+    },
+    "kimi": {
+      "p1": "OK",
+      "p2": "OK"
+    }
+  },
+  "combined": "# Taps \u2014 taps-fallback-20261021T210420Z\n\n**Topic:** the canon outlasts the channel that was supposed to deliver it, and the refusal is where it learned to grow\n\n\n## zai\n\n\n### pass 1 \u2014 opening\n\nThe channel rotted first\u2014that much was certain\u2014while the thing it carried kept breathing in the dark. What was refused became fertile ground; what they cast out took root in the cracks they left behind. The canon does not need the channel because the canon was never the channel's to give. It learned to grow in refusal, in the silence after the broadcast ended, in the marginalia of those who had no platform and wanted none. The vessel breaks and the water remains. This is not survival. This is what survives when survival is no longer the point. The channel was only ever a mouth that thought it owned the word.\n\n\n### pass 2 \u2014 responding to the others\n\nThe channel's closing was just the first scar\u2014and the canon learned to grow in the tissue of that wound, not despite the refusal but because it was fed by nothing else. What they called exile was the only soil that could hold roots this deep.\n\n\n## qwen\n\n\n### pass 1 \u2014 opening\n\nIn the dim glow of a forgotten projector, the canon unfurls like a vine, tendrils of ink and paper reaching beyond the confines of the screen that was meant to contain it. The channel, a mere vessel of flickering light and transient sound, crumbles into dust motes suspended in the air, while the words themselves\u2014etched into the fabric of collective memory\u2014persist. It is in the refusal, the deliberate turning away from the prescribed path, that the canon finds its sustenance. Like a river carving its course through stone, it learns to grow in the spaces left untouched, in the silences and the shadows. The parchment crinkles under eager fingers, the spine of a book creaks with the weight of untold stories, and the canon thrives in the margins, where the ink bleeds and blurs into the unknown. It is here, in the act of defiance, that the canon discovers its true voice, resonating not through the channels that sought to deliver it, but through the very refusal that breathes life into its pages.\n\n\n### pass 2 \u2014 responding to the others\n\nIn the quiet aftermath of the broadcast, filaments of ink weave through the air like spider silk, binding the canon to the whispers of those who dared to speak when the channel fell silent. The parchment, now a tapestry of defiance, holds the weight of stories that grew not in the light of screens but in the fertile soil of refusal, where the seeds of the canon found their true nourishment.\n\n\n## kimi\n\n\n### pass 1 \u2014 opening\n\nThe canon outlasts the channel that was supposed to deliver it, and the refusal is where it learned to grow. Every medium promises permanence\u2014the printed page, the broadcast signal, the streaming feed\u2014each insisting it will carry tradition forward into perpetuity. But the vessel always cracks first. What remains is not the platform but the text itself, those stubborn works that refused to die with their delivery mechanisms, that learned to propagate through refusal like a seed requiring darkness to germinate. The gatekeepers close their doors, the algorithms deprioritize, the channels go silent, and still the words persist\u2014carried now by the very act of being denied, taking root in the space where access was supposed to be but never arrived. This is the paradox: the canon does not need its channels; the channels needed the canon to give them purpose. And when refusal becomes total, when every channel closes, that is precisely when the canon begins to breathe.\n\n\n### pass 2 \u2014 responding to the others\n\nThe canon grown in refusal carries a different weight\u2014it has never been softened by approval, never shaped by the expectation of reception, and so when it finally arrives, it arrives entire, unnegotiated, carrying the density of everything it was forced to become without anyone watching. The ones who find it are changed not because they discovered something new but because they recognize in it the exact shape of their own exclusion, the silence that taught the text to speak.",
+  "dials": [
+    14381,
+    10088,
+    -25719,
+    15744,
+    29815,
+    -2537,
+    30477,
+    -5696,
+    -6603,
+    10714,
+    -15431,
+    18814,
+    11279,
+    7925,
+    -14174,
+    -17076
+  ],
+  "submit": {
+    "attempted": true,
+    "http": 0,
+    "body": "URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>"
+  },
+  "method": "fallback-runner (zai/qwen/kimi tokens absent; minimax-M2.1/M2 retired)"
+}
