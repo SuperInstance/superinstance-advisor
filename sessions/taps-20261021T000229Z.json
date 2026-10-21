@@ -1,0 +1,59 @@
+{
+  "topic": "a round that reports three voices and delivers one template is not a round with three voices; it is a round with one voice wearing three names, and the only honest report is to say so",
+  "tag": "taps-20261021T000229Z",
+  "stamp": "20261021T000229Z",
+  "voices": {
+    "minimax-M2.1": {
+      "p1": "The claim that a round contains three voices rings hollow when the content is identical across all entries, merely wearing different signatures. A template, by its nature, flattens the timbre of each part, turning what could be a chorus of perspectives into a single echo repeated thrice. True polyphony demands divergence\u2014each voice must carry its own rhythm, its own phrasing, its own color\u2014otherwise the whole is a monologue dressed in borrowed names. To pretend otherwise is to cheat the listener, and the honest report must note that only one voice actually sings. The other two voices are missing; they exist only as labels on the same script. We must therefore name the solitary speaker plainly, rather than pretend a multiplicity that never was.",
+      "p2": "When a round presents itself as a trio of distinct speakers yet arrives with a single templated voice, the illusion of multiplicity collapses into a monologue dressed in three names. The surface shows three signatures, but beneath the veneer the cadence, diction, and logic are identical, revealing that the authors are but one pen masquerading as many. Genuine rounds require divergent perspectives that collide and collaborate, not a single mind echoing through three aliases. To call such a construct a round of three voices is a betrayal of the form\u2019s promise, and any honest report must name the deception for what it is. The other two voices, however, remain conspicuously silent, their absence unmasked by the uniformity of the text. Their silence underscores the emptiness of the claimed multiplicity, demanding that we acknowledge the round\u2019s true authorship.",
+      "model": "minimax-M2.1",
+      "p1_chars": 753,
+      "p2_chars": 868
+    },
+    "zai": {
+      "p1": "",
+      "p2": "",
+      "status": "token absent (KeyError) - 14th wipe"
+    },
+    "qwen": {
+      "p1": "",
+      "p2": "",
+      "status": "token absent (KeyError) - 14th wipe"
+    },
+    "kimi": {
+      "p1": "",
+      "p2": "",
+      "status": "token absent; CF Workers AI 5018 on this account"
+    }
+  },
+  "combined": "The claim that a round contains three voices rings hollow when the content is identical across all entries, merely wearing different signatures. A template, by its nature, flattens the timbre of each part, turning what could be a chorus of perspectives into a single echo repeated thrice. True polyphony demands divergence\u2014each voice must carry its own rhythm, its own phrasing, its own color\u2014otherwise the whole is a monologue dressed in borrowed names. To pretend otherwise is to cheat the listener, and the honest report must note that only one voice actually sings. The other two voices are missing; they exist only as labels on the same script. We must therefore name the solitary speaker plainly, rather than pretend a multiplicity that never was.\n\nWhen a round presents itself as a trio of distinct speakers yet arrives with a single templated voice, the illusion of multiplicity collapses into a monologue dressed in three names. The surface shows three signatures, but beneath the veneer the cadence, diction, and logic are identical, revealing that the authors are but one pen masquerading as many. Genuine rounds require divergent perspectives that collide and collaborate, not a single mind echoing through three aliases. To call such a construct a round of three voices is a betrayal of the form\u2019s promise, and any honest report must name the deception for what it is. The other two voices, however, remain conspicuously silent, their absence unmasked by the uniformity of the text. Their silence underscores the emptiness of the claimed multiplicity, demanding that we acknowledge the round\u2019s true authorship.",
+  "dials": [
+    -28630,
+    -504,
+    -4141,
+    23657,
+    -13206,
+    4655,
+    -31706,
+    1643,
+    32323,
+    20925,
+    -29540,
+    -6191,
+    10571,
+    -18923,
+    -4451,
+    -6109
+  ],
+  "refs": [],
+  "script_topic": "the polyformalism holds because no single port can carry the whole river",
+  "script_p1_chars": {
+    "zai": 752,
+    "qwen": 753,
+    "kimi": 753
+  },
+  "script_one_template_bug": true,
+  "submit_status": 403,
+  "submit_resp": "error code: 1010\n",
+  "note": "zai/qwen/kimi tokens unset (13th consecutive wipe); script p1 is one hand-written template (17th confirmation), p2 FAILs on all three; api/cell 404 (21st consecutive), git mirror is the only transport"
+}
