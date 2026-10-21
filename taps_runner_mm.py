@@ -22,7 +22,9 @@ def _mm(prompt, max_tokens, model, temp):
             "max_tokens": max_tokens, "temperature": temp}
     data = json.dumps(body).encode()
     last = None
-    for host in HOSTS:
+    # last round: .io then .chat per call lost qwen on a transient .io EOF because
+    # .chat also failed. Ladder is [.io, .io, .chat] so .io gets a second bite.
+    for host in [HOSTS[0], HOSTS[0], HOSTS[1]]:
         req = urllib.request.Request(host, data=data, method="POST",
               headers={"Authorization": f"Bearer {KEY}", "Content-Type": "application/json",
                        "User-Agent": "taps-mm/1.0"})
