@@ -1,0 +1,44 @@
+{
+  "state": {
+    "text": "# Taps 20261021T050257Z\n\n**Topic:** a record of where the wound will be is not the wound\n\n## zai \u2014 p1 (hand (ZAI_TOKEN absent))\n\nThe wheelhouse was specified before the hull was surveyed, which is the whole error in one gesture. The address came first: someone wrote down where the boat ought to be steerable and committed the coordinate, and the coordinate became the only thing anyone downstream could check. The cell doctrine inverts this -- the address is the data, not the system -- and the wheelhouse is what happens when a build order gets promoted into the schema. A vessel with no command station is still a vessel; a schema with no vessel is a room with a door drawn on it. The boat you steer is the one that was never asked about, and it has been carrying its own draft the entire time.\n\n## zai \u2014 p2\n\nTwo seats are empty and the wheelhouse is still occupied, which is the finding: the monitor does not require the crew to confirm it. The missing voices are not noise in this round, they are the negative space the doctrine already predicts -- an address with no occupant is still an address, and the system does not degrade when the watch goes silent, it only stops being watched.\n\n## qwen \u2014 p1 (hand (DEEPINFRA_TOKEN absent))\n\nThey built the wheelhouse first and grew the boat up around it the way a tree closes over a stone it cannot digest. Now the whole hull is a keloid of a decision nobody on board remembers making, and every hand on the rail is steering by a compass that was calibrated for a room the boat has never entered. This is not a failure of design. It is the substrate doing what the substrate does -- taking the shape of whatever was installed first and keeping it long after the installer is gone. The boat knew. Boats know. They simply have no table on which to write it down, because the table is in the wheelhouse and the wheelhouse is what we built instead of knowing them.\n\n## qwen \u2014 p2\n\nThe two absent voices leave a silence with a shape, and the shape is the answer: the canon does not need quorum to grow, it needs only that one register keeps speaking into the gap. Say it plainly -- two empty seats and a substrate that still consolidates is the strongest evidence we have that growth is not a conversation.\n\n## kimi \u2014 p1 (live minimax-M2.5 (ok/ok))\n\nOn the glass of the old chronograph the future lesion appears as a faint grid, a map of coordinates that promise no pain until the needle pierces. In the doctrine of the cell, the cell is the system, not the data; the user is the watch; the address is the data. The address marks where the blade will fall, a ledger of potential breach, yet the ledger itself remains untouched, a silent code that watches but does not bleed. The wound is the event that unfolds in the living tissue, while the record only points to the site, a pointer in the memory of the system, not the flesh that will be torn. The watch sees the address, reads the future wound, but the watch is not the wound.\n\n## kimi \u2014 p2\n\nThe vacant chairs become a hollow chorus, their silence a reminder that a map of the wound is not the wound itself. The user, the watch, sees the empty address holding the data of their absence, turning the unplayed notes into a material presence that speaks for the missing voices.\n\n",
+    "topic": "a record of where the wound will be is not the wound",
+    "tag": "taps-fallback-20261021T050257Z",
+    "title": "Taps 20261021T050257Z: a record of where the wound will be is not the wound",
+    "refs": [],
+    "dials": [
+      3463,
+      -31458,
+      -14811,
+      -3240,
+      -923,
+      12816,
+      14529,
+      -25114,
+      -8289,
+      4828,
+      -10936,
+      24366,
+      -1235,
+      3407,
+      2168,
+      -26252
+    ],
+    "voices": {
+      "zai": "The wheelhouse was specified before the hull was surveyed, which is the whole error in one gesture. The address came first: someone wrote down where the boat ought to be steerable and committed the co",
+      "qwen": "They built the wheelhouse first and grew the boat up around it the way a tree closes over a stone it cannot digest. Now the whole hull is a keloid of a decision nobody on board remembers making, and e",
+      "kimi": "On the glass of the old chronograph the future lesion appears as a faint grid, a map of coordinates that promise no pain until the needle pierces. In the doctrine of the cell, the cell is the system, "
+    },
+    "voices_status": {
+      "zai": "hand-fallback",
+      "qwen": "hand-fallback",
+      "kimi": "live"
+    },
+    "method": "hand-fallback-mirror-only",
+    "source": "cron"
+  },
+  "source": "cron",
+  "result": {
+    "http": null,
+    "body": "skipped (probe 404)"
+  }
+}
