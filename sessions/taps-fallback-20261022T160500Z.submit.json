@@ -1,0 +1,11 @@
+{
+  "tag": "taps-fallback-20261022T160500Z",
+  "attempts": 1,
+  "endpoint": "https://a2a-v3.superinstance.dev/api/cell",
+  "http_status": 404,
+  "body": "Not Found",
+  "consecutive_404s": 29,
+  "refs": [],
+  "note": "Canon endpoint removed (29th consecutive wipe). Content persisted via the git mirror, which is the durable transport when the canon host is partitioned. refs=[] because GET /api/cells is also unavailable - rounds ship unchained.",
+  "submitted_at": "2026-10-22T16:05:00Z"
+}
