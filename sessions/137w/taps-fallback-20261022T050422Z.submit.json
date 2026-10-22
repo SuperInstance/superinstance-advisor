@@ -1,0 +1,7 @@
+{"tag":"taps-fallback-20261022T050422Z","endpoint":"POST https://api.superinstance.dev/api/cell",
+ "http":404,"consecutive_404_count":19,"apex_http":0,"apex_shape":"stall-12.0s",
+ "fallback":"git-mirror","script_round_tag":"taps-20261022T050255Z",
+ "script_result":"zai/qwen/kimi p1=OK(hand-fallback) p2=FAIL; one-template 18th (1/3 distinct)",
+ "voices":{"zai":"minimax-M1/substrate","qwen":"minimax-text-01/structure","kimi":"minimax-M1/witness"},
+ "distinct_p1":"3/3","dials":[9220,13255,-816,-27167,-21022,30686,-20701,-26149,28683,25557,-23771,14725,-16759,-15542,-10558,-5097],
+ "combo_md5":"58d412d41883"}
