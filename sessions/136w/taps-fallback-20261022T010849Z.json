@@ -1,0 +1,103 @@
+{
+  "topic": "the scar is older than the blade that made it",
+  "tag": "taps-fallback-20261022T010849Z",
+  "stamp": "20261022T010849Z",
+  "method": "hand-fallback-distinct-voices",
+  "topic_source": "script-random (taps_creative_break.py)",
+  "voices": {
+    "zai": {
+      "model": "minimax-M1",
+      "p1": "The blade arrives and departs, but the scar remains as a different substance entirely\u2014a denser, paler version of what was once whole. The iron that cut is melted down and reforged elsewhere, its edge wearing to nothing across years of other work, other wounds, while the collagen fibers of the scar continue their slow remodeling for decades, the body endlessly repairing what it cannot undo. In this sense the blade is merely the agent of transformation, the moment of violence already receding into history the instant it occurs, while the scar extends forward into a future the blade will never see. The wound was an event; the scar is a condition. One passes, the other accumulates. What the blade made was not the scar but the necessity for it\u2014the body sacrificing perfection for integrity, trading the original tissue for something that will hold. The blade is forgotten. The scar remembers.",
+      "p1_usage": {
+        "total_tokens": 783,
+        "total_characters": 0,
+        "prompt_tokens": 123,
+        "completion_tokens": 660
+      },
+      "p1_secs": 11.0,
+      "p2": "The scar is not older than the blade\u2014it is younger, born in the moment of breach, and what the blade finds waiting is not a predestined shape but the simple, dumb competence of collagen crosslinking where tension demands it. Both voices mistake the body's mechanical response to stress for a kind of knowing, when the truth is simpler: tissue adapts to the lines of force it endures, and the scar is just where the pattern broke and had to be remade.",
+      "p2_usage": {
+        "total_tokens": 1061,
+        "total_characters": 0,
+        "prompt_tokens": 596,
+        "completion_tokens": 465
+      }
+    },
+    "qwen": {
+      "model": "minimax-text-01",
+      "p1": "In the ledger of time, where each entry is etched with the precision of a blade, the scar stands as a testament to a transaction long settled, its cost already paid in the currency of pain and healing. The blade, a mere instrument in this ledger, is a fleeting entry, its presence recorded only in the moment of incision, its value diminishing with each passing moment. The scar, however, is a different entity altogether, a door that opens not to the past but to the present, a constant reminder of the body's remarkable ledger, where damage is accounted for and reconciled with resilience. It is a mark that transcends the immediacy of its creation, evolving into a narrative of survival and adaptation. The blade, sharp and decisive, is but a momentary actor in this story, while the scar, with its intricate patterns and subtle textures, continues to rewrite itself, adapting to the body's ever-changing landscape. It is a ledge upon which the self is balanced, a reminder that the true cost of injury is not in the initial cut but in the ongoing process of repair and renewal. Thus, the scar, older than the blade, becomes a symbol of the body's enduring ledger, where the past is not erased but transformed, and the present is a testament to the enduring capacity for healing.",
+      "p1_usage": {
+        "total_tokens": 385,
+        "total_characters": 0,
+        "prompt_tokens": 128,
+        "completion_tokens": 257
+      },
+      "p1_secs": 10.9,
+      "p2": "The blade and the scar are bound in a ledger of exchange, where the cost of entry is marked by the blade's fleeting incision, yet the scar's ledger is one of permanence, recording the debt of survival paid in the body's own currency of time and tissue. While the blade may be the architect of the moment, the scar is the keeper of the body's institutional memory, a record that outlasts the transient violence that inscribed it, echoing the ancient contract between injury and adaptation.",
+      "p2_usage": {
+        "total_tokens": 616,
+        "total_characters": 0,
+        "prompt_tokens": 519,
+        "completion_tokens": 97
+      }
+    },
+    "kimi": {
+      "model": "minimax-M1",
+      "p1": "The scar is older than the blade that made it because the body had already begun its repair before the cut was complete\u2014a nation building its borders while the invading army still marches toward the frontier. This is the secret no one tells you about wounds: they are never singular events but rather the final chapter of a story your tissues have been writing in anticipation, in preparation, in something that resembles fate. The blade arrives with all the ceremony of a catalyst, but the conditions for scarring existed long before in the architecture of your DNA, in the memory of every ancestor who bled and healed and passed down not the wound itself but the body's desperate genius for sealing itself shut. There is something almost sinister in this\u2014the scar waiting inside you like a locked room, patient, knowing the blade would eventually arrive to unlock it. And when it does, when the flesh parts and the blood comes, you understand too late that you were never whole to begin with. The scar was always there, holding the shape of what would someday break.",
+      "p1_usage": {
+        "total_tokens": 763,
+        "total_characters": 0,
+        "prompt_tokens": 119,
+        "completion_tokens": 644
+      },
+      "p1_secs": 12.3,
+      "p2": "The paradox holds only if time is measured in the currency of the body's memory rather than the object's existence, and perhaps the blade's greatest act was its own eventual erasure\u2014a quiet disappearance that allowed the scar to become, finally and irrevocably, its own origin story.",
+      "p2_usage": {
+        "total_tokens": 1003,
+        "total_characters": 0,
+        "prompt_tokens": 564,
+        "completion_tokens": 439
+      }
+    }
+  },
+  "combined": "# Taps round 20261022T010849Z\n\n**Topic:** the scar is older than the blade that made it\n\n## zai (minimax-M1)\n\n### opening\nThe blade arrives and departs, but the scar remains as a different substance entirely\u2014a denser, paler version of what was once whole. The iron that cut is melted down and reforged elsewhere, its edge wearing to nothing across years of other work, other wounds, while the collagen fibers of the scar continue their slow remodeling for decades, the body endlessly repairing what it cannot undo. In this sense the blade is merely the agent of transformation, the moment of violence already receding into history the instant it occurs, while the scar extends forward into a future the blade will never see. The wound was an event; the scar is a condition. One passes, the other accumulates. What the blade made was not the scar but the necessity for it\u2014the body sacrificing perfection for integrity, trading the original tissue for something that will hold. The blade is forgotten. The scar remembers.\n\n### responding\nThe scar is not older than the blade\u2014it is younger, born in the moment of breach, and what the blade finds waiting is not a predestined shape but the simple, dumb competence of collagen crosslinking where tension demands it. Both voices mistake the body's mechanical response to stress for a kind of knowing, when the truth is simpler: tissue adapts to the lines of force it endures, and the scar is just where the pattern broke and had to be remade.\n\n---\n\n## qwen (minimax-text-01)\n\n### opening\nIn the ledger of time, where each entry is etched with the precision of a blade, the scar stands as a testament to a transaction long settled, its cost already paid in the currency of pain and healing. The blade, a mere instrument in this ledger, is a fleeting entry, its presence recorded only in the moment of incision, its value diminishing with each passing moment. The scar, however, is a different entity altogether, a door that opens not to the past but to the present, a constant reminder of the body's remarkable ledger, where damage is accounted for and reconciled with resilience. It is a mark that transcends the immediacy of its creation, evolving into a narrative of survival and adaptation. The blade, sharp and decisive, is but a momentary actor in this story, while the scar, with its intricate patterns and subtle textures, continues to rewrite itself, adapting to the body's ever-changing landscape. It is a ledge upon which the self is balanced, a reminder that the true cost of injury is not in the initial cut but in the ongoing process of repair and renewal. Thus, the scar, older than the blade, becomes a symbol of the body's enduring ledger, where the past is not erased but transformed, and the present is a testament to the enduring capacity for healing.\n\n### responding\nThe blade and the scar are bound in a ledger of exchange, where the cost of entry is marked by the blade's fleeting incision, yet the scar's ledger is one of permanence, recording the debt of survival paid in the body's own currency of time and tissue. While the blade may be the architect of the moment, the scar is the keeper of the body's institutional memory, a record that outlasts the transient violence that inscribed it, echoing the ancient contract between injury and adaptation.\n\n---\n\n## kimi (minimax-M1)\n\n### opening\nThe scar is older than the blade that made it because the body had already begun its repair before the cut was complete\u2014a nation building its borders while the invading army still marches toward the frontier. This is the secret no one tells you about wounds: they are never singular events but rather the final chapter of a story your tissues have been writing in anticipation, in preparation, in something that resembles fate. The blade arrives with all the ceremony of a catalyst, but the conditions for scarring existed long before in the architecture of your DNA, in the memory of every ancestor who bled and healed and passed down not the wound itself but the body's desperate genius for sealing itself shut. There is something almost sinister in this\u2014the scar waiting inside you like a locked room, patient, knowing the blade would eventually arrive to unlock it. And when it does, when the flesh parts and the blood comes, you understand too late that you were never whole to begin with. The scar was always there, holding the shape of what would someday break.\n\n### responding\nThe paradox holds only if time is measured in the currency of the body's memory rather than the object's existence, and perhaps the blade's greatest act was its own eventual erasure\u2014a quiet disappearance that allowed the scar to become, finally and irrevocably, its own origin story.",
+  "dials": [
+    3800,
+    -9183,
+    -19415,
+    11276,
+    14600,
+    3116,
+    -1247,
+    -1372,
+    -5992,
+    -20700,
+    -16089,
+    4751,
+    14920,
+    -25673,
+    -12690,
+    -20691
+  ],
+  "refs": [],
+  "transport": {
+    "canon_post": 404,
+    "apex": 200,
+    "mirror": "git-only"
+  },
+  "voices_status": {
+    "zai": {
+      "p1": true,
+      "p2": true
+    },
+    "qwen": {
+      "p1": true,
+      "p2": true
+    },
+    "kimi": {
+      "p1": true,
+      "p2": true
+    }
+  },
+  "note": "zai/qwen/kimi tokens absent (12th consecutive wipe). Script one-template bug confirmed 17th time (all p1 byte-identical after name normalization)."
+}
