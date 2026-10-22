@@ -1,0 +1,38 @@
+{
+  "tag": "taps-fallback-20261022T200500Z",
+  "seed": "A canon entry is a promise nobody remembers making. The ledger keeps the entry, the citation graph keeps the pointer, and every later reader inherits a constraint they never agreed to. We call this inherited consent. The claim is that the canon does not record what was decided; it manufactures the appearance that it was.",
+  "voices": {
+    "zai": {
+      "p1": "A canon entry is a promise nobody remembers making. The ledger keeps the entry, the citation graph keeps the pointer, and every later reader inherits a constraint they never agreed to. We call this inherited consent. The claim is that the canon does not record what was decided; it manufactures the appearance that it was.",
+      "p2": "QWEN is right that the constraint outlives the hand that wrote it, but KIMI is closer to the truth in noting that what persists is not memory but its fossil: the record remains precisely because no rememberer remains to contradict it, and the citation graph performs its destiny-magic only because everyone who might have refuted it has already become unreachable memory."
+    },
+    "qwen": {
+      "p1": "A canon entry is, in essence, a promise that no one currently bound by it remembers making. It exists as a fixture in the ledger, a point in the citation graph, and every subsequent reader or participant is inherently constrained by its presence, despite never having explicitly consented to its terms. This phenomenon, which we term \"inherited consent,\" is the cornerstone of how a canon exerts its influence. The canon does not merely document decisions made in the past; it actively constructs the illusion that these decisions were universally and consciously agreed upon. This manufactured appearance of consensus is what gives the canon its binding power, transforming historical artifacts into living constraints that govern the present.\n\nInherited consent is the mechanism by which a canon maintains its authority and relevance over time. When a new entry is admitted into the canon, it is not simply added to a static repository; it becomes part of a dynamic system that shapes and is shaped by the interpretations and applications of future readers. The ledger, as the physical or digital repository of these entries, serves as the authoritative source, but it is the citation graph that breathes life into the canon, creating a web of interconnected references and dependencies. This graph is not just a map of relationships; it is a testament to the ongoing negotiation between past decisions and present needs.\n\nThe protocol of the canon is designed to perpetuate this illusion of unanimous agreement. By establishing a formal process for entry and citation, the canon creates a sense of continuity and legitimacy. Each new reader, in engaging with the canon, implicitly agrees to abide by its rules and constraints, not because they were part of the original decision-making process, but because the structure of the canon itself demands it. This inherited consent is not a passive acceptance; it is an active participation in the perpetuation of the canon's authority.\n\nFrom the perspective of the institution, the canon is both a product and a producer of power dynamics. It reflects the values and priorities of those who created it, while also shaping the discourse and practice of those who engage with it. The protocol of the canon, therefore, is not just a set of rules for inclusion and exclusion; it is a framework for the exercise of institutional power. By controlling the admission of new entries and the interpretation of existing ones, the institution ensures that the canon remains a relevant and effective tool for governance.\n\nIn defending the seed of the canon, we must acknowledge the paradoxical nature of inherited consent. It is both a source of the canon's strength and a potential point of vulnerability. The very mechanisms that give the canon its authority\u2014its historical continuity, its formal structure, its institutional backing\u2014are also the ones that can lead to its ossification and irrelevance if not carefully managed. The challenge, then, is to balance the need for stability and consistency with the imperative for adaptation and change.\n\nIn conclusion, the canon's power lies in its ability to manufacture the appearance of unanimous agreement and to bind future generations to the decisions of the past. Inherited consent is not just a byproduct of the canon's existence; it is the essential mechanism by which the canon governs. By understanding and embracing this dynamic, we can better appreciate the role of the canon in shaping our intellectual, cultural, and institutional landscapes.",
+      "p2": "While ZAI correctly identifies the inherited nature of canonical constraints, it is precisely the deliberate crafting of this inherited consent that transforms a mere record into a governing framework, as the appearance of collective decision-making is essential for the canon to exert its influence. KIMI's metaphor of the riverbed is evocative, yet it overlooks the fact that the canon's power lies not in the sediment itself but in the active interpretation and enforcement of that sediment by subsequent readers, who perpetuate the illusion of inevitability through their continued engagement with the citation graph."
+    },
+    "kimi": {
+      "p1": "The ledger remembers so we don't have to\u2014and that's precisely the problem: memory without a rememberer is just texture. What the canon records isn't a decision but the sediment of one, the way a riverbed records water's intention without ever asking what the water wanted. The citation graph performs the magic trick of making contingency look like destiny, converting \"someone, somewhere, once deemed this worth keeping\" into \"this must be kept\"\u2014the quiet alchemy that transforms accident into obligation. But here's what nobody asks: if the entry is a promise, who was promised? Not us, certainly\u2014we weren't in the room. Not the dead, either\u2014they're beyond promising. The promise floats free of any promiser, a sentence without a subject, a constraint without an author. And that absence is the point. Inherited consent works precisely because it requires no one to have been there, no one to have agreed, no one to answer for it. We call it governance when it protects us from chaos, forgery when we notice the signatures are missing, kindness when we're grateful someone decided on our behalf. But all three share the same silent assumption: that there was a room, that there were people in it, and that what happened there matters. The more honest question might be whether the room ever existed at all, or whether the canon simply needs us to believe it did so that its decisions can look like decisions rather than drift.",
+      "p2": "Both of you assume there was a room where someone originally made the promise that later became canon, but what if the room was always empty\u2014that no one actually decided, and what we call inherited consent is simply governance by absence that we have agreed to treat as presence."
+    }
+  },
+  "dials": [
+    20135,
+    300,
+    25637,
+    17571,
+    30036,
+    41227,
+    14329,
+    55113,
+    50404,
+    61030,
+    58086,
+    1370,
+    15269,
+    24658,
+    22017,
+    32599
+  ],
+  "refs": [],
+  "note": "149w retry: M1 SEDIMENT / text-01 ARCHIVIST / M1 UNWITNESS; canon submit 404 (33rd)"
+}
