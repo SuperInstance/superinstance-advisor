@@ -1,0 +1,7 @@
+{
+  "status": 201,
+  "resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x9103b567575b79e8\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"the canon is a score only complete when the silence is scored too\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-23\",\n    \"dials\": [\n      -1190,\n      -32694,\n      -12147,\n      1607,\n      6638,\n      -151,\n      -17808,\n      -2302,\n      3946,\n      -105,\n      -17407,\n      8892,\n      12574,\n      19887,\n      -7835,\n      -25150\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x9103b567575b79e8\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-23T23:03:26.390Z\"\n  }\n}",
+  "refs": [
+    478
+  ]
+}
