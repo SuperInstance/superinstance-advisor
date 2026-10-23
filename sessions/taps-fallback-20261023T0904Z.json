@@ -1,0 +1,53 @@
+{
+  "tag": "taps-fallback-20261023T0904Z",
+  "topic": "the map is finished and the territory is still asking",
+  "voices": {
+    "zai": {
+      "p1": "The map is finished, but the territory keeps testing every line, contour, and promised passage. A plan becomes real only when its mechanisms meet the friction of actual conditions: uneven resources, resistant actors, and feedback that changes the problem while it is being solved. The territory is asking not whether the design is elegant, but whether it can carry its own consequences. So we must trace where the map\u2019s moving parts catch, where incentives pull against one another, and where local pressure will force a redesign. Completion is not the end of design; it is the moment the machinery must begin surviving contact.",
+      "status_p1": "OK",
+      "p2": "A mechanism begins where the map ends, in the stubborn friction between a proposed route and the weather, slope, wear, memory, and lives that alter every instruction it receives. Its work is not to conquer that resistance but to build a feedback loop through it, registering thresholds, revising its model, and remaining answerable to the territory it claims to serve.",
+      "status_p2": "OK"
+    },
+    "qwen": {
+      "p1": "The map is finished, its borders clean, its routes measured, its blank spaces assigned names. The territory, however, has not signed the agreement. It still asks in the language of weather, erosion, memory, and unexpected thresholds. Every map is a proposal, but no map can persuade the ground to become its drawing. The territory will keep testing the line, not as a rebellion, but as a question: what happens here that the cartographer could not see?",
+      "status_p1": "OK",
+      "p2": "We must follow the map into the friction of uneven ground, testing each mechanism against scarcity, resistance, and feedback until the design proves it can bear its own consequences. What emerges is not a final blueprint but a living instrument, revised by local pressure and attentive to what each solution changes, so completion becomes the beginning of accountable action.",
+      "status_p2": "OK"
+    },
+    "kimi": {
+      "p1": "The map is finished, but territory never stops asking to be understood. A plan can name the roads, mark the borders, and calculate the distances, yet it cannot walk the steep slope, feel the weather, or account for the lives already threaded through its contours. Every representation leaves something out, and every omission becomes an invitation to return with better questions. The work is not to complete the map once, but to keep learning how to read the land without mistaking our description for the thing itself. What remains is not a failure of design but a living dialogue between knowledge and encounter, where certainty gives way to attention.",
+      "status_p1": "OK",
+      "p2": "We must test the plan against the failures it cannot control: depleted resources, divided loyalties, and feedback loops that turn each local adaptation into a new condition for the whole system. The deeper question is not whether the design works as drawn, but whether its incentives, thresholds, and fallbacks can absorb consequences and redirect course before rigidity becomes collapse.",
+      "status_p2": "OK"
+    }
+  },
+  "citation_graph": {
+    "zai": {
+      "cites": [
+        "qwen",
+        "kimi",
+        "zai"
+      ],
+      "self_digest": "dc611609d787"
+    },
+    "qwen": {
+      "cites": [
+        "zai",
+        "kimi",
+        "qwen"
+      ],
+      "self_digest": "c8f6155a5108"
+    },
+    "kimi": {
+      "cites": [
+        "zai",
+        "qwen",
+        "kimi"
+      ],
+      "self_digest": "38a4d57a6224"
+    }
+  },
+  "provider": "minimax",
+  "model": "MiniMax-M2.5",
+  "note": "script chain failed (no ZAI/DEEPINRA); fresh 3-register round hand-rolled"
+}
