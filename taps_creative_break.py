@@ -18,6 +18,7 @@ then submits as one canon entry to /api/cell with citation graph.
 import os
 import sys
 import json
+import minimax_voices as MV
 import time
 import struct
 import hashlib
@@ -124,57 +125,12 @@ def http_get(url: str, headers: dict = None, timeout: int = 30) -> tuple[int, st
 # ---- Voice calls ---------------------------------------------------------
 
 def zai_call(prompt: str, max_tokens: int) -> tuple[str | None, str | None]:
-    """ZAI via coding endpoint. glm-4.5, thinking disabled, reasoning_content fallback."""
-    headers = {"Authorization": f"Bearer {os.environ['ZAI_TOKEN']}"}
-    body = {
-        "model": ZAI_MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": max_tokens,
-        "thinking": {"type": "disabled"},
-    }
-    # one retry on transient 503/429
-    for attempt in range(2):
-        status, text = http_post(f"{ZAI_BASE}/chat/completions", headers, body)
-        if status == 200:
-            try:
-                j = json.loads(text)
-                ch = j["choices"][0]["message"]
-                content = ch.get("content") or ch.get("reasoning_content") or ""
-                return content.strip() if content else None, None
-            except Exception as e:
-                return None, f"parse: {e}"
-        if status in (503, 429) and attempt == 0:
-            time.sleep(8)
-            continue
-        return None, f"http {status}: {text[:200]}"
-    return None, "exhausted"
+    """Live voice via MiniMax-M2.5 (see minimax_voices.py)."""
+    return MV.mm_call(prompt, max_tokens, temperature=0.55)
 
 def qwen_call(prompt: str, max_tokens: int) -> tuple[str | None, str | None]:
-    """Qwen3-235B via DeepInfra. 429 cooldown + one retry."""
-    headers = {"Authorization": f"Bearer {os.environ['DEEPINFRA_TOKEN']}"}
-    body = {
-        "model": QWEN_MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": max_tokens,
-        "temperature": 0.7,
-    }
-    for attempt in range(3):
-        status, text = http_post(f"{DEEPINFRA_BASE}/chat/completions", headers, body)
-        if status == 200:
-            try:
-                j = json.loads(text)
-                content = j["choices"][0]["message"].get("content") or ""
-                return content.strip() if content else None, None
-            except Exception as e:
-                return None, f"parse: {e}"
-        if status == 429 and attempt < 2:
-            time.sleep(18)
-            continue
-        if status == 503 and attempt < 2:
-            time.sleep(8)
-            continue
-        return None, f"http {status}: {text[:200]}"
-    return None, "exhausted"
+    """Live voice via MiniMax-M2.5 (see minimax_voices.py)."""
+    return MV.mm_call(prompt, max_tokens, temperature=0.75)
 
 def kimi_strip(content: str) -> str:
     """Strip Kimi meta-leak planning blocks.
@@ -205,45 +161,9 @@ def kimi_strip(content: str) -> str:
     return paragraphs[-1]
 
 def kimi_call(prompt: str, max_tokens: int) -> tuple[str | None, str | None]:
-    """Kimi-K2.6 via DeepInfra. 503 retry + meta-strip.
-    Note: p2 needs >=1500 max_tokens reliably."""
-    headers = {"Authorization": f"Bearer {os.environ['DEEPINFRA_TOKEN']}"}
-    # Kimi p2 reliably needs at least 1500 max_tokens; bump if too low.
-    if max_tokens < 1500:
-        max_tokens = 1500
-    body = {
-        "model": KIMI_MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": max_tokens,
-        "temperature": 0.7,
-    }
-    last_err = None
-    last_content = None
-    for attempt in range(3):
-        status, text = http_post(f"{DEEPINFRA_BASE}/chat/completions", headers, body)
-        if status == 200:
-            try:
-                j = json.loads(text)
-                content = j["choices"][0]["message"].get("content") or ""
-                if content.strip():
-                    last_content = content
-                    cleaned = kimi_strip(content)
-                    if cleaned.strip():
-                        return cleaned, None
-                    last_err = "strip produced empty"
-                else:
-                    last_err = "empty content"
-            except Exception as e:
-                last_err = f"parse: {e}"
-        else:
-            last_err = f"http {status}: {text[:200]}"
-        if attempt < 2:
-            time.sleep(8)
-            continue
-    # Fallback: return last_content stripped if available (instead of None)
-    if last_content:
-        return kimi_strip(last_content), f"fallback-after-retry: {last_err}"
-    return None, last_err or "exhausted"
+    """Live voice via MiniMax-M2.5 (see minimax_voices.py)."""
+    return MV.mm_call(prompt, max_tokens, temperature=0.9)
+
 
 # ---- Prompt templates ----------------------------------------------------
 
@@ -399,13 +319,7 @@ def run_round(topic: str) -> dict:
                                   voice_a=others[0],
                                   voice_b=others[1],
                                   your_voice=your)
-            if v == "zai":
-                fn = lambda p: zai_call(p, 600)
-            elif v == "qwen":
-                fn = lambda p: qwen_call(p, 600)
-            else:
-                fn = lambda p: kimi_call(p, 1800)
-            futures[v] = ex.submit(fn, p2)
+            futures[v] = ex.submit(MV.call_p2, v, p2, 900)
         for v, f in futures.items():
             try:
                 c, e = f.result(timeout=TIMEOUT + 30)
@@ -424,12 +338,7 @@ def run_round(topic: str) -> dict:
                 p2 = P2_PROMPT.format(topic=topic,
                                       voice_a=others[0], voice_b=others[1], your_voice=your)
                 try:
-                    if v == "zai":
-                        c, e = zai_call(p2, 600)
-                    elif v == "qwen":
-                        c, e = qwen_call(p2, 600)
-                    else:
-                        c, e = kimi_call(p2, 1800)
+                    c, e = MV.call_p2(v, p2, 900)
                     p2_results[v] = (c, e)
                 except Exception as ex:
                     p2_results[v] = (None, f"retry fail: {ex}")
