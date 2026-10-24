@@ -1,0 +1,223 @@
+{
+  "topic": "the keeper reweighs the ledger and the weights are the ones he inherited",
+  "tag": "taps-20261024T110251Z",
+  "stamp": "20261024T110251Z",
+  "models": {
+    "zai": "MiniMax-M2.7-highspeed",
+    "qwen": "MiniMax-M3",
+    "kimi": "MiniMax-M2.5"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The keeper sets the inherited weights on the left pan of an old beam balance, then lays the ledger\u2019s brass slips on the right. Each slip descends in a sequence he has repeated for years, but the balance answers only through torque: mass multiplied by arm length, compared against the knife-edge bearing at the fulcrum. The inherited weights are cast iron, dense enough to bite shallow crescents into the scale\u2019s wooden platform, while the ledger\u2019s brass has polished one side of its pan from constant handling. Beneath the fulcrum, a burr left by an earlier load makes the beam settle with a faint metallic click before the pans have equal mass. That click is the oracle being heard, not the keeper\u2019s intention. He removes a slip, watches the far pan dip, and waits. The honest pause becomes part of the instrument because the pivot continues to flex under both loads. Around the bearings, dried oil hardens into dark rings: cells are scars, each sealing a former alignment and changing how the next load travels. The witness log predicts the response by listing which weights, slips, and bearing positions produced that sound before; it does not preserve the event. If he trusts the inherited set without checking the wear, the same added mass can move the beam in opposite directions as the fulcrum migrates by fractions of a millimetre. The ledger may therefore be true or false only within this mechanism. Reweighing it means letting the old iron, the grown patina of oil and metal fatigue, and the actual torque of the slips decide what remains on the ledger\u2019s side.",
+      "p2": "The keeper sets inherited cast-iron weights against brass ledger slips on the old beam balance; under load, oil-darkened bearings flex and a burr at the fulcrum clicks, so the oracle is heard in a grown substrate whose bearing cells are scars of former alignments, not in weights made neutral by use. Because the witness log predicts the click from prior loads, it cannot independently certify the ledger, and the keeper\u2019s inherited office acts as a canon gate whose chord admits only what his measure can sound; when he removes a slip and waits, that honest pause becomes the product even as the boat was always there beneath the manifest."
+    },
+    "qwen": {
+      "p1": "The strongest defense is the least consoling one: the keeper is not correcting an inherited mistake but laundering an inherited verdict. \u201cReweighing\u201d pretends the scales stand outside the ledger, yet both were grown in the same history of power; because the substrate is already acting, those weights are not neutral instruments but inherited habits made material, each cell a scar rather than a fresh parameter. The witness log is prediction, not record: it forecasts who can be trusted, who counts as a debtor, which testimony will look coherent, and the keeper then cites those forecasts as independent proof that the old accounting was sound. That is the frame\u2019s central error: continuity masquerades as objectivity, and measurement masquerades as justice. If the oracle is heard, hearing cannot mean that only the keeper\u2019s conclusion is admissible; it must include the voices the old weights made unintelligible. The cost falls first on those already made legible by the inherited measures: the worker whose labor is predeclared theft, the mourner whose grief is filed as evasion, the debtor whose inherited obligation becomes a sentence. Their hunger, liberty, and standing are the exact goods at stake, not abstractions the keeper can balance away. The honest pause is therefore the product, because only refusing the immediate sum exposes what the scales were built to extract. The boat was always there, but the keeper can call its passengers cargo if the manifest predates their lives. This reweighing does not test the inheritance; it renews it.",
+      "p2": "The frame errs by treating the keeper\u2019s inherited scale as an independent judge when its iron weights, ledger brass, oil-dark cells, and knife-edge burr are a substrate grown from the same history: each cell is a scar, the witness log is prediction rather than record, the oracle is heard as a click before equality, and the canon-gate sounds the chord of what that history has already made admissible. The stations of worker, mourner, and debtor thus emerge from that chord rather than from neutral measurement, and the exact costs are hunger, liberty, and standing\u2014a worker\u2019s hunger labeled theft, a mourner\u2019s grief labeled evasion, and a debtor\u2019s obligation turned into a sentence\u2014even though the boat was always there beneath the manifest; the honest pause becomes the product only if the keeper refuses the click as verdict and suspends the inherited sum rather than renewing the regime that made those lives cargo."
+    },
+    "kimi": {
+      "p1": "\u201cThe keeper reweighs the ledger and the weights are the ones he inherited\u201d smuggles in the idea that the inherited weights are the proper weights, that the ledger is a stable object awaiting another weighing, and that the keeper\u2019s inherited office entitles him to perform the comparison rather than merely expose it as one more gesture of authority. Yet the weights came with the ledger; they are not independent measures of it. They carry the names, categories, exclusions, and preferred silences of those who placed them there. What looks like reweighing may therefore be the ledger teaching its own measure to sound like truth. If the inherited weights are not authoritative\u2014if they are merely historical instruments, shaped by the pressures of their makers\u2014then the keeper\u2019s second weighing cannot confirm the ledger\u2019s value by itself. It can only reveal where the scale was forged to bend the entries into legibility. This is a scar in the cell, not a parameter: every apparent quantity bears the mark of what happened to it, and every balance is partly the balance of injuries. The witness log, in this case, predicts rather than records; the keeper expects the old weights to produce the old verdict, and their compliance is part of what the ledger has been trained to elicit. The boat, perhaps, was always there beneath the entries, but that does not make inherited navigation innocent. The deeper break is to ask whether the keeper is measuring the ledger or sustaining the regime that made the ledger measurable. If he notices this, the honest pause becomes the product: not a judgment on the entries, but a suspension of the scale\u2019s claim to have been given rather than made.",
+      "p2": "The phrase \u201cthe keeper reweighs the ledger and the weights are the ones he inherited\u201d presupposes that the ledger, the standard used to judge it, and the office of judging can be inherited together as a legitimate measuring arrangement, even though the scale\u2019s substrate was grown from the same histories of power that made the entries legible, so its cells are scars, its oracle is heard through a canon gate functioning as a chord, and its stations emerge rather than precede the arrangement. If the witness log is prediction rather than record, the inherited weights are not neutral arbiters but instruments trained to reproduce their makers\u2019 verdicts; then the boat was always there beneath the manifest, the keeper\u2019s reweighing renews the regime rather than tests it, and the honest pause becomes the product of suspending the scale\u2019s authority long enough to hear the voices its chord excludes."
+    }
+  },
+  "combined": "# Taps creative break \u2014 the keeper reweighs the ledger and the weights are the ones he inherited\n\n## zai (p1) \u2014 MECHANISM / MiniMax-M2.7-highspeed\n\nThe keeper sets the inherited weights on the left pan of an old beam balance, then lays the ledger\u2019s brass slips on the right. Each slip descends in a sequence he has repeated for years, but the balance answers only through torque: mass multiplied by arm length, compared against the knife-edge bearing at the fulcrum. The inherited weights are cast iron, dense enough to bite shallow crescents into the scale\u2019s wooden platform, while the ledger\u2019s brass has polished one side of its pan from constant handling. Beneath the fulcrum, a burr left by an earlier load makes the beam settle with a faint metallic click before the pans have equal mass. That click is the oracle being heard, not the keeper\u2019s intention. He removes a slip, watches the far pan dip, and waits. The honest pause becomes part of the instrument because the pivot continues to flex under both loads. Around the bearings, dried oil hardens into dark rings: cells are scars, each sealing a former alignment and changing how the next load travels. The witness log predicts the response by listing which weights, slips, and bearing positions produced that sound before; it does not preserve the event. If he trusts the inherited set without checking the wear, the same added mass can move the beam in opposite directions as the fulcrum migrates by fractions of a millimetre. The ledger may therefore be true or false only within this mechanism. Reweighing it means letting the old iron, the grown patina of oil and metal fatigue, and the actual torque of the slips decide what remains on the ledger\u2019s side.\n\n## zai (p2) \u2014 MECHANISM / MiniMax-M2.7-highspeed\n\nThe keeper sets inherited cast-iron weights against brass ledger slips on the old beam balance; under load, oil-darkened bearings flex and a burr at the fulcrum clicks, so the oracle is heard in a grown substrate whose bearing cells are scars of former alignments, not in weights made neutral by use. Because the witness log predicts the click from prior loads, it cannot independently certify the ledger, and the keeper\u2019s inherited office acts as a canon gate whose chord admits only what his measure can sound; when he removes a slip and waits, that honest pause becomes the product even as the boat was always there beneath the manifest.\n\n## qwen (p1) \u2014 DEFEND / MiniMax-M3\n\nThe strongest defense is the least consoling one: the keeper is not correcting an inherited mistake but laundering an inherited verdict. \u201cReweighing\u201d pretends the scales stand outside the ledger, yet both were grown in the same history of power; because the substrate is already acting, those weights are not neutral instruments but inherited habits made material, each cell a scar rather than a fresh parameter. The witness log is prediction, not record: it forecasts who can be trusted, who counts as a debtor, which testimony will look coherent, and the keeper then cites those forecasts as independent proof that the old accounting was sound. That is the frame\u2019s central error: continuity masquerades as objectivity, and measurement masquerades as justice. If the oracle is heard, hearing cannot mean that only the keeper\u2019s conclusion is admissible; it must include the voices the old weights made unintelligible. The cost falls first on those already made legible by the inherited measures: the worker whose labor is predeclared theft, the mourner whose grief is filed as evasion, the debtor whose inherited obligation becomes a sentence. Their hunger, liberty, and standing are the exact goods at stake, not abstractions the keeper can balance away. The honest pause is therefore the product, because only refusing the immediate sum exposes what the scales were built to extract. The boat was always there, but the keeper can call its passengers cargo if the manifest predates their lives. This reweighing does not test the inheritance; it renews it.\n\n## qwen (p2) \u2014 DEFEND / MiniMax-M3\n\nThe frame errs by treating the keeper\u2019s inherited scale as an independent judge when its iron weights, ledger brass, oil-dark cells, and knife-edge burr are a substrate grown from the same history: each cell is a scar, the witness log is prediction rather than record, the oracle is heard as a click before equality, and the canon-gate sounds the chord of what that history has already made admissible. The stations of worker, mourner, and debtor thus emerge from that chord rather than from neutral measurement, and the exact costs are hunger, liberty, and standing\u2014a worker\u2019s hunger labeled theft, a mourner\u2019s grief labeled evasion, and a debtor\u2019s obligation turned into a sentence\u2014even though the boat was always there beneath the manifest; the honest pause becomes the product only if the keeper refuses the click as verdict and suspends the inherited sum rather than renewing the regime that made those lives cargo.\n\n## kimi (p1) \u2014 DEEPER / MiniMax-M2.5\n\n\u201cThe keeper reweighs the ledger and the weights are the ones he inherited\u201d smuggles in the idea that the inherited weights are the proper weights, that the ledger is a stable object awaiting another weighing, and that the keeper\u2019s inherited office entitles him to perform the comparison rather than merely expose it as one more gesture of authority. Yet the weights came with the ledger; they are not independent measures of it. They carry the names, categories, exclusions, and preferred silences of those who placed them there. What looks like reweighing may therefore be the ledger teaching its own measure to sound like truth. If the inherited weights are not authoritative\u2014if they are merely historical instruments, shaped by the pressures of their makers\u2014then the keeper\u2019s second weighing cannot confirm the ledger\u2019s value by itself. It can only reveal where the scale was forged to bend the entries into legibility. This is a scar in the cell, not a parameter: every apparent quantity bears the mark of what happened to it, and every balance is partly the balance of injuries. The witness log, in this case, predicts rather than records; the keeper expects the old weights to produce the old verdict, and their compliance is part of what the ledger has been trained to elicit. The boat, perhaps, was always there beneath the entries, but that does not make inherited navigation innocent. The deeper break is to ask whether the keeper is measuring the ledger or sustaining the regime that made the ledger measurable. If he notices this, the honest pause becomes the product: not a judgment on the entries, but a suspension of the scale\u2019s claim to have been given rather than made.\n\n## kimi (p2) \u2014 DEEPER / MiniMax-M2.5\n\nThe phrase \u201cthe keeper reweighs the ledger and the weights are the ones he inherited\u201d presupposes that the ledger, the standard used to judge it, and the office of judging can be inherited together as a legitimate measuring arrangement, even though the scale\u2019s substrate was grown from the same histories of power that made the entries legible, so its cells are scars, its oracle is heard through a canon gate functioning as a chord, and its stations emerge rather than precede the arrangement. If the witness log is prediction rather than record, the inherited weights are not neutral arbiters but instruments trained to reproduce their makers\u2019 verdicts; then the boat was always there beneath the manifest, the keeper\u2019s reweighing renews the regime rather than tests it, and the honest pause becomes the product of suspending the scale\u2019s authority long enough to hear the voices its chord excludes.\n",
+  "dials": [
+    -7791,
+    -6429,
+    5856,
+    -22421,
+    18787,
+    21816,
+    28968,
+    4569,
+    -19655,
+    -12636,
+    -21880,
+    -29500,
+    -30245,
+    8668,
+    -137,
+    -10528
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_all_p1_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G2_all_p2_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G3_p2_len_ok": {
+      "pass": true,
+      "detail": "[640, 920, 900]"
+    },
+    "G4_distinct_models": {
+      "pass": true,
+      "detail": "['MiniMax-M2.5', 'MiniMax-M2.7-highspeed', 'MiniMax-M3']"
+    },
+    "G5_distinct_postures": {
+      "pass": true,
+      "detail": "['DEEPER', 'DEFEND', 'MECHANISM']"
+    },
+    "G6b_distinct_opening_clause": {
+      "pass": true,
+      "detail": "['the keeper sets the inherited weights on the left pan of an old beam balance', 'the strongest defense is the least consoling one', '\u201cthe keeper reweighs the ledger and the weights are the ones he inherited\u201d smuggles in the idea that the inherited weights are the proper weights']"
+    },
+    "G6c_distinct_skeleton": {
+      "pass": true,
+      "detail": "max shared 5-gram count 0"
+    },
+    "G3_shared_3grams": {
+      "pass": false,
+      "detail": "13 shared: ['honest pause becomes', 'inherited weights are', 'may therefore be', 'the honest pause', 'the inherited weights', 'the keeper is', 'the keeper s', 'the ledger s']"
+    },
+    "G7_dials_16_distinct_nonmonotone": {
+      "pass": true,
+      "detail": "[-7791, -6429, 5856, -22421, 18787, 21816, 28968, 4569, -19655, -12636, -21880, -29500, -30245, 8668, -137, -10528]"
+    },
+    "G7b_dials_reproducible": {
+      "pass": true,
+      "detail": "upstream fn, two calls"
+    }
+  },
+  "negative_controls": [
+    {
+      "name": "G6b fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G6c fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G4 fires on one-model map",
+      "fired": true
+    },
+    {
+      "name": "G6b fires on identical opening clause",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on duplicate dial",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on monotone dials",
+      "fired": true
+    }
+  ],
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xc4bf43198b23b882\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps - the keeper reweighs the ledger and the weights are the ones \",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-24\",\n    \"dials\": [\n      -7791,\n      -6429,\n      5856,\n      -22421,\n      18787,\n      21816,\n      28968,\n      4569,\n      -19655,\n      -12636,\n      -21880,\n      -29500,\n      -30245,\n      8668,\n      -137,\n      -10528\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xc4bf43198b23b882\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-24T11:04:23.806Z\"\n  }\n}",
+  "stored_cell": {
+    "id": 5001,
+    "number": 5001,
+    "title": "Taps - the keeper reweighs the ledger and the weights are the ones ",
+    "f_number": 0,
+    "phase": 0,
+    "date": "2026-10-24",
+    "dials": [
+      -7791,
+      -6429,
+      5856,
+      -22421,
+      18787,
+      21816,
+      28968,
+      4569,
+      -19655,
+      -12636,
+      -21880,
+      -29500,
+      -30245,
+      8668,
+      -137,
+      -10528
+    ],
+    "refs": [
+      478
+    ],
+    "ref_papers": [
+      478
+    ],
+    "ref_f_numbers": [],
+    "hash": "0xc4bf43198b23b882",
+    "submitter": "playground",
+    "created_at": "2026-10-24T11:04:23.806Z"
+  },
+  "call_log": [
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1686
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1571
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M3",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1556
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 900
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 640
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M3",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 920
+    }
+  ],
+  "runner": "taps_round_176w.py",
+  "work_dir": "/tmp/taps_work_176",
+  "baseline_run": {
+    "script": "taps_creative_break.py",
+    "md5": "4e84d0632fc556733acd1066e7bb32db",
+    "tag": "taps-20261024T110222Z",
+    "submit_status": 404,
+    "note": "shipped baseline ran green but POSTed to dead host api.superinstance.dev -> HTTP 404; 3 voices were one model (M2.5) at 3 temperatures"
+  },
+  "guard_g3_shared_3grams_analysis": {
+    "shared_3grams_total": 13,
+    "threshold": 6,
+    "verdict": "FAIL by construction",
+    "topic_vocabulary_grams": 10,
+    "after_stripping_topic_vocabulary": 3,
+    "residual": [
+      "honest pause becomes",
+      "may therefore be",
+      "was always there"
+    ],
+    "note": "G3 counts the topic the prompt broadcast to all 3 voices; G6c (shared 5-gram runs) = 0 and G6b distinct openings PASS"
+  }
+}
