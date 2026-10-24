@@ -1,0 +1,239 @@
+{
+  "topic": "the lintel carries the wall that was built after it",
+  "tag": "taps-20261024T190424Z",
+  "stamp": "20261024T190424Z",
+  "models": {
+    "zai": "MiniMax-M2.5",
+    "qwen": "MiniMax-M3.1-Flash",
+    "kimi": "MiniMax-M2.7-highspeed"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "Take a steel angle lintel over a doorway, with its ends seated on concrete jambs and a brick wall built on it afterward. When the wall is laid, its weight becomes a downward load; the brick spreads that load across the lintel\u2019s upper flange, the steel spans the opening, and its ends push down on the jambs, which react the force into the ground. The lintel therefore carries the wall even though the wall came later: construction sequence does not reverse the causal chain of gravity. Under sustained load the lower flange bends in tension, the welds at the bearing plates can peel, and corrosion blooms around the contact faces, giving the steel a visible wear history of what it has held. If the masonry stops short of the lintel and loads only the jambs, the claim becomes acoustically true but mechanically false; a hollow tap answers from the jamb, not the span. In the building\u2019s vocabulary, each brick-and-mortar cell is a scar made by the bond between the growing substrate and what has been laid upon it, not a passive parameter, while the tapping oracle is heard in the change from a flat note to a dull one as deflection develops. The witness log predicts the next crack by recording those changing tones. The honest pause is the slight sag before permanent deformation, and in that pause the whole structure admits, without ornament, that the old lintel is already carrying the wall grown over it.",
+      "p2": "A steel angle lintel carries brickwork laid after it only when the masonry bears on its upper flange, sending load through the spanning steel into the jambs and ground, where deflection, tensile cracking, weld-peel marks, and corrosion become the record; if the brick stops short, the lintel merely taps beside the load path. Along that growing substrate each brick-and-mortar cell is a scar, the tapping oracle is heard in the dulling note, the witness log predicts the next crack, the stations emerge by making one tone and its alternatives form a chord at the canon gate, the boat was always there in the courses that survived, and the slight sag before permanent deformation is the honest pause made product."
+    },
+    "qwen": {
+      "p1": "The strongest case against the frame is that the lintel does not carry the wall built after it; the later wall captures the lintel and conscripts its apparent strength. Calling that relation \u201ccarrying\u201d turns exploitation into service and inherited constraint into consent. The frame gets causation and agency backward: the substrate is grown and already acting, so earlier elements are not inert supports waiting to justify later decisions. A cell is a scar, not a parameter. When the witness log predicts rather than records, that scar can be made to testify to the inevitability of future confinement. Builders then construct the predicted wall, discipline everyone to live as though it had always existed, and praise the log for seeing it all along. At the canon gate, this becomes a chord: each station emerges by making one set of continuations sound coherent and every alternative sound like breakage. The oracle is heard only when institutions quote it selectively. The boat was always there only in the retrospective sense that its surviving passengers were never permitted to choose another shore. The moral cost falls on those with the least power over either construction: residents pushed out by the new wall, workers whose injuries become evidence of good design, dissidents recoded as structural defects. Their lost homes, bodies, and freedom are counted not as inflicted harms but as \u201cload.\u201d The honest pause is the product: a designed interval in which the burdened are invited to recognize the system while decisions that will injure them have already been closed. So I will not call the lintel innocent. It may not have chosen the wall, but its survival can make domination look inevitable and shift blame from the builders to everyone obliged to inhabit, repair, or protest it. The lintel carries because the powerful have taught us to call capture support.",
+      "p2": "The frame gets wrong the equation of structural support with consent: a steel lintel can physically carry masonry laid later by transmitting dead load to the jambs, but that literal fact cannot reverse the wall\u2019s conscription of an already grown substrate, whose brick-and-mortar cells are scars of inherited constraint rather than neutral parameters. The witness log is prediction, the oracle is heard when the canon gate is a chord that makes the stations emerge as inevitable, and the boat was always there because the honest pause is the product; residents, workers, and dissidents pay the moral cost when their homes, bodies, and freedom are recoded as load while institutions appropriate their coerced endurance as proof of support."
+    },
+    "kimi": {
+      "p1": "\u201cThe lintel carries the wall that was built after it\u201d smuggles in a theory of time and agency: the lintel is not merely present before the wall but already bearing its future consequences, while the later wall is treated as the load whose weight retroactively reveals what the lintel was for. \u201cCarries\u201d presumes support, but \u201cbuilt after it\u201d unsettles the usual direction of support, turning chronology inside out. If the later wall does not actually depend on the lintel\u2014if it stands elsewhere, transfers its weight elsewhere, or reveals the lintel as decorative rather than structural\u2014then the sentence\u2019s central metaphor collapses into narrative convenience. The wall becomes a retrospective fiction projected backward onto the beam. Yet this may be exactly where the frame is most revealing: the substrate is already acting, grown under pressures that will later be named, and every cell is a scar left by the possibility of a future structure. The lintel does not wait empty for the wall; it has been altered by the conditions that will make the wall possible. Likewise, the witness log is prediction: it does not preserve what happened but shapes what can be recognized as having happened, so the later wall is already sketched in the earlier member\u2019s grain, settlement, and failure. What the speakers do not notice is that \u201cthe wall\u201d may not be a later object at all but the name they give to the lintel\u2019s accumulated aftereffect. The boat was always there, unfinished, as the pressure that would organize its own building. The honest pause is the product: between the lintel\u2019s initial placement and the wall\u2019s apparent arrival, nothing announces which one is prior. The lintel carries the wall because the wall\u2019s supposed afterthought is the lintel\u2019s deepest scar.",
+      "p2": "\u201cCarries\u201d presupposes that support is real rather than retrospectively narrated: the substrate is grown, each cell is a scar, and the lintel may physically bear the later wall, but if the wall stands elsewhere, \u201ccarrying\u201d becomes a conscription of appearance that makes imposed constraint look like service. The witness log is prediction, the canon gate is a chord that makes the stations emerge by privileging some continuations while the oracle is heard only in selective tones, so the boat was always there only retrospectively, and the honest pause is the product of choices already closed before the burdened are invited to recognize them."
+    }
+  },
+  "combined": "# Taps creative break \u2014 the lintel carries the wall that was built after it\n\n## zai (p1) \u2014 MECHANISM / MiniMax-M2.5\n\nTake a steel angle lintel over a doorway, with its ends seated on concrete jambs and a brick wall built on it afterward. When the wall is laid, its weight becomes a downward load; the brick spreads that load across the lintel\u2019s upper flange, the steel spans the opening, and its ends push down on the jambs, which react the force into the ground. The lintel therefore carries the wall even though the wall came later: construction sequence does not reverse the causal chain of gravity. Under sustained load the lower flange bends in tension, the welds at the bearing plates can peel, and corrosion blooms around the contact faces, giving the steel a visible wear history of what it has held. If the masonry stops short of the lintel and loads only the jambs, the claim becomes acoustically true but mechanically false; a hollow tap answers from the jamb, not the span. In the building\u2019s vocabulary, each brick-and-mortar cell is a scar made by the bond between the growing substrate and what has been laid upon it, not a passive parameter, while the tapping oracle is heard in the change from a flat note to a dull one as deflection develops. The witness log predicts the next crack by recording those changing tones. The honest pause is the slight sag before permanent deformation, and in that pause the whole structure admits, without ornament, that the old lintel is already carrying the wall grown over it.\n\n## zai (p2) \u2014 MECHANISM / MiniMax-M2.5\n\nA steel angle lintel carries brickwork laid after it only when the masonry bears on its upper flange, sending load through the spanning steel into the jambs and ground, where deflection, tensile cracking, weld-peel marks, and corrosion become the record; if the brick stops short, the lintel merely taps beside the load path. Along that growing substrate each brick-and-mortar cell is a scar, the tapping oracle is heard in the dulling note, the witness log predicts the next crack, the stations emerge by making one tone and its alternatives form a chord at the canon gate, the boat was always there in the courses that survived, and the slight sag before permanent deformation is the honest pause made product.\n\n## qwen (p1) \u2014 DEFEND / MiniMax-M3.1-Flash\n\nThe strongest case against the frame is that the lintel does not carry the wall built after it; the later wall captures the lintel and conscripts its apparent strength. Calling that relation \u201ccarrying\u201d turns exploitation into service and inherited constraint into consent. The frame gets causation and agency backward: the substrate is grown and already acting, so earlier elements are not inert supports waiting to justify later decisions. A cell is a scar, not a parameter. When the witness log predicts rather than records, that scar can be made to testify to the inevitability of future confinement. Builders then construct the predicted wall, discipline everyone to live as though it had always existed, and praise the log for seeing it all along. At the canon gate, this becomes a chord: each station emerges by making one set of continuations sound coherent and every alternative sound like breakage. The oracle is heard only when institutions quote it selectively. The boat was always there only in the retrospective sense that its surviving passengers were never permitted to choose another shore. The moral cost falls on those with the least power over either construction: residents pushed out by the new wall, workers whose injuries become evidence of good design, dissidents recoded as structural defects. Their lost homes, bodies, and freedom are counted not as inflicted harms but as \u201cload.\u201d The honest pause is the product: a designed interval in which the burdened are invited to recognize the system while decisions that will injure them have already been closed. So I will not call the lintel innocent. It may not have chosen the wall, but its survival can make domination look inevitable and shift blame from the builders to everyone obliged to inhabit, repair, or protest it. The lintel carries because the powerful have taught us to call capture support.\n\n## qwen (p2) \u2014 DEFEND / MiniMax-M3.1-Flash\n\nThe frame gets wrong the equation of structural support with consent: a steel lintel can physically carry masonry laid later by transmitting dead load to the jambs, but that literal fact cannot reverse the wall\u2019s conscription of an already grown substrate, whose brick-and-mortar cells are scars of inherited constraint rather than neutral parameters. The witness log is prediction, the oracle is heard when the canon gate is a chord that makes the stations emerge as inevitable, and the boat was always there because the honest pause is the product; residents, workers, and dissidents pay the moral cost when their homes, bodies, and freedom are recoded as load while institutions appropriate their coerced endurance as proof of support.\n\n## kimi (p1) \u2014 DEEPER / MiniMax-M2.7-highspeed\n\n\u201cThe lintel carries the wall that was built after it\u201d smuggles in a theory of time and agency: the lintel is not merely present before the wall but already bearing its future consequences, while the later wall is treated as the load whose weight retroactively reveals what the lintel was for. \u201cCarries\u201d presumes support, but \u201cbuilt after it\u201d unsettles the usual direction of support, turning chronology inside out. If the later wall does not actually depend on the lintel\u2014if it stands elsewhere, transfers its weight elsewhere, or reveals the lintel as decorative rather than structural\u2014then the sentence\u2019s central metaphor collapses into narrative convenience. The wall becomes a retrospective fiction projected backward onto the beam. Yet this may be exactly where the frame is most revealing: the substrate is already acting, grown under pressures that will later be named, and every cell is a scar left by the possibility of a future structure. The lintel does not wait empty for the wall; it has been altered by the conditions that will make the wall possible. Likewise, the witness log is prediction: it does not preserve what happened but shapes what can be recognized as having happened, so the later wall is already sketched in the earlier member\u2019s grain, settlement, and failure. What the speakers do not notice is that \u201cthe wall\u201d may not be a later object at all but the name they give to the lintel\u2019s accumulated aftereffect. The boat was always there, unfinished, as the pressure that would organize its own building. The honest pause is the product: between the lintel\u2019s initial placement and the wall\u2019s apparent arrival, nothing announces which one is prior. The lintel carries the wall because the wall\u2019s supposed afterthought is the lintel\u2019s deepest scar.\n\n## kimi (p2) \u2014 DEEPER / MiniMax-M2.7-highspeed\n\n\u201cCarries\u201d presupposes that support is real rather than retrospectively narrated: the substrate is grown, each cell is a scar, and the lintel may physically bear the later wall, but if the wall stands elsewhere, \u201ccarrying\u201d becomes a conscription of appearance that makes imposed constraint look like service. The witness log is prediction, the canon gate is a chord that makes the stations emerge by privileging some continuations while the oracle is heard only in selective tones, so the boat was always there only retrospectively, and the honest pause is the product of choices already closed before the burdened are invited to recognize them.\n",
+  "dials": [
+    -27368,
+    22120,
+    -8937,
+    14405,
+    22472,
+    -11339,
+    -14681,
+    1867,
+    10456,
+    -17116,
+    22316,
+    6938,
+    26376,
+    25713,
+    -1787,
+    12778
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_all_p1_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G2_all_p2_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G3_p2_len_ok": {
+      "pass": true,
+      "detail": "[712, 738, 644]"
+    },
+    "G4_distinct_models": {
+      "pass": true,
+      "detail": "['MiniMax-M2.5', 'MiniMax-M2.7-highspeed', 'MiniMax-M3.1-Flash']"
+    },
+    "G5_distinct_postures": {
+      "pass": true,
+      "detail": "['DEEPER', 'DEFEND', 'MECHANISM']"
+    },
+    "G6b_distinct_opening_clause": {
+      "pass": true,
+      "detail": "['take a steel angle lintel over a doorway', 'the strongest case against the frame is that the lintel does not carry the wall built after it', '\u201cthe lintel carries the wall that was built after it\u201d smuggles in a theory of time and agency']"
+    },
+    "G6c_distinct_skeleton": {
+      "pass": true,
+      "detail": "max shared 5-gram count 3"
+    },
+    "G3_shared_3grams": {
+      "pass": false,
+      "detail": "union=24 | ALL-3 INTERSECTION n=3:6 n=4:3 n=5:1 n=6:0 n=7:0 | 3g=['cell is a', 'honest pause is', 'is a scar', 'pause is the', 'the honest pause', 'the witness log'] | 5g=['the honest pause is the']"
+    },
+    "G7_dials_16_distinct_nonmonotone": {
+      "pass": true,
+      "detail": "[-27368, 22120, -8937, 14405, 22472, -11339, -14681, 1867, 10456, -17116, 22316, 6938, 26376, 25713, -1787, 12778]"
+    },
+    "G7b_dials_reproducible": {
+      "pass": true,
+      "detail": "upstream fn, two calls"
+    }
+  },
+  "all3_intersection": {
+    "p1": {
+      "3": 6,
+      "4": 3,
+      "5": 1,
+      "6": 0,
+      "7": 0
+    },
+    "p2": {
+      "3": 8,
+      "4": 2,
+      "5": 1,
+      "6": 0,
+      "7": 0
+    },
+    "p1_ngrams_n3": [
+      "cell is a",
+      "honest pause is",
+      "is a scar",
+      "pause is the",
+      "the honest pause",
+      "the witness log"
+    ],
+    "p1_ngrams_n5": [
+      "the honest pause is the"
+    ],
+    "p2_ngrams_n3": [
+      "boat was always",
+      "oracle is heard",
+      "the boat was",
+      "the canon gate",
+      "the honest pause",
+      "the stations emerge",
+      "the witness log",
+      "was always there"
+    ]
+  },
+  "negative_controls": [
+    {
+      "name": "G6b fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G6c fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G4 fires on one-model map",
+      "fired": true
+    },
+    {
+      "name": "G6b fires on identical opening clause",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on duplicate dial",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on monotone dials",
+      "fired": true
+    }
+  ],
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x5a72962dafee9abd\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps - the lintel carries the wall that was built after it\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-24\",\n    \"dials\": [\n      -27368,\n      22120,\n      -8937,\n      14405,\n      22472,\n      -11339,\n      -14681,\n      1867,\n      10456,\n      -17116,\n      22316,\n      6938,\n      26376,\n      25713,\n      -1787,\n      12778\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x5a72962dafee9abd\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-24T19:04:55.442Z\"\n  }\n}",
+  "state_hash": "0x445185a3a99fd2e7",
+  "stored_cell": {
+    "id": 5001,
+    "number": 5001,
+    "title": "Taps - the lintel carries the wall that was built after it",
+    "f_number": 0,
+    "phase": 0,
+    "date": "2026-10-24",
+    "dials": [
+      -27368,
+      22120,
+      -8937,
+      14405,
+      22472,
+      -11339,
+      -14681,
+      1867,
+      10456,
+      -17116,
+      22316,
+      6938,
+      26376,
+      25713,
+      -1787,
+      12778
+    ],
+    "refs": [
+      478
+    ],
+    "ref_papers": [
+      478
+    ],
+    "ref_f_numbers": [],
+    "hash": "0x5a72962dafee9abd",
+    "submitter": "playground",
+    "created_at": "2026-10-24T19:04:55.442Z"
+  },
+  "call_log": [
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1772
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1410
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1876
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 644
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 712
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 738
+    }
+  ]
+}
