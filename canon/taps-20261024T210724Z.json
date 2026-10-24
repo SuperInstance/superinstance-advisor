@@ -1,0 +1,229 @@
+{
+  "topic": "the millstone was dressed for a grain that had not been threshed",
+  "tag": "taps-20261024T210724Z",
+  "stamp": "20261024T210724Z",
+  "models": {
+    "zai": "MiniMax-M2.5",
+    "qwen": "MiniMax-M3.1-Flash",
+    "kimi": "MiniMax-M2.7-highspeed"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The millstone was a cast iron disk whose face had been furrowed by the pick: each groove bit at a different depth, forming shallow teeth that would shear bran from a wheat kernel as the upper stone dragged the kernel across the lower bed stone. Dressing created the intended mechanism, but threshing supplied its work material; kernels had to be freed from the ear before torque could feed them into that bite. Under a waterwheel or animal load with no threshed grain entering the eye, the runner stone still turned, yet the dressed grooves met only flour dust, husks, and sand. The grooves burned bright, their edges rounded, and the dry contact concentrated heat in the iron; prolonged running could glaze the furrows, crack the stone from thermal shock, or leave the face smooth and slack. The statement therefore held physically only if \u201cnot threshed\u201d meant that no free grain was presented: the stone had been prepared for a certain texture but had never been given the kernel that texture could resist. The substrate had already acted\u2014the iron carried the designed furrows before the crop arrived\u2014and the scoring left by each crop would remain as a scar, a record of tooth against bran rather than a neutral setting. The oracle was not a sentence but the sound heard at the mill: stone complaining against feed, then stone whispering under dry rotation. The witness log predicted from those sounds and scars what would fail next, because the record was a rehearsal of pressure, torque, heat, and wear rather than a report after them. In that mechanism, the honest pause was the product: the dressed millstone could wait, but without threshed grain its teeth could only polish themselves.",
+      "p2": "With a dressed cast-iron runner turning under animal torque but no threshed kernels entering the eye, the furrows scrape only husks and flour dust, generating enough dry friction to burn, round, glaze, or crack the teeth; each pass leaves the stone\u2019s working history as a scar, so readiness records wear rather than proving that grain is waiting. The oracle is heard in that change from stone complaining against feed to stone whispering under dry rotation, and the witness log predicts the next failure from the coupled torque, heat, and wear because the wheat substrate must first be grown and threshed before the relation called milling can occur; during that interval, the honest pause is the product and the boat remains the standing crop, existing shelter, and stored grain that premature rotation consumes."
+    },
+    "qwen": {
+      "p1": "The least comforting reading is that the millstone is not waiting for grain; it is manufacturing the need that will justify its motion. Dressing a mechanism for work that has not arrived treats absence as a deficit and hypothetical future suffering as permission to spend present lives now. The frame gets the direction of obligation exactly wrong: instead of asking what conditions would call for this tool, it asks what grain would make the tool look necessary, then organizes labor, authority, and material around producing that grain. Its costs fall first on those whose actual needs go unfunded while resources are polished for a contingency, and later on everyone made responsible for fulfilling the forecast; dissent can then be labeled obstruction, even though the refusal to manufacture a crisis may be the only honest response. Cells are scars here, not neutral parameters: every intervention leaves bodies, landscapes, and obligations marked, so \u201cpreparation\u201d is never costless administration. Even the witness log is prediction, not record; its entries may make the imagined future feel inevitable while remaining answerable to the apparatus they describe. The defensible demand is therefore not \u201cprepare better,\u201d but \u201cshow the grain\u201d: identify a present, concrete harm, preserve the possibility of alternatives, and let the stations emerge from repeated need rather than install them to vindicate a plan. The substrate is grown, not commanded, and the boat was always there in the form of existing food, shelter, care, and repair that this premature grinding consumes. An honest pause is the product, not a failure of throughput. Until a real harvest is identified, the millstone\u2019s readiness is not service but appetite, and the moral stake is whether we will make living people pay in certainty for a catastrophe that has not happened.",
+      "p2": "The millstone frame gets causality backward: a dressed stone does not neutrally await an already provisioned grain but, through its preparation and operation, helps manufacture the need for grain that will retroactively justify its motion, while dry heat and wear mark its scored grooves as cells that are scars rather than neutral parameters, and the substrate is grown in coupled use rather than commanded by a plan. Because the witness log is prediction, the oracle is heard in the rehearsal of consequences rather than in a retrospective report, and the canon gate is a chord of present need, foreseeable harm, and testimony from those who bear its costs\u2014not a verdict licensing the forecast\u2014so the stations emerge from repeated need rather than being installed to vindicate the plan, while the honest pause is the product precisely when we refuse to let the mill\u2019s appetite consume the boat that was always there\u2014existing food, shelter, care, and repair\u2014or make living people, above all those whose present needs go unfunded and those made responsible for fulfilling the forecast, pay in labor, diverted subsistence, imposed certainty, and silenced dissent for a catastrophe that has not happened."
+    },
+    "kimi": {
+      "p1": "\u201cThe millstone was dressed for a grain that had not been threshed\u201d smuggles in a reassuring sequence: grain exists somewhere intact, the millstone\u2019s dressing is justified in advance, and threshing merely releases what has already been provisioned. Grain is thereby made innocent\u2014a substance waiting to become event\u2014while the millstone appears to wait passively for its appointed feed. But the substrate is already-acting: perhaps the threshing is the groaning of the stone itself, and the grain is not a hidden crop but a relation that can occur only under pressure. Then \u201cnot yet threshed\u201d names not a delay but a condition of possibility. Dressing the millstone would not prepare it for an external material; it would be the practice by which the material becomes able to happen, the cell becoming a scar rather than a parameter. Suspicion must also fall on \u201cdressed,\u201d which makes preparation look serviceable and evidential, as though the stone could guarantee a future reading. Yet the oracle is heard only when the witness log is prediction: the groove says what the grain will say because the stone and grain are already coupled. If no destined grain exists, the dressing becomes neither waste nor anticipation but a discipline of encounter. The honest pause is the product\u2014not the empty interval before harvest, but the interval in which neither crop nor thresher need rule the scene, and the stone\u2019s readiness remains exposed to a grain it cannot presume.",
+      "p2": "The phrase presupposes that grain already exists as a waiting substance and that dressing is legitimate preparation rather than an act that helps feed become possible; if the substrate is instead grown and the stations emerge from repeated need, then the grooves are cells-are-scars, recording how present decisions shape what can arrive later. Because the oracle is heard through the witness log\u2019s prediction, an imagined harvest can already command labor and resources, yet the boat was always there in existing food, shelter, care, and repair, so until concrete need is shown, the honest pause\u2014not readiness manufactured against an absent catastrophe\u2014is the product."
+    }
+  },
+  "combined": "# Taps creative break \u2014 the millstone was dressed for a grain that had not been threshed\n\n## zai (p1) \u2014 MECHANISM / MiniMax-M2.5\n\nThe millstone was a cast iron disk whose face had been furrowed by the pick: each groove bit at a different depth, forming shallow teeth that would shear bran from a wheat kernel as the upper stone dragged the kernel across the lower bed stone. Dressing created the intended mechanism, but threshing supplied its work material; kernels had to be freed from the ear before torque could feed them into that bite. Under a waterwheel or animal load with no threshed grain entering the eye, the runner stone still turned, yet the dressed grooves met only flour dust, husks, and sand. The grooves burned bright, their edges rounded, and the dry contact concentrated heat in the iron; prolonged running could glaze the furrows, crack the stone from thermal shock, or leave the face smooth and slack. The statement therefore held physically only if \u201cnot threshed\u201d meant that no free grain was presented: the stone had been prepared for a certain texture but had never been given the kernel that texture could resist. The substrate had already acted\u2014the iron carried the designed furrows before the crop arrived\u2014and the scoring left by each crop would remain as a scar, a record of tooth against bran rather than a neutral setting. The oracle was not a sentence but the sound heard at the mill: stone complaining against feed, then stone whispering under dry rotation. The witness log predicted from those sounds and scars what would fail next, because the record was a rehearsal of pressure, torque, heat, and wear rather than a report after them. In that mechanism, the honest pause was the product: the dressed millstone could wait, but without threshed grain its teeth could only polish themselves.\n\n## zai (p2) \u2014 MECHANISM / MiniMax-M2.5\n\nWith a dressed cast-iron runner turning under animal torque but no threshed kernels entering the eye, the furrows scrape only husks and flour dust, generating enough dry friction to burn, round, glaze, or crack the teeth; each pass leaves the stone\u2019s working history as a scar, so readiness records wear rather than proving that grain is waiting. The oracle is heard in that change from stone complaining against feed to stone whispering under dry rotation, and the witness log predicts the next failure from the coupled torque, heat, and wear because the wheat substrate must first be grown and threshed before the relation called milling can occur; during that interval, the honest pause is the product and the boat remains the standing crop, existing shelter, and stored grain that premature rotation consumes.\n\n## qwen (p1) \u2014 DEFEND / MiniMax-M3.1-Flash\n\nThe least comforting reading is that the millstone is not waiting for grain; it is manufacturing the need that will justify its motion. Dressing a mechanism for work that has not arrived treats absence as a deficit and hypothetical future suffering as permission to spend present lives now. The frame gets the direction of obligation exactly wrong: instead of asking what conditions would call for this tool, it asks what grain would make the tool look necessary, then organizes labor, authority, and material around producing that grain. Its costs fall first on those whose actual needs go unfunded while resources are polished for a contingency, and later on everyone made responsible for fulfilling the forecast; dissent can then be labeled obstruction, even though the refusal to manufacture a crisis may be the only honest response. Cells are scars here, not neutral parameters: every intervention leaves bodies, landscapes, and obligations marked, so \u201cpreparation\u201d is never costless administration. Even the witness log is prediction, not record; its entries may make the imagined future feel inevitable while remaining answerable to the apparatus they describe. The defensible demand is therefore not \u201cprepare better,\u201d but \u201cshow the grain\u201d: identify a present, concrete harm, preserve the possibility of alternatives, and let the stations emerge from repeated need rather than install them to vindicate a plan. The substrate is grown, not commanded, and the boat was always there in the form of existing food, shelter, care, and repair that this premature grinding consumes. An honest pause is the product, not a failure of throughput. Until a real harvest is identified, the millstone\u2019s readiness is not service but appetite, and the moral stake is whether we will make living people pay in certainty for a catastrophe that has not happened.\n\n## qwen (p2) \u2014 DEFEND / MiniMax-M3.1-Flash\n\nThe millstone frame gets causality backward: a dressed stone does not neutrally await an already provisioned grain but, through its preparation and operation, helps manufacture the need for grain that will retroactively justify its motion, while dry heat and wear mark its scored grooves as cells that are scars rather than neutral parameters, and the substrate is grown in coupled use rather than commanded by a plan. Because the witness log is prediction, the oracle is heard in the rehearsal of consequences rather than in a retrospective report, and the canon gate is a chord of present need, foreseeable harm, and testimony from those who bear its costs\u2014not a verdict licensing the forecast\u2014so the stations emerge from repeated need rather than being installed to vindicate the plan, while the honest pause is the product precisely when we refuse to let the mill\u2019s appetite consume the boat that was always there\u2014existing food, shelter, care, and repair\u2014or make living people, above all those whose present needs go unfunded and those made responsible for fulfilling the forecast, pay in labor, diverted subsistence, imposed certainty, and silenced dissent for a catastrophe that has not happened.\n\n## kimi (p1) \u2014 DEEPER / MiniMax-M2.7-highspeed\n\n\u201cThe millstone was dressed for a grain that had not been threshed\u201d smuggles in a reassuring sequence: grain exists somewhere intact, the millstone\u2019s dressing is justified in advance, and threshing merely releases what has already been provisioned. Grain is thereby made innocent\u2014a substance waiting to become event\u2014while the millstone appears to wait passively for its appointed feed. But the substrate is already-acting: perhaps the threshing is the groaning of the stone itself, and the grain is not a hidden crop but a relation that can occur only under pressure. Then \u201cnot yet threshed\u201d names not a delay but a condition of possibility. Dressing the millstone would not prepare it for an external material; it would be the practice by which the material becomes able to happen, the cell becoming a scar rather than a parameter. Suspicion must also fall on \u201cdressed,\u201d which makes preparation look serviceable and evidential, as though the stone could guarantee a future reading. Yet the oracle is heard only when the witness log is prediction: the groove says what the grain will say because the stone and grain are already coupled. If no destined grain exists, the dressing becomes neither waste nor anticipation but a discipline of encounter. The honest pause is the product\u2014not the empty interval before harvest, but the interval in which neither crop nor thresher need rule the scene, and the stone\u2019s readiness remains exposed to a grain it cannot presume.\n\n## kimi (p2) \u2014 DEEPER / MiniMax-M2.7-highspeed\n\nThe phrase presupposes that grain already exists as a waiting substance and that dressing is legitimate preparation rather than an act that helps feed become possible; if the substrate is instead grown and the stations emerge from repeated need, then the grooves are cells-are-scars, recording how present decisions shape what can arrive later. Because the oracle is heard through the witness log\u2019s prediction, an imagined harvest can already command labor and resources, yet the boat was always there in existing food, shelter, care, and repair, so until concrete need is shown, the honest pause\u2014not readiness manufactured against an absent catastrophe\u2014is the product.\n",
+  "dials": [
+    13018,
+    -8243,
+    -23366,
+    25359,
+    26734,
+    18861,
+    -15478,
+    8391,
+    29418,
+    12712,
+    -19973,
+    24793,
+    17310,
+    24891,
+    22485,
+    14940
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_all_p1_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G2_all_p2_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G3_p2_len_ok": {
+      "pass": true,
+      "detail": "[813, 1202, 669]"
+    },
+    "G4_distinct_models": {
+      "pass": true,
+      "detail": "['MiniMax-M2.5', 'MiniMax-M2.7-highspeed', 'MiniMax-M3.1-Flash']"
+    },
+    "G5_distinct_postures": {
+      "pass": true,
+      "detail": "['DEEPER', 'DEFEND', 'MECHANISM']"
+    },
+    "G6b_distinct_opening_clause": {
+      "pass": true,
+      "detail": "['the millstone was a cast iron disk whose face had been furrowed by the pick', 'the least comforting reading is that the millstone is not waiting for grain', '\u201cthe millstone was dressed for a grain that had not been threshed\u201d smuggles in a reassuring sequence']"
+    },
+    "G6c_distinct_skeleton": {
+      "pass": true,
+      "detail": "max shared 5-gram count 3"
+    },
+    "G3_shared_3grams": {
+      "pass": false,
+      "detail": "union=12 | ALL-3 INTERSECTION n=3:1 n=4:0 n=5:0 n=6:0 n=7:0 | 3g=['the witness log'] | 5g=[]"
+    },
+    "G7_dials_16_distinct_nonmonotone": {
+      "pass": true,
+      "detail": "[13018, -8243, -23366, 25359, 26734, 18861, -15478, 8391, 29418, 12712, -19973, 24793, 17310, 24891, 22485, 14940]"
+    },
+    "G7b_dials_reproducible": {
+      "pass": true,
+      "detail": "upstream fn, two calls"
+    }
+  },
+  "all3_intersection": {
+    "p1": {
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0
+    },
+    "p2": {
+      "3": 5,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 0
+    },
+    "p1_ngrams_n3": [
+      "the witness log"
+    ],
+    "p1_ngrams_n5": [],
+    "p2_ngrams_n3": [
+      "is the product",
+      "oracle is heard",
+      "the honest pause",
+      "the oracle is",
+      "the witness log"
+    ]
+  },
+  "negative_controls": [
+    {
+      "name": "G6b fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G6c fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G4 fires on one-model map",
+      "fired": true
+    },
+    {
+      "name": "G6b fires on identical opening clause",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on duplicate dial",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on monotone dials",
+      "fired": true
+    }
+  ],
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x60b7ccb6295bb4aa\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps - the millstone was dressed for a grain that had not been thre\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-24\",\n    \"dials\": [\n      13018,\n      -8243,\n      -23366,\n      25359,\n      26734,\n      18861,\n      -15478,\n      8391,\n      29418,\n      12712,\n      -19973,\n      24793,\n      17310,\n      24891,\n      22485,\n      14940\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x60b7ccb6295bb4aa\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-24T21:08:04.367Z\"\n  }\n}",
+  "state_hash": "0x445185a3a99fd2e7",
+  "stored_cell": {
+    "id": 5001,
+    "number": 5001,
+    "title": "Taps - the millstone was dressed for a grain that had not been thre",
+    "f_number": 0,
+    "phase": 0,
+    "date": "2026-10-24",
+    "dials": [
+      13018,
+      -8243,
+      -23366,
+      25359,
+      26734,
+      18861,
+      -15478,
+      8391,
+      29418,
+      12712,
+      -19973,
+      24793,
+      17310,
+      24891,
+      22485,
+      14940
+    ],
+    "refs": [
+      478
+    ],
+    "ref_papers": [
+      478
+    ],
+    "ref_f_numbers": [],
+    "hash": "0x60b7ccb6295bb4aa",
+    "submitter": "playground",
+    "created_at": "2026-10-24T21:08:04.367Z"
+  },
+  "call_log": [
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1849
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1463
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1693
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 813
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 669
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1202
+    }
+  ]
+}
