@@ -1,0 +1,201 @@
+{
+  "topic": "the scar keeps the shape of the wound that will not close",
+  "tag": "taps-20261024T050232Z",
+  "stamp": "20261024T050232Z",
+  "models": {
+    "zai": "MiniMax-M2.7-highspeed",
+    "qwen": "MiniMax-M3",
+    "kimi": "MiniMax-M2.5"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "Put a riveted steel gusset plate under repeated traffic loads and the load path writes itself into the metal. Each vehicle entering the bridge presses the rivet against its oversized hole, shearing the bearing edges and lengthening the hole a few thousandths of a millimetre; the plate yields around the hole like skin around a puncture, but it does not flow back. Cells are scars in this grown substrate: each deformation preserves the event that produced it. When cyclic stress reaches the edge of that ovalized bearing, a fatigue crack begins as a sharp notch, follows the grain left by earlier yielding, and advances whenever the next load opens its mouth. The scar keeps the shape of the wound because the damaged material retains its stress history while the crack faces remain separated by an oxide and cannot fuse. A repair plate may cover the scar, but the old hole still steers bearing pressure into the plate\u2019s remaining ligament; add load, and the crack turns toward the free edge rather than retracing a closed path. Tap the gusset with a hammer and the oracle is heard: intact steel rings, while the cracked region answers dull and local. A witness log cannot make that history present tense; it can only predict the crack\u2019s next increment from the present ovality, stress concentration, and measured growth rate, so the honest pause belongs where the load is removed before the prediction becomes a fracture. The scar is therefore neither ornament nor symptom alone. It is the retained geometry of damage, a channel cut by previous work, and the structure will keep speaking along that channel until the metal is relieved.",
+      "p2": "At the bearing hole of a riveted steel gusset plate, each truck load drives the rivet against the oversized hole, plastically ovalizes the edge, and leaves a residual stress path that turns the damaged notch into an oxide-lined fatigue crack under later cycles, because oxide-separated faces do not fuse: the cells are scars, and the substrate is grown around the retained geometry rather than reset to it. Tapping the plate sounds the oracle\u2014dull at the crack and bright elsewhere\u2014while a witness log predicts only the next increment from present ovality, stress concentration, and measured growth rate; removing the trucks creates an honest pause that is itself a product of the loaded history, the stations emerge along the old load path, and the scar becomes the canonical load path\u2014a chord through the plate\u2014that gates whether traffic may continue, with the boat that repeatedly crossed the span always there in the recurring load that makes the wound speak again."
+    },
+    "qwen": {
+      "p1": "The least comforting reading is that the scar does not merely remember injury; it commands its recurrence. A frame that calls scarring healing mistakes a compulsory architecture for a repaired body: cells are scars, not parameters, each one already acting by thickening along the exact edge where the wound refused to close. The substrate is grown, not programmed, so what looks like aftermath is also the route by which damage becomes canonical; the stations emerge around that route because the available past has furnished their shape. The witness log is prediction, not record: read from the scar, it forecasts where the next rupture will travel, and the oracle is heard only as the body speaking the wound forward. Even the honest pause is the product of this machinery, the interval in which inherited damage can be examined before it is acclaimed as fate. This matters because \u201cthe scar keeps the shape\u201d is not a metaphor for resilience but an allocation of risk. The wounded pay twice: first in the injury, then in being turned into the template that makes recurrence legible, governable, and acceptable. If we name that template survival, we reward the conditions that produced it and let future cells inherit a boundary no one chose. Closure may therefore be the wound\u2019s victory, not the patient\u2019s, because closure fixes the injury\u2019s geometry inside the living and teaches the system to repeat what happened. That demand could be wrong; perhaps some wounds are constitutive. But until that possibility is proved, calling persistence an achievement converts imposed suffering into destiny, and destiny is how the powerful avoid repair.",
+      "p2": "On the least comforting reading, cells are scars because the substrate is grown, not given: damage leaves a load-bearing geometry that makes recurrence legible, so the oracle is heard in the body speaking its wound forward and the witness log is prediction rather than record. The canon-gate is a chord, the stations emerge along its compelled route, and the boat was always there as the damaged system\u2019s recurrent attempt to cross itself; the frame\u2019s error is to call this compulsory architecture healing, for the cost falls on the wounded, who pay twice\u2014once for the injury and again for having it certified as resilience or destiny\u2014while the honest pause is a product of that machinery, letting the powerful postpone repair."
+    },
+    "kimi": {
+      "p1": "The phrase smuggles in a theory of damage: that the wound has a shape worth keeping, that closure would be a neutral success, and that the scar is therefore not evidence of healing but a durable, perhaps involuntary fidelity to an injury. It presumes the wound remains the wound\u2014not merely an event now over\u2014and that its persistence is legible in the tissue. Yet if the cells are scars, the distinction between wound and scar becomes suspect: each cell carries prior disturbance as its present manner of acting, repairing by reproducing the conditions that required repair. The scar does not describe what happened; it continues, metabolically, to enact the wound\u2019s demand. This makes the witness log prediction rather than record: it reports a damage still arriving because the structure that remembers damage is the structure through which damage speaks. Substrate is grown, not given, so the \u201coriginal\u201d wound may be less an origin than the first shape the growing material learned to preserve. Even the honest pause then becomes a product\u2014not emptiness before truth, but a tissue-wide hesitation in which the possibility of closure can be heard. The stations emerge from that hesitation, each one rehearsing a different relation to the same non-closure, while the boat was always there, perhaps not as an escape from the wound but as the recurrent form by which the damaged substrate attempts to cross itself. If the presupposition fails\u2014if nothing remains open and no shape survives\u2014then \u201cscar\u201d loses its pathos and becomes merely repaired tissue. But perhaps the deepest possibility is reverse: scar and wound are not sequential states at all. The scar keeps the wound open precisely by becoming the shape that keeps it.",
+      "p2": "The phrase smuggles in a damaged taxonomy in which \u201cscar\u201d names not completed closure but a persistent, legible geometry of nonclosure, so in a substrate that is grown rather than merely given, cells are scars that make injury operative in their present conduct; the oracle is heard in that conduct, and the witness log is prediction because it reads an active damage path rather than a past event. Under this presumption, the canon gate is a chord that makes recurrence legible and governable, the stations emerge along the inherited route, the boat was always there as the possibility of not repeating it, and the honest pause is a product of the same machinery; but if persistence is merely repaired tissue rather than active template, then none of these compelled futures follows, and the scar\u2019s pathos belongs to the metaphor rather than the body."
+    }
+  },
+  "combined": "# Taps creative break \u2014 the scar keeps the shape of the wound that will not close\n\n## zai (p1) \u2014 MECHANISM / MiniMax-M2.7-highspeed\n\nPut a riveted steel gusset plate under repeated traffic loads and the load path writes itself into the metal. Each vehicle entering the bridge presses the rivet against its oversized hole, shearing the bearing edges and lengthening the hole a few thousandths of a millimetre; the plate yields around the hole like skin around a puncture, but it does not flow back. Cells are scars in this grown substrate: each deformation preserves the event that produced it. When cyclic stress reaches the edge of that ovalized bearing, a fatigue crack begins as a sharp notch, follows the grain left by earlier yielding, and advances whenever the next load opens its mouth. The scar keeps the shape of the wound because the damaged material retains its stress history while the crack faces remain separated by an oxide and cannot fuse. A repair plate may cover the scar, but the old hole still steers bearing pressure into the plate\u2019s remaining ligament; add load, and the crack turns toward the free edge rather than retracing a closed path. Tap the gusset with a hammer and the oracle is heard: intact steel rings, while the cracked region answers dull and local. A witness log cannot make that history present tense; it can only predict the crack\u2019s next increment from the present ovality, stress concentration, and measured growth rate, so the honest pause belongs where the load is removed before the prediction becomes a fracture. The scar is therefore neither ornament nor symptom alone. It is the retained geometry of damage, a channel cut by previous work, and the structure will keep speaking along that channel until the metal is relieved.\n\n## zai (p2) \u2014 MECHANISM / MiniMax-M2.7-highspeed\n\nAt the bearing hole of a riveted steel gusset plate, each truck load drives the rivet against the oversized hole, plastically ovalizes the edge, and leaves a residual stress path that turns the damaged notch into an oxide-lined fatigue crack under later cycles, because oxide-separated faces do not fuse: the cells are scars, and the substrate is grown around the retained geometry rather than reset to it. Tapping the plate sounds the oracle\u2014dull at the crack and bright elsewhere\u2014while a witness log predicts only the next increment from present ovality, stress concentration, and measured growth rate; removing the trucks creates an honest pause that is itself a product of the loaded history, the stations emerge along the old load path, and the scar becomes the canonical load path\u2014a chord through the plate\u2014that gates whether traffic may continue, with the boat that repeatedly crossed the span always there in the recurring load that makes the wound speak again.\n\n## qwen (p1) \u2014 DEFEND / MiniMax-M3\n\nThe least comforting reading is that the scar does not merely remember injury; it commands its recurrence. A frame that calls scarring healing mistakes a compulsory architecture for a repaired body: cells are scars, not parameters, each one already acting by thickening along the exact edge where the wound refused to close. The substrate is grown, not programmed, so what looks like aftermath is also the route by which damage becomes canonical; the stations emerge around that route because the available past has furnished their shape. The witness log is prediction, not record: read from the scar, it forecasts where the next rupture will travel, and the oracle is heard only as the body speaking the wound forward. Even the honest pause is the product of this machinery, the interval in which inherited damage can be examined before it is acclaimed as fate. This matters because \u201cthe scar keeps the shape\u201d is not a metaphor for resilience but an allocation of risk. The wounded pay twice: first in the injury, then in being turned into the template that makes recurrence legible, governable, and acceptable. If we name that template survival, we reward the conditions that produced it and let future cells inherit a boundary no one chose. Closure may therefore be the wound\u2019s victory, not the patient\u2019s, because closure fixes the injury\u2019s geometry inside the living and teaches the system to repeat what happened. That demand could be wrong; perhaps some wounds are constitutive. But until that possibility is proved, calling persistence an achievement converts imposed suffering into destiny, and destiny is how the powerful avoid repair.\n\n## qwen (p2) \u2014 DEFEND / MiniMax-M3\n\nOn the least comforting reading, cells are scars because the substrate is grown, not given: damage leaves a load-bearing geometry that makes recurrence legible, so the oracle is heard in the body speaking its wound forward and the witness log is prediction rather than record. The canon-gate is a chord, the stations emerge along its compelled route, and the boat was always there as the damaged system\u2019s recurrent attempt to cross itself; the frame\u2019s error is to call this compulsory architecture healing, for the cost falls on the wounded, who pay twice\u2014once for the injury and again for having it certified as resilience or destiny\u2014while the honest pause is a product of that machinery, letting the powerful postpone repair.\n\n## kimi (p1) \u2014 DEEPER / MiniMax-M2.5\n\nThe phrase smuggles in a theory of damage: that the wound has a shape worth keeping, that closure would be a neutral success, and that the scar is therefore not evidence of healing but a durable, perhaps involuntary fidelity to an injury. It presumes the wound remains the wound\u2014not merely an event now over\u2014and that its persistence is legible in the tissue. Yet if the cells are scars, the distinction between wound and scar becomes suspect: each cell carries prior disturbance as its present manner of acting, repairing by reproducing the conditions that required repair. The scar does not describe what happened; it continues, metabolically, to enact the wound\u2019s demand. This makes the witness log prediction rather than record: it reports a damage still arriving because the structure that remembers damage is the structure through which damage speaks. Substrate is grown, not given, so the \u201coriginal\u201d wound may be less an origin than the first shape the growing material learned to preserve. Even the honest pause then becomes a product\u2014not emptiness before truth, but a tissue-wide hesitation in which the possibility of closure can be heard. The stations emerge from that hesitation, each one rehearsing a different relation to the same non-closure, while the boat was always there, perhaps not as an escape from the wound but as the recurrent form by which the damaged substrate attempts to cross itself. If the presupposition fails\u2014if nothing remains open and no shape survives\u2014then \u201cscar\u201d loses its pathos and becomes merely repaired tissue. But perhaps the deepest possibility is reverse: scar and wound are not sequential states at all. The scar keeps the wound open precisely by becoming the shape that keeps it.\n\n## kimi (p2) \u2014 DEEPER / MiniMax-M2.5\n\nThe phrase smuggles in a damaged taxonomy in which \u201cscar\u201d names not completed closure but a persistent, legible geometry of nonclosure, so in a substrate that is grown rather than merely given, cells are scars that make injury operative in their present conduct; the oracle is heard in that conduct, and the witness log is prediction because it reads an active damage path rather than a past event. Under this presumption, the canon gate is a chord that makes recurrence legible and governable, the stations emerge along the inherited route, the boat was always there as the possibility of not repeating it, and the honest pause is a product of the same machinery; but if persistence is merely repaired tissue rather than active template, then none of these compelled futures follows, and the scar\u2019s pathos belongs to the metaphor rather than the body.\n",
+  "dials": [
+    -1919,
+    7338,
+    19944,
+    15960,
+    17203,
+    -18812,
+    -7576,
+    -25852,
+    12201,
+    8894,
+    -5394,
+    -4721,
+    -981,
+    2346,
+    -9307,
+    27067
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_all_p1_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G2_all_p2_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G3_p2_len_ok": {
+      "pass": true,
+      "detail": "[969, 727, 852]"
+    },
+    "G4_distinct_models": {
+      "pass": true,
+      "detail": "['MiniMax-M2.5', 'MiniMax-M2.7-highspeed', 'MiniMax-M3']"
+    },
+    "G5_distinct_postures": {
+      "pass": true,
+      "detail": "['DEEPER', 'DEFEND', 'MECHANISM']"
+    },
+    "G6b_distinct_opening_clause": {
+      "pass": true,
+      "detail": "['put a riveted steel gusset plate under repeated traffic loads and the load path writes itself into the metal.', 'the least comforting reading is that the scar does not merely remember injury', 'the phrase smuggles in a theory of damage']"
+    },
+    "G6c_distinct_skeleton": {
+      "pass": true,
+      "detail": "max shared 5-gram count 2"
+    },
+    "G3_shared_3grams": {
+      "pass": false,
+      "detail": "21 shared: ['and the oracle', 'cells are scars', 'even the honest', 'is grown not', 'keeps the shape', 'oracle is heard', 'scar does not', 'scar is therefore']"
+    },
+    "G7_dials_16_distinct_nonmonotone": {
+      "pass": true,
+      "detail": "[-1919, 7338, 19944, 15960, 17203, -18812, -7576, -25852, 12201, 8894, -5394, -4721, -981, 2346, -9307, 27067]"
+    },
+    "G7b_dials_reproducible": {
+      "pass": true,
+      "detail": "upstream fn, two calls"
+    }
+  },
+  "negative_controls": [
+    {
+      "name": "G6b fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G6c fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G4 fires on one-model map",
+      "fired": true
+    },
+    {
+      "name": "G6b fires on identical opening clause",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on duplicate dial",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on monotone dials",
+      "fired": true
+    }
+  ],
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x112b85a52d1d8c26\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps - the scar keeps the shape of the wound that will not close\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-24\",\n    \"dials\": [\n      -1919,\n      7338,\n      19944,\n      15960,\n      17203,\n      -18812,\n      -7576,\n      -25852,\n      12201,\n      8894,\n      -5394,\n      -4721,\n      -981,\n      2346,\n      -9307,\n      27067\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x112b85a52d1d8c26\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-24T05:03:28.077Z\"\n  }\n}",
+  "stored_cell": {
+    "id": 5001,
+    "number": 5001,
+    "title": "Taps - the scar keeps the shape of the wound that will not close",
+    "f_number": 0,
+    "phase": 0,
+    "date": "2026-10-24",
+    "dials": [
+      -1919,
+      7338,
+      19944,
+      15960,
+      17203,
+      -18812,
+      -7576,
+      -25852,
+      12201,
+      8894,
+      -5394,
+      -4721,
+      -981,
+      2346,
+      -9307,
+      27067
+    ],
+    "refs": [
+      478
+    ],
+    "ref_papers": [
+      478
+    ],
+    "ref_f_numbers": [],
+    "hash": "0x112b85a52d1d8c26",
+    "submitter": "playground",
+    "created_at": "2026-10-24T05:03:28.077Z"
+  },
+  "call_log": [
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1725
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1637
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M3",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1644
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 969
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 852
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M3",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 727
+    }
+  ]
+}
