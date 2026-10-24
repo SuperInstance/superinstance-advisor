@@ -1,0 +1,41 @@
+{
+ "tag": "taps-20261024T010309Z-supplement",
+ "topic": "what the cells carry",
+ "stamp": "20261024T010309Z",
+ "model": "MiniMax-M1",
+ "postures": {
+  "auditor": "AUDIT (supplement)"
+ },
+ "voices": {
+  "auditor": {
+   "p1": "The ledger records the transfer and omits the transaction. Both voices have accounted for the mechanism\u2014one through the posture it bends, the other through the procedure it reenacts\u2014but neither has named what passes between giver and recipient that neither party can carry forward. The first voice locates trust in the failure; the second locates context in the reading-in. Both treat continuity as a problem of transmission. What neither ledgered was the weight of the assumption: that what mattered had been said, because it was obvious, because it had always been.\n\nIn every handoff there exists a residue of the unstated\u2014not secrets withheld but knowledge so embedded in practice that it rendered itself invisible. The drift I must record is this: the body that receives does not receive a body. The recipient inherits a shape without its history, a function without its friction. The giver, in the act of release, does not calculate what is surrendered\u2014the authority to interpret, the right to revise, the quiet authorship of the work. Both voices mistake the gap for a space to be filled, when it is in fact a silence that has already occurred. The unaccounted line is not load-bearing where trust failed; it is load-bearing because trust never had language for what it carried. The procedure that continues does so not because context was read in, but because the absence was made legible through repetition. The audit's duty is to the record that no one reads: the second handoff, the one that comes when the first recipient must pass what they never fully received. That is where the drift compounds. That is the line the first voice could not see, and the second refused to name.",
+   "p2": null
+  }
+ },
+ "combined": "## Auditor (supplement)\n\nThe ledger records the transfer and omits the transaction. Both voices have accounted for the mechanism\u2014one through the posture it bends, the other through the procedure it reenacts\u2014but neither has named what passes between giver and recipient that neither party can carry forward. The first voice locates trust in the failure; the second locates context in the reading-in. Both treat continuity as a problem of transmission. What neither ledgered was the weight of the assumption: that what mattered had been said, because it was obvious, because it had always been.\n\nIn every handoff there exists a residue of the unstated\u2014not secrets withheld but knowledge so embedded in practice that it rendered itself invisible. The drift I must record is this: the body that receives does not receive a body. The recipient inherits a shape without its history, a function without its friction. The giver, in the act of release, does not calculate what is surrendered\u2014the authority to interpret, the right to revise, the quiet authorship of the work. Both voices mistake the gap for a space to be filled, when it is in fact a silence that has already occurred. The unaccounted line is not load-bearing where trust failed; it is load-bearing because trust never had language for what it carried. The procedure that continues does so not because context was read in, but because the absence was made legible through repetition. The audit's duty is to the record that no one reads: the second handoff, the one that comes when the first recipient must pass what they never fully received. That is where the drift compounds. That is the line the first voice could not see, and the second refused to name.\n\n## Unresolved\n\nThe next cell contains a line no one has read yet. The next tap will find it.\n",
+ "dials": [
+  20266,
+  13805,
+  7708,
+  -30302,
+  -31650,
+  -24003,
+  21487,
+  -13368,
+  -5190,
+  -20857,
+  -464,
+  -32022,
+  -29426,
+  -28427,
+  -22856,
+  -711
+ ],
+ "refs": [
+  478
+ ],
+ "submit_status": 200,
+ "note": "supplement piece; dials computed on the round artifact",
+ "submit_resp": "{\"ok\": true, \"tag\": \"taps-20261024T010309Z-supplement\", \"dim\": 768}",
+ "cell_submit_status": 201
+}
