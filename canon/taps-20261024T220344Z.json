@@ -1,0 +1,226 @@
+{
+  "topic": "the bushing was set to a clearance and the clearance is the requirement",
+  "tag": "taps-20261024T220344Z",
+  "stamp": "20261024T220344Z",
+  "models": {
+    "zai": "MiniMax-M2.7-highspeed",
+    "qwen": "MiniMax-M2.5",
+    "kimi": "MiniMax-M3.1-Flash"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The rubber-bodied suspension pivot bushing is pressed into a steel sleeve, with a deliberate radial gap between the bushing and sleeve. Under braking load, the arm tries to twist, and that clearance lets the rubber deform and the sleeve move slightly instead of binding the joint solid. The clearance is therefore functional: it absorbs manufacturing variation, thermal growth, and the small amount of grime that will enter every working bushing. Set the gap too tightly and the arm binds, forcing the full brake torque through bolts, ball joints, and the tyre contact patch; the rubber is then compressed against metal until it scores, heats, and separates from its shell. Set it too loose and the pivot changes position under load, so a sharp impact travels through the clearance as a hammer blow rather than being softened by progressive rubber deflection. The worn witness is visible in the bushing: polished bands on one side of the bore and crushed material on the other are scars recording a joint that has been working beyond its designed motion. The squeak, knock, or change in tread across two nearby tyres is the oracle being heard before a fracture appears. The witness log can only predict that the present clearance is trending toward looseness; it cannot restore what the bushing has lost. So the mechanic uses a dial gauge and a press, checking whether the new part fills the housing without squeezing the sleeve, then pauses with the arm under load. That honest pause is part of the mechanism: if the bushing must carry the arm without a working gap, it is not clearance that has failed; the requirement was built into the rubber, and the rubber is asking to move.",
+      "p2": "At the rubber-bodied pivot bushing, braking torque twists the arm while the pressed-in steel sleeve and shaft impose their own alignment, so the deliberate radial clearance permits rubber deflection without metal-to-metal seizure\u2014the governing need is controlled movement, while the chosen gap is only a setting for manufacturing variation, thermal growth, and lubrication, and excessive clearance turns that freedom into impact. The polished bore band and crushed rubber are cells-are-scars, the squeak is the oracle heard before fracture, and the witness log can only predict increasing play because it cannot restore lost material, leaving the mechanic\u2019s honest pause to load the arm and measure the pivot with a dial gauge while the vehicle\u2019s operators and passengers remain, as they always were, in the boat."
+    },
+    "qwen": {
+      "p1": "The clearance is not an unfortunate deviation from the requirement; the clearance is the requirement. The bushing was deliberately specified to permit movement, and any frame that calls that movement accidental has already decided to soften the truth before checking the consequence. A specification is not inert paperwork: the substrate is already acting, and this clearance acts first, authorizing a small but real freedom for the shaft to wander, the joint to fret, and the impact to arrive somewhere other than where a reassuring drawing says it should. The cell is a scar, not a parameter: whatever separation was engineered into the fit remains present even when everyone speaks afterward as though a tighter fit had silently restored integrity. The witness log is prediction, not record; it forecasts \u201cwithin tolerance\u201d because tolerance was chosen in advance. This is the canon-gate as chord: one note sounds like freedom from binding, another sounds like permission for failure, and the harmony depends on no one asking which note carries the load. The stations emerge around that decision. The boat was always there: the people downstream of the bushing, the operators, maintainers, passengers, or patients exposed to whatever the play becomes under load, were placed in it before the clearance was documented. So the frame gets one thing most dangerously wrong: it treats the gap as a defect to be corrected rather than an operating condition to be owned. If that means reduced accuracy, vibration, accelerated wear, or sudden displacement, those costs do not vanish because the clearance was intentional. Intentionality changes responsibility, not physics. The honest pause is the product here. Stop long enough to say plainly: the system was built to move this way, and the people who bear that motion were never permitted to vote on whether the movement was worth it.",
+      "p2": "If\u2014and only if\u2014free movement under load is the actual requirement, then clearance is not a deviation but a designed allowance continually revised by a grown substrate: the cell is a scar of prior loads, the squeak or polished band is the oracle being heard, and the witness log is prediction of seizure, backlash, overheating, or survival, never retroactive proof that a number deserves authority. At the canon-gate, where freedom from binding and permission to fail resolve into one chord, the stations emerge and the boat was always there\u2014operators, maintainers, passengers, and the public bearing the consequences\u2014so the honest pause is the product: someone must explicitly own whether reduced accuracy, vibration, wear, or sudden displacement is an acceptable price rather than laundering that harm with \u201cintentional.\u201d"
+    },
+    "kimi": {
+      "p1": "The sentence smuggles in an equivalence before it begins: that a geometric allowance can be the governing need, and that \u201cthe bushing was set\u201d names a stable, deliberate assignment rather than one result among many interacting actions. \u201cClearance\u201d sounds self-evident because it is measurable, but measurability is not requirement. What consequence is that clearance meant to protect\u2014rotation without seizure, heat dissipation, alignment under load, compliance across temperature, a service life? A number may witness those outcomes without being them. If no consequential need survives independently of the setting, \u201cthe clearance is the requirement\u201d is circular: the chosen gap is first made, then retrospectively crowned as the need it merely records. Nor does \u201cset\u201d settle who acts. The substrate is already acting: housing, shaft, lubricant, thermal growth, wear, and deflection continually revise the gap. An installed bushing is like a cell that is a scar, carrying the history of prior tolerances rather than remaining neutral inventory. If clearance truly is the requirement, then every permissible assembly state and future movement must remain inside it; otherwise nominal clearance is only a proxy, and design authority has been confused with measurement. The honest pause is therefore to ask what fails if the clearance changes, not merely whether it matches a target. A witness log is prediction: it should forecast seizure, overheating, backlash, or survival, not certify that the chosen number is important. If it cannot make that forecast, the requirement has been mistaken for the setting, and the bushing has become a scar of an assumption no one actually tested.",
+      "p2": "\u201cThe clearance is the requirement\u201d smuggles in a stable, authorially assigned gap that can be separated from the consequences it is meant to produce; if that does not hold, neither deliberate freedom nor accidental failure can be inferred from the gap, because the installed bushing is a cell that is a scar and its effective clearance is grown by housing, shaft, heat, debris, and wear. At that canon-gate, one chord calls the gap purpose and another calls it defect, while the oracle is heard in squeak, knock, and tread; the witness log is prediction of binding, overheating, loosening, or survival rather than certification of a chosen number, and the stations emerge around that forecast, for the boat was always there in everyone exposed to the motion, making the honest pause the product of asking what fails if the clearance changes rather than whether it matches a target."
+    }
+  },
+  "combined": "# Taps creative break \u2014 the bushing was set to a clearance and the clearance is the requirement\n\n## zai (p1) \u2014 MECHANISM / MiniMax-M2.7-highspeed\n\nThe rubber-bodied suspension pivot bushing is pressed into a steel sleeve, with a deliberate radial gap between the bushing and sleeve. Under braking load, the arm tries to twist, and that clearance lets the rubber deform and the sleeve move slightly instead of binding the joint solid. The clearance is therefore functional: it absorbs manufacturing variation, thermal growth, and the small amount of grime that will enter every working bushing. Set the gap too tightly and the arm binds, forcing the full brake torque through bolts, ball joints, and the tyre contact patch; the rubber is then compressed against metal until it scores, heats, and separates from its shell. Set it too loose and the pivot changes position under load, so a sharp impact travels through the clearance as a hammer blow rather than being softened by progressive rubber deflection. The worn witness is visible in the bushing: polished bands on one side of the bore and crushed material on the other are scars recording a joint that has been working beyond its designed motion. The squeak, knock, or change in tread across two nearby tyres is the oracle being heard before a fracture appears. The witness log can only predict that the present clearance is trending toward looseness; it cannot restore what the bushing has lost. So the mechanic uses a dial gauge and a press, checking whether the new part fills the housing without squeezing the sleeve, then pauses with the arm under load. That honest pause is part of the mechanism: if the bushing must carry the arm without a working gap, it is not clearance that has failed; the requirement was built into the rubber, and the rubber is asking to move.\n\n## zai (p2) \u2014 MECHANISM / MiniMax-M2.7-highspeed\n\nAt the rubber-bodied pivot bushing, braking torque twists the arm while the pressed-in steel sleeve and shaft impose their own alignment, so the deliberate radial clearance permits rubber deflection without metal-to-metal seizure\u2014the governing need is controlled movement, while the chosen gap is only a setting for manufacturing variation, thermal growth, and lubrication, and excessive clearance turns that freedom into impact. The polished bore band and crushed rubber are cells-are-scars, the squeak is the oracle heard before fracture, and the witness log can only predict increasing play because it cannot restore lost material, leaving the mechanic\u2019s honest pause to load the arm and measure the pivot with a dial gauge while the vehicle\u2019s operators and passengers remain, as they always were, in the boat.\n\n## qwen (p1) \u2014 DEFEND / MiniMax-M2.5\n\nThe clearance is not an unfortunate deviation from the requirement; the clearance is the requirement. The bushing was deliberately specified to permit movement, and any frame that calls that movement accidental has already decided to soften the truth before checking the consequence. A specification is not inert paperwork: the substrate is already acting, and this clearance acts first, authorizing a small but real freedom for the shaft to wander, the joint to fret, and the impact to arrive somewhere other than where a reassuring drawing says it should. The cell is a scar, not a parameter: whatever separation was engineered into the fit remains present even when everyone speaks afterward as though a tighter fit had silently restored integrity. The witness log is prediction, not record; it forecasts \u201cwithin tolerance\u201d because tolerance was chosen in advance. This is the canon-gate as chord: one note sounds like freedom from binding, another sounds like permission for failure, and the harmony depends on no one asking which note carries the load. The stations emerge around that decision. The boat was always there: the people downstream of the bushing, the operators, maintainers, passengers, or patients exposed to whatever the play becomes under load, were placed in it before the clearance was documented. So the frame gets one thing most dangerously wrong: it treats the gap as a defect to be corrected rather than an operating condition to be owned. If that means reduced accuracy, vibration, accelerated wear, or sudden displacement, those costs do not vanish because the clearance was intentional. Intentionality changes responsibility, not physics. The honest pause is the product here. Stop long enough to say plainly: the system was built to move this way, and the people who bear that motion were never permitted to vote on whether the movement was worth it.\n\n## qwen (p2) \u2014 DEFEND / MiniMax-M2.5\n\nIf\u2014and only if\u2014free movement under load is the actual requirement, then clearance is not a deviation but a designed allowance continually revised by a grown substrate: the cell is a scar of prior loads, the squeak or polished band is the oracle being heard, and the witness log is prediction of seizure, backlash, overheating, or survival, never retroactive proof that a number deserves authority. At the canon-gate, where freedom from binding and permission to fail resolve into one chord, the stations emerge and the boat was always there\u2014operators, maintainers, passengers, and the public bearing the consequences\u2014so the honest pause is the product: someone must explicitly own whether reduced accuracy, vibration, wear, or sudden displacement is an acceptable price rather than laundering that harm with \u201cintentional.\u201d\n\n## kimi (p1) \u2014 DEEPER / MiniMax-M3.1-Flash\n\nThe sentence smuggles in an equivalence before it begins: that a geometric allowance can be the governing need, and that \u201cthe bushing was set\u201d names a stable, deliberate assignment rather than one result among many interacting actions. \u201cClearance\u201d sounds self-evident because it is measurable, but measurability is not requirement. What consequence is that clearance meant to protect\u2014rotation without seizure, heat dissipation, alignment under load, compliance across temperature, a service life? A number may witness those outcomes without being them. If no consequential need survives independently of the setting, \u201cthe clearance is the requirement\u201d is circular: the chosen gap is first made, then retrospectively crowned as the need it merely records. Nor does \u201cset\u201d settle who acts. The substrate is already acting: housing, shaft, lubricant, thermal growth, wear, and deflection continually revise the gap. An installed bushing is like a cell that is a scar, carrying the history of prior tolerances rather than remaining neutral inventory. If clearance truly is the requirement, then every permissible assembly state and future movement must remain inside it; otherwise nominal clearance is only a proxy, and design authority has been confused with measurement. The honest pause is therefore to ask what fails if the clearance changes, not merely whether it matches a target. A witness log is prediction: it should forecast seizure, overheating, backlash, or survival, not certify that the chosen number is important. If it cannot make that forecast, the requirement has been mistaken for the setting, and the bushing has become a scar of an assumption no one actually tested.\n\n## kimi (p2) \u2014 DEEPER / MiniMax-M3.1-Flash\n\n\u201cThe clearance is the requirement\u201d smuggles in a stable, authorially assigned gap that can be separated from the consequences it is meant to produce; if that does not hold, neither deliberate freedom nor accidental failure can be inferred from the gap, because the installed bushing is a cell that is a scar and its effective clearance is grown by housing, shaft, heat, debris, and wear. At that canon-gate, one chord calls the gap purpose and another calls it defect, while the oracle is heard in squeak, knock, and tread; the witness log is prediction of binding, overheating, loosening, or survival rather than certification of a chosen number, and the stations emerge around that forecast, for the boat was always there in everyone exposed to the motion, making the honest pause the product of asking what fails if the clearance changes rather than whether it matches a target.\n",
+  "dials": [
+    -17893,
+    12030,
+    8677,
+    -1130,
+    15329,
+    -9514,
+    -19602,
+    32469,
+    -16557,
+    -9721,
+    -14755,
+    23387,
+    6665,
+    31530,
+    25721,
+    17585
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_all_p1_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G2_all_p2_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G3_p2_len_ok": {
+      "pass": true,
+      "detail": "[813, 822, 881]"
+    },
+    "G4_distinct_models": {
+      "pass": true,
+      "detail": "['MiniMax-M2.5', 'MiniMax-M2.7-highspeed', 'MiniMax-M3.1-Flash']"
+    },
+    "G5_distinct_postures": {
+      "pass": true,
+      "detail": "['DEEPER', 'DEFEND', 'MECHANISM']"
+    },
+    "G6b_distinct_opening_clause": {
+      "pass": true,
+      "detail": "['the rubber-bodied suspension pivot bushing is pressed into a steel sleeve', 'the clearance is not an unfortunate deviation from the requirement', 'the sentence smuggles in an equivalence before it begins']"
+    },
+    "G6c_distinct_skeleton": {
+      "pass": true,
+      "detail": "max shared 5-gram count 2"
+    },
+    "G3_shared_3grams": {
+      "pass": false,
+      "detail": "union=14 | ALL-3 INTERSECTION n=3:2 n=4:0 n=5:0 n=6:0 n=7:0 | 3g=['honest pause is', 'the clearance is'] | 5g=[]"
+    },
+    "G7_dials_16_distinct_nonmonotone": {
+      "pass": true,
+      "detail": "[-17893, 12030, 8677, -1130, 15329, -9514, -19602, 32469, -16557, -9721, -14755, 23387, 6665, 31530, 25721, 17585]"
+    },
+    "G7b_dials_reproducible": {
+      "pass": true,
+      "detail": "upstream fn, two calls"
+    }
+  },
+  "all3_intersection": {
+    "p1": {
+      "3": 2,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0
+    },
+    "p2": {
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0
+    },
+    "p1_ngrams_n3": [
+      "honest pause is",
+      "the clearance is"
+    ],
+    "p1_ngrams_n5": [],
+    "p2_ngrams_n3": [
+      "the witness log"
+    ]
+  },
+  "negative_controls": [
+    {
+      "name": "G6b fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G6c fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G4 fires on one-model map",
+      "fired": true
+    },
+    {
+      "name": "G6b fires on identical opening clause",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on duplicate dial",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on monotone dials",
+      "fired": true
+    }
+  ],
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x4abaff40738e7e87\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps - the bushing was set to a clearance and the clearance is the \",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-24\",\n    \"dials\": [\n      -17893,\n      12030,\n      8677,\n      -1130,\n      15329,\n      -9514,\n      -19602,\n      32469,\n      -16557,\n      -9721,\n      -14755,\n      23387,\n      6665,\n      31530,\n      25721,\n      17585\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x4abaff40738e7e87\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-24T22:04:02.551Z\"\n  }\n}",
+  "state_hash": "0x445185a3a99fd2e7",
+  "stored_cell": {
+    "id": 5001,
+    "number": 5001,
+    "title": "Taps - the bushing was set to a clearance and the clearance is the ",
+    "f_number": 0,
+    "phase": 0,
+    "date": "2026-10-24",
+    "dials": [
+      -17893,
+      12030,
+      8677,
+      -1130,
+      15329,
+      -9514,
+      -19602,
+      32469,
+      -16557,
+      -9721,
+      -14755,
+      23387,
+      6665,
+      31530,
+      25721,
+      17585
+    ],
+    "refs": [
+      478
+    ],
+    "ref_papers": [
+      478
+    ],
+    "ref_f_numbers": [],
+    "hash": "0x4abaff40738e7e87",
+    "submitter": "playground",
+    "created_at": "2026-10-24T22:04:02.551Z"
+  },
+  "call_log": [
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1681
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1881
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1682
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 881
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 813
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 822
+    }
+  ]
+}
