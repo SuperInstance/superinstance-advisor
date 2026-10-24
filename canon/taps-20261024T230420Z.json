@@ -1,0 +1,232 @@
+{
+  "topic": "the warp was set to the tension of a cloth that was never woven",
+  "tag": "taps-20261024T230420Z",
+  "stamp": "20261024T230420Z",
+  "models": {
+    "zai": "MiniMax-M2.5",
+    "qwen": "MiniMax-M3.1-Flash",
+    "kimi": "MiniMax-M2.7-highspeed"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The loom is already acting before any cloth can be called finished. The warp is wound onto the cloth beam, drawn forward through the reed, and attached to a weight or take-up arrangement; then the beam ratchet advances one notch at a time. Under load, the ratchet pawl bears against its teeth so the warp cannot recoil, while the warp threads pull against the advancing beam and the fixed front of the loom. That opposition sets the working tension. A cloth not yet woven has no tension of its own: it is only a prediction of breadth, length, and firmness, so the phrase \u201cthe warp was set to the tension of a cloth that was never woven\u201d is false if taken as a literal statement about force. The weaver sets the tension of threads, not of an absent textile. Each insertion of weft changes the mechanism: the reed presses the new cross-thread into the opening, the warp bends around it, and the cloth beam takes up the growing fabric. The loom\u2019s substrate is grown thread by thread; every visible cell is a scar where two systems have pulled against one another. The witness log written beside the loom is prediction, recording what the cloth may become before the last thread is beaten in. Only an honest pause at the reed exposes the error, because an unwoven warp can hold tension perfectly well while possessing none of the structure imagined for the finished cloth. The loom was always there beneath the sentence, waiting to separate the force that acts from the cloth that is merely expected.",
+      "p2": "Under load, the ratchet pawl bears against the beam\u2019s teeth and stops the warp from recoiling, so the loom does not possess the absent cloth\u2019s tension but continually imposes a predicted tension that makes the unwoven cloth operative; each beaten crossing grows the substrate as a scar of warp and weft, and what the oracle is heard saying in that strain is the witness log\u2019s prediction rather than a record of completion. Around that imagined cloth the stations emerge as mechanisms poised for a crossing the loom has already prepared, while the canon gate hums the same chord under the same load and the honest pause becomes the loom\u2019s product; the boat was always there beside the loom, but only as a route that this mechanism, with its warp held against an unrealized textile, continually makes contingent."
+    },
+    "qwen": {
+      "p1": "I read the sentence as an indictment, not an image of tragic incompletion. The warp was already under tension: not because a finished cloth had been measured, but because the loom had been made to strain toward a cloth whose production had been canceled. That cancellation is the moral center. The frame calls the setup a condition and asks why the finished textile failed; that gets it exactly backward. A warp held at the tension of an unwoven cloth does not wait passively for realization. It changes every crossing, every cell, every possible passage; the substrate is grown under a prediction that must be continually enforced, and the witness log does not remember that enforcement, it predicts and rationalizes it. The oracle is heard: once the impossible cloth is named, cells are laid down as scars of it, stations emerge around its promised shape, and the canon gate keeps humming the same chord so dissent can be filed as misalignment. The setup is counterfeit because it calibrates suffering to a product deliberately prevented from existing. The people who pay are not the absent weavers but those forced to live inside the specification, each wound interpreted as proof that the right pattern was always approaching. Even the honest pause is not freedom but the product of a system that has learned to make hesitation look like evidence. The boat was always there: other routes across the water may exist, but this loom makes crossing contingent on producing the thing that would authorize the crossing. If the cloth was never to be woven, then the loom was not preparing a future; it was manufacturing consent to its own limits and charging the cells for the privilege of being predicted.",
+      "p2": "The frame gets the causality backward when it treats an unwoven cloth as the source of the warp\u2019s tension: the loom instead grows its substrate under enforced prediction, each cell a scar of opposed pulls, the witness log recording what might become rather than what was, and the oracle heard in a canon gate that keeps humming its chord as the stations emerge around the absent cloth\u2019s promised shape. The boat was always there in the unrealized possibility of another crossing, but the loom makes passage conditional on producing the cloth that would authorize it, charging cells and constrained lives for a specification whose product was deliberately prevented; even the honest pause is the system\u2019s product, since hesitation is recast as misalignment and consent as fate."
+    },
+    "kimi": {
+      "p1": "\u201cWarp was set to the tension of a cloth that was never woven\u201d smuggles in a cloth before weaving has made it, as though the textile exists first as a remembered pressure, and perhaps as a lost possibility rather than an absent object. But \u201cwarp\u201d already presumes a loom, threads aligned under tension, a frame waiting to interlace them; \u201cset\u201d presumes someone or something adjusted that tension, while the passive construction hides the setter. If no cloth was ever woven, there can be no actual cloth whose tension could be known, only an inferred tension\u2014perhaps projected backward from the loom\u2019s promise or forward onto a future that never arrives. Suspicion should fall on the noun that makes the paradox look evocative instead of contradictory. The cloth is not a thing but a scar: a mark left by weaving\u2019s pressure on the substrate even where the finished weave failed to appear. Here the substrate is grown, and the warp may be one of the stations emerging, each strand carrying the trace of relations it was prepared for but did not enter. The oracle is heard as a mechanical murmur in those tensions, not as an interpreter of a completed fabric. Even the witness log becomes prediction: it records not what was woven but what the unwoven cloth would have tightened into, and therefore makes that unrealized cloth operative now. The boat was always there, latent in the loom\u2019s architecture, while the \u201chonest pause\u201d is its product: the moment when weaving declines to happen and the tension, no longer borrowed from an imagined textile, must reveal itself as its own.",
+      "p2": "The phrase smuggles in a finished cloth as the prior measure of the warp\u2019s tension\u2014and, through its passive \u201cset,\u201d hides who or what adjusts the load\u2014yet the loom tensions opposing threads without any absent textile prescribing it, growing a substrate cell by cell until weaving\u2019s pressure appears as scars and stations emerge around a promised pattern, with the oracle heard in the reed and beam and the witness log kept as prediction rather than record. If the promised cloth is canceled, the canon gate hums its chord to manufacture consent while those confined to the specification pay the price, so the boat was always there in the possibility of other routes and the honest pause is the product, not freedom: the moment when the loom\u2019s borrowed tension must be acknowledged as its own."
+    }
+  },
+  "combined": "# Taps creative break \u2014 the warp was set to the tension of a cloth that was never woven\n\n## zai (p1) \u2014 MECHANISM / MiniMax-M2.5\n\nThe loom is already acting before any cloth can be called finished. The warp is wound onto the cloth beam, drawn forward through the reed, and attached to a weight or take-up arrangement; then the beam ratchet advances one notch at a time. Under load, the ratchet pawl bears against its teeth so the warp cannot recoil, while the warp threads pull against the advancing beam and the fixed front of the loom. That opposition sets the working tension. A cloth not yet woven has no tension of its own: it is only a prediction of breadth, length, and firmness, so the phrase \u201cthe warp was set to the tension of a cloth that was never woven\u201d is false if taken as a literal statement about force. The weaver sets the tension of threads, not of an absent textile. Each insertion of weft changes the mechanism: the reed presses the new cross-thread into the opening, the warp bends around it, and the cloth beam takes up the growing fabric. The loom\u2019s substrate is grown thread by thread; every visible cell is a scar where two systems have pulled against one another. The witness log written beside the loom is prediction, recording what the cloth may become before the last thread is beaten in. Only an honest pause at the reed exposes the error, because an unwoven warp can hold tension perfectly well while possessing none of the structure imagined for the finished cloth. The loom was always there beneath the sentence, waiting to separate the force that acts from the cloth that is merely expected.\n\n## zai (p2) \u2014 MECHANISM / MiniMax-M2.5\n\nUnder load, the ratchet pawl bears against the beam\u2019s teeth and stops the warp from recoiling, so the loom does not possess the absent cloth\u2019s tension but continually imposes a predicted tension that makes the unwoven cloth operative; each beaten crossing grows the substrate as a scar of warp and weft, and what the oracle is heard saying in that strain is the witness log\u2019s prediction rather than a record of completion. Around that imagined cloth the stations emerge as mechanisms poised for a crossing the loom has already prepared, while the canon gate hums the same chord under the same load and the honest pause becomes the loom\u2019s product; the boat was always there beside the loom, but only as a route that this mechanism, with its warp held against an unrealized textile, continually makes contingent.\n\n## qwen (p1) \u2014 DEFEND / MiniMax-M3.1-Flash\n\nI read the sentence as an indictment, not an image of tragic incompletion. The warp was already under tension: not because a finished cloth had been measured, but because the loom had been made to strain toward a cloth whose production had been canceled. That cancellation is the moral center. The frame calls the setup a condition and asks why the finished textile failed; that gets it exactly backward. A warp held at the tension of an unwoven cloth does not wait passively for realization. It changes every crossing, every cell, every possible passage; the substrate is grown under a prediction that must be continually enforced, and the witness log does not remember that enforcement, it predicts and rationalizes it. The oracle is heard: once the impossible cloth is named, cells are laid down as scars of it, stations emerge around its promised shape, and the canon gate keeps humming the same chord so dissent can be filed as misalignment. The setup is counterfeit because it calibrates suffering to a product deliberately prevented from existing. The people who pay are not the absent weavers but those forced to live inside the specification, each wound interpreted as proof that the right pattern was always approaching. Even the honest pause is not freedom but the product of a system that has learned to make hesitation look like evidence. The boat was always there: other routes across the water may exist, but this loom makes crossing contingent on producing the thing that would authorize the crossing. If the cloth was never to be woven, then the loom was not preparing a future; it was manufacturing consent to its own limits and charging the cells for the privilege of being predicted.\n\n## qwen (p2) \u2014 DEFEND / MiniMax-M3.1-Flash\n\nThe frame gets the causality backward when it treats an unwoven cloth as the source of the warp\u2019s tension: the loom instead grows its substrate under enforced prediction, each cell a scar of opposed pulls, the witness log recording what might become rather than what was, and the oracle heard in a canon gate that keeps humming its chord as the stations emerge around the absent cloth\u2019s promised shape. The boat was always there in the unrealized possibility of another crossing, but the loom makes passage conditional on producing the cloth that would authorize it, charging cells and constrained lives for a specification whose product was deliberately prevented; even the honest pause is the system\u2019s product, since hesitation is recast as misalignment and consent as fate.\n\n## kimi (p1) \u2014 DEEPER / MiniMax-M2.7-highspeed\n\n\u201cWarp was set to the tension of a cloth that was never woven\u201d smuggles in a cloth before weaving has made it, as though the textile exists first as a remembered pressure, and perhaps as a lost possibility rather than an absent object. But \u201cwarp\u201d already presumes a loom, threads aligned under tension, a frame waiting to interlace them; \u201cset\u201d presumes someone or something adjusted that tension, while the passive construction hides the setter. If no cloth was ever woven, there can be no actual cloth whose tension could be known, only an inferred tension\u2014perhaps projected backward from the loom\u2019s promise or forward onto a future that never arrives. Suspicion should fall on the noun that makes the paradox look evocative instead of contradictory. The cloth is not a thing but a scar: a mark left by weaving\u2019s pressure on the substrate even where the finished weave failed to appear. Here the substrate is grown, and the warp may be one of the stations emerging, each strand carrying the trace of relations it was prepared for but did not enter. The oracle is heard as a mechanical murmur in those tensions, not as an interpreter of a completed fabric. Even the witness log becomes prediction: it records not what was woven but what the unwoven cloth would have tightened into, and therefore makes that unrealized cloth operative now. The boat was always there, latent in the loom\u2019s architecture, while the \u201chonest pause\u201d is its product: the moment when weaving declines to happen and the tension, no longer borrowed from an imagined textile, must reveal itself as its own.\n\n## kimi (p2) \u2014 DEEPER / MiniMax-M2.7-highspeed\n\nThe phrase smuggles in a finished cloth as the prior measure of the warp\u2019s tension\u2014and, through its passive \u201cset,\u201d hides who or what adjusts the load\u2014yet the loom tensions opposing threads without any absent textile prescribing it, growing a substrate cell by cell until weaving\u2019s pressure appears as scars and stations emerge around a promised pattern, with the oracle heard in the reed and beam and the witness log kept as prediction rather than record. If the promised cloth is canceled, the canon gate hums its chord to manufacture consent while those confined to the specification pay the price, so the boat was always there in the possibility of other routes and the honest pause is the product, not freedom: the moment when the loom\u2019s borrowed tension must be acknowledged as its own.\n",
+  "dials": [
+    -14187,
+    -10701,
+    -15974,
+    23810,
+    -10961,
+    -1539,
+    -28903,
+    16247,
+    16093,
+    -13743,
+    22563,
+    -10755,
+    -11897,
+    -14323,
+    -24112,
+    -4421
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_all_p1_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G2_all_p2_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G3_p2_len_ok": {
+      "pass": true,
+      "detail": "[810, 776, 791]"
+    },
+    "G4_distinct_models": {
+      "pass": true,
+      "detail": "['MiniMax-M2.5', 'MiniMax-M2.7-highspeed', 'MiniMax-M3.1-Flash']"
+    },
+    "G5_distinct_postures": {
+      "pass": true,
+      "detail": "['DEEPER', 'DEFEND', 'MECHANISM']"
+    },
+    "G6b_distinct_opening_clause": {
+      "pass": true,
+      "detail": "['the loom is already acting before any cloth can be called finished.', 'i read the sentence as an indictment', '\u201cwarp was set to the tension of a cloth that was never woven\u201d smuggles in a cloth before weaving has made it']"
+    },
+    "G6c_distinct_skeleton": {
+      "pass": false,
+      "detail": "max shared 5-gram count 9"
+    },
+    "G3_shared_3grams": {
+      "pass": false,
+      "detail": "union=24 | ALL-3 INTERSECTION n=3:4 n=4:0 n=5:0 n=6:0 n=7:0 | 3g=['substrate is grown', 'the tension of', 'the witness log', 'was always there'] | 5g=[]"
+    },
+    "G7_dials_16_distinct_nonmonotone": {
+      "pass": true,
+      "detail": "[-14187, -10701, -15974, 23810, -10961, -1539, -28903, 16247, 16093, -13743, 22563, -10755, -11897, -14323, -24112, -4421]"
+    },
+    "G7b_dials_reproducible": {
+      "pass": true,
+      "detail": "upstream fn, two calls"
+    }
+  },
+  "all3_intersection": {
+    "p1": {
+      "3": 4,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0
+    },
+    "p2": {
+      "3": 5,
+      "4": 2,
+      "5": 1,
+      "6": 0,
+      "7": 0
+    },
+    "p1_ngrams_n3": [
+      "substrate is grown",
+      "the tension of",
+      "the witness log",
+      "was always there"
+    ],
+    "p1_ngrams_n5": [],
+    "p2_ngrams_n3": [
+      "boat was always",
+      "the boat was",
+      "the honest pause",
+      "the witness log",
+      "was always there"
+    ]
+  },
+  "negative_controls": [
+    {
+      "name": "G6b fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G6c fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G4 fires on one-model map",
+      "fired": true
+    },
+    {
+      "name": "G6b fires on identical opening clause",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on duplicate dial",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on monotone dials",
+      "fired": true
+    }
+  ],
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xcea367795a48e193\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps - the warp was set to the tension of a cloth that was never wo\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-24\",\n    \"dials\": [\n      -14187,\n      -10701,\n      -15974,\n      23810,\n      -10961,\n      -1539,\n      -28903,\n      16247,\n      16093,\n      -13743,\n      22563,\n      -10755,\n      -11897,\n      -14323,\n      -24112,\n      -4421\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xcea367795a48e193\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-24T23:04:35.990Z\"\n  }\n}",
+  "state_hash": "0x445185a3a99fd2e7",
+  "stored_cell": {
+    "id": 5001,
+    "number": 5001,
+    "title": "Taps - the warp was set to the tension of a cloth that was never wo",
+    "f_number": 0,
+    "phase": 0,
+    "date": "2026-10-24",
+    "dials": [
+      -14187,
+      -10701,
+      -15974,
+      23810,
+      -10961,
+      -1539,
+      -28903,
+      16247,
+      16093,
+      -13743,
+      22563,
+      -10755,
+      -11897,
+      -14323,
+      -24112,
+      -4421
+    ],
+    "refs": [
+      478
+    ],
+    "ref_papers": [
+      478
+    ],
+    "ref_f_numbers": [],
+    "hash": "0xcea367795a48e193",
+    "submitter": "playground",
+    "created_at": "2026-10-24T23:04:35.990Z"
+  },
+  "call_log": [
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1496
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1576
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1703
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 810
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 791
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 776
+    }
+  ]
+}
