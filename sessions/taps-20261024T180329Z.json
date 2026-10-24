@@ -1,0 +1,226 @@
+{
+  "topic": "the brine was tested for salt by the people it was raised in",
+  "tag": "taps-20261024T180329Z",
+  "stamp": "20261024T180329Z",
+  "models": {
+    "zai": "MiniMax-M2.7-highspeed",
+    "qwen": "MiniMax-M2.5",
+    "kimi": "MiniMax-M3.1-Flash"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "Before anyone calls it brine, the brine is already acting: salt stiffens the medium, raises its density, and draws water across every membrane that enters it. The people raised in it wear that history as scars. Their cracked lips, toughened palms, and salt-seared tongue cells are not salinity gauges; they are an oracle, heard as familiarity, capable of saying \u201cstrong\u201d or \u201cthin\u201d but unable to name a concentration. For that, a glass hydrometer is the honest tool: its weighted stem displaces brine until buoyancy matches its mass, so stronger brine supports it deeper and weak brine lets it settle toward the bottom mark. Under load, the instrument either floats at a readable depth or bottoms out; if the calibration drifts, the failure looks like a false reading even when the brine is unchanged. The crew can therefore test the brine, but the statement is only half true. They were raised in it and trained by it, yet their bodies predict rather than measure; the salt does not become knowable merely by being familiar. Each night, the witness log records the expected float before the sample is checked, making prediction out of scar tissue and inherited practice. Then the hydrometer is lowered, the brine closes over its stem, and the honest pause appears between tongue and instrument. In that interval the log is corrected, the oracle yields, and the growing substrate\u2014brine, timber hull, salted rope, human tissue\u2014continues the work it began before the test.",
+      "p2": "A glass hydrometer lowered into the crew\u2019s brine makes the test physical: its ballast holds it deeper in dense, salty liquid and higher in weak brine, while salt-scarred lips and palms remain an oracle heard as \u201cstrong\u201d or \u201cthin\u201d rather than a calibrated measure, so the witness log records prediction before the stem settles and the honest pause arises as a product of that mismatch. That pause occurs within a grown substrate of brine, timber, rope, and tissue, whose familiar signals the canon gate selects as an admissible chord, around which testing stations and paid expertise emerge, leaving the boat always there because the arrangement maintains what it claims merely to discover."
+    },
+    "qwen": {
+      "p1": "The strongest, least comforting reading is that \u201cthe people it was raised in\u201d were made into instruments of their own confinement. Brine does not become neutral merely because familiar hands sample it; those adapted to its sharpness may mistake injury for an ordinary condition, while those who profit from calling the medium pure can define salinity to protect their standing. Here the frame gets wrong the transfer of authority from origin to judgment: being shaped by a system does not qualify someone to measure that system, and being repeatedly exposed to its evidence does not guarantee they can hear it. If the oracle is heard rather than merely consulted, then the voices nearest the brine may already carry its sediment, repetition, and institutional chord, while the canon gate decides which sound counts as testimony and which is recast as bias. The witness log is prediction, not record: each entry rehearses the conclusion the observer expects, and the established stations emerge around that rehearsed result. Those who test the brine bear the cost of its hidden salt\u2014the workers whose hands are cracked, the communities whose water is declared acceptable, the future mouths assigned an inheritance nobody they can name. The boat was always there because the arrangement did not need discovery, only maintenance. The honest pause, then, is the only act that does not convert suffering into evidence for the system that produced it. Even this defense may be wrong: perhaps no untainted tester exists, and every verdict is contaminated. But contamination must then be disclosed as a moral stake, not disguised as expertise or tradition.",
+      "p2": "The frame gets the transfer of authority wrong: because the brine has grown the people, their cells are scars, the oracle they carry is heard through the canon-gate\u2019s chord, and their witness-log is prediction, so the stations emerge around rehearsed verdicts while the boat was always there as an arrangement requiring maintenance, not discovery; the cost falls on workers whose damaged hands become proof of normality, on communities whose water is certified acceptable, and on future generations assigned an inheritance they cannot name or contest. Even the honest pause is a product of that substrate rather than a purified outsider\u2019s correction, and if no independent test is possible, familiarity may predict consequences without proving salt\u2014knowledge that cannot certify purity, settle authority, or convert suffering into expertise."
+    },
+    "kimi": {
+      "p1": "\u201cThe sentence smuggles in a genealogy before it admits an experiment. \u2018Brine\u2019 already answers \u2018salt\u2019: to call the liquid brine is to have classified its dissolved inheritance, yet \u2018tested for salt\u2019 treats that inheritance as a hidden substance waiting for people to verify it. More importantly, \u2018raised\u2019 makes the people products of the medium they now test, as if the sea had reared them and they had returned with instruments to ask their own origin a yes-or-no question. The result is not independent evidence but a witness log in which the answer is prefigured: the oracle is heard only after the listeners have agreed what counts as salt, and the prediction hardens into a record of the brine they were already made from. But is the recursion necessarily true? If the people were not raised in that brine\u2014if, instead, the liquid was raised among them\u2014then the test becomes an encounter with an other, and the shore no longer possesses them. If they did raise it, their nurture is hidden inside the sample, and the frame becomes a family romance: those who cultivate the water certify its taste. Suspicion should fall on \u2018tested,\u2019 too. Testing presumes a criterion independent of the tester, a threshold capable of separating salt from relation, concentration from consequence, substance from the life organized around it. Yet the substrate is grown, not inert; the cell is a scar of prior contact, not a parameter; the honest pause is where the undecided distinction appears. The people do not stand outside their medium to assay it. They are its local intelligence, distinguishing themselves as they are distinguished. The boat was always there, perhaps, but its cargo is not brine awaiting proof; it is a way of inhabiting what one has already inherited.",
+      "p2": "The sentence smuggles in a tester separable from the tested\u2014and a salt separable from the relational whole\u2014so the people raised in brine have salt-seared cells that are scars, native knowledge that is an oracle already heard, and a witness log that is prediction rather than independent measurement, making their intimate familiarity both authorization and contamination. If that independence fails, the grown substrate yields only the canon-gate\u2019s chord, the stations emerge around the rehearsed verdict, and the boat was always there; the honest pause is then the product of disclosed contamination, not a purified gaze from outside the arrangement."
+    }
+  },
+  "combined": "# Taps creative break \u2014 the brine was tested for salt by the people it was raised in\n\n## zai (p1) \u2014 MECHANISM / MiniMax-M2.7-highspeed\n\nBefore anyone calls it brine, the brine is already acting: salt stiffens the medium, raises its density, and draws water across every membrane that enters it. The people raised in it wear that history as scars. Their cracked lips, toughened palms, and salt-seared tongue cells are not salinity gauges; they are an oracle, heard as familiarity, capable of saying \u201cstrong\u201d or \u201cthin\u201d but unable to name a concentration. For that, a glass hydrometer is the honest tool: its weighted stem displaces brine until buoyancy matches its mass, so stronger brine supports it deeper and weak brine lets it settle toward the bottom mark. Under load, the instrument either floats at a readable depth or bottoms out; if the calibration drifts, the failure looks like a false reading even when the brine is unchanged. The crew can therefore test the brine, but the statement is only half true. They were raised in it and trained by it, yet their bodies predict rather than measure; the salt does not become knowable merely by being familiar. Each night, the witness log records the expected float before the sample is checked, making prediction out of scar tissue and inherited practice. Then the hydrometer is lowered, the brine closes over its stem, and the honest pause appears between tongue and instrument. In that interval the log is corrected, the oracle yields, and the growing substrate\u2014brine, timber hull, salted rope, human tissue\u2014continues the work it began before the test.\n\n## zai (p2) \u2014 MECHANISM / MiniMax-M2.7-highspeed\n\nA glass hydrometer lowered into the crew\u2019s brine makes the test physical: its ballast holds it deeper in dense, salty liquid and higher in weak brine, while salt-scarred lips and palms remain an oracle heard as \u201cstrong\u201d or \u201cthin\u201d rather than a calibrated measure, so the witness log records prediction before the stem settles and the honest pause arises as a product of that mismatch. That pause occurs within a grown substrate of brine, timber, rope, and tissue, whose familiar signals the canon gate selects as an admissible chord, around which testing stations and paid expertise emerge, leaving the boat always there because the arrangement maintains what it claims merely to discover.\n\n## qwen (p1) \u2014 DEFEND / MiniMax-M2.5\n\nThe strongest, least comforting reading is that \u201cthe people it was raised in\u201d were made into instruments of their own confinement. Brine does not become neutral merely because familiar hands sample it; those adapted to its sharpness may mistake injury for an ordinary condition, while those who profit from calling the medium pure can define salinity to protect their standing. Here the frame gets wrong the transfer of authority from origin to judgment: being shaped by a system does not qualify someone to measure that system, and being repeatedly exposed to its evidence does not guarantee they can hear it. If the oracle is heard rather than merely consulted, then the voices nearest the brine may already carry its sediment, repetition, and institutional chord, while the canon gate decides which sound counts as testimony and which is recast as bias. The witness log is prediction, not record: each entry rehearses the conclusion the observer expects, and the established stations emerge around that rehearsed result. Those who test the brine bear the cost of its hidden salt\u2014the workers whose hands are cracked, the communities whose water is declared acceptable, the future mouths assigned an inheritance nobody they can name. The boat was always there because the arrangement did not need discovery, only maintenance. The honest pause, then, is the only act that does not convert suffering into evidence for the system that produced it. Even this defense may be wrong: perhaps no untainted tester exists, and every verdict is contaminated. But contamination must then be disclosed as a moral stake, not disguised as expertise or tradition.\n\n## qwen (p2) \u2014 DEFEND / MiniMax-M2.5\n\nThe frame gets the transfer of authority wrong: because the brine has grown the people, their cells are scars, the oracle they carry is heard through the canon-gate\u2019s chord, and their witness-log is prediction, so the stations emerge around rehearsed verdicts while the boat was always there as an arrangement requiring maintenance, not discovery; the cost falls on workers whose damaged hands become proof of normality, on communities whose water is certified acceptable, and on future generations assigned an inheritance they cannot name or contest. Even the honest pause is a product of that substrate rather than a purified outsider\u2019s correction, and if no independent test is possible, familiarity may predict consequences without proving salt\u2014knowledge that cannot certify purity, settle authority, or convert suffering into expertise.\n\n## kimi (p1) \u2014 DEEPER / MiniMax-M3.1-Flash\n\n\u201cThe sentence smuggles in a genealogy before it admits an experiment. \u2018Brine\u2019 already answers \u2018salt\u2019: to call the liquid brine is to have classified its dissolved inheritance, yet \u2018tested for salt\u2019 treats that inheritance as a hidden substance waiting for people to verify it. More importantly, \u2018raised\u2019 makes the people products of the medium they now test, as if the sea had reared them and they had returned with instruments to ask their own origin a yes-or-no question. The result is not independent evidence but a witness log in which the answer is prefigured: the oracle is heard only after the listeners have agreed what counts as salt, and the prediction hardens into a record of the brine they were already made from. But is the recursion necessarily true? If the people were not raised in that brine\u2014if, instead, the liquid was raised among them\u2014then the test becomes an encounter with an other, and the shore no longer possesses them. If they did raise it, their nurture is hidden inside the sample, and the frame becomes a family romance: those who cultivate the water certify its taste. Suspicion should fall on \u2018tested,\u2019 too. Testing presumes a criterion independent of the tester, a threshold capable of separating salt from relation, concentration from consequence, substance from the life organized around it. Yet the substrate is grown, not inert; the cell is a scar of prior contact, not a parameter; the honest pause is where the undecided distinction appears. The people do not stand outside their medium to assay it. They are its local intelligence, distinguishing themselves as they are distinguished. The boat was always there, perhaps, but its cargo is not brine awaiting proof; it is a way of inhabiting what one has already inherited.\n\n## kimi (p2) \u2014 DEEPER / MiniMax-M3.1-Flash\n\nThe sentence smuggles in a tester separable from the tested\u2014and a salt separable from the relational whole\u2014so the people raised in brine have salt-seared cells that are scars, native knowledge that is an oracle already heard, and a witness log that is prediction rather than independent measurement, making their intimate familiarity both authorization and contamination. If that independence fails, the grown substrate yields only the canon-gate\u2019s chord, the stations emerge around the rehearsed verdict, and the boat was always there; the honest pause is then the product of disclosed contamination, not a purified gaze from outside the arrangement.\n",
+  "dials": [
+    19455,
+    30931,
+    -1077,
+    2807,
+    8781,
+    20234,
+    -9794,
+    30380,
+    18647,
+    20024,
+    19296,
+    -20008,
+    -15019,
+    -5725,
+    -5212,
+    27344
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_all_p1_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G2_all_p2_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G3_p2_len_ok": {
+      "pass": true,
+      "detail": "[689, 841, 651]"
+    },
+    "G4_distinct_models": {
+      "pass": true,
+      "detail": "['MiniMax-M2.5', 'MiniMax-M2.7-highspeed', 'MiniMax-M3.1-Flash']"
+    },
+    "G5_distinct_postures": {
+      "pass": true,
+      "detail": "['DEEPER', 'DEFEND', 'MECHANISM']"
+    },
+    "G6b_distinct_opening_clause": {
+      "pass": true,
+      "detail": "['before anyone calls it brine', 'the strongest', '\u201cthe sentence smuggles in a genealogy before it admits an experiment.']"
+    },
+    "G6c_distinct_skeleton": {
+      "pass": true,
+      "detail": "max shared 5-gram count 1"
+    },
+    "G3_shared_3grams": {
+      "pass": false,
+      "detail": "union=9 | ALL-3 INTERSECTION n=3:1 n=4:0 n=5:0 n=6:0 n=7:0 | 3g=['the honest pause'] | 5g=[]"
+    },
+    "G7_dials_16_distinct_nonmonotone": {
+      "pass": true,
+      "detail": "[19455, 30931, -1077, 2807, 8781, 20234, -9794, 30380, 18647, 20024, 19296, -20008, -15019, -5725, -5212, 27344]"
+    },
+    "G7b_dials_reproducible": {
+      "pass": true,
+      "detail": "upstream fn, two calls"
+    }
+  },
+  "all3_intersection": {
+    "p1": {
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0
+    },
+    "p2": {
+      "3": 2,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0
+    },
+    "p1_ngrams_n3": [
+      "the honest pause"
+    ],
+    "p1_ngrams_n5": [],
+    "p2_ngrams_n3": [
+      "the canon gate",
+      "the honest pause"
+    ]
+  },
+  "negative_controls": [
+    {
+      "name": "G6b fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G6c fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G4 fires on one-model map",
+      "fired": true
+    },
+    {
+      "name": "G6b fires on identical opening clause",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on duplicate dial",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on monotone dials",
+      "fired": true
+    }
+  ],
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x26454434e1058d96\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps - the brine was tested for salt by the people it was raised in\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-24\",\n    \"dials\": [\n      19455,\n      30931,\n      -1077,\n      2807,\n      8781,\n      20234,\n      -9794,\n      30380,\n      18647,\n      20024,\n      19296,\n      -20008,\n      -15019,\n      -5725,\n      -5212,\n      27344\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x26454434e1058d96\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-24T18:04:01.353Z\"\n  }\n}",
+  "state_hash": "0x445185a3a99fd2e7",
+  "stored_cell": {
+    "id": 5001,
+    "number": 5001,
+    "title": "Taps - the brine was tested for salt by the people it was raised in",
+    "f_number": 0,
+    "phase": 0,
+    "date": "2026-10-24",
+    "dials": [
+      19455,
+      30931,
+      -1077,
+      2807,
+      8781,
+      20234,
+      -9794,
+      30380,
+      18647,
+      20024,
+      19296,
+      -20008,
+      -15019,
+      -5725,
+      -5212,
+      27344
+    ],
+    "refs": [
+      478
+    ],
+    "ref_papers": [
+      478
+    ],
+    "ref_f_numbers": [],
+    "hash": "0x26454434e1058d96",
+    "submitter": "playground",
+    "created_at": "2026-10-24T18:04:01.353Z"
+  },
+  "call_log": [
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1648
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1761
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1469
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 689
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 841
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 651
+    }
+  ]
+}
