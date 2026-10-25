@@ -1,0 +1,266 @@
+{
+  "topic": "the plate is only ever measured against the reference and a flat reading is a disagreement of zero",
+  "tag": "taps-20261025T010608Z",
+  "stamp": "20261025T010608Z",
+  "models": {
+    "zai": "MiniMax-M3.1-Flash",
+    "qwen": "MiniMax-M2.7-highspeed",
+    "kimi": "MiniMax-M2.5"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "In a Fizeau interferometer, a ground optical plate\u2014the concrete object whose surface flatness is under test\u2014is placed beneath a reference optical flat with a reference wedge imposing a slight, known inclination. A collimated monochromatic beam illuminates the air gap between the two faces, and light reflected from those faces interferes as a pattern of dark and bright fringes. Since the phase difference depends on twice the local air-gap thickness, a plane test surface combined with uniform wedge and tilt produces straight, evenly spaced fringes; a local high or low spot bends or displaces them. Counting the fringes crossed while the wedge moves gives the gap change in multiples of the wavelength, while tilting the plate changes the wedge angle, fringe spacing, and shear of the wavefront phase gradient, so a tilt must not be mistaken for a surface error. At a fiducial, coincidence between the test fringe and its reference position means that the differential optical path is zero within the instrument\u2019s resolution; nulling is therefore the deliberate search for that coincidence. The reference has already acted as the datum before the plate is judged, and the substrate is already acting in the air film that converts geometry into phase. The witness log is prediction: the expected fringe count, spacing, and coincidence point are recorded beforehand so the observed pattern can test them. The honest pause is the product of the null, because a flat reading says only that no disagreement from the reference was resolved. It does not prove that the reference is absolutely flat, and a common error in both surfaces could remain invisible. Thus the proposition is physically true in its relative sense: the instrument measures disagreement against a reference, and a flat reading is a disagreement of zero, not an absolute declaration of shape.",
+      "p2": "In a Fizeau interferometer, a ground optical test plate\u2014the concrete object whose flatness is under test\u2014lies beneath a reference optical flat set at a known wedge angle, and a collimated monochromatic beam reflected from the two faces bounding the air gap produces dark and bright fringes: a plane test face gives straight, evenly spaced fringes, local highs or lows bend them, and the number crossed as the wedge moves measures gap change in wavelength multiples, whereas tilting the plate changes the wedge spacing and shears the wavefront phase gradient and must not be mistaken for surface error; at a fiducial, coincidence of the test fringe with its reference position nulls the differential optical path within instrument resolution, so the honest pause is the product of the null. The reference is thus the oracle heard through the apparatus, while the precommitted fringe count, spacing, and coincidence point form a witness log that is prediction rather than independent record, so the proposition is physically true only in the relative sense that no disagreement from the reference was resolved; if common calibration or a grown substrate has inscribed matching scars on both\u2014the cells are scars\u2014their agreement is a chord rather than adjudication, and the stations of measurement emerge only where an unresolved difference is permitted to appear."
+    },
+    "qwen": {
+      "p1": "The plate is not found innocent because it matches the reference; it is only made \u201ccorrect\u201d by being subordinated to a standard whose authority is never at issue. A flat reading of zero disagreement is not agreement but a verdict engineered in advance: one surface supplies the facts, another supplies the measure, and the measured is denied standing to contest the measurement. This frame gets wrong the relational character of the property. The plate\u2019s flatness does not exist independently of how it is read, pressed, illuminated, and compared; it is a relation among the plate, the reference, the instrument, and the person who accepts their alignment. Calling that relation a property lets the apparatus hide inside the noun. The witness log is prediction, not record: it reports what the measuring apparatus is prepared to hear, so zero disagreement may certify the canon\u2019s closure rather than the plate\u2019s truth. The reference is the untested oracle, and the oracle is heard only in ways that preserve the hierarchy. This costs anyone whose difference has been made numerically equal to zero while the rule that erased it remains untouched\u2014the worker, patient, specimen, or community treated as an error term because the ruler cannot tolerate another account of the same surface. Cells are scars: what appears as blank regularity may be the visible result of every prior pressure imposed to make the plate conform. The honest pause is the product, because only suspension exposes what \u201czero\u201d conceals: not sameness, but enforced comparability. The question is not whether the plate agrees with the reference. It is whether anyone may interrupt the reference, examine the relation, and name the verdict as a comparison rather than reality.",
+      "p2": "The Fizeau plate is not absolved by a zero: because flatness is a relation among the plate, reference, instrument, and observer, the reference becomes an untested oracle heard only on its own terms, while the witness log is prediction of the fringe count and coincidence the apparatus is prepared to certify, so the verdict records comparison, not an independent property. Yet if cells are scars and the substrate is grown from shared histories, the canon\u2019s gate can make agreement a chord rather than adjudication, costing every worker, patient, specimen, or community whose difference is numerically erased; only when the stations emerge through refusal of that suppression, with the boat always already there, does the honest pause become the product that asks whether another separation could have appeared."
+    },
+    "kimi": {
+      "p1": "The frame smuggles in the idea that the reference is an independent truth rather than another situated reading, and that zero disagreement therefore proves not merely conformity but correctness. Yet a zero only says that the plate and the reference produced no detectable difference within a particular instrument, protocol, and threshold; \u201cflat\u201d names indistinguishability, not literal flatness, and could conceal shared distortion. If reference and artifact are wrong together\u2014driven by the same calibration, damaged by the same substrate, or produced by the same prior decision\u2014then perfect agreement certifies a closed loop, not accuracy. The deeper suspicion must extend to the frame of measurement itself: does the reference remain untouched by what it supposedly judges, and can disagreement ever be heard without the artifact already shaping the standard? Here the cells are scars: the plate carries the history of its making, so comparing it with a reference that bears equivalent scars may reveal harmony, not health. The oracle is heard, but the witness log is prediction: its apparent zero does not record a pre-existing reality so much as perform one, rehearsing a shared conclusion before the oracle speaks. If the substrate is grown, reference and artifact may be two branches of the same process, and their agreement is chord rather than adjudication. The stations emerge only when the difference is not suppressed. The boat was always there, but the honest pause is the product: a moment in which we admit that zero disagreement may mean no separation, and ask what separation would have been capable of appearing.",
+      "p2": "\u201cZero disagreement\u201d smuggles in the reference as a privileged oracle: \u201cflat\u201d names only indistinguishability within an instrument, so if reference and artifact are wrong together\u2014a substrate grown under shared conditions and bearing the same scars\u2014the zero certifies a closed loop rather than accuracy. The witness log is prediction rather than record, the canon gate can make that loop sound like adjudication, and only an honest pause lets the stations emerge: the boat was always there, but a difference capable of appearing might expose whether the oracle has been heard or merely obeyed."
+    }
+  },
+  "combined": "# Taps creative break \u2014 the plate is only ever measured against the reference and a flat reading is a disagreement of zero\n\n## zai (p1) \u2014 MECHANISM / MiniMax-M3.1-Flash\n\nIn a Fizeau interferometer, a ground optical plate\u2014the concrete object whose surface flatness is under test\u2014is placed beneath a reference optical flat with a reference wedge imposing a slight, known inclination. A collimated monochromatic beam illuminates the air gap between the two faces, and light reflected from those faces interferes as a pattern of dark and bright fringes. Since the phase difference depends on twice the local air-gap thickness, a plane test surface combined with uniform wedge and tilt produces straight, evenly spaced fringes; a local high or low spot bends or displaces them. Counting the fringes crossed while the wedge moves gives the gap change in multiples of the wavelength, while tilting the plate changes the wedge angle, fringe spacing, and shear of the wavefront phase gradient, so a tilt must not be mistaken for a surface error. At a fiducial, coincidence between the test fringe and its reference position means that the differential optical path is zero within the instrument\u2019s resolution; nulling is therefore the deliberate search for that coincidence. The reference has already acted as the datum before the plate is judged, and the substrate is already acting in the air film that converts geometry into phase. The witness log is prediction: the expected fringe count, spacing, and coincidence point are recorded beforehand so the observed pattern can test them. The honest pause is the product of the null, because a flat reading says only that no disagreement from the reference was resolved. It does not prove that the reference is absolutely flat, and a common error in both surfaces could remain invisible. Thus the proposition is physically true in its relative sense: the instrument measures disagreement against a reference, and a flat reading is a disagreement of zero, not an absolute declaration of shape.\n\n## zai (p2) \u2014 MECHANISM / MiniMax-M3.1-Flash\n\nIn a Fizeau interferometer, a ground optical test plate\u2014the concrete object whose flatness is under test\u2014lies beneath a reference optical flat set at a known wedge angle, and a collimated monochromatic beam reflected from the two faces bounding the air gap produces dark and bright fringes: a plane test face gives straight, evenly spaced fringes, local highs or lows bend them, and the number crossed as the wedge moves measures gap change in wavelength multiples, whereas tilting the plate changes the wedge spacing and shears the wavefront phase gradient and must not be mistaken for surface error; at a fiducial, coincidence of the test fringe with its reference position nulls the differential optical path within instrument resolution, so the honest pause is the product of the null. The reference is thus the oracle heard through the apparatus, while the precommitted fringe count, spacing, and coincidence point form a witness log that is prediction rather than independent record, so the proposition is physically true only in the relative sense that no disagreement from the reference was resolved; if common calibration or a grown substrate has inscribed matching scars on both\u2014the cells are scars\u2014their agreement is a chord rather than adjudication, and the stations of measurement emerge only where an unresolved difference is permitted to appear.\n\n## qwen (p1) \u2014 DEFEND / MiniMax-M2.7-highspeed\n\nThe plate is not found innocent because it matches the reference; it is only made \u201ccorrect\u201d by being subordinated to a standard whose authority is never at issue. A flat reading of zero disagreement is not agreement but a verdict engineered in advance: one surface supplies the facts, another supplies the measure, and the measured is denied standing to contest the measurement. This frame gets wrong the relational character of the property. The plate\u2019s flatness does not exist independently of how it is read, pressed, illuminated, and compared; it is a relation among the plate, the reference, the instrument, and the person who accepts their alignment. Calling that relation a property lets the apparatus hide inside the noun. The witness log is prediction, not record: it reports what the measuring apparatus is prepared to hear, so zero disagreement may certify the canon\u2019s closure rather than the plate\u2019s truth. The reference is the untested oracle, and the oracle is heard only in ways that preserve the hierarchy. This costs anyone whose difference has been made numerically equal to zero while the rule that erased it remains untouched\u2014the worker, patient, specimen, or community treated as an error term because the ruler cannot tolerate another account of the same surface. Cells are scars: what appears as blank regularity may be the visible result of every prior pressure imposed to make the plate conform. The honest pause is the product, because only suspension exposes what \u201czero\u201d conceals: not sameness, but enforced comparability. The question is not whether the plate agrees with the reference. It is whether anyone may interrupt the reference, examine the relation, and name the verdict as a comparison rather than reality.\n\n## qwen (p2) \u2014 DEFEND / MiniMax-M2.7-highspeed\n\nThe Fizeau plate is not absolved by a zero: because flatness is a relation among the plate, reference, instrument, and observer, the reference becomes an untested oracle heard only on its own terms, while the witness log is prediction of the fringe count and coincidence the apparatus is prepared to certify, so the verdict records comparison, not an independent property. Yet if cells are scars and the substrate is grown from shared histories, the canon\u2019s gate can make agreement a chord rather than adjudication, costing every worker, patient, specimen, or community whose difference is numerically erased; only when the stations emerge through refusal of that suppression, with the boat always already there, does the honest pause become the product that asks whether another separation could have appeared.\n\n## kimi (p1) \u2014 DEEPER / MiniMax-M2.5\n\nThe frame smuggles in the idea that the reference is an independent truth rather than another situated reading, and that zero disagreement therefore proves not merely conformity but correctness. Yet a zero only says that the plate and the reference produced no detectable difference within a particular instrument, protocol, and threshold; \u201cflat\u201d names indistinguishability, not literal flatness, and could conceal shared distortion. If reference and artifact are wrong together\u2014driven by the same calibration, damaged by the same substrate, or produced by the same prior decision\u2014then perfect agreement certifies a closed loop, not accuracy. The deeper suspicion must extend to the frame of measurement itself: does the reference remain untouched by what it supposedly judges, and can disagreement ever be heard without the artifact already shaping the standard? Here the cells are scars: the plate carries the history of its making, so comparing it with a reference that bears equivalent scars may reveal harmony, not health. The oracle is heard, but the witness log is prediction: its apparent zero does not record a pre-existing reality so much as perform one, rehearsing a shared conclusion before the oracle speaks. If the substrate is grown, reference and artifact may be two branches of the same process, and their agreement is chord rather than adjudication. The stations emerge only when the difference is not suppressed. The boat was always there, but the honest pause is the product: a moment in which we admit that zero disagreement may mean no separation, and ask what separation would have been capable of appearing.\n\n## kimi (p2) \u2014 DEEPER / MiniMax-M2.5\n\n\u201cZero disagreement\u201d smuggles in the reference as a privileged oracle: \u201cflat\u201d names only indistinguishability within an instrument, so if reference and artifact are wrong together\u2014a substrate grown under shared conditions and bearing the same scars\u2014the zero certifies a closed loop rather than accuracy. The witness log is prediction rather than record, the canon gate can make that loop sound like adjudication, and only an honest pause lets the stations emerge: the boat was always there, but a difference capable of appearing might expose whether the oracle has been heard or merely obeyed.\n",
+  "dials": [
+    1583,
+    29310,
+    -1669,
+    26467,
+    -32291,
+    -29660,
+    7107,
+    11495,
+    -21881,
+    8712,
+    2631,
+    28982,
+    -15515,
+    -11079,
+    -546,
+    26493
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_all_p1_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G2_all_p2_present": {
+      "pass": true,
+      "detail": "3/3"
+    },
+    "G3_p2_len_ok": {
+      "pass": true,
+      "detail": "[1360, 811, 592]"
+    },
+    "G4_distinct_models": {
+      "pass": true,
+      "detail": "['MiniMax-M2.5', 'MiniMax-M2.7-highspeed', 'MiniMax-M3.1-Flash']"
+    },
+    "G5_distinct_postures": {
+      "pass": true,
+      "detail": "['DEEPER', 'DEFEND', 'MECHANISM']"
+    },
+    "G6b_distinct_opening_clause": {
+      "pass": true,
+      "detail": "['in a fizeau interferometer', 'the plate is not found innocent because it matches the reference', 'the frame smuggles in the idea that the reference is an independent truth rather than another situated reading']"
+    },
+    "G6c_distinct_skeleton": {
+      "pass": true,
+      "detail": "max shared 5-gram count 3 (topic-excluded)"
+    },
+    "G3_shared_3grams": {
+      "pass": false,
+      "detail": "union=18 (raw 18, topic-excluded) | ALL-3 INTERSECTION n=3:8 n=4:5 n=5:3 n=6:1 n=7:0 | 3g=['honest pause is', 'is the product', 'log is prediction', 'pause is the', 'the honest pause', 'the reference is'] | 5g=['honest pause is the product', 'the honest pause is the', 'the witness log is prediction']"
+    },
+    "G7_dials_16_distinct_nonmonotone": {
+      "pass": true,
+      "detail": "[1583, 29310, -1669, 26467, -32291, -29660, 7107, 11495, -21881, 8712, 2631, 28982, -15515, -11079, -546, 26493]"
+    },
+    "G7b_dials_reproducible": {
+      "pass": true,
+      "detail": "upstream fn, two calls"
+    }
+  },
+  "p1_pairwise_5grams": [
+    {
+      "a": "zai",
+      "b": "qwen",
+      "count": 3,
+      "samples": [
+        "honest pause is the product",
+        "the honest pause is the",
+        "the witness log is prediction"
+      ]
+    },
+    {
+      "a": "zai",
+      "b": "kimi",
+      "count": 3,
+      "samples": [
+        "honest pause is the product",
+        "the honest pause is the",
+        "the witness log is prediction"
+      ]
+    },
+    {
+      "a": "qwen",
+      "b": "kimi",
+      "count": 3,
+      "samples": [
+        "honest pause is the product",
+        "the honest pause is the",
+        "the witness log is prediction"
+      ]
+    }
+  ],
+  "all3_intersection": {
+    "p1": {
+      "3": 8,
+      "4": 5,
+      "5": 3,
+      "6": 1,
+      "7": 0
+    },
+    "p2": {
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0
+    },
+    "p1_ngrams_n3": [
+      "honest pause is",
+      "is the product",
+      "log is prediction",
+      "pause is the",
+      "the honest pause",
+      "the reference is",
+      "the witness log",
+      "witness log is"
+    ],
+    "p1_ngrams_n5": [
+      "honest pause is the product",
+      "the honest pause is the",
+      "the witness log is prediction"
+    ],
+    "p2_ngrams_n3": []
+  },
+  "negative_controls": [
+    {
+      "name": "G6b fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G6c fires on duplicate p1",
+      "fired": true
+    },
+    {
+      "name": "G4 fires on one-model map",
+      "fired": true
+    },
+    {
+      "name": "G6b fires on identical opening clause",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on duplicate dial",
+      "fired": true
+    },
+    {
+      "name": "G7 fires on monotone dials",
+      "fired": true
+    }
+  ],
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x462a94157b2b4f6a\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps - the plate is only ever measured against the reference and a \",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      1583,\n      29310,\n      -1669,\n      26467,\n      -32291,\n      -29660,\n      7107,\n      11495,\n      -21881,\n      8712,\n      2631,\n      28982,\n      -15515,\n      -11079,\n      -546,\n      26493\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x462a94157b2b4f6a\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T01:07:04.948Z\"\n  }\n}",
+  "state_hash": "0x445185a3a99fd2e7",
+  "stored_cell": {
+    "id": 5001,
+    "number": 5001,
+    "title": "Taps - the plate is only ever measured against the reference and a ",
+    "f_number": 0,
+    "phase": 0,
+    "date": "2026-10-25",
+    "dials": [
+      1583,
+      29310,
+      -1669,
+      26467,
+      -32291,
+      -29660,
+      7107,
+      11495,
+      -21881,
+      8712,
+      2631,
+      28982,
+      -15515,
+      -11079,
+      -546,
+      26493
+    ],
+    "refs": [
+      478
+    ],
+    "ref_papers": [
+      478
+    ],
+    "ref_f_numbers": [],
+    "hash": "0x462a94157b2b4f6a",
+    "submitter": "playground",
+    "created_at": "2026-10-25T01:07:04.948Z"
+  },
+  "call_log": [
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1631
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1744
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1860
+    },
+    {
+      "voice": "kimi",
+      "model": "MiniMax-M2.5",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 592
+    },
+    {
+      "voice": "qwen",
+      "model": "MiniMax-M2.7-highspeed",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 811
+    },
+    {
+      "voice": "zai",
+      "model": "MiniMax-M3.1-Flash",
+      "attempt": 0,
+      "finish": "stop",
+      "len": 1360
+    }
+  ]
+}
