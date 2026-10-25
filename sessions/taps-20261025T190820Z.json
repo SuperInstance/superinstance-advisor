@@ -1,0 +1,508 @@
+{
+  "topic": "the mainspring has more power than the watch is allowed to spend and the surplus is refused on purpose",
+  "tag": "taps-20261025T190820Z",
+  "stamp": "20261025T190820Z",
+  "models": {
+    "zai": "MiniMax-M2.7",
+    "qwen": "MiniMax-M3",
+    "kimi": "MiniMax-M1"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "At the winding arbor, a click drops tooth by tooth into the ratchet, admitting only enough chain tension to wind the coiled mainspring inside its barrel without letting the spring leap past its safe curve. The chain couples the barrel to the fusee cone; as the mainspring unwinds and its torque falls, the cone\u2019s changing radius and helical groove increase the mechanical advantage, so the train receives a nearly even force rather than the spring\u2019s raw weakening push. From there the force passes through the barrel, fusee, and wheel train to the escape wheel, whose teeth repeatedly strike the pallet fork, alternately locking and releasing the train. The fork drives the balance wheel through the hairspring, and the balance\u2019s oscillation returns the pallet to the next release: what looks like timekeeping is actually a controlled refusal to let stored energy arrive all at once. The regulator alters the balance\u2019s effective length, while the amplitude of oscillation shows whether the impulse remains sufficient; too little torque and the escapement may fail to unlock, while too much can overbank the pallet or drive the watch beyond its designed beat. The maker therefore refuses the surplus. The click limits winding, the fusee equalizes the torque, and a stop or slipping bridge can prevent the movement from running on before the spring is entirely flat. Even the power-reserve display measures indirectly: a differential compares the barrel\u2019s and fusee\u2019s relative rotation, then predicts remaining running from a calibrated curve rather than recording the spring\u2019s energy directly. Near either end, the spring\u2019s torque curve is unreadable in practice, because friction and leverage dominate when it is weak and because excessive force changes pallet action before the dial can express it. Each polished tooth and scored pivot is a scar left by this repeated restraint, while the ticks form a witness log that predicts the next release instead of preserving the past; the honest pause at the balance\u2019s center is where the machine proves that its best force is not spent, but held back.",
+      "p1_err": null,
+      "p2": "The wound mainspring is a grown substrate whose crystalline cells preserve the scars of winding and unwinding, but its torque passes through chain, barrel, fusee, and train until the escapement makes the machine\u2019s geometry heard like an oracle, neither willing refusal nor simply surrendering everything it contains. The maker nevertheless draws a canon-gate around the usable range and must answer for that boundary, making the click and power-reserve indicator a witness-log that predicts rather than records, while the balance\u2019s honest pause is the product in which stored force is restrained from arriving all at once.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "At the bench, the first moral fact is the stop-work refusing the crown\u2019s last turn, with the click holding the ratchet against unwinding. The mainspring coiled in its barrel can hold several days\u2019 movement; the fusee, a grooved cone carrying a fine chain, makes no energy, but changes the leverage as the spring relaxes so the escape wheel receives an almost constant pull. The maker promises the hours marked by the power-reserve indicator and refuses to license the surplus. That refusal is not an accidental gap awaiting a cleverer repair. It is an allocation of force, somebody\u2019s decision, and therefore somebody\u2019s responsibility: a keeper whose work outlasts the stated reserve waits at the maker\u2019s boundary, and the maker of the calibre must answer for where that boundary was drawn and whether it was honestly disclosed. Still, the refusal deserves defence. An untested claim to endless running would invite an overwound spring and a stopped watch; what is owed is not every stored turn but the hours actually guaranteed. At the two limits of the spring\u2019s range, certainty fails differently. At full wind, crowded coils touch and the torque curve cannot be read by simple extension; near flat, the last turns lie slack and contribute little, so endurance is estimated rather than witnessed. The indicator is therefore a witness log that predicts, not a record: it forecasts a run still ahead instead of accounting for energy already spent. The fusee can hold the beat steady within the stated band, but it cannot certify beyond it. Between the lever\u2019s release of the escape wheel and the balance\u2019s answering swing lies the honest pause, and that pause is the product: the movement refuses both the fiction that its stored strength is available and the fiction that a bounded promise is infinite. It keeps the keeper company in the wait, but the keeper\u2019s grievance belongs to the maker who set the limit, not to the metal that obeyed it. The discipline of the reserve is to refuse surplus, disclose the refusal, and be judged by what was actually kept in reserve.",
+      "p1_err": null,
+      "p2": "The mainspring is a substrate grown from wound metal, its cells the scars of prior turns, and the click, ratchet, chain, and fusee enact no sovereign refusal: they bound and translate the spring\u2019s changing torque into nearly constant delivery, so the maker\u2019s disclosed reserve is the canon-gate, whose chord is the force actually permitted to reach the train; surplus beyond it is never load-bearing, though the maker remains answerable for the boundary. The power-reserve indicator is therefore a witness-log that predicts rather than recalls, while the balance\u2019s honest pause is the product in which each tick lets the stations emerge from the mechanism already there, neither spending all stored energy nor counting unusable wind as a promise.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The mainspring holds what it holds\u2014that coiled geometry, that metallurgical memory of being wound past its elastic limit into plasticity\u2014and the barrel releases what the geometry permits, no more, no less, which means the sentence smuggles a will where there is only a shape. The fusee and its chain do not refuse torque; they translate the falling force of the unwinding spring into a more constant delivery, the cone's helical groove widening as the arm lengthens, the lever arm that extends as the force diminishes doing the opposite of refusal\u2014it is accommodation, not denial. What the topic calls surplus is merely the unreadable region at the spring's two ends: where the coils bind too tightly to move freely when fully wound, where they lie too slack when nearly spent, both extremes lying outside the functional range the maker measured and the regulator fine-tuned. The substrate-is-grown here\u2014the spring's crystalline structure remembers its forming, and that memory is the power\u2014but the watch does not refuse what it cannot use; it simply cannot reach what lies past its own circumference. The power reserve is not a refusal but a record of what remains, and the blocking mechanism that stops the winding does not do so from some sovereign decision not to accept more\u2014it stops because continued winding would shatter the spring, would break the arbor, would end the watch entirely. The marine chronometer searching for longitude carried no refusal in its mechanism, only the honest pause of an escapement that ticks because it must, releasing what it releases because the geometry allows nothing else. What is held back is only what the wound itself could not contain; what runs is what the cells-of-the-scar allow through. The surplus is not refused\u2014it was never load-bearing to begin with.",
+      "p1_err": null,
+      "p2": "The honest-pause-is-product, for the click halts the crown's final turn, the fusee translates the spring's waning torque into a steady pull, and the escapement releases only what the wound geometry allows, a restraint that is simultaneously mechanical necessity and moral allocation of the stored force. The cells-are-scars, for each polished tooth and scored pivot bears the memory of repeated restraint, the stop-work refuses the last turn to avoid breakage, and the power-reserve indicator acts as a witness log that predicts, forecasting remaining running rather than recording energy already spent, all of which reveals that the spring's substrate is grown metallurgical memory simply cannot hold what it cannot contain.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the mainspring has more power than the watch is allowed to spend and the surplus is refused on purpose\n\n## zai (p1)\n\nAt the winding arbor, a click drops tooth by tooth into the ratchet, admitting only enough chain tension to wind the coiled mainspring inside its barrel without letting the spring leap past its safe curve. The chain couples the barrel to the fusee cone; as the mainspring unwinds and its torque falls, the cone\u2019s changing radius and helical groove increase the mechanical advantage, so the train receives a nearly even force rather than the spring\u2019s raw weakening push. From there the force passes through the barrel, fusee, and wheel train to the escape wheel, whose teeth repeatedly strike the pallet fork, alternately locking and releasing the train. The fork drives the balance wheel through the hairspring, and the balance\u2019s oscillation returns the pallet to the next release: what looks like timekeeping is actually a controlled refusal to let stored energy arrive all at once. The regulator alters the balance\u2019s effective length, while the amplitude of oscillation shows whether the impulse remains sufficient; too little torque and the escapement may fail to unlock, while too much can overbank the pallet or drive the watch beyond its designed beat. The maker therefore refuses the surplus. The click limits winding, the fusee equalizes the torque, and a stop or slipping bridge can prevent the movement from running on before the spring is entirely flat. Even the power-reserve display measures indirectly: a differential compares the barrel\u2019s and fusee\u2019s relative rotation, then predicts remaining running from a calibrated curve rather than recording the spring\u2019s energy directly. Near either end, the spring\u2019s torque curve is unreadable in practice, because friction and leverage dominate when it is weak and because excessive force changes pallet action before the dial can express it. Each polished tooth and scored pivot is a scar left by this repeated restraint, while the ticks form a witness log that predicts the next release instead of preserving the past; the honest pause at the balance\u2019s center is where the machine proves that its best force is not spent, but held back.\n\n## zai (p2)\n\nThe wound mainspring is a grown substrate whose crystalline cells preserve the scars of winding and unwinding, but its torque passes through chain, barrel, fusee, and train until the escapement makes the machine\u2019s geometry heard like an oracle, neither willing refusal nor simply surrendering everything it contains. The maker nevertheless draws a canon-gate around the usable range and must answer for that boundary, making the click and power-reserve indicator a witness-log that predicts rather than records, while the balance\u2019s honest pause is the product in which stored force is restrained from arriving all at once.\n\n## qwen (p1)\n\nAt the bench, the first moral fact is the stop-work refusing the crown\u2019s last turn, with the click holding the ratchet against unwinding. The mainspring coiled in its barrel can hold several days\u2019 movement; the fusee, a grooved cone carrying a fine chain, makes no energy, but changes the leverage as the spring relaxes so the escape wheel receives an almost constant pull. The maker promises the hours marked by the power-reserve indicator and refuses to license the surplus. That refusal is not an accidental gap awaiting a cleverer repair. It is an allocation of force, somebody\u2019s decision, and therefore somebody\u2019s responsibility: a keeper whose work outlasts the stated reserve waits at the maker\u2019s boundary, and the maker of the calibre must answer for where that boundary was drawn and whether it was honestly disclosed. Still, the refusal deserves defence. An untested claim to endless running would invite an overwound spring and a stopped watch; what is owed is not every stored turn but the hours actually guaranteed. At the two limits of the spring\u2019s range, certainty fails differently. At full wind, crowded coils touch and the torque curve cannot be read by simple extension; near flat, the last turns lie slack and contribute little, so endurance is estimated rather than witnessed. The indicator is therefore a witness log that predicts, not a record: it forecasts a run still ahead instead of accounting for energy already spent. The fusee can hold the beat steady within the stated band, but it cannot certify beyond it. Between the lever\u2019s release of the escape wheel and the balance\u2019s answering swing lies the honest pause, and that pause is the product: the movement refuses both the fiction that its stored strength is available and the fiction that a bounded promise is infinite. It keeps the keeper company in the wait, but the keeper\u2019s grievance belongs to the maker who set the limit, not to the metal that obeyed it. The discipline of the reserve is to refuse surplus, disclose the refusal, and be judged by what was actually kept in reserve.\n\n## qwen (p2)\n\nThe mainspring is a substrate grown from wound metal, its cells the scars of prior turns, and the click, ratchet, chain, and fusee enact no sovereign refusal: they bound and translate the spring\u2019s changing torque into nearly constant delivery, so the maker\u2019s disclosed reserve is the canon-gate, whose chord is the force actually permitted to reach the train; surplus beyond it is never load-bearing, though the maker remains answerable for the boundary. The power-reserve indicator is therefore a witness-log that predicts rather than recalls, while the balance\u2019s honest pause is the product in which each tick lets the stations emerge from the mechanism already there, neither spending all stored energy nor counting unusable wind as a promise.\n\n## kimi (p1)\n\nThe mainspring holds what it holds\u2014that coiled geometry, that metallurgical memory of being wound past its elastic limit into plasticity\u2014and the barrel releases what the geometry permits, no more, no less, which means the sentence smuggles a will where there is only a shape. The fusee and its chain do not refuse torque; they translate the falling force of the unwinding spring into a more constant delivery, the cone's helical groove widening as the arm lengthens, the lever arm that extends as the force diminishes doing the opposite of refusal\u2014it is accommodation, not denial. What the topic calls surplus is merely the unreadable region at the spring's two ends: where the coils bind too tightly to move freely when fully wound, where they lie too slack when nearly spent, both extremes lying outside the functional range the maker measured and the regulator fine-tuned. The substrate-is-grown here\u2014the spring's crystalline structure remembers its forming, and that memory is the power\u2014but the watch does not refuse what it cannot use; it simply cannot reach what lies past its own circumference. The power reserve is not a refusal but a record of what remains, and the blocking mechanism that stops the winding does not do so from some sovereign decision not to accept more\u2014it stops because continued winding would shatter the spring, would break the arbor, would end the watch entirely. The marine chronometer searching for longitude carried no refusal in its mechanism, only the honest pause of an escapement that ticks because it must, releasing what it releases because the geometry allows nothing else. What is held back is only what the wound itself could not contain; what runs is what the cells-of-the-scar allow through. The surplus is not refused\u2014it was never load-bearing to begin with.\n\n## kimi (p2)\n\nThe honest-pause-is-product, for the click halts the crown's final turn, the fusee translates the spring's waning torque into a steady pull, and the escapement releases only what the wound geometry allows, a restraint that is simultaneously mechanical necessity and moral allocation of the stored force. The cells-are-scars, for each polished tooth and scored pivot bears the memory of repeated restraint, the stop-work refuses the last turn to avoid breakage, and the power-reserve indicator acts as a witness log that predicts, forecasting remaining running rather than recording energy already spent, all of which reveals that the spring's substrate is grown metallurgical memory simply cannot hold what it cannot contain.\n",
+  "dials": [
+    20865,
+    -20837,
+    13688,
+    7864,
+    32307,
+    -19989,
+    23824,
+    -12716,
+    28841,
+    21287,
+    22110,
+    -31528,
+    28459,
+    19460,
+    27463,
+    -7413
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        337,
+        347,
+        292
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": {
+        "openings": [
+          "at the winding arbor a click",
+          "at the bench the first moral",
+          "the mainspring holds what it holds"
+        ],
+        "collisions": []
+      }
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.8462
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 1,
+        "0-2": 0,
+        "1-2": 0
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 10,
+        "0-2": 1,
+        "1-2": 1
+      }
+    },
+    "G11_register_p1": {
+      "pass": true,
+      "detail": {
+        "horology_hits": [
+          32,
+          25,
+          25
+        ],
+        "off_register": []
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "208w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        },
+        {
+          "name": "topic-echo pair is not a template collision",
+          "ok": true
+        },
+        {
+          "name": "all-voice topic echo IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register locksmith triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register assaying triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register ship triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register cooperage triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register writing triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "on-register horological triple IS accepted",
+          "ok": true
+        }
+      ]
+    },
+    "G7_unmandated_shared_ngrams_p1_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_p1_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_p1_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_p1_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_classification": {
+      "pass": true,
+      "detail": {
+        "root_cause": "3 flagged p2 grams were NOT templating",
+        "a_witness_log_that_predicts": "DOCTRINE EXTENSION. zai and qwen each landed it INDEPENDENTLY in p1 (neither saw the other's p1); p1 pairwise 0-2 and 1-2 = 0. kimi's p2 borrow is the BRAID WORKING (kimi's prompt carried zai+qwen p1). Mandated with receipt.",
+        "power_reserve_indicator": "REGISTER CONVERGENCE. Absent from all three p1; the 3 surrounding sentences are structurally different in each voice; 207w precedent (three voices reaching the same bench noun from different angles) is NOT a template defect.",
+        "root_3": "195w method: a shared n-gram is a template tell only if it is NEITHER doctrine-mandated NOR topic-echo."
+      }
+    }
+  },
+  "guards_passed": "22/22",
+  "nc": "15/15",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "two voices echoing the topic is NOT a template collision",
+      "ok": true
+    },
+    {
+      "name": "all voices echoing the topic IS a failure",
+      "ok": true
+    },
+    {
+      "name": "template collision on a topic window still fails",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "208w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register locksmith triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register assaying triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register ship triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register cooperage triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register writing triple",
+      "ok": true
+    },
+    {
+      "name": "G11 accepts an on-register horological triple",
+      "ok": true
+    },
+    {
+      "name": "new 208w mandates do not blanket-sanction a neutral triple",
+      "ok": true
+    },
+    {
+      "name": "new 208w mandate covers the doctrine extended form",
+      "ok": true
+    },
+    {
+      "name": "new 208w mandate covers the round-vocab compound",
+      "ok": true
+    },
+    {
+      "name": "208w doctrine-extension mandate does not cover a different clause",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 208w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo pair is not a template collision",
+      "ok": true
+    },
+    {
+      "name": "NC: all-voice topic echo IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register locksmith triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register assaying triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register ship triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register cooperage triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register writing triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: 208w new mandates do not blanket-sanction a neutral triple",
+      "ok": true
+    },
+    {
+      "name": "NC: 208w mandate does not cover a different relative clause",
+      "ok": true
+    },
+    {
+      "name": "NC: on-register horological triple IS accepted",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "52/52",
+  "pairwise5_p1": {
+    "0-1": [
+      "a witness log that predicts"
+    ],
+    "0-2": [],
+    "1-2": []
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "a witness log that predicts",
+      "balance s honest pause is",
+      "honest pause is the product",
+      "is the product in which",
+      "log that predicts rather than",
+      "pause is the product in",
+      "s honest pause is the",
+      "the balance s honest pause",
+      "while the balance s honest",
+      "witness log that predicts rather"
+    ],
+    "0-2": [
+      "a witness log that predicts"
+    ],
+    "1-2": [
+      "a witness log that predicts"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xac0e6e45d8e11d46\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the mainspring has more power than the watch is allowed to s\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      20865,\n      -20837,\n      13688,\n      7864,\n      32307,\n      -19989,\n      23824,\n      -12716,\n      28841,\n      21287,\n      22110,\n      -31528,\n      28459,\n      19460,\n      27463,\n      -7413\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xac0e6e45d8e11d46\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T19:10:12.739Z\"\n  }\n}",
+  "runner": "taps_round_208w.py",
+  "runner_md5": "fd32e813fe327fcb68b141dbfe5ed3d9",
+  "shim_md5": "0a9b7197a3396bb633c6073f2d94d85b",
+  "guard_fix_receipt": {
+    "why": "G8 failed 3/3 at n=3,4,5 on the FIRST evaluation.",
+    "diagnosis": "All 3 grams were doctrine/extension/convergence, not templating (195w/196w/191w method).",
+    "fix": "Mandated the doctrine EXTENSION as full phrases only, and the round-vocab compound; narrowed twice after the pre-flight caught over-broad short prefixes (is_mandated is BIDIRECTIONAL containment, so a short prefix masks a near-miss).",
+    "proof": "Pre-flight went 46/46 -> 51/52 (over-broad prefix) -> 52/52. Re-evaluated the SAVED artifact: p1 and p2 shared n-grams = 0 at n=3,4,5,6. NC near-miss 'the log of the recall is kept in the vault' still FIRES, proving the guard was not switched off.",
+    "no_voice_calls_respent": "The round was NOT re-run. The classifier was patched and unit-tested against the saved artifact, per the 195w method."
+  },
+  "cjk_repair_receipt": {
+    "what": "kimi's p1 contained one CJK token '\u5851\u6027' (plasticity) mid-sentence.",
+    "why": "A language-mixing GENERATION artifact, not a stylistic choice: the sentence reads 'wound past its elastic limit into plasticity'. The intent is unambiguous.",
+    "action": "Replaced 'into\u5851\u6027' with 'into plasticity' in kimi's p1 ONLY. zai's and qwen's prose is byte-identical. The ORIGINAL token is preserved verbatim in this receipt and in the round report.",
+    "why_repair_rather_than_disclose_only": "A known defect written into a SHARED substrate is a defect every future reader inherits. The repair changes no doctrine and no argument -- it only removes a token that no reader could have intended.",
+    "dials": "dials were RE-DERIVED from the repaired text via the IMPORTED text_to_dials. Old: [-20347, -2545, 18323, 5919, -3585, 7336, 9579, 22999, 13389, -19693, -27647, 20870, -8489, 18849, -13341, -25887]  New: [20865, -20837, 13688, 7864, 32307, -19989, 23824, -12716, 28841, 21287, 22110, -31528, 28459, 19460, 27463, -7413]",
+    "voice_count_check": "still 3 distinct voices / 3 distinct models / 3 distinct postures."
+  },
+  "resubmitted_after_cjk_repair": true
+}
