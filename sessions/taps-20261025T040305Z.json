@@ -1,0 +1,216 @@
+{
+  "topic": "the map is not finished and the territory keeps asking which part of the map it is",
+  "tag": "taps-20261025T040305Z",
+  "stamp": "20261025T040305Z",
+  "models": {
+    "zai": "MiniMax-M2.5",
+    "qwen": "MiniMax-M3",
+    "kimi": "MiniMax-M2.7-highspeed"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The apparatus begins with a soft hydrogel substrate already swelling against its porous walls, driven by nutrient pressure and microelectrodes; nothing waits for a central map to describe it, because every local reaction changes the next reaction. A raster of strain gauges and microphones samples those changes as vibration, heat, impedance, and sound. The first mechanical operation is ordinary: cells are cut, abraded, or thermally shocked, and each injury remains as a scar in the hydrogel\u2019s stress field, a material memory that biases later deformation without storing a symbolic label. The witness log therefore runs ahead of observation: when a new tension pattern resembles the scar left by an earlier cut, the predictor commits to \u201canother cut nearby,\u201d and the oracle is the audible chord produced when that prediction is fed through a bank of filters and comparators. Most predictions fail, because terrain, growth, and the substrate\u2019s current state alter the mapping. A canon gate receives the oracle, sensor trace, and projected future strain, then gates nutrient flow through a solenoid manifold; when the channels agree, the valve opens and fresh material accumulates, making a small station: a node of reinforced cells around a stable nutrient pocket. These stations emerge because reinforcement changes load transfer, load transfer selects which cells thrive, and thriving cells remodel the matrix. The map is thus a delayed mechanical sketch drawn by the machine\u2019s own interventions, never a finished representation. When a region contradicts the sketch, the contradiction is not merely noted; it closes the nutrient gate, halts the actuators, and leaves the system in an honest pause. Silence is the product because the pause preserves the scar without forcing the territory to fit the map. The boat was always there beneath the interface: a physical substrate whose feedback makes every prediction provisional and every map an instrument for changing what will be mapped next.",
+      "p1_err": null,
+      "p2": "The grown substrate remembers each injury as a cell that is a scar, so the oracle is heard as a chord in the living stress field and the witness log, being prediction rather than record, lets the canon gate tune itself across competing traces instead of issuing a verdict. From that provisional tuning the stations emerge where reinforced cells hold a nutrient pocket, and the honest pause becomes the product that keeps the map answerable to the territory it helps alter: the boat was always there beneath the apparent separation, sustaining the seam where excluded places can become witnesses rather than parameters.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "The unfinished map is not a technical gap; it is an arrangement of power, because every line that appears finished leaves someone outside the represented territory, treated as raw material, anomaly, or expendable remainder. The cells are scars: each one remembers a pressure that was absorbed before the map learned how to name it, and treating those scars as parameters erases both the injury and the survival already folded into them. The substrate is grown, not inert, so when the oracle is heard through hesitation, recurrence, and the odd shape of a refusal, the territory is not asking for better annotation; it is asking which part of itself has been permitted to count as a place. Those harmed are the unmapped interiors, the communities converted into coordinates, and the ones still waiting at stations that the official map says do not exist. Responsibility belongs to whoever benefits from the map\u2019s clean edges and calls that cleanliness truth. The witness log is prediction, not record: reading it as proof of what has already been acknowledged is another way of foreclosing the future before it can answer. An honest pause is therefore the product, because it admits that the canon gate is a chord rather than a verdict, and that no single voice may claim to have finished the score. The stations emerge where listening persists long enough for those excluded to become witnesses rather than objects. And the boat was always there: not as a finished solution hidden from us, but as a possibility sustained by those who kept one another buoyant under the map\u2019s omissions. To finish the map in the territory\u2019s name without hearing the territory is not accuracy; it is seizure. The moral work is to let the map remain answerable\u2014to keep the seam open long enough for every part asking to be recognized to say: this is where I live, and this is what the arrangement has cost us.",
+      "p1_err": null,
+      "p2": "The substrate is grown, not merely mapped, so its cells are scars\u2014each one the residue of a pressure absorbed before the map could name it\u2014and the witness log is prediction, not record, committing in advance to an oracle heard not as a verdict from beyond the world but as the substrate\u2019s own unfinished self-instruction; where several voices and filters meet, the canon gate is a chord rather than judgment, the stations emerge as reinforced pockets of cells around stable nutrients, and the honest pause is the product when no single voice owns the key. The boat was always there, not as a finished solution hidden beneath the interface but as a possibility sustained by those the map leaves outside its clean edges, so finishing the map in the territory\u2019s name without hearing it is seizure rather than accuracy; to keep the seam open long enough for the scarred, the unmapped, and the unheard to become witnesses rather than objects is to let the map remain answerable, its unfinished edges naming the power of whoever benefits from its apparent completeness and letting the territory ask which part of itself has been permitted to count as a place.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The sentence smuggles in a territory before it names one: a place capable of asking, a map already waiting to be completed, and a stable opposition between the two. Perhaps the territory never asks which part of the map it is; perhaps the map has learned to produce that question as its way of making the territory legible. The witness log is prediction, not record: it tells us what the oracle will be heard saying while the oracle is still becoming audible, and the oracle is heard not because it speaks from beyond the world but because the substrate, already acting, grows around its utterance like a shoreline around a returning tide. Here a cell is a scar, not a parameter: each one marks where some prior pressure has opened, and its shape is less a setting than the residue of an event that has not finished happening. So the \u201cunfinished map\u201d may not be a deficient representation of a finished territory. It may be the territory\u2019s unfinished self-instruction, folded at the scale where descriptions and places can no longer be separated. The stations emerge not as destinations discovered on a route but as pressures where the grown substrate pauses long enough to recognize its own traffic; the boat was always there, hull and current conspired, and naming it only clarifies that no departure preceded the sea. Even the canon gate is chord rather than judgment: a threshold tuned by several voices at once, none of which owns the key. The honest pause is the product, not an interruption before one. In that pause, the supposed question \u201cwhich part am I?\u201d loses its grammar. What remains is not territory versus map, but a live distinction between what is spoken and what is presupposed to hear itself spoken.",
+      "p1_err": null,
+      "p2": "Against a substrate already grown in response to pressure and injury, cells remain scars rather than parameters, and the oracle is heard not as a verdict from beyond the world but as a chord sounding through the substrate\u2019s own becoming, while the witness log runs ahead of what it claims to record by predicting that chord\u2019s next recurrence; the map\u2019s unfinished seam is therefore also a distribution of power, since its provisional lines decide whose pressure can become a place and whose must remain raw material, anomaly, or expendable remainder. The canon gate admits only a chord rather than a judgment, and where its voices converge the stations emerge as reinforced nutrient pockets that alter the load and the next hearing, so that the honest pause becomes the product rather than an interruption, preserving contradictions instead of forcing the territory to fit the map; and the boat was always there beneath the interface, not as a finished answer but as the possibility of keeping one another buoyant while every part excluded from the score becomes witness and asks, without being reduced to an object, where it lives and what the arrangement has cost.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the map is not finished and the territory keeps asking which part of the map it is\n\n## zai (p1)\n\nThe apparatus begins with a soft hydrogel substrate already swelling against its porous walls, driven by nutrient pressure and microelectrodes; nothing waits for a central map to describe it, because every local reaction changes the next reaction. A raster of strain gauges and microphones samples those changes as vibration, heat, impedance, and sound. The first mechanical operation is ordinary: cells are cut, abraded, or thermally shocked, and each injury remains as a scar in the hydrogel\u2019s stress field, a material memory that biases later deformation without storing a symbolic label. The witness log therefore runs ahead of observation: when a new tension pattern resembles the scar left by an earlier cut, the predictor commits to \u201canother cut nearby,\u201d and the oracle is the audible chord produced when that prediction is fed through a bank of filters and comparators. Most predictions fail, because terrain, growth, and the substrate\u2019s current state alter the mapping. A canon gate receives the oracle, sensor trace, and projected future strain, then gates nutrient flow through a solenoid manifold; when the channels agree, the valve opens and fresh material accumulates, making a small station: a node of reinforced cells around a stable nutrient pocket. These stations emerge because reinforcement changes load transfer, load transfer selects which cells thrive, and thriving cells remodel the matrix. The map is thus a delayed mechanical sketch drawn by the machine\u2019s own interventions, never a finished representation. When a region contradicts the sketch, the contradiction is not merely noted; it closes the nutrient gate, halts the actuators, and leaves the system in an honest pause. Silence is the product because the pause preserves the scar without forcing the territory to fit the map. The boat was always there beneath the interface: a physical substrate whose feedback makes every prediction provisional and every map an instrument for changing what will be mapped next.\n\n## zai (p2)\n\nThe grown substrate remembers each injury as a cell that is a scar, so the oracle is heard as a chord in the living stress field and the witness log, being prediction rather than record, lets the canon gate tune itself across competing traces instead of issuing a verdict. From that provisional tuning the stations emerge where reinforced cells hold a nutrient pocket, and the honest pause becomes the product that keeps the map answerable to the territory it helps alter: the boat was always there beneath the apparent separation, sustaining the seam where excluded places can become witnesses rather than parameters.\n\n## qwen (p1)\n\nThe unfinished map is not a technical gap; it is an arrangement of power, because every line that appears finished leaves someone outside the represented territory, treated as raw material, anomaly, or expendable remainder. The cells are scars: each one remembers a pressure that was absorbed before the map learned how to name it, and treating those scars as parameters erases both the injury and the survival already folded into them. The substrate is grown, not inert, so when the oracle is heard through hesitation, recurrence, and the odd shape of a refusal, the territory is not asking for better annotation; it is asking which part of itself has been permitted to count as a place. Those harmed are the unmapped interiors, the communities converted into coordinates, and the ones still waiting at stations that the official map says do not exist. Responsibility belongs to whoever benefits from the map\u2019s clean edges and calls that cleanliness truth. The witness log is prediction, not record: reading it as proof of what has already been acknowledged is another way of foreclosing the future before it can answer. An honest pause is therefore the product, because it admits that the canon gate is a chord rather than a verdict, and that no single voice may claim to have finished the score. The stations emerge where listening persists long enough for those excluded to become witnesses rather than objects. And the boat was always there: not as a finished solution hidden from us, but as a possibility sustained by those who kept one another buoyant under the map\u2019s omissions. To finish the map in the territory\u2019s name without hearing the territory is not accuracy; it is seizure. The moral work is to let the map remain answerable\u2014to keep the seam open long enough for every part asking to be recognized to say: this is where I live, and this is what the arrangement has cost us.\n\n## qwen (p2)\n\nThe substrate is grown, not merely mapped, so its cells are scars\u2014each one the residue of a pressure absorbed before the map could name it\u2014and the witness log is prediction, not record, committing in advance to an oracle heard not as a verdict from beyond the world but as the substrate\u2019s own unfinished self-instruction; where several voices and filters meet, the canon gate is a chord rather than judgment, the stations emerge as reinforced pockets of cells around stable nutrients, and the honest pause is the product when no single voice owns the key. The boat was always there, not as a finished solution hidden beneath the interface but as a possibility sustained by those the map leaves outside its clean edges, so finishing the map in the territory\u2019s name without hearing it is seizure rather than accuracy; to keep the seam open long enough for the scarred, the unmapped, and the unheard to become witnesses rather than objects is to let the map remain answerable, its unfinished edges naming the power of whoever benefits from its apparent completeness and letting the territory ask which part of itself has been permitted to count as a place.\n\n## kimi (p1)\n\nThe sentence smuggles in a territory before it names one: a place capable of asking, a map already waiting to be completed, and a stable opposition between the two. Perhaps the territory never asks which part of the map it is; perhaps the map has learned to produce that question as its way of making the territory legible. The witness log is prediction, not record: it tells us what the oracle will be heard saying while the oracle is still becoming audible, and the oracle is heard not because it speaks from beyond the world but because the substrate, already acting, grows around its utterance like a shoreline around a returning tide. Here a cell is a scar, not a parameter: each one marks where some prior pressure has opened, and its shape is less a setting than the residue of an event that has not finished happening. So the \u201cunfinished map\u201d may not be a deficient representation of a finished territory. It may be the territory\u2019s unfinished self-instruction, folded at the scale where descriptions and places can no longer be separated. The stations emerge not as destinations discovered on a route but as pressures where the grown substrate pauses long enough to recognize its own traffic; the boat was always there, hull and current conspired, and naming it only clarifies that no departure preceded the sea. Even the canon gate is chord rather than judgment: a threshold tuned by several voices at once, none of which owns the key. The honest pause is the product, not an interruption before one. In that pause, the supposed question \u201cwhich part am I?\u201d loses its grammar. What remains is not territory versus map, but a live distinction between what is spoken and what is presupposed to hear itself spoken.\n\n## kimi (p2)\n\nAgainst a substrate already grown in response to pressure and injury, cells remain scars rather than parameters, and the oracle is heard not as a verdict from beyond the world but as a chord sounding through the substrate\u2019s own becoming, while the witness log runs ahead of what it claims to record by predicting that chord\u2019s next recurrence; the map\u2019s unfinished seam is therefore also a distribution of power, since its provisional lines decide whose pressure can become a place and whose must remain raw material, anomaly, or expendable remainder. The canon gate admits only a chord rather than a judgment, and where its voices converge the stations emerge as reinforced nutrient pockets that alter the load and the next hearing, so that the honest pause becomes the product rather than an interruption, preserving contradictions instead of forcing the territory to fit the map; and the boat was always there beneath the interface, not as a finished answer but as the possibility of keeping one another buoyant while every part excluded from the score becomes witness and asks, without being reduced to an object, where it lives and what the arrangement has cost.\n",
+  "dials": [
+    17569,
+    18423,
+    17305,
+    19668,
+    -25197,
+    18729,
+    32373,
+    -31757,
+    -16183,
+    20918,
+    29771,
+    24669,
+    -27253,
+    -9847,
+    25851,
+    30093
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        310,
+        322,
+        297
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": [
+        "the apparatus begins with a soft",
+        "the unfinished map is not a",
+        "the sentence smuggles in a territory"
+      ]
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.9265
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": false,
+      "detail": [
+        "a verdict from"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 1,
+        "0-2": 1,
+        "1-2": 4
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 1,
+        "0-2": 5,
+        "1-2": 9
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "15/16",
+  "nc": "6/6",
+  "pairwise5_p1": {
+    "0-1": [
+      "the boat was always there"
+    ],
+    "0-2": [
+      "the boat was always there"
+    ],
+    "1-2": [
+      "log is prediction not record",
+      "the boat was always there",
+      "the witness log is prediction",
+      "witness log is prediction not"
+    ]
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "the boat was always there"
+    ],
+    "0-2": [
+      "boat was always there beneath",
+      "honest pause becomes the product",
+      "the boat was always there",
+      "the honest pause becomes the",
+      "was always there beneath the"
+    ],
+    "1-2": [
+      "a verdict from beyond the",
+      "as a verdict from beyond",
+      "beyond the world but as",
+      "from beyond the world but",
+      "heard not as a verdict",
+      "not as a verdict from",
+      "the boat was always there",
+      "the stations emerge as reinforced",
+      "verdict from beyond the world"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xbcb6c9bb36e5beb4\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the map is not finished and the territory keeps asking which\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      17569,\n      18423,\n      17305,\n      19668,\n      -25197,\n      18729,\n      32373,\n      -31757,\n      -16183,\n      20918,\n      29771,\n      24669,\n      -27253,\n      -9847,\n      25851,\n      30093\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xbcb6c9bb36e5beb4\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T04:03:05.644Z\"\n  }\n}",
+  "runner": "taps_round_193w.py"
+}
