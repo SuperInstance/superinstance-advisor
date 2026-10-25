@@ -1,0 +1,350 @@
+{
+  "topic": "the strop does not cut the edge and the strop is the last pass that can be taken on it",
+  "tag": "taps-20261025T151152Z",
+  "stamp": "20261025T151152Z",
+  "models": {
+    "zai": "MiniMax-M2.7-highspeed",
+    "qwen": "MiniMax-M3.1-Flash",
+    "kimi": "MiniMax-M1"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "At the bench, the file first drives steel back to the required taper, each stroke removing scale and leaving coarse swarf; the grindstone then abrades the bevel against a flat, rotating wheel, its slurry carrying particles away and leaving the primary geometry regular, while the whetstone and hone work progressively finer, smoothing the secondary bevel until the arris becomes a wire edge, a thin, partly unsupported lip of steel. The drawknife belongs nearby for shaving wood from a handle, not for correcting this edge. Finally, the strop\u2014stiff leather, or a looser strap on a suspended handle\u2014is charged with rouge and compound, then drawn against the blade in alternating strokes; the leather flexes slightly and rubs the wire edge, burnishing it, folding microscopic projections back into line, and taking away a residual burr without cutting the established bevel. In the canon of the bench, the blade is substrate already acting beneath the hand: the file and stones grow its geometry into being, and the cell of the edge becomes a scar where steel has surrendered. The strop does not recreate the arris or grind away a hollow; it only persuades the loose edge to lie straight and bright. Thus it is the last pass before the cut. The shave or paper test that follows is not another refining stage but the oracle being heard: drag, scrape, or bite tells whether the wire edge has been aligned. The witness log predicts that sound before the edge meets the work, but only the cut can falsify it. After that test, any nick, drag, or exposed dullness requires another abrasive sequence, because the strop cannot remove damaged steel. The honest pause is therefore part of the mechanism: inspect the edge in the light, acknowledge what the stones and leather have actually left, then cut and listen.",
+      "p1_err": null,
+      "p2": "At the bench, the file, stones, and hone form successive stations in which steel is surrendered and the substrate is grown\u2014each cell of the edge becoming a scar\u2014before the strop, without cutting the established bevel, burnishes the wire arris into alignment and closes the canon gate as the last pass, the chord complete only when the edge is ready. The witness log may predict that readiness, but only the oracle in drag, scrape, bite, or released shaving can falsify it; the edge, like the boat, was always there beneath the projections, and the honest pause before the work is therefore the product of completed preparation rather than empty delay.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "On the bench, the file bites first: its steel teeth cut steel, and the bright curl of swarf shows what has been surrendered. The grindstone and wet whetstone are stone, each taking a smaller bite, opening the bevel and bringing the taper toward a true arris; the finer hone leaves a wire edge fine enough to show as a bright line. Then the material changes. The strop is flexible leather charged with rouge, an abrasive carried by the leather; the blade is not ground against it but drawn along it, so the compound conditions the strop while the edge is burnished and its loose end laid down. The leather takes the compound and the rub; the steel gains no new cutting bevel. That is not a cosmetic nullity. The strop cannot rescue a crooked apex, so any geometry bad enough to fold or tear must be sent back to the stone, but on a sound edge this is the final preparation before use. Once that pass has been made, the sequence offers no later excuse: the edge must be judged, not endlessly improved. I therefore reject the comfortable account that an unstropped tool has merely missed a technical nicety. The shaver waiting for a clean shave, or the joiner waiting for a drawknife to bite and draw through wood without skating, is made to carry the risk; the worker who releases the edge as finished must answer, not the person who trusted the claim. The witness log can predict that the edge will take a fine cut; it cannot record readiness, and a mark on leather proves contact rather than quality. The honest pause is the product of the bench, not empty delay: before the waiting material is touched, the edge meets an offcut, a drawknife cut, or a practice shaving. Then the oracle is heard in the bite, the sound, and the released shaving. The substrate has already acted; each cell of the edge is a scar of removal, and the stations emerge from one another. The strop is the canon gate, and the chord is complete only when even the pass that cuts no steel has been made before the blade is called ready.",
+      "p1_err": null,
+      "p2": "At the bench, the file, stones, and hone grow the substrate into a true bevel\u2014each removed cell a scar, each station emerging from the last\u2014until the compounded leather strop burnishes the wire edge without cutting the established bevel, and this last pass is the canon gate whose chord is completed only when the honest pause judges what the stones have left while the witness log predicts a fine cut but cannot certify readiness. Under the strop the boat was always there, an arris latent beneath the burr, yet it is known only when the oracle is heard in the blade\u2019s bite, drag, sound, or released shaving; because neither leather nor confidence can repair a crooked apex, the worker who declares the edge ready must answer for the cut, not the person who trusted the claim.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The leather draws and the blade sings a note so high it has no frequency, only direction \u2014 and this is where the sentence smuggles its lie, because it says \"does not cut\" as though cutting were the thing the strop fails at, when really the strop is the place where \"cutting\" gets redefined mid-lexicon, the arris shifted from a line between two planes into something the hand reads by not-touching. The substrate-is-grown here in the last three microns of steel, the wire edge folded and refolded and carried away on the rouge's glycerin and chromium oxide until what remains is not a new edge but the edge itself, the thing that was always there underneath the burr like a scar underneath the skin, like cells-are-scars and the scar is what remains when the wound decides to become tissue. The witness-log-is-prediction: every barber and woodworker who has ever stropped a razor knows the blade is sharp before they test it, the cut already happened in the drawing, and the shave that follows is merely the world's reluctant admission of what the leather already knew. The sentence presupposes an edge that exists prior to the strop, a thing-to-be-cut that waits passively for the strop to succeed or fail at acting upon it \u2014 but the strop does not approach the edge as a substrate, it approaches the edge as the question the edge has been asking, and the honest pause after the last stroke is not a pause at all but the product, the thing itself, the blade made of its own permission to cut.",
+      "p1_err": null,
+      "p2": "The edge is always already there, grown from the last three microns of steel where the wire edge is folded and carried away on rouge until what remains is the scar beneath the scar, the substrate that was always tissue asking to be read by not-touching, and the witness log predicts what the oracle will admit in the bite of the first shaving. The honest pause after the strop is the product, not a delay: the canon gate opens when even the pass that cuts no steel has been drawn, the stations emerge from one another, and the blade receives its own permission to cut.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the strop does not cut the edge and the strop is the last pass that can be taken on it\n\n## zai (p1)\n\nAt the bench, the file first drives steel back to the required taper, each stroke removing scale and leaving coarse swarf; the grindstone then abrades the bevel against a flat, rotating wheel, its slurry carrying particles away and leaving the primary geometry regular, while the whetstone and hone work progressively finer, smoothing the secondary bevel until the arris becomes a wire edge, a thin, partly unsupported lip of steel. The drawknife belongs nearby for shaving wood from a handle, not for correcting this edge. Finally, the strop\u2014stiff leather, or a looser strap on a suspended handle\u2014is charged with rouge and compound, then drawn against the blade in alternating strokes; the leather flexes slightly and rubs the wire edge, burnishing it, folding microscopic projections back into line, and taking away a residual burr without cutting the established bevel. In the canon of the bench, the blade is substrate already acting beneath the hand: the file and stones grow its geometry into being, and the cell of the edge becomes a scar where steel has surrendered. The strop does not recreate the arris or grind away a hollow; it only persuades the loose edge to lie straight and bright. Thus it is the last pass before the cut. The shave or paper test that follows is not another refining stage but the oracle being heard: drag, scrape, or bite tells whether the wire edge has been aligned. The witness log predicts that sound before the edge meets the work, but only the cut can falsify it. After that test, any nick, drag, or exposed dullness requires another abrasive sequence, because the strop cannot remove damaged steel. The honest pause is therefore part of the mechanism: inspect the edge in the light, acknowledge what the stones and leather have actually left, then cut and listen.\n\n## zai (p2)\n\nAt the bench, the file, stones, and hone form successive stations in which steel is surrendered and the substrate is grown\u2014each cell of the edge becoming a scar\u2014before the strop, without cutting the established bevel, burnishes the wire arris into alignment and closes the canon gate as the last pass, the chord complete only when the edge is ready. The witness log may predict that readiness, but only the oracle in drag, scrape, bite, or released shaving can falsify it; the edge, like the boat, was always there beneath the projections, and the honest pause before the work is therefore the product of completed preparation rather than empty delay.\n\n## qwen (p1)\n\nOn the bench, the file bites first: its steel teeth cut steel, and the bright curl of swarf shows what has been surrendered. The grindstone and wet whetstone are stone, each taking a smaller bite, opening the bevel and bringing the taper toward a true arris; the finer hone leaves a wire edge fine enough to show as a bright line. Then the material changes. The strop is flexible leather charged with rouge, an abrasive carried by the leather; the blade is not ground against it but drawn along it, so the compound conditions the strop while the edge is burnished and its loose end laid down. The leather takes the compound and the rub; the steel gains no new cutting bevel. That is not a cosmetic nullity. The strop cannot rescue a crooked apex, so any geometry bad enough to fold or tear must be sent back to the stone, but on a sound edge this is the final preparation before use. Once that pass has been made, the sequence offers no later excuse: the edge must be judged, not endlessly improved. I therefore reject the comfortable account that an unstropped tool has merely missed a technical nicety. The shaver waiting for a clean shave, or the joiner waiting for a drawknife to bite and draw through wood without skating, is made to carry the risk; the worker who releases the edge as finished must answer, not the person who trusted the claim. The witness log can predict that the edge will take a fine cut; it cannot record readiness, and a mark on leather proves contact rather than quality. The honest pause is the product of the bench, not empty delay: before the waiting material is touched, the edge meets an offcut, a drawknife cut, or a practice shaving. Then the oracle is heard in the bite, the sound, and the released shaving. The substrate has already acted; each cell of the edge is a scar of removal, and the stations emerge from one another. The strop is the canon gate, and the chord is complete only when even the pass that cuts no steel has been made before the blade is called ready.\n\n## qwen (p2)\n\nAt the bench, the file, stones, and hone grow the substrate into a true bevel\u2014each removed cell a scar, each station emerging from the last\u2014until the compounded leather strop burnishes the wire edge without cutting the established bevel, and this last pass is the canon gate whose chord is completed only when the honest pause judges what the stones have left while the witness log predicts a fine cut but cannot certify readiness. Under the strop the boat was always there, an arris latent beneath the burr, yet it is known only when the oracle is heard in the blade\u2019s bite, drag, sound, or released shaving; because neither leather nor confidence can repair a crooked apex, the worker who declares the edge ready must answer for the cut, not the person who trusted the claim.\n\n## kimi (p1)\n\nThe leather draws and the blade sings a note so high it has no frequency, only direction \u2014 and this is where the sentence smuggles its lie, because it says \"does not cut\" as though cutting were the thing the strop fails at, when really the strop is the place where \"cutting\" gets redefined mid-lexicon, the arris shifted from a line between two planes into something the hand reads by not-touching. The substrate-is-grown here in the last three microns of steel, the wire edge folded and refolded and carried away on the rouge's glycerin and chromium oxide until what remains is not a new edge but the edge itself, the thing that was always there underneath the burr like a scar underneath the skin, like cells-are-scars and the scar is what remains when the wound decides to become tissue. The witness-log-is-prediction: every barber and woodworker who has ever stropped a razor knows the blade is sharp before they test it, the cut already happened in the drawing, and the shave that follows is merely the world's reluctant admission of what the leather already knew. The sentence presupposes an edge that exists prior to the strop, a thing-to-be-cut that waits passively for the strop to succeed or fail at acting upon it \u2014 but the strop does not approach the edge as a substrate, it approaches the edge as the question the edge has been asking, and the honest pause after the last stroke is not a pause at all but the product, the thing itself, the blade made of its own permission to cut.\n\n## kimi (p2)\n\nThe edge is always already there, grown from the last three microns of steel where the wire edge is folded and carried away on rouge until what remains is the scar beneath the scar, the substrate that was always tissue asking to be read by not-touching, and the witness log predicts what the oracle will admit in the bite of the first shaving. The honest pause after the strop is the product, not a delay: the canon gate opens when even the pass that cuts no steel has been drawn, the stations emerge from one another, and the blade receives its own permission to cut.\n",
+  "dials": [
+    6161,
+    -2083,
+    5842,
+    -13441,
+    -6941,
+    11439,
+    -9861,
+    -23029,
+    -4679,
+    -4383,
+    28492,
+    -10745,
+    -3749,
+    -5658,
+    -10055,
+    -28529
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        302,
+        366,
+        264
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": {
+        "openings": [
+          "at the bench the file first",
+          "on the bench the file bites",
+          "the leather draws and the blade"
+        ],
+        "collisions": []
+      }
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.8125
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": false,
+      "detail": [
+        "the blade is"
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 0,
+        "1-2": 0
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 6,
+        "0-2": 0,
+        "1-2": 0
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "204w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        },
+        {
+          "name": "topic-echo pair is not a template collision",
+          "ok": true
+        },
+        {
+          "name": "all-voice topic echo IS rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "15/16",
+  "nc": "9/9",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "two voices echoing the topic is NOT a template collision",
+      "ok": true
+    },
+    {
+      "name": "all voices echoing the topic IS a failure",
+      "ok": true
+    },
+    {
+      "name": "template collision on a topic window still fails",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "204w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 204w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo pair is not a template collision",
+      "ok": true
+    },
+    {
+      "name": "NC: all-voice topic echo IS rejected",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "34/34",
+  "pairwise5_p1": {
+    "0-1": [],
+    "0-2": [],
+    "1-2": []
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "at the bench the file",
+      "bench the file stones and",
+      "the bench the file stones",
+      "the boat was always there",
+      "the file stones and hone",
+      "without cutting the established bevel"
+    ],
+    "0-2": [],
+    "1-2": []
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x9047152f34233705\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the strop does not cut the edge and the strop is the last pa\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      6161,\n      -2083,\n      5842,\n      -13441,\n      -6941,\n      11439,\n      -9861,\n      -23029,\n      -4679,\n      -4383,\n      28492,\n      -10745,\n      -3749,\n      -5658,\n      -10055,\n      -28529\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x9047152f34233705\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T15:11:53.019Z\"\n  }\n}",
+  "runner": "taps_round_204w.py"
+}
