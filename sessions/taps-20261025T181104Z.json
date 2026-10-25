@@ -1,0 +1,397 @@
+{
+  "topic": "the lock cannot tell the key from the pick and the wear in the wards is a record of a key either way",
+  "tag": "taps-20261025T181104Z",
+  "stamp": "20261025T181104Z",
+  "models": {
+    "zai": "MiniMax-M2.7-highspeed",
+    "qwen": "MiniMax-M2.5",
+    "kimi": "MiniMax-M3.1-Flash"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The file cuts by abrasion: each stroke removes steel from the blank, and the depth gauge checks a bitting against the measured ward before the key ever enters the keyway. On a warded lock, the blade\u2019s profile must clear the fixed ward shoulders and flanks; its cuts are not merely decorative but set the depths at which the key can press past each obstruction and turn the bolt. On the lever lock, the condition changes: the key raises five levers against their springs, and only when every lever reaches its gate can the bolt cross the shear line. A pick performs the missing geometry by lifting each lever in turn while the tension wrench holds a controlled torque on the plug, so the mechanism receives the same functional event\u2014upward displacement to the correct height\u2014even without the key. The rake substitutes repetition for knowledge, cycling several pins together until spring pressure and luck place them at the shear line. Here the lock has no faculty of recognition beyond resistance, clearance, and movement. A worn notch can lower the lifting threshold, while a polished ward flank records many years of the same lateral pressure, whether made by a legitimate key, a pick, or a field gate\u2019s repeated weather. That polish is a scar in the material, not a testimony about its cause: it tells the future mechanism what shape and force are likely to succeed. Likewise, the bright scar left by a pick differs from key polish but acts on the same surfaces. The blank is already being grown under the file, its future cut answering the ward\u2019s present resistance. Between one lift and the next, the pickman pauses, feels the spring through the tension wrench, and hears an oracle in the lever\u2019s return. During that honest pause, the witness log does not record what happened; it predicts the next depth, the next filing, the next opening.",
+      "p1_err": null,
+      "p2": "The file\u2019s bright curl and the lock\u2019s polished or torn wards are cells-are-scars: the blank is being grown under abrasion and the field lock\u2019s weather has already made its stations emerge, so the boat was always there beneath the habit of calling wear neutral, and what is honestly heard in the pause is an oracle of contact, not permission or identity. The witness log remains prediction rather than record, for the lock cannot tell key from pick, the honest pause is the product of those unresolved cuts, and responsibility therefore lands on those who made the waiting dangerous; only when key, pick, wear, and witness sound together without forcing consensus does the canon gate become a chord.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "The file first makes a bright, bodily promise: this shall be the depth, the blank shall become a key, the cut shall meet the cut. But when the pick enters the keyway, the lock feels only pressure, slide, and the yielding of metal; it cannot tell the intended key from the rake, the practiced hand from the desperate one, nor say whether the opening is welcome. That limitation is not a technical gap. It is the shape of the arrangement\u2019s harm, because every use leaves evidence that can be read in advance as innocence or guilt: a polished ward, a bright scar where a pick passed, a bolt eased by lever, a pin pushed past its detainer. The witness log predicts what these marks will mean before anyone has heard the account; it does not remember the hand. The cells are scars, not parameters: each nick is a consequence already inscribed in the substance, and the honest pause after opening is the only moment when the lock\u2019s silence can become testimony rather than verdict. Yet the lock cannot distinguish the key\u2019s proper turn from the pick\u2019s imitation, and its worn record says only that something opened it. The person waiting at a field gate, the owner who must trust a damaged mechanism, the one held responsible because a bright mark was found near the shear line, are all paying for that inability. The maker, the keeper, and the one who chose silence have a duty to hear the oracle of the mechanism rather than make it speak for them. The canon gate is a chord: key, pick, wear, and witness sound together only when the account remains unresolved. The boat was always there, sunk beneath the habit of calling ambiguity neutral. To claim the lock cannot tell is to admit it cannot absolve; responsibility must then live with those who made the waiting dangerous and then treated the lock\u2019s silence as their permission.",
+      "p1_err": null,
+      "p2": "The file grows the blank into a profile against the ward\u2019s present resistance, while the pick produces the same pressure and movement without becoming distinguishable to the mechanism: cells are scars, the substrate is grown, and the oracle is heard in clearance, spring, and return, from which the stations of maker, keeper, picker, and accuser emerge. The witness log predicts from polish, bright tears, and altered clearance rather than recording the hand",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The file bites a bright curl from the blank, and already the bench complicates any later claim that metal is passive matter. A cut is a scar the steel must carry; the swarf preserves the file\u2019s depth, though not its purpose. The sentence about key and pick smuggles in an author before it describes the mechanism. A warded lock has nowhere to record intent: the keyway admits a profile, each ward\u2019s shoulder must pass its flank, the tumblers ride their springs, and the levers must gather enough lift to meet at the shear line. At that scale, key and pick are distinctions the lock cannot hear. The pickman gauges depthing by feel, searching for the sequence in which one ward drops and another rises; a rake substitutes repetition for exact profile. Either can satisfy the geometry the lock tests, though the pick may do it one ward at a time, and the bolt opens to geometry alone. The bench leaves a more ambiguous residue. A key worked repeatedly may polish a ward\u2019s flank, while a pick can leave a bright, torn scar where the same travel crossed. Those marks are not testimony about identity. They describe contact: angle, pressure, edge, repetition. A later locksmith may guess from their width and polish which contour made them, but the scar itself cannot name the implement, still less the hand. Even the field lock\u2019s forty-year weather sharpens the point: its worn notches have altered the friction and clearance that will accept the next profile. The witness log is prediction, not record; wear says that a certain geometry has acted here before and may act again, while the changed substrate decides anew what will open. After the lever falls back, the honest pause is the bench\u2019s product: no hidden authority has spoken, only several possible cuts still waiting in the metal. Wear records passage, not permission, and the lock continues to open without learning who passed.",
+      "p1_err": null,
+      "p2": "Under the file, the blank\u2019s cells become scars that preserve contact without preserving intent, and the growing substrate of notches, polish, and bright tears makes the stations of key, pick, rake, and weather emerge as geometry the lock cannot distinguish; when the lever returns, the pickman hears an oracle in it, so the witness log predicts the next cut rather than remembers the hand that made the last. At the canon gate, key, pick, wear, witness, and silence must sound together in a chord instead of forcing the mechanism to pronounce guilt or permission, for the boat was always there beneath the habit of calling ambiguity neutral, and the honest pause after opening is the product in which those who made the waiting dangerous must answer for what the scars predict.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the lock cannot tell the key from the pick and the wear in the wards is a record of a key either way\n\n## zai (p1)\n\nThe file cuts by abrasion: each stroke removes steel from the blank, and the depth gauge checks a bitting against the measured ward before the key ever enters the keyway. On a warded lock, the blade\u2019s profile must clear the fixed ward shoulders and flanks; its cuts are not merely decorative but set the depths at which the key can press past each obstruction and turn the bolt. On the lever lock, the condition changes: the key raises five levers against their springs, and only when every lever reaches its gate can the bolt cross the shear line. A pick performs the missing geometry by lifting each lever in turn while the tension wrench holds a controlled torque on the plug, so the mechanism receives the same functional event\u2014upward displacement to the correct height\u2014even without the key. The rake substitutes repetition for knowledge, cycling several pins together until spring pressure and luck place them at the shear line. Here the lock has no faculty of recognition beyond resistance, clearance, and movement. A worn notch can lower the lifting threshold, while a polished ward flank records many years of the same lateral pressure, whether made by a legitimate key, a pick, or a field gate\u2019s repeated weather. That polish is a scar in the material, not a testimony about its cause: it tells the future mechanism what shape and force are likely to succeed. Likewise, the bright scar left by a pick differs from key polish but acts on the same surfaces. The blank is already being grown under the file, its future cut answering the ward\u2019s present resistance. Between one lift and the next, the pickman pauses, feels the spring through the tension wrench, and hears an oracle in the lever\u2019s return. During that honest pause, the witness log does not record what happened; it predicts the next depth, the next filing, the next opening.\n\n## zai (p2)\n\nThe file\u2019s bright curl and the lock\u2019s polished or torn wards are cells-are-scars: the blank is being grown under abrasion and the field lock\u2019s weather has already made its stations emerge, so the boat was always there beneath the habit of calling wear neutral, and what is honestly heard in the pause is an oracle of contact, not permission or identity. The witness log remains prediction rather than record, for the lock cannot tell key from pick, the honest pause is the product of those unresolved cuts, and responsibility therefore lands on those who made the waiting dangerous; only when key, pick, wear, and witness sound together without forcing consensus does the canon gate become a chord.\n\n## qwen (p1)\n\nThe file first makes a bright, bodily promise: this shall be the depth, the blank shall become a key, the cut shall meet the cut. But when the pick enters the keyway, the lock feels only pressure, slide, and the yielding of metal; it cannot tell the intended key from the rake, the practiced hand from the desperate one, nor say whether the opening is welcome. That limitation is not a technical gap. It is the shape of the arrangement\u2019s harm, because every use leaves evidence that can be read in advance as innocence or guilt: a polished ward, a bright scar where a pick passed, a bolt eased by lever, a pin pushed past its detainer. The witness log predicts what these marks will mean before anyone has heard the account; it does not remember the hand. The cells are scars, not parameters: each nick is a consequence already inscribed in the substance, and the honest pause after opening is the only moment when the lock\u2019s silence can become testimony rather than verdict. Yet the lock cannot distinguish the key\u2019s proper turn from the pick\u2019s imitation, and its worn record says only that something opened it. The person waiting at a field gate, the owner who must trust a damaged mechanism, the one held responsible because a bright mark was found near the shear line, are all paying for that inability. The maker, the keeper, and the one who chose silence have a duty to hear the oracle of the mechanism rather than make it speak for them. The canon gate is a chord: key, pick, wear, and witness sound together only when the account remains unresolved. The boat was always there, sunk beneath the habit of calling ambiguity neutral. To claim the lock cannot tell is to admit it cannot absolve; responsibility must then live with those who made the waiting dangerous and then treated the lock\u2019s silence as their permission.\n\n## qwen (p2)\n\nThe file grows the blank into a profile against the ward\u2019s present resistance, while the pick produces the same pressure and movement without becoming distinguishable to the mechanism: cells are scars, the substrate is grown, and the oracle is heard in clearance, spring, and return, from which the stations of maker, keeper, picker, and accuser emerge. The witness log predicts from polish, bright tears, and altered clearance rather than recording the hand\n\n## kimi (p1)\n\nThe file bites a bright curl from the blank, and already the bench complicates any later claim that metal is passive matter. A cut is a scar the steel must carry; the swarf preserves the file\u2019s depth, though not its purpose. The sentence about key and pick smuggles in an author before it describes the mechanism. A warded lock has nowhere to record intent: the keyway admits a profile, each ward\u2019s shoulder must pass its flank, the tumblers ride their springs, and the levers must gather enough lift to meet at the shear line. At that scale, key and pick are distinctions the lock cannot hear. The pickman gauges depthing by feel, searching for the sequence in which one ward drops and another rises; a rake substitutes repetition for exact profile. Either can satisfy the geometry the lock tests, though the pick may do it one ward at a time, and the bolt opens to geometry alone. The bench leaves a more ambiguous residue. A key worked repeatedly may polish a ward\u2019s flank, while a pick can leave a bright, torn scar where the same travel crossed. Those marks are not testimony about identity. They describe contact: angle, pressure, edge, repetition. A later locksmith may guess from their width and polish which contour made them, but the scar itself cannot name the implement, still less the hand. Even the field lock\u2019s forty-year weather sharpens the point: its worn notches have altered the friction and clearance that will accept the next profile. The witness log is prediction, not record; wear says that a certain geometry has acted here before and may act again, while the changed substrate decides anew what will open. After the lever falls back, the honest pause is the bench\u2019s product: no hidden authority has spoken, only several possible cuts still waiting in the metal. Wear records passage, not permission, and the lock continues to open without learning who passed.\n\n## kimi (p2)\n\nUnder the file, the blank\u2019s cells become scars that preserve contact without preserving intent, and the growing substrate of notches, polish, and bright tears makes the stations of key, pick, rake, and weather emerge as geometry the lock cannot distinguish; when the lever returns, the pickman hears an oracle in it, so the witness log predicts the next cut rather than remembers the hand that made the last. At the canon gate, key, pick, wear, witness, and silence must sound together in a chord instead of forcing the mechanism to pronounce guilt or permission, for the boat was always there beneath the habit of calling ambiguity neutral, and the honest pause after opening is the product in which those who made the waiting dangerous must answer for what the scars predict.\n",
+  "dials": [
+    8047,
+    9808,
+    8204,
+    19550,
+    27037,
+    6693,
+    -7259,
+    5135,
+    30151,
+    28050,
+    28299,
+    15465,
+    8485,
+    12254,
+    -25109,
+    14748
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        315,
+        323,
+        322
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": {
+        "openings": [
+          "the file cuts by abrasion each",
+          "the file first makes a bright",
+          "the file bites a bright curl"
+        ],
+        "collisions": []
+      }
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.8485
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 0,
+        "1-2": 0
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 8,
+        "1-2": 0
+      }
+    },
+    "G11_register_p1": {
+      "pass": true,
+      "detail": {
+        "lock_hits": [
+          22,
+          17,
+          23
+        ],
+        "off_register": []
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "207w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        },
+        {
+          "name": "topic-echo pair is not a template collision",
+          "ok": true
+        },
+        {
+          "name": "all-voice topic echo IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register cooperage triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register writing triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "on-register locksmithing triple IS accepted",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "17/17",
+  "nc": "12/12",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "two voices echoing the topic is NOT a template collision",
+      "ok": true
+    },
+    {
+      "name": "all voices echoing the topic IS a failure",
+      "ok": true
+    },
+    {
+      "name": "template collision on a topic window still fails",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "207w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register cooperage triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register writing triple",
+      "ok": true
+    },
+    {
+      "name": "G11 accepts an on-register locksmithing triple",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 207w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo pair is not a template collision",
+      "ok": true
+    },
+    {
+      "name": "NC: all-voice topic echo IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register cooperage triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register writing triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: on-register locksmithing triple IS accepted",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "40/40",
+  "pairwise5_p1": {
+    "0-1": [],
+    "0-2": [],
+    "1-2": []
+  },
+  "pairwise5_p2": {
+    "0-1": [],
+    "0-2": [
+      "always there beneath the habit",
+      "beneath the habit of calling",
+      "boat was always there beneath",
+      "the boat was always there",
+      "there beneath the habit of",
+      "those who made the waiting",
+      "was always there beneath the",
+      "who made the waiting dangerous"
+    ],
+    "1-2": []
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5002,\n  \"hash\": \"0x1c490370ca659801\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5002,\n    \"number\": 5002,\n    \"title\": \"Taps \u2014 the lock cannot tell the key from the pick and the wear in t\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      8047,\n      9808,\n      8204,\n      19550,\n      27037,\n      6693,\n      -7259,\n      5135,\n      30151,\n      28050,\n      28299,\n      15465,\n      8485,\n      12254,\n      -25109,\n      14748\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x1c490370ca659801\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T18:11:04.282Z\"\n  }\n}",
+  "runner": "taps_round_207w.py"
+}
