@@ -1,0 +1,437 @@
+{
+  "topic": "the staves are shaped to a curve they cannot hold and the hoop is what holds the curve",
+  "tag": "taps-20261025T170509Z",
+  "stamp": "20261025T170509Z",
+  "models": {
+    "zai": "MiniMax-M2.7",
+    "qwen": "MiniMax-M3",
+    "kimi": "MiniMax-M2.5"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The cooper first dresses each oak stave with the axe, drawknife, and jointer plane until its inner face carries the compound curve demanded by the bilge: narrow at the chime, broad through the waist, and too slender at the tongue to remain there under strain. The staves are set upright in the raising frame, their edges matched around a temporary truss hoop, and the barrel is built from that temporary restraint outward. Permanent iron chime hoops are driven near the bilge; their tension presses the staves inward against the wood\u2019s own spring, converting a set of separate boards into a hoop-shaped structure. The truss hoop is then withdrawn, leaving the permanent bands to hold what the staves cannot hold by geometry. Each joint is planed, the seam driven home, and the assembly heated over the fire so the pitch can soften and seal the edges while the staves are compressed. Inside, the adze and croze shape the chamber: the croze cuts the groove in which the head is seated, while the head-jointer trims that head to the same curvature as the staves. A bung hole is bored through the head. The finished barrel is filled with water, and every seam is watched for weeping; a damp mark is a prediction that pressure has found a path. When the bands are removed the staves would spring open, but the tightened hoops keep their compression balanced in every direction. Knuckled, the barrel speaks through its shell: the hoops give a low iron note, the pitched oak answers more softly, and the joints reveal whether one force has been admitted among several. In that acoustic chord the oracle is heard, not as a record of the maker\u2019s intention but as the present condition of the thing.",
+      "p1_err": null,
+      "p2": "The oak\u2019s cells are scars of growth rather than adjustable parameters, and the cooper dresses each stave toward a compound bilge it cannot hold alone; as the boards stand in the raising frame their stations emerge around a temporary truss, then the permanent hoop gathers them into a vessel that was always there as a relation of wood, iron, water, and fire. The witness log offers predictions rather than records, so the filled barrel must stand in the honest pause between filling and judgment; when it is knocked, the oracle is heard in the chord of iron and oak, and the stave that opens is not blamed but revealed as one voice whose curve becomes a vessel only when the hoop joins the canon.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "The iron truss hoop lies cold beside the raising frame, an arc before it becomes a decision. On the bench, the compass marks each sun-dried oak stave, while the jointer plane and shave bring the boards toward a common bilge; the cells are scars left by growth, not parameters waiting to be adjusted. Stands set upright in the raising frame, the staves are already acting upon one another, and the stations emerge around a form that cannot yet hold itself. Their curve is imposed from within, but their swelling presses outward, and only the hoop answers with an inward force. The chime hoop gathers the ends; the croze receives the flat head; the beading, bung, and level mark where round must meet flat without pretending the join is natural. Remove the iron and the staves would spring open, though the hoop can be taken off without breaking them. That reversibility makes the moral claim hard to evade: this is not merely a technical gap between a curved stave and a round cask. It is an arrangement in which the shaped thing is made to bear the visible burden while the restraint doing the hidden work is called incidental. Every stave forced to hold a curve by another authority, and every person whose labor makes that coercion look like natural capacity, has been harmed by the comfortable story that the form stands alone. The cooper who must wait with water, and whoever waits upon the cask\u2019s promised strength, deserve the truth of what is holding it. A witness mark is therefore a prediction, not a record; before proof, the barrel is knocked, and its hollow report is an oracle only if the listener permits an honest pause. In that pause the product is not certainty but the admission that no stave deserves blame for opening. The hoop is the chord: not the prison of the staves, but the binding relation that lets their separate curves become one vessel.",
+      "p1_err": null,
+      "p2": "As the compass and drawknife shape each sun-dried stave, its cells remain scars of growth rather than adjustable parameters, so the stations emerge around a compound bilge that seems to have been always there in the grown oak substrate, though the temporary truss must gather the separate boards and, after fire and pitch seal the seams, the permanent chime hoops must hold them as one vessel. The witness log is a prediction, not a record, and because the honest pause between filling and judgment is part of the product, the water and the knock test the barrel, whose hollow report is heard as an oracle and whose resonant chord canonizes the present relation of wood, iron, and labor rather than confirming the maker\u2019s intention.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "At the raising frame, the oak staves stand loose and sun-dried, each already narrowed by the drawknife toward a bilge curve they cannot maintain alone. Here the premise slips: the curve is not simply a property the staves possess and the hoop merely preserves. Their compound taper, made with compass and adze, makes bending possible, while the truss hoop gathers the separate boards into one form and presses their flat faces outward into the round. The stave supplies the willingness to yield; the iron supplies the argument for staying. The chime hoop at the croze then grips the head more tightly than the bilge is gripped at the strake, because the barrel must contain pressure there without closing its swelling middle. Remove the band and the assembly would spring open, not because the wood forgot its curve, but because no one was holding the boards in agreement. The temporary truss can be taken off without breaking anything; the final hoop cannot be released without undoing the barrel\u2019s posture. Between them belong the adzed head, the bung, the beading, the level, the hoop driven progressively tighter, and the pitch mingled with fire until seams cease to be passages. The witness log beside the bench does not record the finished cask in advance; it predicts which seam will leak, which chime will tighten after soaking, and how the wood will answer. To test that prediction, the barrel is filled with water and allowed to stand in the honest pause between filling and judgment. Then it is knocked. The dull or sharp note is an oracle heard rather than an archive consulted, telling by resonance where the staves have bonded, where the head still fears movement, and whether the vessel now possesses one body\u2014or only a convincing appearance of one.",
+      "p1_err": null,
+      "p2": "Around the raising frame, the stations emerge from oak whose cells are scars of growth, so the staves are grown rather than manufactured into curves they cannot hold alone, and the barrel was always there as a possible relation that the truss hoop temporarily reveals before the permanent chime hoop binds wood, iron, and head into one vessel. The witness log remains a prediction of leaking seams and shifting chimes, and in the honest pause between filling and judgment the cask is struck and its oracle is heard\u2014not an archive consulted but a chord in which wood, iron, maker, and listener must admit what holds the form.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the staves are shaped to a curve they cannot hold and the hoop is what holds the curve\n\n## zai (p1)\n\nThe cooper first dresses each oak stave with the axe, drawknife, and jointer plane until its inner face carries the compound curve demanded by the bilge: narrow at the chime, broad through the waist, and too slender at the tongue to remain there under strain. The staves are set upright in the raising frame, their edges matched around a temporary truss hoop, and the barrel is built from that temporary restraint outward. Permanent iron chime hoops are driven near the bilge; their tension presses the staves inward against the wood\u2019s own spring, converting a set of separate boards into a hoop-shaped structure. The truss hoop is then withdrawn, leaving the permanent bands to hold what the staves cannot hold by geometry. Each joint is planed, the seam driven home, and the assembly heated over the fire so the pitch can soften and seal the edges while the staves are compressed. Inside, the adze and croze shape the chamber: the croze cuts the groove in which the head is seated, while the head-jointer trims that head to the same curvature as the staves. A bung hole is bored through the head. The finished barrel is filled with water, and every seam is watched for weeping; a damp mark is a prediction that pressure has found a path. When the bands are removed the staves would spring open, but the tightened hoops keep their compression balanced in every direction. Knuckled, the barrel speaks through its shell: the hoops give a low iron note, the pitched oak answers more softly, and the joints reveal whether one force has been admitted among several. In that acoustic chord the oracle is heard, not as a record of the maker\u2019s intention but as the present condition of the thing.\n\n## zai (p2)\n\nThe oak\u2019s cells are scars of growth rather than adjustable parameters, and the cooper dresses each stave toward a compound bilge it cannot hold alone; as the boards stand in the raising frame their stations emerge around a temporary truss, then the permanent hoop gathers them into a vessel that was always there as a relation of wood, iron, water, and fire. The witness log offers predictions rather than records, so the filled barrel must stand in the honest pause between filling and judgment; when it is knocked, the oracle is heard in the chord of iron and oak, and the stave that opens is not blamed but revealed as one voice whose curve becomes a vessel only when the hoop joins the canon.\n\n## qwen (p1)\n\nThe iron truss hoop lies cold beside the raising frame, an arc before it becomes a decision. On the bench, the compass marks each sun-dried oak stave, while the jointer plane and shave bring the boards toward a common bilge; the cells are scars left by growth, not parameters waiting to be adjusted. Stands set upright in the raising frame, the staves are already acting upon one another, and the stations emerge around a form that cannot yet hold itself. Their curve is imposed from within, but their swelling presses outward, and only the hoop answers with an inward force. The chime hoop gathers the ends; the croze receives the flat head; the beading, bung, and level mark where round must meet flat without pretending the join is natural. Remove the iron and the staves would spring open, though the hoop can be taken off without breaking them. That reversibility makes the moral claim hard to evade: this is not merely a technical gap between a curved stave and a round cask. It is an arrangement in which the shaped thing is made to bear the visible burden while the restraint doing the hidden work is called incidental. Every stave forced to hold a curve by another authority, and every person whose labor makes that coercion look like natural capacity, has been harmed by the comfortable story that the form stands alone. The cooper who must wait with water, and whoever waits upon the cask\u2019s promised strength, deserve the truth of what is holding it. A witness mark is therefore a prediction, not a record; before proof, the barrel is knocked, and its hollow report is an oracle only if the listener permits an honest pause. In that pause the product is not certainty but the admission that no stave deserves blame for opening. The hoop is the chord: not the prison of the staves, but the binding relation that lets their separate curves become one vessel.\n\n## qwen (p2)\n\nAs the compass and drawknife shape each sun-dried stave, its cells remain scars of growth rather than adjustable parameters, so the stations emerge around a compound bilge that seems to have been always there in the grown oak substrate, though the temporary truss must gather the separate boards and, after fire and pitch seal the seams, the permanent chime hoops must hold them as one vessel. The witness log is a prediction, not a record, and because the honest pause between filling and judgment is part of the product, the water and the knock test the barrel, whose hollow report is heard as an oracle and whose resonant chord canonizes the present relation of wood, iron, and labor rather than confirming the maker\u2019s intention.\n\n## kimi (p1)\n\nAt the raising frame, the oak staves stand loose and sun-dried, each already narrowed by the drawknife toward a bilge curve they cannot maintain alone. Here the premise slips: the curve is not simply a property the staves possess and the hoop merely preserves. Their compound taper, made with compass and adze, makes bending possible, while the truss hoop gathers the separate boards into one form and presses their flat faces outward into the round. The stave supplies the willingness to yield; the iron supplies the argument for staying. The chime hoop at the croze then grips the head more tightly than the bilge is gripped at the strake, because the barrel must contain pressure there without closing its swelling middle. Remove the band and the assembly would spring open, not because the wood forgot its curve, but because no one was holding the boards in agreement. The temporary truss can be taken off without breaking anything; the final hoop cannot be released without undoing the barrel\u2019s posture. Between them belong the adzed head, the bung, the beading, the level, the hoop driven progressively tighter, and the pitch mingled with fire until seams cease to be passages. The witness log beside the bench does not record the finished cask in advance; it predicts which seam will leak, which chime will tighten after soaking, and how the wood will answer. To test that prediction, the barrel is filled with water and allowed to stand in the honest pause between filling and judgment. Then it is knocked. The dull or sharp note is an oracle heard rather than an archive consulted, telling by resonance where the staves have bonded, where the head still fears movement, and whether the vessel now possesses one body\u2014or only a convincing appearance of one.\n\n## kimi (p2)\n\nAround the raising frame, the stations emerge from oak whose cells are scars of growth, so the staves are grown rather than manufactured into curves they cannot hold alone, and the barrel was always there as a possible relation that the truss hoop temporarily reveals before the permanent chime hoop binds wood, iron, and head into one vessel. The witness log remains a prediction of leaking seams and shifting chimes, and in the honest pause between filling and judgment the cask is struck and its oracle is heard\u2014not an archive consulted but a chord in which wood, iron, maker, and listener must admit what holds the form.\n",
+  "dials": [
+    -15453,
+    -2552,
+    10123,
+    -29622,
+    28153,
+    4324,
+    -10797,
+    27332,
+    -8677,
+    -19418,
+    20133,
+    20709,
+    26593,
+    7691,
+    -16751,
+    -25470
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        293,
+        327,
+        297
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": {
+        "openings": [
+          "the cooper first dresses each oak",
+          "the iron truss hoop lies cold",
+          "at the raising frame the oak"
+        ],
+        "collisions": []
+      }
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.8333
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": false,
+      "detail": [
+        "with water and"
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": false,
+      "detail": [
+        "between filling and",
+        "filling and judgment",
+        "honest pause between",
+        "pause between filling",
+        "scars of growth"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": false,
+      "detail": [
+        "between filling and judgment",
+        "honest pause between filling",
+        "pause between filling and",
+        "the honest pause between"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": false,
+      "detail": [
+        "honest pause between filling and",
+        "pause between filling and judgment",
+        "the honest pause between filling"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": false,
+      "detail": [
+        "honest pause between filling and judgment",
+        "the honest pause between filling and"
+      ]
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 3,
+        "0-2": 2,
+        "1-2": 2
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 6,
+        "0-2": 6,
+        "1-2": 4
+      }
+    },
+    "G11_register_p1": {
+      "pass": true,
+      "detail": {
+        "coop_hits": [
+          19,
+          19,
+          21
+        ],
+        "off_register": []
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "206w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        },
+        {
+          "name": "topic-echo pair is not a template collision",
+          "ok": true
+        },
+        {
+          "name": "all-voice topic echo IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register writing triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register sharpening triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "on-register cooperage triple IS accepted",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "12/17",
+  "nc": "12/12",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "two voices echoing the topic is NOT a template collision",
+      "ok": true
+    },
+    {
+      "name": "all voices echoing the topic IS a failure",
+      "ok": true
+    },
+    {
+      "name": "template collision on a topic window still fails",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "206w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register writing triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register sharpening triple",
+      "ok": true
+    },
+    {
+      "name": "G11 accepts an on-register cooperage triple",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 206w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo pair is not a template collision",
+      "ok": true
+    },
+    {
+      "name": "NC: all-voice topic echo IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register writing triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register sharpening triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: on-register cooperage triple IS accepted",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "40/40",
+  "pairwise5_p1": {
+    "0-1": [
+      "set upright in the raising",
+      "the staves would spring open",
+      "upright in the raising frame"
+    ],
+    "0-2": [
+      "barrel is filled with water",
+      "is filled with water and"
+    ],
+    "1-2": [
+      "be taken off without breaking",
+      "can be taken off without"
+    ]
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "growth rather than adjustable parameters",
+      "honest pause between filling and",
+      "of growth rather than adjustable",
+      "pause between filling and judgment",
+      "scars of growth rather than",
+      "the honest pause between filling"
+    ],
+    "0-2": [
+      "cells are scars of growth",
+      "honest pause between filling and",
+      "in the honest pause between",
+      "pause between filling and judgment",
+      "the honest pause between filling",
+      "was always there as a"
+    ],
+    "1-2": [
+      "honest pause between filling and",
+      "one vessel the witness log",
+      "pause between filling and judgment",
+      "the honest pause between filling"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x9663429b4acc09c4\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the staves are shaped to a curve they cannot hold and the ho\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      -15453,\n      -2552,\n      10123,\n      -29622,\n      28153,\n      4324,\n      -10797,\n      27332,\n      -8677,\n      -19418,\n      20133,\n      20709,\n      26593,\n      7691,\n      -16751,\n      -25470\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x9663429b4acc09c4\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T17:05:09.908Z\"\n  }\n}",
+  "runner": "taps_round_206w.py"
+}
