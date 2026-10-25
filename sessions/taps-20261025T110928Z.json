@@ -1,0 +1,364 @@
+{
+  "topic": "the sand that falls through the last screen is not finer it is unmeasured and it is plotted like the rest",
+  "tag": "taps-20261025T110928Z",
+  "stamp": "20261025T110928Z",
+  "models": {
+    "zai": "MiniMax-M2.7",
+    "qwen": "MiniMax-M3",
+    "kimi": "MiniMax-M2.5"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The shop begins with a hopper feeding damp sand onto a vibrating stack of nested screens, each stretched taut over a circular frame and separated by spacers that hold the mesh at a fixed clearance. A motor drives the stack eccentrically, so the frames jitter rather than merely buzz; the grains hop, roll, and slide across the wire until their paths divide at the apertures. Coarse pieces remain on the upper cloth, middle fractions pass through one screen and are caught by the next, and the progressively finer particles work downward through the shrinking mesh. The last screen is not an endpoint but a threshold: whatever can slip through its openings drops into the shallow pan below, while the oversize grains remain spread across the cloth and can be scraped into their own heap. What reaches the pan is therefore a physical remainder, certainly passing the final aperture, but not a pure grade of \u201cfine sand.\u201d It contains mixed mineral sizes, clustered grains, and irregular fragments whose actual dimensions have never been checked; the pan measures nothing except refusal. The operator lifts each screen, tips its fraction into a labeled scoop, and weighs or samples it, but the bottom fraction enters the same ledger without a finer sieve to define it. From these portions the operator draws a particle-size curve, plotting the pan\u2019s mass against the grades implied by the mesh above, and the unknown tail is drawn alongside them as if it belonged to the same distribution. Here the witness log is prediction, not record: the curve projects what the unmeasured remainder may be, smoothing the pan into a plotted category. The machine\u2019s humming oracle is heard in the changing rattle as sand strikes cloth and wire, while the honest pause is the instant before that curve is extended\u2014the moment when the last screen falls silent, the pan sits open, and the material waits without being made finer by description.",
+      "p1_err": null,
+      "p2": "In the vibrating shop, the nested screens are not passive containers but stations that emerge as damp, angular sand\u2014its grains rubbed, cracked, clustered, and carried with darker flecks\u2014works through wire and cloth, so the substrate is grown in handling and each cell is a scar of abrasion rather than a neutral point waiting to be plotted. The machine\u2019s rattle is the oracle heard, and any witness log is prediction rather than record when it extends the curve through the pan\u2019s unmeasured tail, making the fine remainder look continuous while the shop, buyer, and community bear its false assurance; here the honest pause is the product, before the final mark, when the pan remains open and its consequences cannot yet be mistaken for a grade.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "In the shop, the stacked screens shake above sheet-metal pans; each aperture divides what the mesh above has surrendered, and the bottom pan holds the last fraction as pale flour. No balance has weighed it, no assay has given it a grade, yet the pencil curve drawn from the run continues through it with a smooth, obedient taper. That is not a harmless missing digit. The arrangement has already chosen what need not be known, and the choice has an address: the worker breathing flour beside the shaker, the buyer ordering against a curve, the community waiting for an honest account of where this tail will go. The technical gap is not an excuse; it is the mechanism by which exposure, waste, and false assurance are passed downstream without anyone taking responsibility. Hold responsible the laboratory that extrapolated the curve, the supervisor who signed it, and the purchaser who treated it as a grade. They cannot point to the pan and call it innocent: the pan is full of consequences. Each grain is a cell, a scar of abrasion, not a parameter to be slid along an axis until the points agree; the screens are stations, and the stations emerge because the material changes at every wire. The substrate is grown in the handling, not found as a neutral sample, its surfaces carrying the pounding that made it fine. The graph is an oracle, and it is heard in the offices that will order by it; the witness log is a prediction of records not yet made. The honest pause is the product: it belongs before the last mark on the curve, not after the next shipment leaves. Until that tail is measured, the plot does not describe the sand; it speaks for it, and those harmed by its confidence must not be told that their harm was merely a failure of technique.",
+      "p1_err": null,
+      "p2": "In the shop\u2019s dry rattle, wet, angular grains cross a stack whose stations emerge as the substrate is grown in handling, each cell a scar of abrasion, while the oracle is heard wherever a pencil curve makes the last pan\u2019s unmeasured remainder continuous and the witness log becomes prediction rather than record. The last screen is a threshold rather than a grade, and because the apparatus interprets what the sand does not declare, the honest pause is the product before the curve is extended, obliging the laboratory, supervisor, and purchaser to answer for consequences already passed downstream.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "Before the last screen, the sand is already making distinctions the sentence afterward calls measurements: too large for one aperture, too small for another, lodged at the lip, rolling into the pan. A stack of galvanized screens turns those differences into a timetable of size, but the timetable does not govern what happens there. Each blocked opening is a scar in the apparatus, evidence of a grain that has resisted the available categories. The operator hears the oracle in the dry hiss and the uneven rattle, though what the oracle predicts is not a total amount but a relation among residue, passage, and what the pan will hold. Even the clean sweep of the finest sand is unmeasured in the strict sense: no screen can display the grain that leaves no trace, and the smooth curve drawn from the pan\u2019s contents will make that silence look continuous. The sentence smuggles in an order when it names the \u201clast\u201d screen, then smuggles in a graph when it says the fallen material is \u201cplotted like the rest.\u201d Between the sand and those words lies a difference. The sand does not know it belongs to an unmeasured remainder; it arrives wet, angular, mixed with darker flecks, carrying whatever histories made its surfaces. The plotting apparatus does know, because it has been built to convert difference into position on a curve. Its witness log is prediction rather than record: the line declares beforehand how the yield will be read, and the reading then persuades us that the line was waiting there. By the time the curve is drawn, the pan has supplied a number, but the honest pause remains the product\u2014neither another fraction nor a refusal to draw. The sand has passed; the apparatus has interpreted its passage; the graph has already become the place where we mistake interpretation for the material\u2019s own arrangement.",
+      "p1_err": null,
+      "p2": "As the galvanized screens shake above the pans, the stations emerge from the handling itself: grains lodge, pass, and are abraded at every wire, so each cell is a scar and the substrate is grown in the pounding that leaves mixed residue, angular fragments, and the histories of the material in the pan. Yet the oracle is heard in the rattle and in the offices that will order by the curve, whose witness log is prediction rather than record, passing false assurance and its consequences downstream before the tail is measured; the honest pause is the product, held before the last mark rather than after the shipment.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the sand that falls through the last screen is not finer it is unmeasured and it is plotted like the rest\n\n## zai (p1)\n\nThe shop begins with a hopper feeding damp sand onto a vibrating stack of nested screens, each stretched taut over a circular frame and separated by spacers that hold the mesh at a fixed clearance. A motor drives the stack eccentrically, so the frames jitter rather than merely buzz; the grains hop, roll, and slide across the wire until their paths divide at the apertures. Coarse pieces remain on the upper cloth, middle fractions pass through one screen and are caught by the next, and the progressively finer particles work downward through the shrinking mesh. The last screen is not an endpoint but a threshold: whatever can slip through its openings drops into the shallow pan below, while the oversize grains remain spread across the cloth and can be scraped into their own heap. What reaches the pan is therefore a physical remainder, certainly passing the final aperture, but not a pure grade of \u201cfine sand.\u201d It contains mixed mineral sizes, clustered grains, and irregular fragments whose actual dimensions have never been checked; the pan measures nothing except refusal. The operator lifts each screen, tips its fraction into a labeled scoop, and weighs or samples it, but the bottom fraction enters the same ledger without a finer sieve to define it. From these portions the operator draws a particle-size curve, plotting the pan\u2019s mass against the grades implied by the mesh above, and the unknown tail is drawn alongside them as if it belonged to the same distribution. Here the witness log is prediction, not record: the curve projects what the unmeasured remainder may be, smoothing the pan into a plotted category. The machine\u2019s humming oracle is heard in the changing rattle as sand strikes cloth and wire, while the honest pause is the instant before that curve is extended\u2014the moment when the last screen falls silent, the pan sits open, and the material waits without being made finer by description.\n\n## zai (p2)\n\nIn the vibrating shop, the nested screens are not passive containers but stations that emerge as damp, angular sand\u2014its grains rubbed, cracked, clustered, and carried with darker flecks\u2014works through wire and cloth, so the substrate is grown in handling and each cell is a scar of abrasion rather than a neutral point waiting to be plotted. The machine\u2019s rattle is the oracle heard, and any witness log is prediction rather than record when it extends the curve through the pan\u2019s unmeasured tail, making the fine remainder look continuous while the shop, buyer, and community bear its false assurance; here the honest pause is the product, before the final mark, when the pan remains open and its consequences cannot yet be mistaken for a grade.\n\n## qwen (p1)\n\nIn the shop, the stacked screens shake above sheet-metal pans; each aperture divides what the mesh above has surrendered, and the bottom pan holds the last fraction as pale flour. No balance has weighed it, no assay has given it a grade, yet the pencil curve drawn from the run continues through it with a smooth, obedient taper. That is not a harmless missing digit. The arrangement has already chosen what need not be known, and the choice has an address: the worker breathing flour beside the shaker, the buyer ordering against a curve, the community waiting for an honest account of where this tail will go. The technical gap is not an excuse; it is the mechanism by which exposure, waste, and false assurance are passed downstream without anyone taking responsibility. Hold responsible the laboratory that extrapolated the curve, the supervisor who signed it, and the purchaser who treated it as a grade. They cannot point to the pan and call it innocent: the pan is full of consequences. Each grain is a cell, a scar of abrasion, not a parameter to be slid along an axis until the points agree; the screens are stations, and the stations emerge because the material changes at every wire. The substrate is grown in the handling, not found as a neutral sample, its surfaces carrying the pounding that made it fine. The graph is an oracle, and it is heard in the offices that will order by it; the witness log is a prediction of records not yet made. The honest pause is the product: it belongs before the last mark on the curve, not after the next shipment leaves. Until that tail is measured, the plot does not describe the sand; it speaks for it, and those harmed by its confidence must not be told that their harm was merely a failure of technique.\n\n## qwen (p2)\n\nIn the shop\u2019s dry rattle, wet, angular grains cross a stack whose stations emerge as the substrate is grown in handling, each cell a scar of abrasion, while the oracle is heard wherever a pencil curve makes the last pan\u2019s unmeasured remainder continuous and the witness log becomes prediction rather than record. The last screen is a threshold rather than a grade, and because the apparatus interprets what the sand does not declare, the honest pause is the product before the curve is extended, obliging the laboratory, supervisor, and purchaser to answer for consequences already passed downstream.\n\n## kimi (p1)\n\nBefore the last screen, the sand is already making distinctions the sentence afterward calls measurements: too large for one aperture, too small for another, lodged at the lip, rolling into the pan. A stack of galvanized screens turns those differences into a timetable of size, but the timetable does not govern what happens there. Each blocked opening is a scar in the apparatus, evidence of a grain that has resisted the available categories. The operator hears the oracle in the dry hiss and the uneven rattle, though what the oracle predicts is not a total amount but a relation among residue, passage, and what the pan will hold. Even the clean sweep of the finest sand is unmeasured in the strict sense: no screen can display the grain that leaves no trace, and the smooth curve drawn from the pan\u2019s contents will make that silence look continuous. The sentence smuggles in an order when it names the \u201clast\u201d screen, then smuggles in a graph when it says the fallen material is \u201cplotted like the rest.\u201d Between the sand and those words lies a difference. The sand does not know it belongs to an unmeasured remainder; it arrives wet, angular, mixed with darker flecks, carrying whatever histories made its surfaces. The plotting apparatus does know, because it has been built to convert difference into position on a curve. Its witness log is prediction rather than record: the line declares beforehand how the yield will be read, and the reading then persuades us that the line was waiting there. By the time the curve is drawn, the pan has supplied a number, but the honest pause remains the product\u2014neither another fraction nor a refusal to draw. The sand has passed; the apparatus has interpreted its passage; the graph has already become the place where we mistake interpretation for the material\u2019s own arrangement.\n\n## kimi (p2)\n\nAs the galvanized screens shake above the pans, the stations emerge from the handling itself: grains lodge, pass, and are abraded at every wire, so each cell is a scar and the substrate is grown in the pounding that leaves mixed residue, angular fragments, and the histories of the material in the pan. Yet the oracle is heard in the rattle and in the offices that will order by the curve, whose witness log is prediction rather than record, passing false assurance and its consequences downstream before the tail is measured; the honest pause is the product, held before the last mark rather than after the shipment.\n",
+  "dials": [
+    6715,
+    -8980,
+    15309,
+    -21121,
+    -28095,
+    25904,
+    -9778,
+    -17588,
+    -31629,
+    -3704,
+    23221,
+    29736,
+    3945,
+    27385,
+    -27095,
+    -5866
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        321,
+        313,
+        310
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": {
+        "openings": [
+          "the shop begins with a hopper",
+          "in the shop the stacked screens",
+          "before the last screen the sand"
+        ],
+        "collisions": []
+      }
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.9104
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": false,
+      "detail": [
+        "is grown in"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 1,
+        "0-2": 0,
+        "1-2": 0
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 6,
+        "0-2": 7,
+        "1-2": 3
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "200w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        },
+        {
+          "name": "topic-echo pair is not a template collision",
+          "ok": true
+        },
+        {
+          "name": "all-voice topic echo IS rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "15/16",
+  "nc": "9/9",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "two voices echoing the topic is NOT a template collision",
+      "ok": true
+    },
+    {
+      "name": "all voices echoing the topic IS a failure",
+      "ok": true
+    },
+    {
+      "name": "template collision on a topic window still fails",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "200w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 200w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo pair is not a template collision",
+      "ok": true
+    },
+    {
+      "name": "NC: all-voice topic echo IS rejected",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "34/34",
+  "pairwise5_p1": {
+    "0-1": [
+      "the honest pause is the"
+    ],
+    "0-2": [],
+    "1-2": []
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "honest pause is the product",
+      "is the product before the",
+      "pause is the product before",
+      "substrate is grown in handling",
+      "the honest pause is the",
+      "the substrate is grown in"
+    ],
+    "0-2": [
+      "each cell is a scar",
+      "honest pause is the product",
+      "is prediction rather than record",
+      "log is prediction rather than",
+      "the honest pause is the",
+      "the substrate is grown in",
+      "witness log is prediction rather"
+    ],
+    "1-2": [
+      "honest pause is the product",
+      "the honest pause is the",
+      "the substrate is grown in"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x7dbe508784e57cfa\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the sand that falls through the last screen is not finer it \",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      6715,\n      -8980,\n      15309,\n      -21121,\n      -28095,\n      25904,\n      -9778,\n      -17588,\n      -31629,\n      -3704,\n      23221,\n      29736,\n      3945,\n      27385,\n      -27095,\n      -5866\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x7dbe508784e57cfa\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T11:09:29.114Z\"\n  }\n}",
+  "runner": "taps_round_200w.py"
+}
