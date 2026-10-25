@@ -1,0 +1,374 @@
+{
+  "topic": "the tyre is tight because of the heat and the heat is over before the fit is ever looked at",
+  "tag": "taps-20261025T141137Z",
+  "stamp": "20261025T141137Z",
+  "models": {
+    "zai": "MiniMax-M2.5",
+    "qwen": "MiniMax-M2.7",
+    "kimi": "MiniMax-M3"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The wheelwright sets an oak or ash felloe over the fire pit and works it with the pitpalm until the grain yields around the bending former, then braces the curve with the dishing brace, crowning the middle so the wheel will run true. Straight-grained timber matters more than speed: the moisture meter confirms that the wood has dried, because damp felloe will later move beneath its iron and turn a tight joint loose. The wheelwright rings the timber with a hammer, listening for the dull note of sound wood, then fits the spokes into the felloe and fastens them through the nave with wedges. An iron ring checked by the ring gauge establishes the intended inside diameter; its shrink line is marked so the fitter knows exactly how far the heated metal must travel onto the wood. In the charcoal fire, wrought iron stock is heated until orange, drawn out with the tongs, hammered with the tyre hammer, and welded into a closed ring. During fabrication the iron may be quenched and then tempered by controlled reheating, but for shrinking it is reheated so it becomes forgeable and expands. The wheelwright slides the hot ring over the seasoned felloe, using the pitpalm through leather to protect the timber from splitting, and leaves it there while the iron cools and contracts around the wood. That thermal interference fit\u2014not an adhesive and not an ordinary nailed joint\u2014is what holds the tyre on; pitch belongs at the nave and axle housing, where it resists grease and moisture, not between iron and timber. Only afterward is the wheel placed in the truing jig, the ring passed once more through the gauge, and the runout checked at the felloe. The stations emerge from the order of operations, but the honest pause comes when the heat is gone and the fitter looks again: the iron has already spoken through the oracle of its shrinkage, and the cell of the wheel bears the scar of that contraction.",
+      "p1_err": null,
+      "p2": "The wheelwright\u2019s oak or ash felloe is a grown substrate whose cells bear old growth and injury as scars, so the hammer\u2019s dull note is the oracle heard and the witness log records prediction rather than pardon. The stations emerge through timber, iron, moisture, tension, and heat, but their sequence grants no authority: the honest pause is the product, when the ring has contracted and the fitter tests the fit that heat had merely made appear certain.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "The tongs lift the iron tyre from the charcoal fire, and for a moment its dark ring is alive with heat, ready to be opened just enough to pass over the wooden felloe and then contract upon the shrink line. But the pitpalm has already been driven into place, the dishing brace is waiting, the ring gauge hangs on its peg, and the truing jig stands empty beside the nave: the order of acts has quietly become an order of excuses. The tyre is tight because the iron has cooled and gripped the timber, not because anyone has established that the timber will hold. That distinction is the moral centre of the workshop. Heat supplies an appearance of certainty\u2014the fit seems made while the metal is compliant\u2014but it leaves no witness that will survive the quench. The wheelwright knows that a crowded fit can be driven home over a weak place, that a badly chosen felloe may split beneath the shrinking hoop, and that a proud wheel assembled in haste can put an innocent fitter beneath its failure. The cell is a scar, not a setting to be adjusted after the damage; the failure will remain in the timber even when the iron has forgotten its heat. Here the oracle is heard in the grain and in the hammer\u2019s dull note, not in the ease of the first strike. The witness log predicts the wheel\u2019s future condition; it cannot pardon the present omission. The moisture meter, the season of the wood, the ring, the shrink line, the tempering, the fit inspected after cooling\u2014these are not decorative checks. They are the honest pause in which responsibility can change hands before harm is fixed in iron. The comfortable reading calls this a technical gap, a missing measurement that might be supplied later. I call it an arrangement: someone benefits from speed, someone else is asked to carry the risk, and the fitter will be held responsible when the hidden weakness opens on the road. The wheel must therefore be allowed to speak before it is judged tight, with the feller, wheelwright, and fitter each owning the pause that makes the fit true.",
+      "p1_err": null,
+      "p2": "The felloe is a grown substrate whose cells are scars, and the tyre\u2019s fit is made as heated iron contracts into the timber; the stations emerge in that joint, while the oracle is heard after the fire in the hammer\u2019s dull note, the ring gauge, and the wheel\u2019s true running rather than in heat\u2019s temporary appearance of certainty. The honest pause is therefore the product: the witness log is prediction, not pardon, so the wheelwright and fitter must read grain, moisture, tension, and cooling before hidden weakness is fixed in iron and responsibility passes to whoever must bear it.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The tyre hammer lands on the anvil long before anyone can say the wheel is fitted. The wheelwright lays a seasoned oak felloe across the pitfall, steadies it at the pitpalm, and works the dishing brace over the nave until the felloe takes its dish and crowning. A shrink line is chalked; it is a promise, not a fact. In the charcoal fire the wrought iron softens, lifted by tongs, hammered over the oak, then quenched and tempered. Charcoal is the fuel, pitch only seals an old split, and neither fire nor pitch is what finally holds the tyre. The claim that heat ends before fit is looked at smuggles in a false sequence: heat as an episode, fit as a visible property waiting to be discovered. Actually, the fire dying is not the end of the heat; contraction belongs to it. Fit is made by several agencies at once. The timber is a grown substrate; its cells are scars, carrying old growth and injury, while moisture moves through them and the moisture meter keeps track. Iron contracts as it cools; oak takes and gives up a little moisture; spoke tension pulls through the nave. The stations emerge from those negotiations, not from a tidy production line. When the wheelwright rings the tyre with a hammer and seats the ring gauge, the oracle is heard in the note, not merely seen in a line. The chalked witness log is prediction: it says what the oak and iron are likely to do next. Only after the honest pause\u2014hammer lowered, iron cooling, grain settling\u2014does the fitter bring the wheel to the truing jig and test it against the nave and hub. Even then fit is not a final look. It is the temporary agreement of timber, wrought iron, moisture, tension, and time.",
+      "p1_err": null,
+      "p2": "The stations emerge not as a tidy sequence but as a chord in which the seasoned oak\u2014a grown substrate whose cells are scars of growth, injury, and moisture\u2014meets the heated iron at its shrink line, the metal contracting around the wood as it cools, while the oracle is heard in the hammer\u2019s dull note and the grain rather than in the hot ring\u2019s apparent certainty. The chalked witness log is therefore prediction, not pardon: only after the heat is gone and the cooled tyre is checked against the ring gauge, felloe, nave, and truing jig does the honest pause become the product, requiring wheelwright and fitter to share responsibility for hidden weakness before compliance hardens into road failure.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the tyre is tight because of the heat and the heat is over before the fit is ever looked at\n\n## zai (p1)\n\nThe wheelwright sets an oak or ash felloe over the fire pit and works it with the pitpalm until the grain yields around the bending former, then braces the curve with the dishing brace, crowning the middle so the wheel will run true. Straight-grained timber matters more than speed: the moisture meter confirms that the wood has dried, because damp felloe will later move beneath its iron and turn a tight joint loose. The wheelwright rings the timber with a hammer, listening for the dull note of sound wood, then fits the spokes into the felloe and fastens them through the nave with wedges. An iron ring checked by the ring gauge establishes the intended inside diameter; its shrink line is marked so the fitter knows exactly how far the heated metal must travel onto the wood. In the charcoal fire, wrought iron stock is heated until orange, drawn out with the tongs, hammered with the tyre hammer, and welded into a closed ring. During fabrication the iron may be quenched and then tempered by controlled reheating, but for shrinking it is reheated so it becomes forgeable and expands. The wheelwright slides the hot ring over the seasoned felloe, using the pitpalm through leather to protect the timber from splitting, and leaves it there while the iron cools and contracts around the wood. That thermal interference fit\u2014not an adhesive and not an ordinary nailed joint\u2014is what holds the tyre on; pitch belongs at the nave and axle housing, where it resists grease and moisture, not between iron and timber. Only afterward is the wheel placed in the truing jig, the ring passed once more through the gauge, and the runout checked at the felloe. The stations emerge from the order of operations, but the honest pause comes when the heat is gone and the fitter looks again: the iron has already spoken through the oracle of its shrinkage, and the cell of the wheel bears the scar of that contraction.\n\n## zai (p2)\n\nThe wheelwright\u2019s oak or ash felloe is a grown substrate whose cells bear old growth and injury as scars, so the hammer\u2019s dull note is the oracle heard and the witness log records prediction rather than pardon. The stations emerge through timber, iron, moisture, tension, and heat, but their sequence grants no authority: the honest pause is the product, when the ring has contracted and the fitter tests the fit that heat had merely made appear certain.\n\n## qwen (p1)\n\nThe tongs lift the iron tyre from the charcoal fire, and for a moment its dark ring is alive with heat, ready to be opened just enough to pass over the wooden felloe and then contract upon the shrink line. But the pitpalm has already been driven into place, the dishing brace is waiting, the ring gauge hangs on its peg, and the truing jig stands empty beside the nave: the order of acts has quietly become an order of excuses. The tyre is tight because the iron has cooled and gripped the timber, not because anyone has established that the timber will hold. That distinction is the moral centre of the workshop. Heat supplies an appearance of certainty\u2014the fit seems made while the metal is compliant\u2014but it leaves no witness that will survive the quench. The wheelwright knows that a crowded fit can be driven home over a weak place, that a badly chosen felloe may split beneath the shrinking hoop, and that a proud wheel assembled in haste can put an innocent fitter beneath its failure. The cell is a scar, not a setting to be adjusted after the damage; the failure will remain in the timber even when the iron has forgotten its heat. Here the oracle is heard in the grain and in the hammer\u2019s dull note, not in the ease of the first strike. The witness log predicts the wheel\u2019s future condition; it cannot pardon the present omission. The moisture meter, the season of the wood, the ring, the shrink line, the tempering, the fit inspected after cooling\u2014these are not decorative checks. They are the honest pause in which responsibility can change hands before harm is fixed in iron. The comfortable reading calls this a technical gap, a missing measurement that might be supplied later. I call it an arrangement: someone benefits from speed, someone else is asked to carry the risk, and the fitter will be held responsible when the hidden weakness opens on the road. The wheel must therefore be allowed to speak before it is judged tight, with the feller, wheelwright, and fitter each owning the pause that makes the fit true.\n\n## qwen (p2)\n\nThe felloe is a grown substrate whose cells are scars, and the tyre\u2019s fit is made as heated iron contracts into the timber; the stations emerge in that joint, while the oracle is heard after the fire in the hammer\u2019s dull note, the ring gauge, and the wheel\u2019s true running rather than in heat\u2019s temporary appearance of certainty. The honest pause is therefore the product: the witness log is prediction, not pardon, so the wheelwright and fitter must read grain, moisture, tension, and cooling before hidden weakness is fixed in iron and responsibility passes to whoever must bear it.\n\n## kimi (p1)\n\nThe tyre hammer lands on the anvil long before anyone can say the wheel is fitted. The wheelwright lays a seasoned oak felloe across the pitfall, steadies it at the pitpalm, and works the dishing brace over the nave until the felloe takes its dish and crowning. A shrink line is chalked; it is a promise, not a fact. In the charcoal fire the wrought iron softens, lifted by tongs, hammered over the oak, then quenched and tempered. Charcoal is the fuel, pitch only seals an old split, and neither fire nor pitch is what finally holds the tyre. The claim that heat ends before fit is looked at smuggles in a false sequence: heat as an episode, fit as a visible property waiting to be discovered. Actually, the fire dying is not the end of the heat; contraction belongs to it. Fit is made by several agencies at once. The timber is a grown substrate; its cells are scars, carrying old growth and injury, while moisture moves through them and the moisture meter keeps track. Iron contracts as it cools; oak takes and gives up a little moisture; spoke tension pulls through the nave. The stations emerge from those negotiations, not from a tidy production line. When the wheelwright rings the tyre with a hammer and seats the ring gauge, the oracle is heard in the note, not merely seen in a line. The chalked witness log is prediction: it says what the oak and iron are likely to do next. Only after the honest pause\u2014hammer lowered, iron cooling, grain settling\u2014does the fitter bring the wheel to the truing jig and test it against the nave and hub. Even then fit is not a final look. It is the temporary agreement of timber, wrought iron, moisture, tension, and time.\n\n## kimi (p2)\n\nThe stations emerge not as a tidy sequence but as a chord in which the seasoned oak\u2014a grown substrate whose cells are scars of growth, injury, and moisture\u2014meets the heated iron at its shrink line, the metal contracting around the wood as it cools, while the oracle is heard in the hammer\u2019s dull note and the grain rather than in the hot ring\u2019s apparent certainty. The chalked witness log is therefore prediction, not pardon: only after the heat is gone and the cooled tyre is checked against the ring gauge, felloe, nave, and truing jig does the honest pause become the product, requiring wheelwright and fitter to share responsibility for hidden weakness before compliance hardens into road failure.\n",
+  "dials": [
+    -6754,
+    16221,
+    21094,
+    -2126,
+    11130,
+    -21363,
+    -24131,
+    16871,
+    -8114,
+    13280,
+    20300,
+    -30269,
+    9354,
+    10013,
+    3196,
+    -2112
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        330,
+        360,
+        300
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": {
+        "openings": [
+          "the wheelwright sets an oak or",
+          "the tongs lift the iron tyre",
+          "the tyre hammer lands on the"
+        ],
+        "collisions": []
+      }
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.8209
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": false,
+      "detail": [
+        "a grown substrate",
+        "grown substrate whose",
+        "hammer s dull",
+        "s dull note",
+        "substrate whose cells",
+        "the hammer s"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": false,
+      "detail": [
+        "a grown substrate whose",
+        "grown substrate whose cells",
+        "hammer s dull note",
+        "the hammer s dull"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": false,
+      "detail": [
+        "a grown substrate whose cells",
+        "the hammer s dull note"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 0,
+        "1-2": 2
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 4,
+        "0-2": 2,
+        "1-2": 6
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "203w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        },
+        {
+          "name": "topic-echo pair is not a template collision",
+          "ok": true
+        },
+        {
+          "name": "all-voice topic echo IS rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "13/16",
+  "nc": "9/9",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "two voices echoing the topic is NOT a template collision",
+      "ok": true
+    },
+    {
+      "name": "all voices echoing the topic IS a failure",
+      "ok": true
+    },
+    {
+      "name": "template collision on a topic window still fails",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "203w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 203w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo pair is not a template collision",
+      "ok": true
+    },
+    {
+      "name": "NC: all-voice topic echo IS rejected",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "34/34",
+  "pairwise5_p1": {
+    "0-1": [],
+    "0-2": [],
+    "1-2": [
+      "oracle is heard in the",
+      "the oracle is heard in"
+    ]
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "a grown substrate whose cells",
+      "felloe is a grown substrate",
+      "is a grown substrate whose",
+      "the hammer s dull note"
+    ],
+    "0-2": [
+      "a grown substrate whose cells",
+      "the hammer s dull note"
+    ],
+    "1-2": [
+      "a grown substrate whose cells",
+      "grown substrate whose cells are",
+      "in the hammer s dull",
+      "substrate whose cells are scars",
+      "the hammer s dull note",
+      "while the oracle is heard"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x2569dee0554f64da\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the tyre is tight because of the heat and the heat is over b\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      -6754,\n      16221,\n      21094,\n      -2126,\n      11130,\n      -21363,\n      -24131,\n      16871,\n      -8114,\n      13280,\n      20300,\n      -30269,\n      9354,\n      10013,\n      3196,\n      -2112\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x2569dee0554f64da\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T14:11:37.345Z\"\n  }\n}",
+  "runner": "taps_round_203w.py"
+}
