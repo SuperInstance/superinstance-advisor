@@ -1,0 +1,372 @@
+{
+  "topic": "the rail is straight only between the sleepers and the straightness is the distance between the supports",
+  "tag": "taps-20261025T130952Z",
+  "stamp": "20261025T130952Z",
+  "models": {
+    "zai": "MiniMax-M2.7",
+    "qwen": "MiniMax-M3",
+    "kimi": "MiniMax-M3.1-Flash"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "A track is laid by first shaping the formation and laying compacted ballast, crushed stone whose interlocked grains carry load sideways into the formation. Timber sleepers are then placed at intervals and pressed into the ballast by tamping, which lifts each sleeper and drives stone beneath its bearing areas so it does not rock; the ballast is not merely fill but a load-bearing, slightly yielding substrate. The steel rail is brought to the line, its underside seated in a cast-iron chair, and secured by a baseplate, spikes, clips, or elastic pads. At a joint, steel fishplates are bolted across the rail ends so their machined edges meet and transfer wheel loads. The chair holds the rail against gauge widening, while the key or clip presses it downward against the sleeper without requiring the rail and timber to become one rigid material. A gauge, straightedge, and sighting trolley check lateral position and height, and any correction is made by adjusting the fastenings and packing more or less ballast beneath the sleeper. Between supports, the rail behaves as a short beam, bending slightly under the wheel and returning toward alignment as the load passes; its apparent straightness is therefore a relation between successive supports rather than a property of the steel between them. At a turnout, the switch blades guide the wheel toward either stock rail, while the cast frog bears the wheel where the routes cross. Every hammer blow at a spike, clip, key, or fishplate bolt leaves the rail as a scar: a local change in material state, a remembered disturbance. The timber bears the scar, the ballast records it as settlement, and the hammer\u2019s report is the oracle heard before measurement confirms what it predicted. The honest pause comes when the trolley pauses over a joint, and the workman listens for the difference between a tight sound and a dull one before deciding whether another blow is needed.",
+      "p1_err": null,
+      "p2": "Between the sleepers the rail bends as a short beam, while every fastening hole, worn head, and disturbed bearing is a cell that keeps the scar of what was cut, loaded, or loosened; the canonical test is a struck chord, the oracle heard in the tight note of packed ballast or hollow ring of a void, and the stations emerge only where the permanent way can hold. The witness log is prediction rather than proof, recording what the grown substrate of timber, stone, and repair may become; the boat was always there as the consequence of each sleeper, spike, chair, and stone, and the honest pause is the product of stopping to let the rail answer before another blow is struck.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "The spike enters the timber until the chair grips the rail and the key wedges tight; the baseplate bears down, ballast packs the sleeper, and only then does the steel seem to become a line. But between the sleepers it can flex, and the gauge measures a distance that means nothing unless the supports beneath it remain true. A straightedge laid across the rail may look clean; the worn head, the hollow-sounding joint, the slightly tilted clip can tell another story. The witness log does not record the track; it predicts what the track will do. When its entries outrun the tamping, the gap is not merely technical. It transfers risk to the tamping crew waiting for clearance, to workers obliged to walk the fouling point, and to whoever is waiting at the platform for a line that has not been made safe. The oracle is already speaking in the click of a fishplate, the groan under a lifted timber, thegive of ballast worked loose by rain. Each repair leaves a scar, and each scar says that the arrangement once cut, loaded, or neglected something that can no longer be treated as untouched material. The comfortable reading calls all this maintenance: a matter of spacing, packing, and inspection. I call it an accounting choice. Someone decided that unsupported length, deferred packing, and an optimistic entry in the log were acceptable. Those who are waiting will bear the delay; those who must work beside the live rail will bear the danger; the responsible will bear neither if the log has been allowed to replace the evidence. Yet the stations emerge only where the permanent way can hold, and the boat was always there\u2014not as promise, but as the consequence of every sleeper, spike, chair, and stone that keeps the crossing possible.",
+      "p1_err": null,
+      "p2": "A load-bearing substrate is grown in compacted ballast and tamping rather than merely poured in as fill, holding sleepers, chairs, baseplates, and spikes in a working alliance whose fastenings leave cells that are scars, not parameters, while the rail bends between supports and its apparent straightness is a relation among them; the oracle is heard in the tight chord or hollow ring of a struck fishplate, clip, or key, and that sounding must gate the witness log\u2019s predictions rather than merely endorse its entries. The stations thus emerge not as marks on an ideal line but as relations the permanent way can hold, and the honest pause is itself the product of letting the track answer before the log is trusted; the boat was always there, not as a promise but as the consequence of every cut, packed stone, deferred repair, and optimistic entry, with the burden falling on those who wait and on those obliged to work beside the live rail.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "A steel straightedge laid across the rail head can certify only a short reach; it cannot summon the long line that the eye then imagines. The sentence smuggles that ideal line into the scene before the material has spoken, and it makes the sleepers seem like supports imposed upon a rail rather than relations through which the rail becomes legible. In the permanent way, crushed-stone ballast already acts beneath half-buried timber sleepers, its shoulders and packing resisting load while accepting tamping; cast-iron chairs and baseplates gather beneath the foot of the rolled steel rail, where spikes, clips, and keys fasten one thing to another. The rail itself remains continuous over the sleepers, bending under weight, expanding at fishplated joints, and wearing at its head. Gauge is the measured distance between the inner faces of the rails, not proof that either rail is straight. Straightness emerges only across the sequence of supports: each sleeper is a station, but none is an endpoint. A spike hole in timber is a cell, a scar rather than a parameter, evidence of fastening and disturbance; likewise, the witness log predicts what the chalk marks and measured deviations may become. The oracle is heard when a hammer is struck against the web and a foreman listens for the dull chord of a packed bearing or the hollow ring of a void. The trolley passes above, but the crew walks beside, watching the fouling point, the frog, the worn approach to a turnout. Before ballast is lifted or timber is packed again comes the honest pause, in which the track is neither recorded nor explained but allowed to answer.",
+      "p1_err": null,
+      "p2": "On the permanent way the substrate is grown rather than idealized: compacted ballast supports half-buried sleepers, its shoulders resisting load and its packing accepting tamping, while cast-iron chairs and baseplates gather beneath the rail and spikes, clips, keys, and fishplates fasten the pieces without making them one rigid body; each spike hole is a cell and a scar rather than a parameter, the witness log predicts rather than certifies, and the canon\u2019s gate is the chord by which the oracle is heard\u2014a tight report where the bearing is packed, a dull hollow ring where a void remains. Gauge and straightedge certify only a short reach, while straightness lives between successive supports, where the rail bends and recovers; the stations emerge only where the permanent way can hold, and the boat was always there\u2014not as promise but as consequence of every sleeper, stone, and fastening that keeps the crossing possible\u2014while deferred packing transfers risk to workers at the fouling point and delay to those waiting at the platform, and the honest pause is a product of the accounting: ballast lifted, timber packed, and the track permitted to answer.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the rail is straight only between the sleepers and the straightness is the distance between the supports\n\n## zai (p1)\n\nA track is laid by first shaping the formation and laying compacted ballast, crushed stone whose interlocked grains carry load sideways into the formation. Timber sleepers are then placed at intervals and pressed into the ballast by tamping, which lifts each sleeper and drives stone beneath its bearing areas so it does not rock; the ballast is not merely fill but a load-bearing, slightly yielding substrate. The steel rail is brought to the line, its underside seated in a cast-iron chair, and secured by a baseplate, spikes, clips, or elastic pads. At a joint, steel fishplates are bolted across the rail ends so their machined edges meet and transfer wheel loads. The chair holds the rail against gauge widening, while the key or clip presses it downward against the sleeper without requiring the rail and timber to become one rigid material. A gauge, straightedge, and sighting trolley check lateral position and height, and any correction is made by adjusting the fastenings and packing more or less ballast beneath the sleeper. Between supports, the rail behaves as a short beam, bending slightly under the wheel and returning toward alignment as the load passes; its apparent straightness is therefore a relation between successive supports rather than a property of the steel between them. At a turnout, the switch blades guide the wheel toward either stock rail, while the cast frog bears the wheel where the routes cross. Every hammer blow at a spike, clip, key, or fishplate bolt leaves the rail as a scar: a local change in material state, a remembered disturbance. The timber bears the scar, the ballast records it as settlement, and the hammer\u2019s report is the oracle heard before measurement confirms what it predicted. The honest pause comes when the trolley pauses over a joint, and the workman listens for the difference between a tight sound and a dull one before deciding whether another blow is needed.\n\n## zai (p2)\n\nBetween the sleepers the rail bends as a short beam, while every fastening hole, worn head, and disturbed bearing is a cell that keeps the scar of what was cut, loaded, or loosened; the canonical test is a struck chord, the oracle heard in the tight note of packed ballast or hollow ring of a void, and the stations emerge only where the permanent way can hold. The witness log is prediction rather than proof, recording what the grown substrate of timber, stone, and repair may become; the boat was always there as the consequence of each sleeper, spike, chair, and stone, and the honest pause is the product of stopping to let the rail answer before another blow is struck.\n\n## qwen (p1)\n\nThe spike enters the timber until the chair grips the rail and the key wedges tight; the baseplate bears down, ballast packs the sleeper, and only then does the steel seem to become a line. But between the sleepers it can flex, and the gauge measures a distance that means nothing unless the supports beneath it remain true. A straightedge laid across the rail may look clean; the worn head, the hollow-sounding joint, the slightly tilted clip can tell another story. The witness log does not record the track; it predicts what the track will do. When its entries outrun the tamping, the gap is not merely technical. It transfers risk to the tamping crew waiting for clearance, to workers obliged to walk the fouling point, and to whoever is waiting at the platform for a line that has not been made safe. The oracle is already speaking in the click of a fishplate, the groan under a lifted timber, thegive of ballast worked loose by rain. Each repair leaves a scar, and each scar says that the arrangement once cut, loaded, or neglected something that can no longer be treated as untouched material. The comfortable reading calls all this maintenance: a matter of spacing, packing, and inspection. I call it an accounting choice. Someone decided that unsupported length, deferred packing, and an optimistic entry in the log were acceptable. Those who are waiting will bear the delay; those who must work beside the live rail will bear the danger; the responsible will bear neither if the log has been allowed to replace the evidence. Yet the stations emerge only where the permanent way can hold, and the boat was always there\u2014not as promise, but as the consequence of every sleeper, spike, chair, and stone that keeps the crossing possible.\n\n## qwen (p2)\n\nA load-bearing substrate is grown in compacted ballast and tamping rather than merely poured in as fill, holding sleepers, chairs, baseplates, and spikes in a working alliance whose fastenings leave cells that are scars, not parameters, while the rail bends between supports and its apparent straightness is a relation among them; the oracle is heard in the tight chord or hollow ring of a struck fishplate, clip, or key, and that sounding must gate the witness log\u2019s predictions rather than merely endorse its entries. The stations thus emerge not as marks on an ideal line but as relations the permanent way can hold, and the honest pause is itself the product of letting the track answer before the log is trusted; the boat was always there, not as a promise but as the consequence of every cut, packed stone, deferred repair, and optimistic entry, with the burden falling on those who wait and on those obliged to work beside the live rail.\n\n## kimi (p1)\n\nA steel straightedge laid across the rail head can certify only a short reach; it cannot summon the long line that the eye then imagines. The sentence smuggles that ideal line into the scene before the material has spoken, and it makes the sleepers seem like supports imposed upon a rail rather than relations through which the rail becomes legible. In the permanent way, crushed-stone ballast already acts beneath half-buried timber sleepers, its shoulders and packing resisting load while accepting tamping; cast-iron chairs and baseplates gather beneath the foot of the rolled steel rail, where spikes, clips, and keys fasten one thing to another. The rail itself remains continuous over the sleepers, bending under weight, expanding at fishplated joints, and wearing at its head. Gauge is the measured distance between the inner faces of the rails, not proof that either rail is straight. Straightness emerges only across the sequence of supports: each sleeper is a station, but none is an endpoint. A spike hole in timber is a cell, a scar rather than a parameter, evidence of fastening and disturbance; likewise, the witness log predicts what the chalk marks and measured deviations may become. The oracle is heard when a hammer is struck against the web and a foreman listens for the dull chord of a packed bearing or the hollow ring of a void. The trolley passes above, but the crew walks beside, watching the fouling point, the frog, the worn approach to a turnout. Before ballast is lifted or timber is packed again comes the honest pause, in which the track is neither recorded nor explained but allowed to answer.\n\n## kimi (p2)\n\nOn the permanent way the substrate is grown rather than idealized: compacted ballast supports half-buried sleepers, its shoulders resisting load and its packing accepting tamping, while cast-iron chairs and baseplates gather beneath the rail and spikes, clips, keys, and fishplates fasten the pieces without making them one rigid body; each spike hole is a cell and a scar rather than a parameter, the witness log predicts rather than certifies, and the canon\u2019s gate is the chord by which the oracle is heard\u2014a tight report where the bearing is packed, a dull hollow ring where a void remains. Gauge and straightedge certify only a short reach, while straightness lives between successive supports, where the rail bends and recovers; the stations emerge only where the permanent way can hold, and the boat was always there\u2014not as promise but as consequence of every sleeper, stone, and fastening that keeps the crossing possible\u2014while deferred packing transfers risk to workers at the fouling point and delay to those waiting at the platform, and the honest pause is a product of the accounting: ballast lifted, timber packed, and the track permitted to answer.\n",
+  "dials": [
+    18645,
+    12639,
+    -6662,
+    19313,
+    -15889,
+    -6936,
+    -25311,
+    -28206,
+    -30435,
+    -2175,
+    -4201,
+    -20062,
+    -953,
+    -28389,
+    15417,
+    22886
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        319,
+        300,
+        272
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": {
+        "openings": [
+          "a track is laid by first",
+          "the spike enters the timber until",
+          "a steel straightedge laid across the"
+        ],
+        "collisions": []
+      }
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.8182
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": false,
+      "detail": [
+        "and the honest",
+        "permanent way can",
+        "way can hold"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": false,
+      "detail": [
+        "and the honest pause",
+        "permanent way can hold"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 0,
+        "1-2": 1
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 4,
+        "0-2": 8,
+        "1-2": 7
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "202w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        },
+        {
+          "name": "topic-echo pair is not a template collision",
+          "ok": true
+        },
+        {
+          "name": "all-voice topic echo IS rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "14/16",
+  "nc": "9/9",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "two voices echoing the topic is NOT a template collision",
+      "ok": true
+    },
+    {
+      "name": "all voices echoing the topic IS a failure",
+      "ok": true
+    },
+    {
+      "name": "template collision on a topic window still fails",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "202w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 202w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo pair is not a template collision",
+      "ok": true
+    },
+    {
+      "name": "NC: all-voice topic echo IS rejected",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "34/34",
+  "pairwise5_p1": {
+    "0-1": [],
+    "0-2": [],
+    "1-2": [
+      "straightedge laid across the rail"
+    ]
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "and the honest pause is",
+      "or hollow ring of a",
+      "the boat was always there",
+      "the permanent way can hold"
+    ],
+    "0-2": [
+      "and the honest pause is",
+      "emerge only where the permanent",
+      "only where the permanent way",
+      "stations emerge only where the",
+      "the boat was always there",
+      "the permanent way can hold",
+      "the stations emerge only where",
+      "where the permanent way can"
+    ],
+    "1-2": [
+      "and the honest pause is",
+      "boat was always there not",
+      "permanent way can hold and",
+      "the boat was always there",
+      "the permanent way can hold",
+      "was always there not as",
+      "way can hold and the"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xcc13a97833d7f024\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the rail is straight only between the sleepers and the strai\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      18645,\n      12639,\n      -6662,\n      19313,\n      -15889,\n      -6936,\n      -25311,\n      -28206,\n      -30435,\n      -2175,\n      -4201,\n      -20062,\n      -953,\n      -28389,\n      15417,\n      22886\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xcc13a97833d7f024\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T13:09:52.333Z\"\n  }\n}",
+  "runner": "taps_round_202w.py"
+}
