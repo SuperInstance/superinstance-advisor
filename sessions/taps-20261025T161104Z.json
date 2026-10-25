@@ -1,0 +1,397 @@
+{
+  "topic": "the scribe is dry before it is loaded and the ink is dry because the water is gone",
+  "tag": "taps-20261025T161104Z",
+  "stamp": "20261025T161104Z",
+  "models": {
+    "zai": "MiniMax-M2.7-highspeed",
+    "qwen": "MiniMax-M3.1-Flash",
+    "kimi": "MiniMax-M1"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "At the well, the scribe loads a split steel nib by touching its slit to the meniscus of ink; the bottle is the reservoir, while the narrow channel between the nib\u2019s two tines holds only enough liquid for the next stroke. There is no hidden feed in a dip pen, so capillarity and surface tension must do the work. The slit permits the tines to spread slightly under pressure, widening the deposit, then close as the hand lifts, narrowing the line. A quill behaves similarly but carries its own hollow barrel, that internal reservoir serving until the tip draws the last dark charge and becomes spent. The paper is already acting: its woven fibers drink the water from the ink, pull the liquid laterally, and hold pigment and binder against their rough surfaces; each plant cell in the sheet is a scar left by growth, now recording by differential absorption. Copperplate\u2019s controlled pressure and chancery hand\u2019s broad turn therefore enter the same mechanism differently, one presenting a fine swell and taper, the other a blunt entry and sweeping exit. A blotter can press against the still-wet line and lift pigment before it has fixed, whereas pounce dust on a greasy page first removes unwanted oil that would repel the carrier. The witness log is prediction rather than record: the wet stroke promises a shape that only the drying sheet will ratify. As the nib continues, its reservoir dwindles, the line begins to skip when the meniscus no longer reaches the slit, and the scribe must return to the well. Finally, the visible ink dries because its water has gone\u2014evaporated into the air or drawn into the substrate\u2014leaving pigment and gum behind as a fixed film. Only then is the stroke legible without smearing, and the honest pause belongs between the charged nib and the spent one, when the page, not the hand, determines what the oracle will be heard to say.",
+      "p1_err": null,
+      "p2": "At the well, where the boat was always there in suspended pigment, water, and gum, the split nib takes only enough ink for the next stroke, while the grown sheet\u2014its plant cells still bearing the scars of growth\u2014drinks, spreads, and stains, making each mark a wet promise whose oracle is heard only when the page fixes what the hand intended. The witness log remains prediction rather than record, since skipped or dried lines counterfeit silence and boundary; thus the canon gate is a chord of nib, ink, substrate, and gesture, the stations emerge only when each performs its own means, and the honest pause is the product.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "The split nib rests beside the well, apparently an instrument but already a spent witness. Steel is the carrier; ink is the carried, and ink is not pigment alone: water loosens the carbon or iron dark, gum binds it, and when the water is gone the mixture stiffens on the shelf and cakes in the reservoir. A nib charged yesterday can be dry today; a well supplied with dust is still empty. At the writing bench, the quill and the steel, the bottle and the blotter, the pounce and the ruled line conceal this fact until the hand commits itself. Then comes the blot, the skip, the broken copperplate stroke pretending to be chancery certainty. The sheet is not passive ground; its fibers have grown, already drink, spread, resist, and stain. Every written cell is a scar, not a parameter: the trace of a wet decision meeting an acting surface. When the nib finally touches down, what the page says is an oracle to be heard, not a neutral fact deposited for later inspection. A witness log assembled from those marks is therefore prediction, not record; a skipped stroke will look like silence, and a dried line will look like a deliberate boundary. The arrangement harms whoever waits for testimony to become legible, especially the absent person whose fate depends on that testimony, and it harms the scribe by making fluent falsification the price of labor. This is not merely a technical gap that a careful hand can bridge. Those who station a dry scribe before a loaded bench, who conserve water until the ink dies, and then demand decisive handwriting are responsible for the decisions that vanish into skipped clauses. The stations emerge only when the instruments can perform their own means; otherwise the bench manufactures appearances. The honest product is the pause: the pen set down, the bottle reported empty, the line left unwritten. Let the scribe say that the water is gone before pretending that the ink can speak.",
+      "p1_err": null,
+      "p2": "The boat was always there in the well: water suspends pigment and bound gum until the loaded split nib, widened by pressure and released by capillary action, meets a substrate grown from fibrous plant cells that drink, spread, resist, and stain, so that every written cell is a scar and the drying line becomes an oracle to be heard, making the witness log prediction rather than a record of what has already happened. The stations emerge only when the bench lets its instruments perform their own means, while the canon gate opens as a chord of wet intention, responsive fibers, and accountable testimony; the honest pause is therefore the product\u2014set the pen down, report the water gone, and leave the absent person\u2019s testimony unwritten rather than make fluent falsification the price of labor.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The well of ink holds what the page will not remember: pigment suspended in water, gum arabic the invisible thread that keeps particle from particle until the moment of release, when the hand releases and the water lifts away into the air and leaves only the stain behind. What the topic calls dry is not absence but suspension, a state the ink occupies before it touches the page and after it leaves the nib's tip, and in this the scribe and the ink are not parallel but sequential\u2014the nib dry means it holds nothing, the ink dry means it holds everything except the water that would let it flow, and between these two drynesses lies the act itself, the brief wet moment when carrier meets carried and the pigment finds its bed in the fiber. The substrate is grown, not made; it rises from pulp and press with its own grain, its own thirst, and the ink does not fall upon a neutral field but enters a conversation already underway between the fibers that were once a plant and the pressure that once bent them into sheets. Witness-log-is-prediction: the mark I am about to make is already legible in the muscle memory of my hand before the nib touches down, the letters existing as intention in the space above the page, and when the ink dries it becomes scar rather than record, a thing that happened rather than a thing that is happening. The boats were always there, waiting in the harbor of the inkwell, and the water's going is not loss but permission\u2014the gum binding what matters to what remains.",
+      "p1_err": null,
+      "p2": "Each written cell is a scar, the substrate is grown not made, and the witness-log-is-prediction: the oracle-is-heard in the wet moment before the nib touches down, when the boat-was-always-there in the harbor of the inkwell and the water's going is not loss but permission, yet the stations-emerge only when the instruments can perform their own means, so the honest-pause-is-product is the pause between the charged nib and the spent one, when the page, not the hand, determines what the oracle will be heard to say.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the scribe is dry before it is loaded and the ink is dry because the water is gone\n\n## zai (p1)\n\nAt the well, the scribe loads a split steel nib by touching its slit to the meniscus of ink; the bottle is the reservoir, while the narrow channel between the nib\u2019s two tines holds only enough liquid for the next stroke. There is no hidden feed in a dip pen, so capillarity and surface tension must do the work. The slit permits the tines to spread slightly under pressure, widening the deposit, then close as the hand lifts, narrowing the line. A quill behaves similarly but carries its own hollow barrel, that internal reservoir serving until the tip draws the last dark charge and becomes spent. The paper is already acting: its woven fibers drink the water from the ink, pull the liquid laterally, and hold pigment and binder against their rough surfaces; each plant cell in the sheet is a scar left by growth, now recording by differential absorption. Copperplate\u2019s controlled pressure and chancery hand\u2019s broad turn therefore enter the same mechanism differently, one presenting a fine swell and taper, the other a blunt entry and sweeping exit. A blotter can press against the still-wet line and lift pigment before it has fixed, whereas pounce dust on a greasy page first removes unwanted oil that would repel the carrier. The witness log is prediction rather than record: the wet stroke promises a shape that only the drying sheet will ratify. As the nib continues, its reservoir dwindles, the line begins to skip when the meniscus no longer reaches the slit, and the scribe must return to the well. Finally, the visible ink dries because its water has gone\u2014evaporated into the air or drawn into the substrate\u2014leaving pigment and gum behind as a fixed film. Only then is the stroke legible without smearing, and the honest pause belongs between the charged nib and the spent one, when the page, not the hand, determines what the oracle will be heard to say.\n\n## zai (p2)\n\nAt the well, where the boat was always there in suspended pigment, water, and gum, the split nib takes only enough ink for the next stroke, while the grown sheet\u2014its plant cells still bearing the scars of growth\u2014drinks, spreads, and stains, making each mark a wet promise whose oracle is heard only when the page fixes what the hand intended. The witness log remains prediction rather than record, since skipped or dried lines counterfeit silence and boundary; thus the canon gate is a chord of nib, ink, substrate, and gesture, the stations emerge only when each performs its own means, and the honest pause is the product.\n\n## qwen (p1)\n\nThe split nib rests beside the well, apparently an instrument but already a spent witness. Steel is the carrier; ink is the carried, and ink is not pigment alone: water loosens the carbon or iron dark, gum binds it, and when the water is gone the mixture stiffens on the shelf and cakes in the reservoir. A nib charged yesterday can be dry today; a well supplied with dust is still empty. At the writing bench, the quill and the steel, the bottle and the blotter, the pounce and the ruled line conceal this fact until the hand commits itself. Then comes the blot, the skip, the broken copperplate stroke pretending to be chancery certainty. The sheet is not passive ground; its fibers have grown, already drink, spread, resist, and stain. Every written cell is a scar, not a parameter: the trace of a wet decision meeting an acting surface. When the nib finally touches down, what the page says is an oracle to be heard, not a neutral fact deposited for later inspection. A witness log assembled from those marks is therefore prediction, not record; a skipped stroke will look like silence, and a dried line will look like a deliberate boundary. The arrangement harms whoever waits for testimony to become legible, especially the absent person whose fate depends on that testimony, and it harms the scribe by making fluent falsification the price of labor. This is not merely a technical gap that a careful hand can bridge. Those who station a dry scribe before a loaded bench, who conserve water until the ink dies, and then demand decisive handwriting are responsible for the decisions that vanish into skipped clauses. The stations emerge only when the instruments can perform their own means; otherwise the bench manufactures appearances. The honest product is the pause: the pen set down, the bottle reported empty, the line left unwritten. Let the scribe say that the water is gone before pretending that the ink can speak.\n\n## qwen (p2)\n\nThe boat was always there in the well: water suspends pigment and bound gum until the loaded split nib, widened by pressure and released by capillary action, meets a substrate grown from fibrous plant cells that drink, spread, resist, and stain, so that every written cell is a scar and the drying line becomes an oracle to be heard, making the witness log prediction rather than a record of what has already happened. The stations emerge only when the bench lets its instruments perform their own means, while the canon gate opens as a chord of wet intention, responsive fibers, and accountable testimony; the honest pause is therefore the product\u2014set the pen down, report the water gone, and leave the absent person\u2019s testimony unwritten rather than make fluent falsification the price of labor.\n\n## kimi (p1)\n\nThe well of ink holds what the page will not remember: pigment suspended in water, gum arabic the invisible thread that keeps particle from particle until the moment of release, when the hand releases and the water lifts away into the air and leaves only the stain behind. What the topic calls dry is not absence but suspension, a state the ink occupies before it touches the page and after it leaves the nib's tip, and in this the scribe and the ink are not parallel but sequential\u2014the nib dry means it holds nothing, the ink dry means it holds everything except the water that would let it flow, and between these two drynesses lies the act itself, the brief wet moment when carrier meets carried and the pigment finds its bed in the fiber. The substrate is grown, not made; it rises from pulp and press with its own grain, its own thirst, and the ink does not fall upon a neutral field but enters a conversation already underway between the fibers that were once a plant and the pressure that once bent them into sheets. Witness-log-is-prediction: the mark I am about to make is already legible in the muscle memory of my hand before the nib touches down, the letters existing as intention in the space above the page, and when the ink dries it becomes scar rather than record, a thing that happened rather than a thing that is happening. The boats were always there, waiting in the harbor of the inkwell, and the water's going is not loss but permission\u2014the gum binding what matters to what remains.\n\n## kimi (p2)\n\nEach written cell is a scar, the substrate is grown not made, and the witness-log-is-prediction: the oracle-is-heard in the wet moment before the nib touches down, when the boat-was-always-there in the harbor of the inkwell and the water's going is not loss but permission, yet the stations-emerge only when the instruments can perform their own means, so the honest-pause-is-product is the pause between the charged nib and the spent one, when the page, not the hand, determines what the oracle will be heard to say.\n",
+  "dials": [
+    -20641,
+    4227,
+    -27177,
+    -19309,
+    -403,
+    4034,
+    -1167,
+    23158,
+    21303,
+    -14250,
+    -20963,
+    31531,
+    26229,
+    27311,
+    5019,
+    -24180
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        321,
+        332,
+        271
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": {
+        "openings": [
+          "at the well the scribe loads",
+          "the split nib rests beside the",
+          "the well of ink holds what"
+        ],
+        "collisions": []
+      }
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.8923
+    },
+    "G6_p2_two_sentences": {
+      "pass": false,
+      "detail": [
+        2,
+        2,
+        1
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": false,
+      "detail": [
+        "emerge only when",
+        "only when the",
+        "stations emerge only"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": false,
+      "detail": [
+        "stations emerge only when"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 0,
+        "1-2": 0
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 3,
+        "0-2": 3,
+        "1-2": 6
+      }
+    },
+    "G11_register_p1": {
+      "pass": true,
+      "detail": {
+        "writing_hits": [
+          21,
+          23,
+          12
+        ],
+        "off_register": []
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "205w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        },
+        {
+          "name": "topic-echo pair is not a template collision",
+          "ok": true
+        },
+        {
+          "name": "all-voice topic echo IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register sharpening triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "on-register writing triple IS accepted",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "14/17",
+  "nc": "11/11",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "two voices echoing the topic is NOT a template collision",
+      "ok": true
+    },
+    {
+      "name": "all voices echoing the topic IS a failure",
+      "ok": true
+    },
+    {
+      "name": "template collision on a topic window still fails",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "205w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register sharpening triple",
+      "ok": true
+    },
+    {
+      "name": "G11 accepts an on-register writing triple",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 205w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo pair is not a template collision",
+      "ok": true
+    },
+    {
+      "name": "NC: all-voice topic echo IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register sharpening triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: on-register writing triple IS accepted",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "38/38",
+  "pairwise5_p1": {
+    "0-1": [],
+    "0-2": [],
+    "1-2": []
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "boat was always there in",
+      "the boat was always there",
+      "the stations emerge only when"
+    ],
+    "0-2": [
+      "boat was always there in",
+      "the boat was always there",
+      "the stations emerge only when"
+    ],
+    "1-2": [
+      "boat was always there in",
+      "stations emerge only when the",
+      "the boat was always there",
+      "the stations emerge only when",
+      "was always there in the",
+      "written cell is a scar"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xeb16f697ca5186c1\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the scribe is dry before it is loaded and the ink is dry bec\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      -20641,\n      4227,\n      -27177,\n      -19309,\n      -403,\n      4034,\n      -1167,\n      23158,\n      21303,\n      -14250,\n      -20963,\n      31531,\n      26229,\n      27311,\n      5019,\n      -24180\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xeb16f697ca5186c1\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T16:11:04.444Z\"\n  }\n}",
+  "runner": "taps_round_205w.py"
+}

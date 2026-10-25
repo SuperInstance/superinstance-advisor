@@ -35,7 +35,7 @@ _SSL_CTX = ssl._create_unverified_context()
 
 # ---- Configuration -------------------------------------------------------
 
-API_HOST = "https://api.superinstance.dev"
+API_HOST = "https://live-canon.superinstance.dev"   # api.superinstance.dev is DEAD (404)
 ZAI_BASE = "https://api.z.ai/api/coding/paas/v4"
 ZAI_MODEL = "glm-4.5"
 DEEPINFRA_BASE = "https://api.deepinfra.com/v1/openai"
@@ -208,14 +208,14 @@ Return only the two sentences."""
 # ---- Round orchestration -------------------------------------------------
 
 def get_latest_ref() -> str | None:
-    """GET /api/cells?limit=1 -> return the latest cell id (string)."""
-    status, text = http_get(f"{API_HOST}/api/cells?limit=1")
+    """GET /api/canon -> latest paper number (the live chain ref)."""
+    status, text = http_get(f"{API_HOST}/api/canon")
     if status != 200:
         return None
     try:
         j = json.loads(text)
-        cells = j.get("cells", [])
-        return cells[0].get("id") if cells else None
+        papers = j.get("papers", [])
+        return papers[-1].get("number") if papers else None
     except Exception:
         return None
 
