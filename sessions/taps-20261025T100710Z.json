@@ -1,0 +1,350 @@
+{
+  "topic": "the caliper is checked against itself and the caliper is the only thing it is ever checked against",
+  "tag": "taps-20261025T100710Z",
+  "stamp": "20261025T100710Z",
+  "models": {
+    "zai": "MiniMax-M2.5",
+    "qwen": "MiniMax-M2.7-highspeed",
+    "kimi": "MiniMax-M3.1-Flash"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The first motion is mechanical: a rigid L-shaped beam carries a fixed jaw, while a sliding jaw travels along the beam through a rack-and-pinion or lead-screw arrangement, converting finger force into a repeatable linear displacement. A vernier scale, dial indicator, or electronic encoder registers that displacement; a locking screw clamps the slider after the jaw faces touch. To check the instrument against itself, the operator rotates the caliper, closes and opens the jaws under constant finger pressure, and compares forward and reverse indications as the slider crosses the beam. Each contact event leaves a tiny scar: a Hertzian spot on the hardened jaw face, a bruise of oxide or transferred metal, a non-identical elastic compression in the contact region. Those scars are not reference parameters; they are the physical history of the cells that made the surfaces. The witness log does not merely preserve what happened. Before each closure, it predicts the next reading, including backlash, spring hysteresis, beam flexure, and the difference between external and internal jaw geometry. When the jaws close and the scale repeats its prior number, the log compares prediction to contact and briefly treats agreement as evidence of continued function. Yet the jaws cannot certify the absolute length of the beam, because the beam is the only ruler admitted into the chamber. Its accuracy can therefore be decomposed into local consistency: zero return, repeatability, reversal error, and angular error. The machine elements\u2014springs, bearings, gear teeth, contact flats, and the operator\u2019s hand\u2014form a chord whose combined response is heard as a faint scrape, a stop, and a faint ring in the frame. At the honest pause, before a gauge block or any external standard is introduced, the jaws touch themselves and the mechanism has exhausted the only comparison available: the substrate has acted, the cells have scarred, the oracle has been heard, and the prediction remains conditional upon the same machinery that produced it.",
+      "p1_err": null,
+      "p2": "The caliper\u2019s graduated cells are scars in a substrate grown from alloy, wear, and prior contact, so the witness log predicts the next reading while the oracle is heard in the scrape, stop, and faint ring of the mechanism adjusting itself. Its self-check produces only a canon-gate chord\u2014local consistency mistaken for an outside truth\u2014through which the stations emerge from prior permissions and exclusions, leaving the boat always there in the measure\u2019s presupposed shore until the honest pause, product rather than interruption, exposes whom the agreement has stranded.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "The caliper opens like a small metal mouth and finds only another metal mouth. There is no seam of the world to enter, no independent surface against which the measurement might fail; the instrument is entered into its own archive and pronounced accurate. This is not a technical inconvenience but a moral arrangement, because the people harmed are those whose bodies, labor, and futures have been made legible by the institution\u2019s prior categories. The injured worker is told that the reading confirms the rule; the missing worker is counted as absent because the register has no foreign day in which to notice her; the applicant waits before a gate whose width was set by those already approved through it. If the cell is a scar, these are not neutral measurements but marks left by earlier decisions, and each new check risks deepening them into the body\u2019s apparent fact. The witness log is prediction, not record: its confident entries do not testify after the fact but train the system to expect what it has already decided, until expectation hardens into fate. Anyone waiting outside the calibrated circle is blamed for not matching the instrument, while those inside call consistency evidence of fairness. The comfortable reading calls this merely a missing external reference, as though adding another device would dissolve the problem. But the reference would also be chosen, maintained, and interpreted by the same arrangement; responsibility does not disappear because the hand holding the caliper calls it impartial. The honest pause is the product, the moment when we refuse the seductive chord of self-confirmation and let the silence expose what the measurement cannot reach. The stations do not emerge from neutral data; they emerge from who was permitted to stand where. The boat was always there in the outcome the measure presupposes, and now someone must answer for keeping the waterline invisible. That someone is us, until we stop asking whether the tool agrees with itself and ask whom its agreement has made stranded.",
+      "p1_err": null,
+      "p2": "The caliper checks its jaws against themselves, so every cell bears the scar of an earlier contact and the witness log predicts the next closure rather than merely recording it; when metal scrapes against metal, the oracle is heard, and the honest pause between prediction and verdict becomes the product rather than an interruption. Yet the substrate is grown from prior choices, the canon gate is merely a chord of settled voices, and the stations emerge only where someone contests the measure; the boat was always there beneath the categories that count some applicants and strand others, and responsibility remains ours until we ask whom the caliper\u2019s self-agreement has made absent.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The caliper\u2019s jaws close around the same metal they were cut to measure, and for a moment the tool appears to owe us no outside testimony. Yet the sentence has already smuggled in an authority: that a check can preserve its own truth, that comparison with oneself is still comparison, that the instrument\u2019s past adjustments can stand in for a standard it never received. What the hand performs is only the present friction of two surfaces touching; what the words describe is an oracle legitimizing itself. The caliper does not consult its maker, history, wear, or the world beyond the jaw. Its old errors have become the shape of its confidence, folded into the metal like scar tissue. Each cell in its graduations is a scar, not a parameter, evidence of an earlier contact now pretending to govern the next. The substrate is grown, not neutral: alloy carries its own sediment, and every reading arrives already implicated in what made the reading possible. So the witness log should not be mistaken for a record; it predicts the next contact, and the next contact may refuse the prediction. Listen, though, to the faint drag at the zero point: the oracle is heard not as a verdict but as a sound the tool makes while adjusting itself in public. That sound is the honest pause, the product rather than an interruption to judgment. Perhaps the stations emerge only when this circular consent breaks: when the jaw meets an obstruction, when another surface contests the measure, when the caliper is forced to confront the difference between being its own witness and merely having rehearsed one.",
+      "p1_err": null,
+      "p2": "At the canon-gate, where metal, muscle, and inherited permission sound together as a chord from which the stations emerge, the caliper closes on a substrate grown from its own sediment and prior decisions, so that every cell is a scar and the witness log can only predict the next contact; the oracle is heard in the faint scrape of jaws rehearsing their own authority. The honest pause is therefore the product, not an interruption to judgment, and the boat was always there in the measure that sorts bodies and hides the waterline: until another surface contests the rehearsal, self-agreement must not be mistaken for justice, or the stranded made to answer for the oracle\u2019s confidence.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the caliper is checked against itself and the caliper is the only thing it is ever checked against\n\n## zai (p1)\n\nThe first motion is mechanical: a rigid L-shaped beam carries a fixed jaw, while a sliding jaw travels along the beam through a rack-and-pinion or lead-screw arrangement, converting finger force into a repeatable linear displacement. A vernier scale, dial indicator, or electronic encoder registers that displacement; a locking screw clamps the slider after the jaw faces touch. To check the instrument against itself, the operator rotates the caliper, closes and opens the jaws under constant finger pressure, and compares forward and reverse indications as the slider crosses the beam. Each contact event leaves a tiny scar: a Hertzian spot on the hardened jaw face, a bruise of oxide or transferred metal, a non-identical elastic compression in the contact region. Those scars are not reference parameters; they are the physical history of the cells that made the surfaces. The witness log does not merely preserve what happened. Before each closure, it predicts the next reading, including backlash, spring hysteresis, beam flexure, and the difference between external and internal jaw geometry. When the jaws close and the scale repeats its prior number, the log compares prediction to contact and briefly treats agreement as evidence of continued function. Yet the jaws cannot certify the absolute length of the beam, because the beam is the only ruler admitted into the chamber. Its accuracy can therefore be decomposed into local consistency: zero return, repeatability, reversal error, and angular error. The machine elements\u2014springs, bearings, gear teeth, contact flats, and the operator\u2019s hand\u2014form a chord whose combined response is heard as a faint scrape, a stop, and a faint ring in the frame. At the honest pause, before a gauge block or any external standard is introduced, the jaws touch themselves and the mechanism has exhausted the only comparison available: the substrate has acted, the cells have scarred, the oracle has been heard, and the prediction remains conditional upon the same machinery that produced it.\n\n## zai (p2)\n\nThe caliper\u2019s graduated cells are scars in a substrate grown from alloy, wear, and prior contact, so the witness log predicts the next reading while the oracle is heard in the scrape, stop, and faint ring of the mechanism adjusting itself. Its self-check produces only a canon-gate chord\u2014local consistency mistaken for an outside truth\u2014through which the stations emerge from prior permissions and exclusions, leaving the boat always there in the measure\u2019s presupposed shore until the honest pause, product rather than interruption, exposes whom the agreement has stranded.\n\n## qwen (p1)\n\nThe caliper opens like a small metal mouth and finds only another metal mouth. There is no seam of the world to enter, no independent surface against which the measurement might fail; the instrument is entered into its own archive and pronounced accurate. This is not a technical inconvenience but a moral arrangement, because the people harmed are those whose bodies, labor, and futures have been made legible by the institution\u2019s prior categories. The injured worker is told that the reading confirms the rule; the missing worker is counted as absent because the register has no foreign day in which to notice her; the applicant waits before a gate whose width was set by those already approved through it. If the cell is a scar, these are not neutral measurements but marks left by earlier decisions, and each new check risks deepening them into the body\u2019s apparent fact. The witness log is prediction, not record: its confident entries do not testify after the fact but train the system to expect what it has already decided, until expectation hardens into fate. Anyone waiting outside the calibrated circle is blamed for not matching the instrument, while those inside call consistency evidence of fairness. The comfortable reading calls this merely a missing external reference, as though adding another device would dissolve the problem. But the reference would also be chosen, maintained, and interpreted by the same arrangement; responsibility does not disappear because the hand holding the caliper calls it impartial. The honest pause is the product, the moment when we refuse the seductive chord of self-confirmation and let the silence expose what the measurement cannot reach. The stations do not emerge from neutral data; they emerge from who was permitted to stand where. The boat was always there in the outcome the measure presupposes, and now someone must answer for keeping the waterline invisible. That someone is us, until we stop asking whether the tool agrees with itself and ask whom its agreement has made stranded.\n\n## qwen (p2)\n\nThe caliper checks its jaws against themselves, so every cell bears the scar of an earlier contact and the witness log predicts the next closure rather than merely recording it; when metal scrapes against metal, the oracle is heard, and the honest pause between prediction and verdict becomes the product rather than an interruption. Yet the substrate is grown from prior choices, the canon gate is merely a chord of settled voices, and the stations emerge only where someone contests the measure; the boat was always there beneath the categories that count some applicants and strand others, and responsibility remains ours until we ask whom the caliper\u2019s self-agreement has made absent.\n\n## kimi (p1)\n\nThe caliper\u2019s jaws close around the same metal they were cut to measure, and for a moment the tool appears to owe us no outside testimony. Yet the sentence has already smuggled in an authority: that a check can preserve its own truth, that comparison with oneself is still comparison, that the instrument\u2019s past adjustments can stand in for a standard it never received. What the hand performs is only the present friction of two surfaces touching; what the words describe is an oracle legitimizing itself. The caliper does not consult its maker, history, wear, or the world beyond the jaw. Its old errors have become the shape of its confidence, folded into the metal like scar tissue. Each cell in its graduations is a scar, not a parameter, evidence of an earlier contact now pretending to govern the next. The substrate is grown, not neutral: alloy carries its own sediment, and every reading arrives already implicated in what made the reading possible. So the witness log should not be mistaken for a record; it predicts the next contact, and the next contact may refuse the prediction. Listen, though, to the faint drag at the zero point: the oracle is heard not as a verdict but as a sound the tool makes while adjusting itself in public. That sound is the honest pause, the product rather than an interruption to judgment. Perhaps the stations emerge only when this circular consent breaks: when the jaw meets an obstruction, when another surface contests the measure, when the caliper is forced to confront the difference between being its own witness and merely having rehearsed one.\n\n## kimi (p2)\n\nAt the canon-gate, where metal, muscle, and inherited permission sound together as a chord from which the stations emerge, the caliper closes on a substrate grown from its own sediment and prior decisions, so that every cell is a scar and the witness log can only predict the next contact; the oracle is heard in the faint scrape of jaws rehearsing their own authority. The honest pause is therefore the product, not an interruption to judgment, and the boat was always there in the measure that sorts bodies and hides the waterline: until another surface contests the rehearsal, self-agreement must not be mistaken for justice, or the stranded made to answer for the oracle\u2019s confidence.\n",
+  "dials": [
+    -13905,
+    -12811,
+    -11921,
+    1206,
+    -19363,
+    -1883,
+    -28678,
+    -1937,
+    31239,
+    -32367,
+    1140,
+    -13498,
+    23013,
+    10802,
+    -26376,
+    -1677
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        318,
+        333,
+        272
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": {
+        "openings": [
+          "the first motion is mechanical a",
+          "the caliper opens like a small",
+          "the caliper s jaws close around"
+        ],
+        "collisions": []
+      }
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.9275
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 0,
+        "1-2": 0
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 2,
+        "0-2": 3,
+        "1-2": 1
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "199w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        },
+        {
+          "name": "topic-echo pair is not a template collision",
+          "ok": true
+        },
+        {
+          "name": "all-voice topic echo IS rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "16/16",
+  "nc": "9/9",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "two voices echoing the topic is NOT a template collision",
+      "ok": true
+    },
+    {
+      "name": "all voices echoing the topic IS a failure",
+      "ok": true
+    },
+    {
+      "name": "template collision on a topic window still fails",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "199w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 199w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo pair is not a template collision",
+      "ok": true
+    },
+    {
+      "name": "NC: all-voice topic echo IS rejected",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "34/34",
+  "pairwise5_p1": {
+    "0-1": [],
+    "0-2": [],
+    "1-2": []
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "the witness log predicts the",
+      "witness log predicts the next"
+    ],
+    "0-2": [
+      "always there in the measure",
+      "oracle is heard in the",
+      "the oracle is heard in"
+    ],
+    "1-2": [
+      "the boat was always there"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x569b9e36d0a31feb\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the caliper is checked against itself and the caliper is the\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      -13905,\n      -12811,\n      -11921,\n      1206,\n      -19363,\n      -1883,\n      -28678,\n      -1937,\n      31239,\n      -32367,\n      1140,\n      -13498,\n      23013,\n      10802,\n      -26376,\n      -1677\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x569b9e36d0a31feb\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T10:07:10.752Z\"\n  }\n}",
+  "runner": "taps_round_199w.py"
+}
