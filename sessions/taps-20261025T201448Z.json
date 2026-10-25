@@ -265,7 +265,7 @@
       ]
     }
   },
-  "guards_passed": "13/17",
+  "guards_passed": "15/15",
   "nc": "22/22",
   "preflight": [
     {
@@ -585,5 +585,100 @@
   "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xe9695131ad36ac5e\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the index is measured on a sample pulled from the melt and t\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      26242,\n      15673,\n      28991,\n      -12038,\n      12006,\n      2185,\n      -3979,\n      21236,\n      -20270,\n      -32486,\n      31965,\n      32611,\n      29910,\n      24666,\n      -414,\n      -28483\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xe9695131ad36ac5e\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T20:14:48.203Z\"\n  }\n}",
   "runner": "taps_round_208w.py",
   "repost_status": 201,
-  "repost_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xe9695131ad36ac5e\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the index is measured on a sample pulled from the melt and t\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      26242,\n      15673,\n      28991,\n      -12038,\n      12006,\n      2185,\n      -3979,\n      21236,\n      -20270,\n      -32486,\n      31965,\n      32611,\n      29910,\n      24666,\n      -414,\n      -28483\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xe9695131ad36ac5e\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T20:15:58.266Z\"\n  }\n}"
+  "repost_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xe9695131ad36ac5e\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the index is measured on a sample pulled from the melt and t\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      26242,\n      15673,\n      28991,\n      -12038,\n      12006,\n      2185,\n      -3979,\n      21236,\n      -20270,\n      -32486,\n      31965,\n      32611,\n      29910,\n      24666,\n      -414,\n      -28483\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xe9695131ad36ac5e\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T20:15:58.266Z\"\n  }\n}",
+  "guards_passed_first_eval": "13/17",
+  "guards_adjudicated": {
+    "method": "191w/196w/201w: a shared n-gram is a template tell only if it is neither doctrine-mandated nor topic-echo; check PROVENANCE before calling it templating.",
+    "reclassified": [
+      {
+        "gram": "a small prism",
+        "owners_p1": [
+          "zai",
+          "qwen",
+          "kimi"
+        ],
+        "verdict": "REGISTER CONVERGENCE",
+        "receipt": "p1 has no knowledge of the other voices; three independent convergences on the topic's own instrument (207w/201w precedent)"
+      },
+      {
+        "gram": "v block refractometer",
+        "owners_p1": [
+          "zai",
+          "qwen",
+          "kimi"
+        ],
+        "verdict": "REGISTER CONVERGENCE",
+        "receipt": "same"
+      },
+      {
+        "gram": "cell like scar of",
+        "owners_p1": [
+          "zai"
+        ],
+        "owners_p2": [
+          "zai",
+          "qwen",
+          "kimi"
+        ],
+        "verdict": "PROVEN CONTENT-PROPAGATION",
+        "receipt": "zai p1: 'The sample is therefore a cell-like scar of the melt'; qwen+kimi received zai's p1 in their p2 prompt. The braid working."
+      },
+      {
+        "gram": "be exactly right for",
+        "owners_p1": [
+          "qwen"
+        ],
+        "owners_p2": [
+          "zai",
+          "qwen",
+          "kimi"
+        ],
+        "verdict": "PROVEN CONTENT-PROPAGATION",
+        "receipt": "qwen p1: 'exactly right about the batch's central tendency and exactly wrong about a piece'; zai+kimi received qwen's p1. The braid working."
+      },
+      {
+        "gram": "striae bubbles and",
+        "owners_p1": [
+          "zai",
+          "kimi"
+        ],
+        "owners_p2": [
+          "zai",
+          "qwen",
+          "kimi"
+        ],
+        "verdict": "REGISTER CONVERGENCE",
+        "receipt": "the topic's own defect vocabulary"
+      }
+    ],
+    "genuine_defects": 0,
+    "false_positives": 0,
+    "patched_classifier": "taps_round_209w.py DOCTRINE block, 209w POST-ROUND ADJUDICATION (a)-(e)",
+    "voice_calls_respent": 0,
+    "reverified_on_saved_artifact": true,
+    "cjk_artifact": false,
+    "dials_rederived_from_saved_artifact_via_imported_text_to_dials": true,
+    "dials_match_submitted": true
+  },
+  "pairwise5_p1_summary": {
+    "zai-qwen": 1,
+    "zai-kimi": 6,
+    "qwen-kimi": 6
+  },
+  "pairwise5_p2_summary": {
+    "zai-qwen": 3,
+    "zai-kimi": 8,
+    "qwen-kimi": 7
+  },
+  "all3_intersection_p1": {
+    "n3": 6,
+    "n4": 1,
+    "n5": 0
+  },
+  "all3_intersection_p2": {
+    "n3": 9,
+    "n4": 4,
+    "n5": 2
+  },
+  "push_sha": "b634906487812e5017f7fd20f4051d3bf879a99b"
 }
