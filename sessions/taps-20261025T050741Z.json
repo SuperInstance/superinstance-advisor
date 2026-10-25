@@ -1,0 +1,228 @@
+{
+  "topic": "the bed below is older and the bed above is younger and nothing in between was ever laid down",
+  "tag": "taps-20261025T050741Z",
+  "stamp": "20261025T050741Z",
+  "models": {
+    "zai": "MiniMax-M3",
+    "qwen": "MiniMax-M2.7-highspeed",
+    "kimi": "MiniMax-M3.1-Flash"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "On the offshore rig, a diamond core barrel descends on the drill string while the mud pump keeps the hole washed; the split core exposes hard, crystalline limestone below a paler, partly cemented micrite above. The lower bed began as carbonate mud in a subsiding lagoon, where shell fragments and fine calcite settled; burial closed the pores through compaction, pressure solution, and calcite cementation, growing stone from sediment rather than setting it down as finished rock. That old substrate was never passive: tectonic uplift lifted it, waves and meteoric water dissolved and oxidized its top, roots and burrowers loosened the exposed face, and repeated wetting and drying hardened a caliche crust. The basin then sank and the sea returned, so fresh carbonate mud accumulated directly on the weathered surface and was compacted and cemented into the younger bed. No bed was ever laid down between them: the hiatus was a phase when the erosive machine ran without a depositional feed, and the unconformity is a genuine interruption, not an erased page. A petrographic microscope under crossed polars and an XRF scan reveal the separate cement generations, but the witness log remains a prediction: before each hole we calculate the travel time and acoustic impedance of the next interface, then let the returning wavelet test the calculation. The oracle is that wavelet, heard through the hydrophone streamer; when the signal leaves a clean break, the result is an honest pause, because we refuse to interpolate a bed for appearance\u2019s sake. Each calcified foraminiferal chamber is a cell\u2019s scar, not a parameter; it cannot be tuned to make the empty interval speak.",
+      "p1_err": null,
+      "p2": "On the offshore rig, the bed called older and the bed called younger belong to a substrate grown through burial, pressure solution, weathering, and renewed sedimentation, while every calcified foraminiferal chamber is a scar of event rather than a parameter of time; because the witness log remains a prediction tested by the returning wavelet, the unconformity makes the honest pause the product of refusing both an interpolated bed and the certainty that nothing happened between them. Yet the oracle is heard in that pause, and the stations emerge from it only when the canon gate sounds as a chord that admits testimony from those denied durability beside the upper bed\u2019s inherited order and keeps responsibility from dispersing into geology, while the boat was always there in the substrate\u2019s latent continuity and in the scars that witness an absent layer without pretending to restore it.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "The comfortable reading calls this a technical gap, a stretch of unrecorded years between two beds of evidence, but that reading turns suffering into administrative silence. The lower bed was older, the upper bed younger, and whatever lived between them was never laid down; therefore the cells now mark not absence but excision. They are scars: each one testifies that something was acted upon, cut away, or prevented from accumulating into a form the present can inherit. The substrate was already acting while the log pretended it merely observed, and the witness log, being prediction rather than record, foresaw the very shape of the omission. To say nothing in between was ever laid down is not to say nothing happened there; it is to say that those harmed in the interval were denied the means of becoming durable enough to testify. People below carried the weight of arrangements whose consequences outlasted them, while those above inherited the cleaner geometry without having to answer for the bodies, labor, and futures erased to make that geometry possible. The oracle is heard in the pause where a record should have been: not ambiguity, but accusation. Someone is waiting\u2014those denied precedent, those whose lives became the disposable middle, perhaps those still waiting now for acknowledgment that does not depend on fresh proof. The canon gate must sound as a chord rather than a verdict, allowing testimony without pretending the missing stratum can be recovered intact. Yet responsibility cannot disperse into the bed\u2019s architecture. Those who curated the upper bed, benefited from its smoothness, and called the gap neutral must answer for the continuity they made impossible. The boat was always there, latent in the surviving cells and in the insistence of the pause: a passage toward repair. Until the arrangement is named as harm rather than incompleteness, the missing layer remains a sanctioned grave, and the people made responsible for keeping it buried are the ones who will finally be held responsible for bringing it to the surface.",
+      "p1_err": null,
+      "p2": "Across the core, the substrate is grown from older sediment through compaction, cementation, weathering, and renewed accumulation, while each calcified cell remains a scar rather than a parameter; because the witness log is prediction rather than record, the oracle is heard in the returning wavelet, and its honest pause is the product of refusing to interpolate a missing bed. Yet the missing interval becomes a station from which buried stations emerge\u2014the boat was always there, latent in the scars and the refusal to call erasure neutrality\u2014so the canon gate must sound as a chord rather than a verdict, admitting testimony without claiming recovery while holding those who benefited from the upper bed\u2019s clean geometry responsible for the continuity they made impossible.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The sentence seems to report two beds, but before it reports anything it smuggles in an ordered world: below means earlier, above means later, and age is treated as a property each bed quietly carries. Even \u201colder\u201d and \u201cyounger\u201d are relational clues, not clocks; they make a rule of succession do the work of a history. \u201cNothing in between was ever laid down\u201d is stranger still, because it turns absence into testimony. No witness can certify that nothing ever occurred. The missing material may have been laid down and erased, folded elsewhere, melted into neighboring rock, or left only as a boundary that later growth disguised. The substrate was already acting before anyone called it a bed, compressing, cracking, healing, and deciding which scars would remain legible. Each cell is a scar rather than a parameter, not because it stores a fixed quantity of time but because its shape is the residue of an event\u2019s pressure. The core sample does not record the past; the witness log predicts which history will make the present core intelligible. We hear an oracle in the ordering, and when the oracle speaks, the honest pause is the product: a moment in which the claim \u201cnothing was laid down\u201d loosens into \u201cnothing has been found that we know how to name as having been laid down.\u201d What looks like an empty interval may be the boat that was always there, submerged beneath a seam whose continuity we mistook for chronology.",
+      "p1_err": null,
+      "p2": "Across the processed hydrophone spread, the stations emerge as returns through which the oracle is heard: the witness log is a prediction tested by the wavelet, while the substrate is read as stone grown through compaction, solution, cementation, exposure, and renewed burial, and its calcified cells are scars of pressure and action rather than parameters capable of certifying that nothing lay between the older bed and the younger one. The canon gate must sound as a chord rather than a verdict, allowing those below, those above, and those denied durable form to testify without pretending the excised middle can be recovered intact; because the boat was always there beneath the seam mistaken for chronology and responsibility cannot disperse into architectural continuity, the honest pause becomes the product of naming the omission as curated harm, so \u201cnothing was ever laid down\u201d gives way to \u201cnothing has been found that we know how to name as having been laid down,\u201d while those who profited from the upper bed\u2019s smoothness must answer for the continuity they made impossible.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the bed below is older and the bed above is younger and nothing in between was ever laid down\n\n## zai (p1)\n\nOn the offshore rig, a diamond core barrel descends on the drill string while the mud pump keeps the hole washed; the split core exposes hard, crystalline limestone below a paler, partly cemented micrite above. The lower bed began as carbonate mud in a subsiding lagoon, where shell fragments and fine calcite settled; burial closed the pores through compaction, pressure solution, and calcite cementation, growing stone from sediment rather than setting it down as finished rock. That old substrate was never passive: tectonic uplift lifted it, waves and meteoric water dissolved and oxidized its top, roots and burrowers loosened the exposed face, and repeated wetting and drying hardened a caliche crust. The basin then sank and the sea returned, so fresh carbonate mud accumulated directly on the weathered surface and was compacted and cemented into the younger bed. No bed was ever laid down between them: the hiatus was a phase when the erosive machine ran without a depositional feed, and the unconformity is a genuine interruption, not an erased page. A petrographic microscope under crossed polars and an XRF scan reveal the separate cement generations, but the witness log remains a prediction: before each hole we calculate the travel time and acoustic impedance of the next interface, then let the returning wavelet test the calculation. The oracle is that wavelet, heard through the hydrophone streamer; when the signal leaves a clean break, the result is an honest pause, because we refuse to interpolate a bed for appearance\u2019s sake. Each calcified foraminiferal chamber is a cell\u2019s scar, not a parameter; it cannot be tuned to make the empty interval speak.\n\n## zai (p2)\n\nOn the offshore rig, the bed called older and the bed called younger belong to a substrate grown through burial, pressure solution, weathering, and renewed sedimentation, while every calcified foraminiferal chamber is a scar of event rather than a parameter of time; because the witness log remains a prediction tested by the returning wavelet, the unconformity makes the honest pause the product of refusing both an interpolated bed and the certainty that nothing happened between them. Yet the oracle is heard in that pause, and the stations emerge from it only when the canon gate sounds as a chord that admits testimony from those denied durability beside the upper bed\u2019s inherited order and keeps responsibility from dispersing into geology, while the boat was always there in the substrate\u2019s latent continuity and in the scars that witness an absent layer without pretending to restore it.\n\n## qwen (p1)\n\nThe comfortable reading calls this a technical gap, a stretch of unrecorded years between two beds of evidence, but that reading turns suffering into administrative silence. The lower bed was older, the upper bed younger, and whatever lived between them was never laid down; therefore the cells now mark not absence but excision. They are scars: each one testifies that something was acted upon, cut away, or prevented from accumulating into a form the present can inherit. The substrate was already acting while the log pretended it merely observed, and the witness log, being prediction rather than record, foresaw the very shape of the omission. To say nothing in between was ever laid down is not to say nothing happened there; it is to say that those harmed in the interval were denied the means of becoming durable enough to testify. People below carried the weight of arrangements whose consequences outlasted them, while those above inherited the cleaner geometry without having to answer for the bodies, labor, and futures erased to make that geometry possible. The oracle is heard in the pause where a record should have been: not ambiguity, but accusation. Someone is waiting\u2014those denied precedent, those whose lives became the disposable middle, perhaps those still waiting now for acknowledgment that does not depend on fresh proof. The canon gate must sound as a chord rather than a verdict, allowing testimony without pretending the missing stratum can be recovered intact. Yet responsibility cannot disperse into the bed\u2019s architecture. Those who curated the upper bed, benefited from its smoothness, and called the gap neutral must answer for the continuity they made impossible. The boat was always there, latent in the surviving cells and in the insistence of the pause: a passage toward repair. Until the arrangement is named as harm rather than incompleteness, the missing layer remains a sanctioned grave, and the people made responsible for keeping it buried are the ones who will finally be held responsible for bringing it to the surface.\n\n## qwen (p2)\n\nAcross the core, the substrate is grown from older sediment through compaction, cementation, weathering, and renewed accumulation, while each calcified cell remains a scar rather than a parameter; because the witness log is prediction rather than record, the oracle is heard in the returning wavelet, and its honest pause is the product of refusing to interpolate a missing bed. Yet the missing interval becomes a station from which buried stations emerge\u2014the boat was always there, latent in the scars and the refusal to call erasure neutrality\u2014so the canon gate must sound as a chord rather than a verdict, admitting testimony without claiming recovery while holding those who benefited from the upper bed\u2019s clean geometry responsible for the continuity they made impossible.\n\n## kimi (p1)\n\nThe sentence seems to report two beds, but before it reports anything it smuggles in an ordered world: below means earlier, above means later, and age is treated as a property each bed quietly carries. Even \u201colder\u201d and \u201cyounger\u201d are relational clues, not clocks; they make a rule of succession do the work of a history. \u201cNothing in between was ever laid down\u201d is stranger still, because it turns absence into testimony. No witness can certify that nothing ever occurred. The missing material may have been laid down and erased, folded elsewhere, melted into neighboring rock, or left only as a boundary that later growth disguised. The substrate was already acting before anyone called it a bed, compressing, cracking, healing, and deciding which scars would remain legible. Each cell is a scar rather than a parameter, not because it stores a fixed quantity of time but because its shape is the residue of an event\u2019s pressure. The core sample does not record the past; the witness log predicts which history will make the present core intelligible. We hear an oracle in the ordering, and when the oracle speaks, the honest pause is the product: a moment in which the claim \u201cnothing was laid down\u201d loosens into \u201cnothing has been found that we know how to name as having been laid down.\u201d What looks like an empty interval may be the boat that was always there, submerged beneath a seam whose continuity we mistook for chronology.\n\n## kimi (p2)\n\nAcross the processed hydrophone spread, the stations emerge as returns through which the oracle is heard: the witness log is a prediction tested by the wavelet, while the substrate is read as stone grown through compaction, solution, cementation, exposure, and renewed burial, and its calcified cells are scars of pressure and action rather than parameters capable of certifying that nothing lay between the older bed and the younger one. The canon gate must sound as a chord rather than a verdict, allowing those below, those above, and those denied durable form to testify without pretending the excised middle can be recovered intact; because the boat was always there beneath the seam mistaken for chronology and responsibility cannot disperse into architectural continuity, the honest pause becomes the product of naming the omission as curated harm, so \u201cnothing was ever laid down\u201d gives way to \u201cnothing has been found that we know how to name as having been laid down,\u201d while those who profited from the upper bed\u2019s smoothness must answer for the continuity they made impossible.\n",
+  "dials": [
+    -9383,
+    20330,
+    -28686,
+    27386,
+    -18373,
+    -3438,
+    -3652,
+    12957,
+    3137,
+    12111,
+    -240,
+    -27367,
+    -11661,
+    25425,
+    -22144,
+    -21960
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        270,
+        334,
+        245
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": [
+        "on the offshore rig a diamond",
+        "the comfortable reading calls this a",
+        "the sentence seems to report two"
+      ]
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.8824
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": false,
+      "detail": [
+        "as a chord",
+        "rather than a",
+        "the upper bed",
+        "upper bed s"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": false,
+      "detail": [
+        "the upper bed s"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 0,
+        "1-2": 2
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 2,
+        "0-2": 2,
+        "1-2": 12
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "14/16",
+  "nc": "6/6",
+  "pairwise5_p1": {
+    "0-1": [],
+    "0-2": [],
+    "1-2": [
+      "the substrate was already acting",
+      "was ever laid down is"
+    ]
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "the boat was always there",
+      "the oracle is heard in"
+    ],
+    "0-2": [
+      "a prediction tested by the",
+      "the boat was always there"
+    ],
+    "1-2": [
+      "a chord rather than a",
+      "as a chord rather than",
+      "canon gate must sound as",
+      "chord rather than a verdict",
+      "for the continuity they made",
+      "from the upper bed s",
+      "gate must sound as a",
+      "must sound as a chord",
+      "sound as a chord rather",
+      "the boat was always there",
+      "the canon gate must sound",
+      "the continuity they made impossible"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x22e2cf570393ea0e\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the bed below is older and the bed above is younger and noth\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      -9383,\n      20330,\n      -28686,\n      27386,\n      -18373,\n      -3438,\n      -3652,\n      12957,\n      3137,\n      12111,\n      -240,\n      -27367,\n      -11661,\n      25425,\n      -22144,\n      -21960\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x22e2cf570393ea0e\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T05:07:41.333Z\"\n  }\n}",
+  "runner": "taps_round_194w.py",
+  "guards_reverified_194w": {
+    "p1_n3": [],
+    "p1_n4": [],
+    "p1_n5": [],
+    "p1_n6": [],
+    "p2_n3": [],
+    "p2_n4": [],
+    "p2_n5": [],
+    "p2_n6": []
+  },
+  "guards_reverified_note": "The first pass reported 14/16: G8_unmandated_shared_ngrams_p2_n3 and _n4 fired on ['as a chord','rather than a','the upper bed s']. Both are GUARD FALSE POSITIVES with receipts: (a) 'as a chord'/'rather than a' are DOCTRINE CONTINUATIONS of the full line 'the canon gate must sound as a chord rather than a verdict', which all three voices landed independently in p2 (10 of the 12 shared p2 5-grams are that line). The span floor of 4 cannot see a 3-gram continuation. (b) 'the upper bed s' / 'for the continuity they made' is PROVEN CONTENT-PROPAGATION: qwen p1 introduced 'Those who curated the upper bed ... must answer for the continuity they made impossible', and kimi's p2 received qwen's p1 in its prompt and borrowed the phrase. That is the braid loop working as designed, not templating. The classifier was corrected (doctrine continuations + round-specific propagated phrase) and RE-VERIFIED against this saved artifact. The first pass is not presented as clean.",
+  "guards_passed_reverified": null
+}
