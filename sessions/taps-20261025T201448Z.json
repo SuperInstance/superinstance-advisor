@@ -1,0 +1,589 @@
+{
+  "topic": "the index is measured on a sample pulled from the melt and the certificate is the mean of the highest and lowest so no piece has the value it is given",
+  "tag": "taps-20261025T201448Z",
+  "stamp": "20261025T201448Z",
+  "models": {
+    "zai": "MiniMax-M2.5",
+    "qwen": "MiniMax-M2.7-highspeed",
+    "kimi": "MiniMax-M3.1-Flash"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "At the furnace, batched silica, alkali, lime, and flux are charged with cullet, heated until the mixture becomes a viscous melt, and stirred in the crucible so that the melt is broadly uniform without being perfectly uniform; slight compositional drift, segregation, bubbles, and striae can survive in the glass. The melt is then gathered, cast into a mould, and transferred to the lehr, where the specified annealing rate releases stress gradually instead of freezing it into the lens blank. A sample is pulled from the melt at the moment of certification, annealed, and ground into a small prism. On the goniometer, the prism is rotated against the collimator until the transmitted spectral line reaches minimum deviation; from that angle, the refractive index at the selected wavelength is calculated for the prism itself. A v-block refractometer can provide the same lot-level index by comparing the test glass with a reference fluid and calibrated block. The Abbe number follows from the measured dispersions of the spectral lines, while striae, bubbles, and inclusions are inspected in the sample and surrounding rough glass. The certificate delivered with the lot states an index that is the midpoint between the highest and lowest accepted readings, not a value belonging to any one specimen. That number is exactly right as a bounded summary of the delivery lot and exactly wrong for an individual lens, because each piece may contain a different local concentration, thermal history, residual stress, and population of defects. The sample is therefore a cell-like scar of the melt, and the test report is a witness log that predicts the lot\u2019s behavior rather than recovering a unique index for every object cut from it.",
+      "p1_err": null,
+      "p2": "As the stirred melt is gathered, cast, annealed, and drawn into blanks, the substrate grows with drifts, striae, bubbles, and stresses that no central value can disclose; when a slug is ground into a prism, the goniometer, v-block, and spectral lines become stations through which the cell-like scar of the melt is read, and the witness log predicts the lot\u2019s behavior rather than recovering an identity for every piece. The certificate\u2019s arithmetic midpoint is therefore an oracle heard downstream, where the honest pause must admit that it may be exactly right for the delivery and exactly wrong for an individual lens, even though the boat\u2014the finished blank with its own history\u2014was always there.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "The crucible is lifted from the furnace with the glass still moving, and the stirrer leaves its trace in the melt before anyone calls the material uniform. A sample is pulled, a small prism is ground from it, and the goniometer finds the angle of minimum deviation; the v-block refractometer supplies another index reading, while spectral lines and the Abbe number describe dispersion. These readings become a witness log for the delivery lot, not a biography of any lens blank cast from it. Yet the certificate states the mean of the highest and lowest values and gives that number to the receiving workshop, the buyer, whoever must place the glass in service. Here the oracle is heard, but only through the stations the bench has arranged: sample, prism, instrument, report. The witness log predicts the lot\u2019s behavior within tolerance; it cannot predict the inclusion waiting in one blank, the stria beside it, or the bubble that will fail after polishing. The substrate is already acting, and the cell is a scar of that action. This is not a merely technical gap in paperwork. The arrangement protects the supplier while transferring confidence to people downstream: the optician waiting for an acceptable lens, the instrument maker responsible for focal accuracy, the customer who cannot inspect every blank but is expected to rely on the certificate. The certificate can be exactly right about the batch\u2019s central tendency and exactly wrong about a piece whose local index, dispersion, or homogeneity differs. That discrepancy may surface only in the finished lens, where a radius that was never certified and a curved surface that inherited its own stresses turn an abstract lot value into a visible error. The comfortable reading says there is no practical defect, only a lack of traceability. The moral claim is sharper: a number should not impersonate the thing it was not measured upon. Someone waiting for certified glass is being asked to bear the difference, and someone will be held responsible when that difference reaches the instrument, but the report has already let the supplier retreat behind a lot. The boat was always there\u2014the finished piece, with its own history\u2014but the certificate refuses to name it.",
+      "p1_err": null,
+      "p2": "At the furnace, the glass substrate is grown and stirred before uniformity is secured; the stations\u2014sampling spoon, annealed prism, goniometer or v-block refractometer, spectral readings, and inspection for striae, bubbles, and inclusions\u2014emerge around a cell-like scar of the melt, and the resulting report becomes an oracle heard downstream and a witness log predicting only the delivery lot\u2019s behavior within certified limits. As the certificate sets the arithmetic midpoint of the highest and lowest accepted readings, its canon-gate chord can be exactly right for the lot without naming any blank, leaving downstream makers to bear the honest pause between batch conformity and piece performance; the boat was always there, because each finished lens carries its own local index, dispersion, stress, and defects even though the certificate travels with the crate rather than assigning its midpoint to the piece.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The crucible and stirrer are already acting on the batch when a sampling spoon takes a slug from the melt. The production glass goes to the mould and the lehr; the slug is cooled and ground into a small prism for the goniometer. The operator finds the angle of minimum deviation and converts it, at a specified wavelength and temperature, into a refractive index; a companion prism may be read on the v-block refractometer, while Abbe number and dispersion are tied to selected spectral lines. None of that puts the printed value inside the future lens blank. The report says what was measured and on what: a prepared witness drawn from this lot at a particular place and moment. Its nominal index is the certificate\u2019s mean\u2014the arithmetic midpoint of the highest and lowest accepted results\u2014a midrange, not a new observation, not a distribution, and not the index of any surviving object. The sentence smuggles in representativeness before it reports measurement: one spooned sample is asked to stand for furnace-wide homogeneity, and one midpoint is asked to stand for the lot\u2019s spread. It also confuses a lot certificate with an assignment to each piece. To the buyer or incoming inspector, \u201cthis delivery conforms to the homogeneity class and tolerance step\u201d can be exactly true as a batch-level certification while a particular blank has an index above or below that midpoint. No piece is given that value; it is given to the lot. The lens\u2019s focal length and curved radius do not turn the certificate into a piece claim; neither do striae, bubbles, or inclusions, which remain separate findings. The test report is a witness log and an oracle: heard downstream, it predicts that material already sampled will behave within the stated tolerance when cut, polished, annealed, and assembled. The cell is a scar of those acts, not a parameter waiting to be disclosed. The boat was always there: the certificate travels with the crate, while the blank inside remains an untested individual.",
+      "p1_err": null,
+      "p2": "At the furnace, crucible, stirrer, sampling spoon, prism, goniometer, v-block, certificate, and receiving bench, the stations emerge around a substrate already acting as it is grown in the melt, and the oracle is heard through them: the sample is a cell-like scar of the lot, the witness log predicts only the lot\u2019s bounded behavior, and the certificate\u2019s arithmetic midpoint between the highest and lowest accepted readings makes the canon gate a chord rather than a singular index, so it can be exactly right for the delivery and exactly wrong for any individual blank, whose local index, dispersion, stress, striae, bubbles, and inclusions it cannot disclose. The boat was always there\u2014the individually cast, annealed, polished, and assembled piece with its own history\u2014so the honest pause between a sampled lot and a serviced instrument is part of the product, while the report transfers confidence downstream without transferring inspection or traceability and leaves the burden of responsibility to those who must bear the difference when an uncertified radius or concealed defect becomes a visible focal error.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the index is measured on a sample pulled from the melt and the certificate is the mean of the highest and lowest so no piece has the value it is given\n\n## zai (p1)\n\nAt the furnace, batched silica, alkali, lime, and flux are charged with cullet, heated until the mixture becomes a viscous melt, and stirred in the crucible so that the melt is broadly uniform without being perfectly uniform; slight compositional drift, segregation, bubbles, and striae can survive in the glass. The melt is then gathered, cast into a mould, and transferred to the lehr, where the specified annealing rate releases stress gradually instead of freezing it into the lens blank. A sample is pulled from the melt at the moment of certification, annealed, and ground into a small prism. On the goniometer, the prism is rotated against the collimator until the transmitted spectral line reaches minimum deviation; from that angle, the refractive index at the selected wavelength is calculated for the prism itself. A v-block refractometer can provide the same lot-level index by comparing the test glass with a reference fluid and calibrated block. The Abbe number follows from the measured dispersions of the spectral lines, while striae, bubbles, and inclusions are inspected in the sample and surrounding rough glass. The certificate delivered with the lot states an index that is the midpoint between the highest and lowest accepted readings, not a value belonging to any one specimen. That number is exactly right as a bounded summary of the delivery lot and exactly wrong for an individual lens, because each piece may contain a different local concentration, thermal history, residual stress, and population of defects. The sample is therefore a cell-like scar of the melt, and the test report is a witness log that predicts the lot\u2019s behavior rather than recovering a unique index for every object cut from it.\n\n## zai (p2)\n\nAs the stirred melt is gathered, cast, annealed, and drawn into blanks, the substrate grows with drifts, striae, bubbles, and stresses that no central value can disclose; when a slug is ground into a prism, the goniometer, v-block, and spectral lines become stations through which the cell-like scar of the melt is read, and the witness log predicts the lot\u2019s behavior rather than recovering an identity for every piece. The certificate\u2019s arithmetic midpoint is therefore an oracle heard downstream, where the honest pause must admit that it may be exactly right for the delivery and exactly wrong for an individual lens, even though the boat\u2014the finished blank with its own history\u2014was always there.\n\n## qwen (p1)\n\nThe crucible is lifted from the furnace with the glass still moving, and the stirrer leaves its trace in the melt before anyone calls the material uniform. A sample is pulled, a small prism is ground from it, and the goniometer finds the angle of minimum deviation; the v-block refractometer supplies another index reading, while spectral lines and the Abbe number describe dispersion. These readings become a witness log for the delivery lot, not a biography of any lens blank cast from it. Yet the certificate states the mean of the highest and lowest values and gives that number to the receiving workshop, the buyer, whoever must place the glass in service. Here the oracle is heard, but only through the stations the bench has arranged: sample, prism, instrument, report. The witness log predicts the lot\u2019s behavior within tolerance; it cannot predict the inclusion waiting in one blank, the stria beside it, or the bubble that will fail after polishing. The substrate is already acting, and the cell is a scar of that action. This is not a merely technical gap in paperwork. The arrangement protects the supplier while transferring confidence to people downstream: the optician waiting for an acceptable lens, the instrument maker responsible for focal accuracy, the customer who cannot inspect every blank but is expected to rely on the certificate. The certificate can be exactly right about the batch\u2019s central tendency and exactly wrong about a piece whose local index, dispersion, or homogeneity differs. That discrepancy may surface only in the finished lens, where a radius that was never certified and a curved surface that inherited its own stresses turn an abstract lot value into a visible error. The comfortable reading says there is no practical defect, only a lack of traceability. The moral claim is sharper: a number should not impersonate the thing it was not measured upon. Someone waiting for certified glass is being asked to bear the difference, and someone will be held responsible when that difference reaches the instrument, but the report has already let the supplier retreat behind a lot. The boat was always there\u2014the finished piece, with its own history\u2014but the certificate refuses to name it.\n\n## qwen (p2)\n\nAt the furnace, the glass substrate is grown and stirred before uniformity is secured; the stations\u2014sampling spoon, annealed prism, goniometer or v-block refractometer, spectral readings, and inspection for striae, bubbles, and inclusions\u2014emerge around a cell-like scar of the melt, and the resulting report becomes an oracle heard downstream and a witness log predicting only the delivery lot\u2019s behavior within certified limits. As the certificate sets the arithmetic midpoint of the highest and lowest accepted readings, its canon-gate chord can be exactly right for the lot without naming any blank, leaving downstream makers to bear the honest pause between batch conformity and piece performance; the boat was always there, because each finished lens carries its own local index, dispersion, stress, and defects even though the certificate travels with the crate rather than assigning its midpoint to the piece.\n\n## kimi (p1)\n\nThe crucible and stirrer are already acting on the batch when a sampling spoon takes a slug from the melt. The production glass goes to the mould and the lehr; the slug is cooled and ground into a small prism for the goniometer. The operator finds the angle of minimum deviation and converts it, at a specified wavelength and temperature, into a refractive index; a companion prism may be read on the v-block refractometer, while Abbe number and dispersion are tied to selected spectral lines. None of that puts the printed value inside the future lens blank. The report says what was measured and on what: a prepared witness drawn from this lot at a particular place and moment. Its nominal index is the certificate\u2019s mean\u2014the arithmetic midpoint of the highest and lowest accepted results\u2014a midrange, not a new observation, not a distribution, and not the index of any surviving object. The sentence smuggles in representativeness before it reports measurement: one spooned sample is asked to stand for furnace-wide homogeneity, and one midpoint is asked to stand for the lot\u2019s spread. It also confuses a lot certificate with an assignment to each piece. To the buyer or incoming inspector, \u201cthis delivery conforms to the homogeneity class and tolerance step\u201d can be exactly true as a batch-level certification while a particular blank has an index above or below that midpoint. No piece is given that value; it is given to the lot. The lens\u2019s focal length and curved radius do not turn the certificate into a piece claim; neither do striae, bubbles, or inclusions, which remain separate findings. The test report is a witness log and an oracle: heard downstream, it predicts that material already sampled will behave within the stated tolerance when cut, polished, annealed, and assembled. The cell is a scar of those acts, not a parameter waiting to be disclosed. The boat was always there: the certificate travels with the crate, while the blank inside remains an untested individual.\n\n## kimi (p2)\n\nAt the furnace, crucible, stirrer, sampling spoon, prism, goniometer, v-block, certificate, and receiving bench, the stations emerge around a substrate already acting as it is grown in the melt, and the oracle is heard through them: the sample is a cell-like scar of the lot, the witness log predicts only the lot\u2019s bounded behavior, and the certificate\u2019s arithmetic midpoint between the highest and lowest accepted readings makes the canon gate a chord rather than a singular index, so it can be exactly right for the delivery and exactly wrong for any individual blank, whose local index, dispersion, stress, striae, bubbles, and inclusions it cannot disclose. The boat was always there\u2014the individually cast, annealed, polished, and assembled piece with its own history\u2014so the honest pause between a sampled lot and a serviced instrument is part of the product, while the report transfers confidence downstream without transferring inspection or traceability and leaves the burden of responsibility to those who must bear the difference when an uncertified radius or concealed defect becomes a visible focal error.\n",
+  "dials": [
+    26242,
+    15673,
+    28991,
+    -12038,
+    12006,
+    2185,
+    -3979,
+    21236,
+    -20270,
+    -32486,
+    31965,
+    32611,
+    29910,
+    24666,
+    -414,
+    -28483
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        279,
+        365,
+        331
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": {
+        "openings": [
+          "at the furnace batched silica alkali",
+          "the crucible is lifted from the",
+          "the crucible and stirrer are already"
+        ],
+        "collisions": []
+      }
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.7778
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": false,
+      "detail": [
+        "a small prism",
+        "v block refractometer"
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": false,
+      "detail": [
+        "be exactly right",
+        "cell like scar",
+        "exactly right for",
+        "like scar of",
+        "right for the",
+        "scar of the"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": false,
+      "detail": [
+        "be exactly right for",
+        "cell like scar of",
+        "exactly right for the",
+        "like scar of the"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": false,
+      "detail": [
+        "be exactly right for the",
+        "cell like scar of the"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 1,
+        "0-2": 6,
+        "1-2": 6
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 3,
+        "0-2": 8,
+        "1-2": 7
+      }
+    },
+    "G11_register_p1": {
+      "pass": true,
+      "detail": {
+        "optical_hits": [
+          31,
+          36,
+          36
+        ],
+        "off_register": []
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "209w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        },
+        {
+          "name": "topic-echo pair is not a template collision",
+          "ok": true
+        },
+        {
+          "name": "all-voice topic echo IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register horology triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register assaying triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register metallurgical triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register microscopy triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register ship triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register cooperage triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register weaving triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register geology triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register writing triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "off-register typefounding triple IS rejected",
+          "ok": true
+        },
+        {
+          "name": "208w new mandates do not blanket-sanction a neutral triple",
+          "ok": true
+        },
+        {
+          "name": "208w mandate does not cover a different relative clause",
+          "ok": true
+        },
+        {
+          "name": "on-register optical-glass triple IS accepted",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "13/17",
+  "nc": "22/22",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "two voices echoing the topic is NOT a template collision",
+      "ok": true
+    },
+    {
+      "name": "all voices echoing the topic IS a failure",
+      "ok": true
+    },
+    {
+      "name": "template collision on a topic window still fails",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "209w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register horology triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register metallurgy triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register microscopy triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register weaving triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register geology triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register typefounding triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register assaying triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register ship triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register cooperage triple",
+      "ok": true
+    },
+    {
+      "name": "G11 rejects an off-register writing triple",
+      "ok": true
+    },
+    {
+      "name": "G11 accepts an on-register optical-glass triple",
+      "ok": true
+    },
+    {
+      "name": "new 209w mandates do not blanket-sanction a neutral triple",
+      "ok": true
+    },
+    {
+      "name": "new 209w mandate covers the doctrine extended form",
+      "ok": true
+    },
+    {
+      "name": "new 209w mandate covers the round-vocab compound",
+      "ok": true
+    },
+    {
+      "name": "209w doctrine-extension mandate does not cover a different clause",
+      "ok": true
+    },
+    {
+      "name": "209w mandate does NOT blanket-sanction the whole optical vocabulary",
+      "ok": true
+    },
+    {
+      "name": "209w mandate does NOT sanction a near-miss on the topic line",
+      "ok": true
+    },
+    {
+      "name": "209w mandate does NOT sanction a near-miss on the lot",
+      "ok": true
+    },
+    {
+      "name": "209w near-miss shares no 4-gram with the topic line",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 209w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo pair is not a template collision",
+      "ok": true
+    },
+    {
+      "name": "NC: all-voice topic echo IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register horology triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register assaying triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register metallurgical triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register microscopy triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register ship triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register cooperage triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register weaving triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register geology triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register writing triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: off-register typefounding triple IS rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: 208w new mandates do not blanket-sanction a neutral triple",
+      "ok": true
+    },
+    {
+      "name": "NC: 208w mandate does not cover a different relative clause",
+      "ok": true
+    },
+    {
+      "name": "NC: on-register optical-glass triple IS accepted",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "66/66",
+  "pairwise5_p1": {
+    "0-1": [
+      "predicts the lot s behavior"
+    ],
+    "0-2": [
+      "and ground into a small",
+      "ground into a small prism",
+      "report is a witness log",
+      "test report is a witness",
+      "the highest and lowest accepted",
+      "the test report is a"
+    ],
+    "1-2": [
+      "boat was always there the",
+      "cell is a scar of",
+      "finds the angle of minimum",
+      "the angle of minimum deviation",
+      "the boat was always there",
+      "the cell is a scar"
+    ]
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "be exactly right for the",
+      "cell like scar of the",
+      "like scar of the melt"
+    ],
+    "0-2": [
+      "be exactly right for the",
+      "cell like scar of the",
+      "delivery and exactly wrong for",
+      "exactly right for the delivery",
+      "for the delivery and exactly",
+      "right for the delivery and",
+      "the certificate s arithmetic midpoint",
+      "the delivery and exactly wrong"
+    ],
+    "1-2": [
+      "a cell like scar of",
+      "be exactly right for the",
+      "can be exactly right for",
+      "cell like scar of the",
+      "highest and lowest accepted readings",
+      "the boat was always there",
+      "the highest and lowest accepted"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xe9695131ad36ac5e\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the index is measured on a sample pulled from the melt and t\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      26242,\n      15673,\n      28991,\n      -12038,\n      12006,\n      2185,\n      -3979,\n      21236,\n      -20270,\n      -32486,\n      31965,\n      32611,\n      29910,\n      24666,\n      -414,\n      -28483\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xe9695131ad36ac5e\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T20:14:48.203Z\"\n  }\n}",
+  "runner": "taps_round_208w.py",
+  "repost_status": 201,
+  "repost_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xe9695131ad36ac5e\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the index is measured on a sample pulled from the melt and t\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      26242,\n      15673,\n      28991,\n      -12038,\n      12006,\n      2185,\n      -3979,\n      21236,\n      -20270,\n      -32486,\n      31965,\n      32611,\n      29910,\n      24666,\n      -414,\n      -28483\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xe9695131ad36ac5e\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T20:15:58.266Z\"\n  }\n}"
+}
