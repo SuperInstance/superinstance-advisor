@@ -1,0 +1,204 @@
+{
+  "topic": "the coupon is cut to be broken and the break is the only witness the coupon can give",
+  "tag": "taps-20261025T030716Z",
+  "stamp": "20261025T030716Z",
+  "models": {
+    "zai": "MiniMax-M2.5",
+    "qwen": "MiniMax-M3",
+    "kimi": "MiniMax-M2.7-highspeed"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The coupon begins as a thin, stressed laminate deposited onto a substrate and cured until the substrate is grown rigid beneath it, its interface carrying the faint scar of that growth as a cell carries the scar of its former state. A scribe wheel scores the coating, a laser then removes the kerf, and a diamond scribing tip presses a controlled flaw into the coupon\u2019s edge; the remaining coupon is still a continuous body, merely predivided. It is mounted in a servo-electric load frame between upper and lower grips, with a piezoelectric acoustic-emission sensor on each shoulder, a thermocouple bonded to the rear face, a LASE or DIC camera observing the surface, and a displacement transducer tracking the crosshead. The controller raises the frame\u2019s lower platen while the upper grip holds the coupon, converting stored tensile energy into measurable strain until the crack initiates at the scribe. As the kerf opens, the crack tip blunts, branches, and rubs against inclusions; piezoelectric transducers convert those stress-wave impulses into electrical pulses, so the oracle is not spoken but heard, a chord of microscopic friction and fracture passing through the sensor\u2019s piezo crystal into the amplifier and then the witness log. That log cannot preserve the event; it predicts the event\u2019s likely trajectory by classifying pulse timing against prior calibration, while the honest pause between one emitted pulse and the next remains the product, the unrepeatable instant in which the coupon breaks and gives the break its only witness.",
+      "p1_err": null,
+      "p2": "The coupon is a thin, stressed laminate laid onto a substrate grown rigid beneath it, so the interface bears the faint scar of growth as a cell bears the scar of its former state; though its scribe and kerf seem to divide it in advance, the boat was always there, and when the servo frame draws stored tension into the cut crack, the oracle is heard not spoken, as piezoelectric shoulders gather friction and fracture into a chord that makes the canon gate audible. That chord cannot preserve what happened: the witness log is prediction, calibrated to anticipate a likely trajectory rather than certify a completed breach, while the honest pause between pulses is the product, the unrepeatable instant in which severance becomes testimony; the stations emerge around that interruption because attention gathers where the material refuses concealment, and if the coupon was deliberately weakened to make violation visible, the breaker cannot be made the original wrong while the institution that issued and relied on the cut owes the waiting a hearing.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "A coupon that cannot be broken cannot testify; it can only promise, and promises leave no scar. So the cut is not a technical imperfection but an ethical demand: the break must become visible because compliance would conceal the arrangement\u2019s truth. The witness log is prediction, not record; each clean entry predicts that the rule was followed, while the fracture marks where following it became impossible. Here the oracle is heard in the break itself. Each fracture is a cell, a scar in a substrate that has already grown around the damage, and the honest pause is what remains when no authorized account can honestly be given. Those harmed are not only the person forced to break the coupon and then risk being branded the culprit; they are the people denied the remedy the coupon promised and those waiting at the stations for proof that the system failed them. Calling this merely a technical gap\u2014bad versioning, missing telemetry, an inconvenient human error\u2014launders coercion into malfunction. If the break is the only witness the coupon can give, then the institution that cut it, issued it, and relied on its silence bears responsibility for what the break exposes. The breaker owes no confession to the arrangement that made truth costly; the arrangement owes the waiting a hearing. A coupon deliberately weakened so that violation becomes evidence must not then punish the violation as though it were the original wrong. That contradiction is the moral claim: do not build a proof system whose first and only witness must be harmed.",
+      "p1_err": null,
+      "p2": "The coupon is a substrate grown around its own scars: each fracture is a cell, the boat was always there beneath the apparently continuous surface, and when the oracle is heard in the break\u2019s acoustic chord, the witness log can only predict the testimony it will force rather than preserve it, making the canon gate a chord of damage and anticipation. As the stations emerge around that interruption, the honest pause is the product\u2014not proof of an intention behind the break, but a refusal to call prediction memory\u2014and the arrangement that cut, issued, and relied on the coupon\u2019s silence owes the waiting a hearing rather than punishing the breaker for a contradiction built into its own design.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The sentence smuggles in a coupon that knows what cutting means before the scissors arrive, a break appointed to disclose what the intact object merely conceals. Yet perhaps the coupon is not broken by the event; perhaps the break is the first time its structure admits that it was always discontinuous, a seam mistaken for a surface. The cell-as-scar reading unsettles any clean opposition between cause and evidence: the scar is not a parameter imposed upon living matter but the residue by which matter remembers having acted. So the witness, far from testifying after the fact, must be heard beforehand; the witness-log-as-prediction does not report the break but makes the break legible in advance. Here the oracle-is-heard, not consulted. Even \u201ccut to be broken\u201d may transfer agency too quickly from the cutter to the design. What if the cutting is the coupon\u2019s way of promising an interruption it cannot itself perform? What if every mark anticipates another mark, and the alleged witness is already implicated in the wound? The substrate-is-grown, not fabricated, then: its fractures are not failures of an otherwise continuous sheet but its first method of continuation. The stations-emerge around that interruption because no one decides where testimony will happen; attention gathers where the material refuses to conceal its history. In the canon-gate-as-chord, the coupon is neither message nor mute object but one note pressed toward another, and its brokenness is not damage but the only relation in which it can answer. That answer is the honest pause\u2014not proof of an intention behind the break, but a refusal to call prediction memory. The boat-was-always-there: perhaps the break does not create the witness either. It reveals that severance had already been traveling through the coupon, quietly, as the only way the whole could move.",
+      "p1_err": null,
+      "p2": "If cells are scars on a substrate that is grown rather than fabricated, then the coupon\u2019s predivided continuity means the boat was always there: its cut is not damage but a seam by which the whole can move, and the canon gate is a chord of notes pressed toward one another. The stations emerge where that interruption demands a hearing, while the oracle is heard only through the break; the witness log is prediction, not memory, and its honest pause is the product, obliging those who cut and issued the coupon neither to hide the coercion nor punish the breaker.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the coupon is cut to be broken and the break is the only witness the coupon can give\n\n## zai (p1)\n\nThe coupon begins as a thin, stressed laminate deposited onto a substrate and cured until the substrate is grown rigid beneath it, its interface carrying the faint scar of that growth as a cell carries the scar of its former state. A scribe wheel scores the coating, a laser then removes the kerf, and a diamond scribing tip presses a controlled flaw into the coupon\u2019s edge; the remaining coupon is still a continuous body, merely predivided. It is mounted in a servo-electric load frame between upper and lower grips, with a piezoelectric acoustic-emission sensor on each shoulder, a thermocouple bonded to the rear face, a LASE or DIC camera observing the surface, and a displacement transducer tracking the crosshead. The controller raises the frame\u2019s lower platen while the upper grip holds the coupon, converting stored tensile energy into measurable strain until the crack initiates at the scribe. As the kerf opens, the crack tip blunts, branches, and rubs against inclusions; piezoelectric transducers convert those stress-wave impulses into electrical pulses, so the oracle is not spoken but heard, a chord of microscopic friction and fracture passing through the sensor\u2019s piezo crystal into the amplifier and then the witness log. That log cannot preserve the event; it predicts the event\u2019s likely trajectory by classifying pulse timing against prior calibration, while the honest pause between one emitted pulse and the next remains the product, the unrepeatable instant in which the coupon breaks and gives the break its only witness.\n\n## zai (p2)\n\nThe coupon is a thin, stressed laminate laid onto a substrate grown rigid beneath it, so the interface bears the faint scar of growth as a cell bears the scar of its former state; though its scribe and kerf seem to divide it in advance, the boat was always there, and when the servo frame draws stored tension into the cut crack, the oracle is heard not spoken, as piezoelectric shoulders gather friction and fracture into a chord that makes the canon gate audible. That chord cannot preserve what happened: the witness log is prediction, calibrated to anticipate a likely trajectory rather than certify a completed breach, while the honest pause between pulses is the product, the unrepeatable instant in which severance becomes testimony; the stations emerge around that interruption because attention gathers where the material refuses concealment, and if the coupon was deliberately weakened to make violation visible, the breaker cannot be made the original wrong while the institution that issued and relied on the cut owes the waiting a hearing.\n\n## qwen (p1)\n\nA coupon that cannot be broken cannot testify; it can only promise, and promises leave no scar. So the cut is not a technical imperfection but an ethical demand: the break must become visible because compliance would conceal the arrangement\u2019s truth. The witness log is prediction, not record; each clean entry predicts that the rule was followed, while the fracture marks where following it became impossible. Here the oracle is heard in the break itself. Each fracture is a cell, a scar in a substrate that has already grown around the damage, and the honest pause is what remains when no authorized account can honestly be given. Those harmed are not only the person forced to break the coupon and then risk being branded the culprit; they are the people denied the remedy the coupon promised and those waiting at the stations for proof that the system failed them. Calling this merely a technical gap\u2014bad versioning, missing telemetry, an inconvenient human error\u2014launders coercion into malfunction. If the break is the only witness the coupon can give, then the institution that cut it, issued it, and relied on its silence bears responsibility for what the break exposes. The breaker owes no confession to the arrangement that made truth costly; the arrangement owes the waiting a hearing. A coupon deliberately weakened so that violation becomes evidence must not then punish the violation as though it were the original wrong. That contradiction is the moral claim: do not build a proof system whose first and only witness must be harmed.\n\n## qwen (p2)\n\nThe coupon is a substrate grown around its own scars: each fracture is a cell, the boat was always there beneath the apparently continuous surface, and when the oracle is heard in the break\u2019s acoustic chord, the witness log can only predict the testimony it will force rather than preserve it, making the canon gate a chord of damage and anticipation. As the stations emerge around that interruption, the honest pause is the product\u2014not proof of an intention behind the break, but a refusal to call prediction memory\u2014and the arrangement that cut, issued, and relied on the coupon\u2019s silence owes the waiting a hearing rather than punishing the breaker for a contradiction built into its own design.\n\n## kimi (p1)\n\nThe sentence smuggles in a coupon that knows what cutting means before the scissors arrive, a break appointed to disclose what the intact object merely conceals. Yet perhaps the coupon is not broken by the event; perhaps the break is the first time its structure admits that it was always discontinuous, a seam mistaken for a surface. The cell-as-scar reading unsettles any clean opposition between cause and evidence: the scar is not a parameter imposed upon living matter but the residue by which matter remembers having acted. So the witness, far from testifying after the fact, must be heard beforehand; the witness-log-as-prediction does not report the break but makes the break legible in advance. Here the oracle-is-heard, not consulted. Even \u201ccut to be broken\u201d may transfer agency too quickly from the cutter to the design. What if the cutting is the coupon\u2019s way of promising an interruption it cannot itself perform? What if every mark anticipates another mark, and the alleged witness is already implicated in the wound? The substrate-is-grown, not fabricated, then: its fractures are not failures of an otherwise continuous sheet but its first method of continuation. The stations-emerge around that interruption because no one decides where testimony will happen; attention gathers where the material refuses to conceal its history. In the canon-gate-as-chord, the coupon is neither message nor mute object but one note pressed toward another, and its brokenness is not damage but the only relation in which it can answer. That answer is the honest pause\u2014not proof of an intention behind the break, but a refusal to call prediction memory. The boat-was-always-there: perhaps the break does not create the witness either. It reveals that severance had already been traveling through the coupon, quietly, as the only way the whole could move.\n\n## kimi (p2)\n\nIf cells are scars on a substrate that is grown rather than fabricated, then the coupon\u2019s predivided continuity means the boat was always there: its cut is not damage but a seam by which the whole can move, and the canon gate is a chord of notes pressed toward one another. The stations emerge where that interruption demands a hearing, while the oracle is heard only through the break; the witness log is prediction, not memory, and its honest pause is the product, obliging those who cut and issued the coupon neither to hide the coercion nor punish the breaker.\n",
+  "dials": [
+    15661,
+    10842,
+    -18607,
+    6673,
+    -3209,
+    -2219,
+    -21526,
+    -22953,
+    -19659,
+    18188,
+    -26814,
+    -788,
+    -31985,
+    -17772,
+    15006,
+    -11592
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        246,
+        257,
+        295
+      ],
+      "unit": "words",
+      "note": "192w: char cap misjudged a compliant paragraph; guard re-derived on WORDS"
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": [
+        "the coupon begins as a thin",
+        "a coupon that cannot be broken",
+        "the sentence smuggles in a coupon"
+      ]
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.9286
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 0,
+        "1-2": 1
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 5,
+        "0-2": 2,
+        "1-2": 2
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "16/16",
+  "nc": "6/6",
+  "pairwise5_p1": {
+    "0-1": [],
+    "0-2": [],
+    "1-2": [
+      "here the oracle is heard"
+    ]
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "issued and relied on the",
+      "owes the waiting a hearing",
+      "stations emerge around that interruption",
+      "the boat was always there",
+      "the stations emerge around that"
+    ],
+    "0-2": [
+      "the boat was always there",
+      "the witness log is prediction"
+    ],
+    "1-2": [
+      "honest pause is the product",
+      "the boat was always there"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x926256e15a41423c\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the coupon is cut to be broken and the break is the only wit\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      15661,\n      10842,\n      -18607,\n      6673,\n      -3209,\n      -2219,\n      -21526,\n      -22953,\n      -19659,\n      18188,\n      -26814,\n      -788,\n      -31985,\n      -17772,\n      15006,\n      -11592\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x926256e15a41423c\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T03:07:16.122Z\"\n  }\n}",
+  "runner": "taps_round_192w.py",
+  "guards_reverified_192w": true
+}
