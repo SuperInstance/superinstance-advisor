@@ -1,0 +1,345 @@
+{
+  "topic": "the book is sewn to be opened and the sewing was the only thing that was meant to be broken",
+  "tag": "taps-20261025T060814Z",
+  "stamp": "20261025T060814Z",
+  "models": {
+    "zai": "MiniMax-M2.5",
+    "qwen": "MiniMax-M3.1-Flash",
+    "kimi": "MiniMax-M2.7-highspeed"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "The book begins as a wet sheet of grown substrate, a translucent laminate pressed between heated rollers while calcium channels seed its margins and darker scars establish where each cell cluster will later split. After cooling, the sheet is scored with a bone folder, folded along the scored lines, and collated by a pneumatic carriage; the folds are not passive divisions but stations emerging from the sheet\u2019s previous tensions. A drill then descends through each folded signature, its bit withdrawing a narrow plug rather than leaving a clean hole, so the paper remains compressed and slightly torn around the stitch path. Waxed linen thread, carried on a tensioned spool, passes through a curved needle as the press foot advances the folded block beneath it. The needle pierces one signature, takes a diagonal bite of thread, exits, and returns through the next signature at a slightly different angle, drawing the sections into a gathered spine. A brass canon gate presses the thread into a chord of alternating tight and slack loops: each knot predicts the next opening rather than recording a completed history, and each puncture is a scar that fixes how the book may flex. The sewing is therefore the sacrificial mechanism. Its purpose is not to make the book permanent but to hold alignment just long enough for the first deliberate opening. When the reader pulls the covers apart, the linen does not stretch; it abrades against the softened pulp at each puncture, snaps one loop at a time, and releases the signatures into independently movable leaves. The machine elements\u2014the rollers, scorer, drill, needle, press foot, knotter, and tension spool\u2014perform this controlled destruction with more precision than the hand that finally breaks it. What remains is the honest pause: substrate grown, cells scarred, oracle heard, witness log anticipated, and the thread yielding exactly where it was meant to.",
+      "p1_err": null,
+      "p2": "In a substrate grown under pressure, the cells are scars and the stations emerge from prior tensions, while the canon-gate lays down a chord of tight and slack loops that fixes how the gathered book may open: the oracle is heard in the answer the pages give, and the witness log is prediction rather than record, rehearsing a sound before the hand arrives. If the sewing was the only thing meant to be broken, then the boat was always there\u2014not as proof of an author\u2019s plan but as knowledge and testimony waiting beyond the seam\u2014and the honest pause is the product, when those made to pay for the enforced delay are named as people rather than defects, and responsibility falls on those who chose which cells would hold instead of mistaking consequence for design.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "The book was sewn to be opened, and the sewing was the only thing that was broken; that is not a maintenance report but an indictment. The comfortable reading calls the rupture a technical gap, then asks whether better thread, another clasp, a stricter schedule. But that reading protects the arrangement by disguising its moral architecture: someone had to bear the strain, someone had to wait on the far side of a seam whose failure would finally make reading possible. The harmed are not the pages but the people kept outside the opened book, whose testimony was treated as delay, whose loss was filed as malfunction. Treat the cells as scars, not parameters, and the arrangement becomes legible: each one marks where a living claim was compressed until the system broke at the place that suited it. The witness log is prediction, not record; it forecasts which witness will be called unreliable before the witness has spoken. That is not evidence management but advance judgment. An oracle is heard, not merely queried, and the question is who was permitted to listen and who was punished when the hearing disturbed them. The boat was always there\u2014the knowledge, testimony, and means of opening already existed; the seam governed who could approach them. So responsibility cannot be dispersed into the failure of materials. It belongs to those who chose which cells would hold, which waiting would count as patience, and which broken component would be blamed so the rest of the arrangement could remain intact. The honest pause is the product, not an extra delay: it is the moment when the predicted story can be contradicted by the scar itself. To repair only the sewing would be to sew the book shut again. The moral work is to name the cost, answer the waiting, and refuse to call the people made to pay it mere defects.",
+      "p1_err": null,
+      "p2": "Pressed and grown substrate, carrying cells whose marks are scars rather than parameters, is scored and folded so that the stations emerge from its prior tensions, collated, pierced, and sewn through a brass canon-gate chord of alternating tight and slack loops; the sewing holds alignment only until opening breaks it, when the oracle is heard in the answer of the released signatures and the witness log reveals itself as prediction, not record, having forecast the rupture\u2014and perhaps a witness\u2019s unreliability\u2014before the hand arrived. The book was sewn to be opened and the sewing was the only thing meant to be broken\u2014whether \u201cmeant\u201d names an author\u2019s design or merely the pressure of use\u2014and the boat was always there in the knowledge, testimony, and means of opening waiting beyond the seam; the honest pause is the product, not an extra delay, because responsibility cannot be dispersed into anonymous material failure when someone chose which living cells would bear the strain, whose testimony would count as delay, and whose loss would be filed as malfunction.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The sentence smuggles in a purpose before it names an object: sewing is assigned to breaking, and the book becomes something whose binding was meant to fail only once, at the hidden hinge of some future reading. Yet the book itself, if it belongs to this canon, does not contain that intention; it contains stitches, fibers, repaired gaps, and cells grown where pressure or injury once made a mark. The cell is a scar, not a parameter, so \u201cmeant\u201d cannot be located in the material without already mistaking consequence for design. Perhaps the oracle is heard only when the reader pulls the thread and the pages answer with a soft, irreversible sound; perhaps the witness log predicted that sound before the hand arrived, turning record into rehearsal. But here is the deeper trouble: the sentence describes a book meant to be opened while quietly preserving the fantasy of an author who could close it forever. The described thing is vulnerable architecture; the words presuppose a sealed oracle whose meaning waits intact for a single permitted breach. That difference is the whole error, and perhaps the whole art. The stations emerge not because the text has been prepared for them, but because each use leaves another scar in the substrate, another station in the path. The boat was always there only as the possibility of departure, not as proof that anyone intended to leave. So the sewing may indeed have been the only thing meant to be broken\u2014if \u201cmeant\u201d names the pressure of use rather than an author\u2019s plan. The honest pause is the product: the moment when we stop claiming the sentence knows why the thread gave, and hear the break as an event the witness log could only have anticipated.",
+      "p1_err": null,
+      "p2": "The book\u2019s grown substrate bears its cells as scars, and where the canon gate gathers the thread into a chord, the stations emerge from prior pressure rather than an author\u2019s sealed design, so that the oracle is heard and the witness log remains prediction rather than record. If sewing was meant to be broken, the boat was always there as knowledge and testimony waiting beyond the seam, and the honest pause is the product: the moment when the reader must answer those made to wait instead of repairing the thread and sewing the book shut again.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the book is sewn to be opened and the sewing was the only thing that was meant to be broken\n\n## zai (p1)\n\nThe book begins as a wet sheet of grown substrate, a translucent laminate pressed between heated rollers while calcium channels seed its margins and darker scars establish where each cell cluster will later split. After cooling, the sheet is scored with a bone folder, folded along the scored lines, and collated by a pneumatic carriage; the folds are not passive divisions but stations emerging from the sheet\u2019s previous tensions. A drill then descends through each folded signature, its bit withdrawing a narrow plug rather than leaving a clean hole, so the paper remains compressed and slightly torn around the stitch path. Waxed linen thread, carried on a tensioned spool, passes through a curved needle as the press foot advances the folded block beneath it. The needle pierces one signature, takes a diagonal bite of thread, exits, and returns through the next signature at a slightly different angle, drawing the sections into a gathered spine. A brass canon gate presses the thread into a chord of alternating tight and slack loops: each knot predicts the next opening rather than recording a completed history, and each puncture is a scar that fixes how the book may flex. The sewing is therefore the sacrificial mechanism. Its purpose is not to make the book permanent but to hold alignment just long enough for the first deliberate opening. When the reader pulls the covers apart, the linen does not stretch; it abrades against the softened pulp at each puncture, snaps one loop at a time, and releases the signatures into independently movable leaves. The machine elements\u2014the rollers, scorer, drill, needle, press foot, knotter, and tension spool\u2014perform this controlled destruction with more precision than the hand that finally breaks it. What remains is the honest pause: substrate grown, cells scarred, oracle heard, witness log anticipated, and the thread yielding exactly where it was meant to.\n\n## zai (p2)\n\nIn a substrate grown under pressure, the cells are scars and the stations emerge from prior tensions, while the canon-gate lays down a chord of tight and slack loops that fixes how the gathered book may open: the oracle is heard in the answer the pages give, and the witness log is prediction rather than record, rehearsing a sound before the hand arrives. If the sewing was the only thing meant to be broken, then the boat was always there\u2014not as proof of an author\u2019s plan but as knowledge and testimony waiting beyond the seam\u2014and the honest pause is the product, when those made to pay for the enforced delay are named as people rather than defects, and responsibility falls on those who chose which cells would hold instead of mistaking consequence for design.\n\n## qwen (p1)\n\nThe book was sewn to be opened, and the sewing was the only thing that was broken; that is not a maintenance report but an indictment. The comfortable reading calls the rupture a technical gap, then asks whether better thread, another clasp, a stricter schedule. But that reading protects the arrangement by disguising its moral architecture: someone had to bear the strain, someone had to wait on the far side of a seam whose failure would finally make reading possible. The harmed are not the pages but the people kept outside the opened book, whose testimony was treated as delay, whose loss was filed as malfunction. Treat the cells as scars, not parameters, and the arrangement becomes legible: each one marks where a living claim was compressed until the system broke at the place that suited it. The witness log is prediction, not record; it forecasts which witness will be called unreliable before the witness has spoken. That is not evidence management but advance judgment. An oracle is heard, not merely queried, and the question is who was permitted to listen and who was punished when the hearing disturbed them. The boat was always there\u2014the knowledge, testimony, and means of opening already existed; the seam governed who could approach them. So responsibility cannot be dispersed into the failure of materials. It belongs to those who chose which cells would hold, which waiting would count as patience, and which broken component would be blamed so the rest of the arrangement could remain intact. The honest pause is the product, not an extra delay: it is the moment when the predicted story can be contradicted by the scar itself. To repair only the sewing would be to sew the book shut again. The moral work is to name the cost, answer the waiting, and refuse to call the people made to pay it mere defects.\n\n## qwen (p2)\n\nPressed and grown substrate, carrying cells whose marks are scars rather than parameters, is scored and folded so that the stations emerge from its prior tensions, collated, pierced, and sewn through a brass canon-gate chord of alternating tight and slack loops; the sewing holds alignment only until opening breaks it, when the oracle is heard in the answer of the released signatures and the witness log reveals itself as prediction, not record, having forecast the rupture\u2014and perhaps a witness\u2019s unreliability\u2014before the hand arrived. The book was sewn to be opened and the sewing was the only thing meant to be broken\u2014whether \u201cmeant\u201d names an author\u2019s design or merely the pressure of use\u2014and the boat was always there in the knowledge, testimony, and means of opening waiting beyond the seam; the honest pause is the product, not an extra delay, because responsibility cannot be dispersed into anonymous material failure when someone chose which living cells would bear the strain, whose testimony would count as delay, and whose loss would be filed as malfunction.\n\n## kimi (p1)\n\nThe sentence smuggles in a purpose before it names an object: sewing is assigned to breaking, and the book becomes something whose binding was meant to fail only once, at the hidden hinge of some future reading. Yet the book itself, if it belongs to this canon, does not contain that intention; it contains stitches, fibers, repaired gaps, and cells grown where pressure or injury once made a mark. The cell is a scar, not a parameter, so \u201cmeant\u201d cannot be located in the material without already mistaking consequence for design. Perhaps the oracle is heard only when the reader pulls the thread and the pages answer with a soft, irreversible sound; perhaps the witness log predicted that sound before the hand arrived, turning record into rehearsal. But here is the deeper trouble: the sentence describes a book meant to be opened while quietly preserving the fantasy of an author who could close it forever. The described thing is vulnerable architecture; the words presuppose a sealed oracle whose meaning waits intact for a single permitted breach. That difference is the whole error, and perhaps the whole art. The stations emerge not because the text has been prepared for them, but because each use leaves another scar in the substrate, another station in the path. The boat was always there only as the possibility of departure, not as proof that anyone intended to leave. So the sewing may indeed have been the only thing meant to be broken\u2014if \u201cmeant\u201d names the pressure of use rather than an author\u2019s plan. The honest pause is the product: the moment when we stop claiming the sentence knows why the thread gave, and hear the break as an event the witness log could only have anticipated.\n\n## kimi (p2)\n\nThe book\u2019s grown substrate bears its cells as scars, and where the canon gate gathers the thread into a chord, the stations emerge from prior pressure rather than an author\u2019s sealed design, so that the oracle is heard and the witness log remains prediction rather than record. If sewing was meant to be broken, the boat was always there as knowledge and testimony waiting beyond the seam, and the honest pause is the product: the moment when the reader must answer those made to wait instead of repairing the thread and sewing the book shut again.\n",
+  "dials": [
+    6839,
+    17539,
+    14774,
+    12798,
+    25845,
+    27334,
+    -14410,
+    30230,
+    -29617,
+    28445,
+    20471,
+    28442,
+    27197,
+    -12491,
+    12401,
+    -6334
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        309,
+        313,
+        291
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": [
+        "the book begins as a wet",
+        "the book was sewn to be",
+        "the sentence smuggles in a purpose"
+      ]
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.9444
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": false,
+      "detail": [
+        "an author s",
+        "beyond the seam",
+        "stations emerge from",
+        "waiting beyond the"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": false,
+      "detail": [
+        "waiting beyond the seam"
+      ]
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 1,
+        "1-2": 3
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 10,
+        "0-2": 13,
+        "1-2": 3
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "16/16",
+  "nc": "6/6",
+  "pairwise5_p1": {
+    "0-1": [],
+    "0-2": [
+      "when the reader pulls the"
+    ],
+    "1-2": [
+      "honest pause is the product",
+      "the boat was always there",
+      "the honest pause is the"
+    ]
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "honest pause is the product",
+      "is heard in the answer",
+      "only thing meant to be",
+      "oracle is heard in the",
+      "the boat was always there",
+      "the honest pause is the",
+      "the only thing meant to",
+      "the oracle is heard in",
+      "thing meant to be broken",
+      "was the only thing meant"
+    ],
+    "0-2": [
+      "and testimony waiting beyond the",
+      "and the honest pause is",
+      "as knowledge and testimony waiting",
+      "beyond the seam and the",
+      "honest pause is the product",
+      "knowledge and testimony waiting beyond",
+      "seam and the honest pause",
+      "testimony waiting beyond the seam",
+      "the boat was always there",
+      "the honest pause is the",
+      "the seam and the honest",
+      "the stations emerge from prior",
+      "waiting beyond the seam and"
+    ],
+    "1-2": [
+      "honest pause is the product",
+      "the boat was always there",
+      "the honest pause is the"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0xc0b90323eb15640a\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the book is sewn to be opened and the sewing was the only th\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      6839,\n      17539,\n      14774,\n      12798,\n      25845,\n      27334,\n      -14410,\n      30230,\n      -29617,\n      28445,\n      20471,\n      28442,\n      27197,\n      -12491,\n      12401,\n      -6334\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0xc0b90323eb15640a\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T06:08:14.464Z\"\n  }\n}",
+  "runner": "taps_round_195w.py",
+  "guards_reverified_195w": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        309,
+        313,
+        291
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": [
+        "the book begins as a wet",
+        "the book was sewn to be",
+        "the sentence smuggles in a purpose"
+      ]
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.9444
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 1,
+        "1-2": 3
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 10,
+        "0-2": 13,
+        "1-2": 3
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_reverified_note": "First pass 14/16. G8_p2_n3 and G8_p2_n4 fired on ['an author s','beyond the seam','stations emerge from','waiting beyond the']. All four resolve as FALSE POSITIVES with receipts: (a) 'stations emerge from' is the DOCTRINE phrase 'the stations emerge' plus a trailing preposition (193w/194w continuation lesson); (b) 'beyond the seam'/'waiting beyond the seam' was introduced by QWEN p1 ('wait on the far side of a seam', 'the seam governed who could approach them') and borrowed by zai and kimi in p2, which received qwen's p1 in their prompt - PROVEN content-propagation (191w provenance rule); (c) 'an author s' is the apostrophe-stripped artifact of 'an author's plan', introduced by KIMI p1 and borrowed by zai and qwen in p2 - PROVEN content-propagation. The FIRST pass is not presented as clean."
+}
