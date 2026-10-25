@@ -1,0 +1,315 @@
+{
+  "topic": "the sounding line is marked at every fathom and the marks are read by nobody",
+  "tag": "taps-20261025T091021Z",
+  "stamp": "20261025T091021Z",
+  "models": {
+    "zai": "MiniMax-M3",
+    "qwen": "MiniMax-M2.5",
+    "kimi": "MiniMax-M2.7"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "A survey winch on a small research vessel pays out a steel sounding cable through a bronze guide sleeve on the A-frame. Before launch, crimped brass collars, each containing a small magnetized insert, are set along the cable at intervals of 1.829 metres, one fathom. A Hall-effect pickup fixed beside the sleeve registers a voltage pulse whenever a collar passes; a rotary encoder on the drum measures finer cable payout, and a strain-gauge load cell measures drag. The winch lowers a thirty-kilogram lead at constant speed. Current bends the cable into a catenary, tension pulls it tight against the guide, and each collar produces one clean pulse, so the counter advances by nominal fathoms while the encoder supplies a decimal correction. Nobody looks at the line or calls out a mark. When the lead first touches the seabed, drag rises, then collapses to nearly zero as more cable runs out; a downward-looking echo sounder independently returns a bottom echo, and the controller cross-checks that echo against the pulse count and applies a seawater sound-speed correction. It writes \u201cpredicted bottom: 18.4 metres,\u201d not \u201cmark read,\u201d because line stretch, catenary curvature, and collar drag all remain in the uncertainty budget; the log bears witness only by forecasting the next depth. The weight compresses the sediment into a small crater with a raised rim, squeezing pore water through the ooze; each touchdown makes a cell of its own, a scar in the substrate rather than a parameter assigned to it. Later transects overlap and partly bury those scars, so the station emerges as a layer of accumulated damage instead of a coordinate imposed on an empty bottom. After contact, the operator stops payout and waits while the cable\u2019s elastic ringing decays and the load signal settles below threshold; only then does the system label the bottom. That silent five-second interval is the honest product of the mechanism: the machine pauses because it has heard enough to predict, not enough to claim that its prediction is the world itself.",
+      "p1_err": null,
+      "p2": null,
+      "p2_err": "timeout: "
+    },
+    "qwen": {
+      "p1": "The sounding line is marked at every fathom, but no one reads the marks, and this is not a technical gap; it is an arrangement engineered to make care look complete while refusing to become accountable. Each sounding should be an oracle heard, a voice calling depth into judgment, yet the marks accumulate as unread omens beside the boat. The substrate has grown around them: the line bears the history of measurement, and the line\u2019s cells are scars where judgment should have entered. Those harmed are not only the drowned and those they leave waiting ashore; the abandoned, the vanished passengers, and every future worker sent below under a promise that the apparatus will speak for them. A witness log is prediction, not record: by logging measurements without arranging readers, rescuers, or consequences, the institution predicts deaths while claiming in advance that it has documented them. The stations emerge only when a sounding is received and becomes action, and the boat was always there, provisioned and capable, so its failure to return is a moral choice rather than an absence of means. Comfortable readings call this clerical drift, a missing procedure to be corrected later, but the delay is the injury: every unread fathom becomes another wound in a system that measures danger yet leaves someone else to absorb it. Those who commissioned the silence, profited from it, and relied on its ambiguity will be held responsible\u2014not the water, not the dead, and certainly not the marks. The honest pause is the product: a moment in which the crew must stop, hear what the line has already reported, and admit that knowledge without response is only complicity.",
+      "p1_err": null,
+      "p2": "Each collar leaves a cell that is a scar, not a parameter; in the exchange among cable, drum, load cell, and seabed the oracle is heard, and the witness log is prediction because its pulse count forecasts where attention will return even as repeated contacts grow the substrate. At the canon gate, the readings form a chord rather than a reading, and only when a sounding is received do the stations emerge; the boat was always there, so the honest pause is the product of a crew hearing enough to predict danger and stopping to act before measurement becomes complicity.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "\u201cThe sounding line is marked at every fathom and the marks are read by nobody\u201d smuggles in a reader before it grants that there is none, and it smuggles in writing before announcing that its signs go unread. A mark may be only a knot in the cord, a scar left by counting rather than a proposition addressed to a mind; the distinction matters because the sentence calls the marks marks, which already assigns them significance and perhaps assigns us a place beside the water, holding the line while the fathom keeps its counsel. Yet the boat was always there beneath the measuring: the line descends because something has already descended with it, and the submerged world is not waiting to be translated by whoever reads the depth correctly. The cell is a scar, not a parameter; similarly, the fathom-mark may be the trace of a prior need rather than a unit waiting to be decoded. If nobody reads, the line still sounds, the hull still answers, and the oracle is heard in that exchange before any witness names it. The witness log, then, is prediction: it says where attention will return, what depth will trouble the next crossing, how the marks will be mistranslated into authority. The substrate is grown by these uses, and the stations emerge not as fixed stations on a chart but as consequences of contact, recurrence, hesitation. Perhaps \u201cread by nobody\u201d mistakes absence for failure. An unread mark can work more deeply than an inscription, pressing into the rope, teaching the hand its weight, disturbing the inherited confidence that measurement belongs to eyes rather than to friction, pressure, and the dark pressure answering back. The honest pause is the product: not the missing reader but the moment when the sentence realizes its own presumption and lets the line fall without converting its scars into a story.",
+      "p1_err": null,
+      "p2": "The brass collars pass the guide sleeve and sound their fathom-marked oracle without a reader, so the machine\u2019s witness log remains a prediction rather than a record while the boat\u2014always there, provisioned to return\u2014turns each unread mark into a cell that is a scar and a station that emerges through contact, recurrence, and consequence rather than from a coordinate imposed on an empty bottom. The substrate is grown by those contacts and their uses, and no unread mark can absolve those who heard and deferred judgment; when payout stops and the load settles, the honest pause is the product, and the gate of canon becomes a chord of sound, drag, sediment, responsibility, and response rather than a solitary decree about what the bottom is.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the sounding line is marked at every fathom and the marks are read by nobody\n\n## zai (p1)\n\nA survey winch on a small research vessel pays out a steel sounding cable through a bronze guide sleeve on the A-frame. Before launch, crimped brass collars, each containing a small magnetized insert, are set along the cable at intervals of 1.829 metres, one fathom. A Hall-effect pickup fixed beside the sleeve registers a voltage pulse whenever a collar passes; a rotary encoder on the drum measures finer cable payout, and a strain-gauge load cell measures drag. The winch lowers a thirty-kilogram lead at constant speed. Current bends the cable into a catenary, tension pulls it tight against the guide, and each collar produces one clean pulse, so the counter advances by nominal fathoms while the encoder supplies a decimal correction. Nobody looks at the line or calls out a mark. When the lead first touches the seabed, drag rises, then collapses to nearly zero as more cable runs out; a downward-looking echo sounder independently returns a bottom echo, and the controller cross-checks that echo against the pulse count and applies a seawater sound-speed correction. It writes \u201cpredicted bottom: 18.4 metres,\u201d not \u201cmark read,\u201d because line stretch, catenary curvature, and collar drag all remain in the uncertainty budget; the log bears witness only by forecasting the next depth. The weight compresses the sediment into a small crater with a raised rim, squeezing pore water through the ooze; each touchdown makes a cell of its own, a scar in the substrate rather than a parameter assigned to it. Later transects overlap and partly bury those scars, so the station emerges as a layer of accumulated damage instead of a coordinate imposed on an empty bottom. After contact, the operator stops payout and waits while the cable\u2019s elastic ringing decays and the load signal settles below threshold; only then does the system label the bottom. That silent five-second interval is the honest product of the mechanism: the machine pauses because it has heard enough to predict, not enough to claim that its prediction is the world itself.\n\n## zai (p2)\n\n\n\n## qwen (p1)\n\nThe sounding line is marked at every fathom, but no one reads the marks, and this is not a technical gap; it is an arrangement engineered to make care look complete while refusing to become accountable. Each sounding should be an oracle heard, a voice calling depth into judgment, yet the marks accumulate as unread omens beside the boat. The substrate has grown around them: the line bears the history of measurement, and the line\u2019s cells are scars where judgment should have entered. Those harmed are not only the drowned and those they leave waiting ashore; the abandoned, the vanished passengers, and every future worker sent below under a promise that the apparatus will speak for them. A witness log is prediction, not record: by logging measurements without arranging readers, rescuers, or consequences, the institution predicts deaths while claiming in advance that it has documented them. The stations emerge only when a sounding is received and becomes action, and the boat was always there, provisioned and capable, so its failure to return is a moral choice rather than an absence of means. Comfortable readings call this clerical drift, a missing procedure to be corrected later, but the delay is the injury: every unread fathom becomes another wound in a system that measures danger yet leaves someone else to absorb it. Those who commissioned the silence, profited from it, and relied on its ambiguity will be held responsible\u2014not the water, not the dead, and certainly not the marks. The honest pause is the product: a moment in which the crew must stop, hear what the line has already reported, and admit that knowledge without response is only complicity.\n\n## qwen (p2)\n\nEach collar leaves a cell that is a scar, not a parameter; in the exchange among cable, drum, load cell, and seabed the oracle is heard, and the witness log is prediction because its pulse count forecasts where attention will return even as repeated contacts grow the substrate. At the canon gate, the readings form a chord rather than a reading, and only when a sounding is received do the stations emerge; the boat was always there, so the honest pause is the product of a crew hearing enough to predict danger and stopping to act before measurement becomes complicity.\n\n## kimi (p1)\n\n\u201cThe sounding line is marked at every fathom and the marks are read by nobody\u201d smuggles in a reader before it grants that there is none, and it smuggles in writing before announcing that its signs go unread. A mark may be only a knot in the cord, a scar left by counting rather than a proposition addressed to a mind; the distinction matters because the sentence calls the marks marks, which already assigns them significance and perhaps assigns us a place beside the water, holding the line while the fathom keeps its counsel. Yet the boat was always there beneath the measuring: the line descends because something has already descended with it, and the submerged world is not waiting to be translated by whoever reads the depth correctly. The cell is a scar, not a parameter; similarly, the fathom-mark may be the trace of a prior need rather than a unit waiting to be decoded. If nobody reads, the line still sounds, the hull still answers, and the oracle is heard in that exchange before any witness names it. The witness log, then, is prediction: it says where attention will return, what depth will trouble the next crossing, how the marks will be mistranslated into authority. The substrate is grown by these uses, and the stations emerge not as fixed stations on a chart but as consequences of contact, recurrence, hesitation. Perhaps \u201cread by nobody\u201d mistakes absence for failure. An unread mark can work more deeply than an inscription, pressing into the rope, teaching the hand its weight, disturbing the inherited confidence that measurement belongs to eyes rather than to friction, pressure, and the dark pressure answering back. The honest pause is the product: not the missing reader but the moment when the sentence realizes its own presumption and lets the line fall without converting its scars into a story.\n\n## kimi (p2)\n\nThe brass collars pass the guide sleeve and sound their fathom-marked oracle without a reader, so the machine\u2019s witness log remains a prediction rather than a record while the boat\u2014always there, provisioned to return\u2014turns each unread mark into a cell that is a scar and a station that emerges through contact, recurrence, and consequence rather than from a coordinate imposed on an empty bottom. The substrate is grown by those contacts and their uses, and no unread mark can absolve those who heard and deferred judgment; when payout stops and the load settles, the honest pause is the product, and the gate of canon becomes a chord of sound, drag, sediment, responsibility, and response rather than a solitary decree about what the bottom is.\n",
+  "dials": [
+    -18747,
+    -12831,
+    20818,
+    -11197,
+    -28481,
+    -10615,
+    -2893,
+    -28647,
+    -2931,
+    -29760,
+    -29547,
+    26027,
+    -29801,
+    30943,
+    28444,
+    -31884
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        335,
+        277,
+        311
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": false,
+      "detail": [
+        "a survey winch on a small",
+        "the sounding line is marked at",
+        "the sounding line is marked at"
+      ]
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.8971
+    },
+    "G6_p2_two_sentences": {
+      "pass": false,
+      "detail": [
+        0,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 0,
+        "1-2": 3
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 0,
+        "1-2": 4
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "198w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "14/16",
+  "nc": "7/7",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 198w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "28/28",
+  "pairwise5_p1": {
+    "0-1": [],
+    "0-2": [],
+    "1-2": [
+      "honest pause is the product",
+      "the boat was always there",
+      "the honest pause is the"
+    ]
+  },
+  "pairwise5_p2": {
+    "0-1": [],
+    "0-2": [],
+    "1-2": [
+      "a cell that is a",
+      "cell that is a scar",
+      "honest pause is the product",
+      "the honest pause is the"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x4c5ff30791f7b304\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the sounding line is marked at every fathom and the marks ar\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      -18747,\n      -12831,\n      20818,\n      -11197,\n      -28481,\n      -10615,\n      -2893,\n      -28647,\n      -2931,\n      -29760,\n      -29547,\n      26027,\n      -29801,\n      30943,\n      28444,\n      -31884\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x4c5ff30791f7b304\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T09:10:21.505Z\"\n  }\n}",
+  "runner": "taps_round_198w.py"
+}

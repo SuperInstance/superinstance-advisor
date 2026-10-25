@@ -1,0 +1,353 @@
+{
+  "topic": "the sounding line is marked at every fathom and the marks are read by nobody",
+  "tag": "taps-20261025T091218Z",
+  "stamp": "20261025T091218Z",
+  "models": {
+    "zai": "MiniMax-M2.7-highspeed",
+    "qwen": "MiniMax-M3.1-Flash",
+    "kimi": "MiniMax-M3"
+  },
+  "postures": {
+    "zai": "MECHANISM",
+    "qwen": "DEFEND",
+    "kimi": "DEEPER"
+  },
+  "voices": {
+    "zai": {
+      "p1": "A lead plummet enters first, its greased hemp line paying out over a stern cleat as the boat continues forward. At six fathoms the hemp bears a leather tag, then seven, then eight; between them the line remains smooth, and a thumb pressed above the cleat can feel each tag pass as a brief thickening. When the lead touches bottom, its weight transfers from the moving water to the seabed, and the line slackens or jerks against the guide. The depth is then the number of fathom intervals between the lead and the surface, recovered by counting those bumps or watching the wet line rise. Tallow rubbed into the upper marks darkens them and confirms that the lower section was submerged, but it does not measure anything by itself. The sounding log copies the number afterward: six, seven, seven and a half, silt. That entry is prediction rather than record because it claims the bottom will remain at that depth for the next cast, the next boat, the next tide, even though only the lead has actually touched ground. The lead\u2019s point scars the sediment; the line transports that contact upward as tension, friction, weight, and a sequence of intervals; the log turns the sequence into an expectation. If nobody reads the fathom marks, the mechanism still operates. They pass the cleat, tug at the hand, alter the line\u2019s drag, and finally define the distance between boat and bottom. The stations emerge through repeated contact: the soft channel where the plummet sinks, the hard shelf where it rings against clay, the drop where the line suddenly runs long. The boat was always there above them, but the sounding line grew the profile one collision at a time, extending hidden ground into a chart no eye had yet seen.",
+      "p1_err": null,
+      "p2": "The fathom cells are scars in a line grown from hemp and encounter: the oracle is heard as friction, tension, and a catch, while the boat that was always there turns the line into a sounding by which hidden stations emerge one collision at a time. The witness log is prediction rather than record, and at the canon-gate responsibility becomes a chord only when the unread marks are heard rather than merely filed, making the honest pause the product of acknowledgment and a duty to answer.",
+      "p2_err": null
+    },
+    "qwen": {
+      "p1": "In the toolbox, the sounding line is already frayed, each knot a small scar recording where pressure has traveled. Lowered into the dark, it does not passively measure the world; the substrate answers through friction, tension, and the pull of something heavier than the boat. Each fathom is marked because someone once admitted that depth must be named. To leave the marks unread is therefore not an innocent technical gap. It is an arrangement in which danger becomes visible to the institution, legible in its logs, and still invisible to the people waiting at the bottom: miners beneath unstable roofs, patients inside failing wards, families held below the threshold where intervention begins. The cell is a scar, not a parameter; it says that the structure has already been wounded, regardless of whether anyone classifies the wound. The witness log, meanwhile, is prediction rather than retrospective record: its entries announce where harm may next surface, and to demand perfect proof before responding is to use forecast as alibi. An oracle must be heard, not merely archived for a future reader. The honest pause is the product of that hearing\u2014the instant when measurement becomes acknowledgment and acknowledgment becomes duty. Anyone who owns the line, commissions the soundings, files the log, and benefits from continued delay shares responsibility for the unread interval. \u201cNo one has read it yet\u201d cannot mean \u201cno one is responsible.\u201d Someone chose to keep the line lowered, someone routed its testimony into channels too quiet for consequence, and someone is waiting there now, marked fathom by fathom, for the boat that was always there to turn back.",
+      "p1_err": null,
+      "p2": "Lowered over the stern cleat, the tarred hemp turns each fathom-cell into a scar of pressure and knot, while the lead\u2019s collisions with silt, clay, and the long fall beyond the shelf grow the hidden substrate into a profile from which the stations emerge; even unread, the oracle is heard in the line\u2019s friction, tension, weight, and catch beneath the boat that was always there, structurally giving its marks reference and postponement. The witness log\u2019s \u201csix, seven, seven and a half, silt\u201d is therefore prediction rather than retrospective record, announcing where danger may next surface, while the canon-gate that makes danger legible to institutions yet invisible to those below sounds as a chord of ownership, concealment, and consequence, making responsibility shared by those who keep the line lowered, file the log, and benefit from delay; the honest pause is the product of that hearing, so no absent or guaranteed future reader can excuse the duty to turn back toward those waiting below, marked fathom by fathom.",
+      "p2_err": null
+    },
+    "kimi": {
+      "p1": "The tarred hemp comes up wet, and the knots have swollen where the water worked at them. Each was tied at a fathom\u2019s span, a measure borrowed from the body, so the line arrived already carrying an argument about depth. But \u201cread by nobody\u201d is no simple report. It smuggles in a standard of reading, a completed grid, and a reader deferred past the act; the assertion of unreadability can only come from outside that arrangement. The knots bear length, not depth. Depth is an event between lead, hull, and resistant bottom: it happens when the line slackens and the boat\u2019s waiting changes weight. Marking is not sounding. In the rope\u2019s working body, each knot is a scar left by the gesture that made it, not a neutral parameter awaiting extraction. Hemp grew into rope, and that grown line knows only through resistance: it is an oracle whose voice arrives as friction, heat, or a catch, never as a number without an encounter. \u201cNobody\u201d exempts only human eyes. The hull reads the line; the water edits it; a later hand would read those scars differently. There was always a boat above the apparatus\u2014not first in a story, but structurally, giving the marks their reference and their postponement. If a witness log is kept, it predicts the reader who will come to make the marks answer; it does not preserve an absent reading as a fact. Perhaps no one will come. Then the honest pause is the product, not a failure of language: no depth certified, the seabed already growing below, and the rope returning with its knots still asking for a future they cannot guarantee.",
+      "p1_err": null,
+      "p2": "The tarred hemp grows into a sounding line whose fathom knots remain cells and scars, and when the lead meets silt, clay, or a drop-off, the oracle is heard as friction, tension, slack, and catch, so the resistant seabed grows through repeated collision into stations that no eye has yet seen. The boat was always there above the apparatus, and the unread marks hold the canon-gate as a chord of rope, bottom, and deferred reader rather than a completed record; the witness log predicts the next cast, tide, and harm, so the honest pause is the product of hearing and must become duty now, since responsibility does not wait for a guaranteed reader or a perfect forecast.",
+      "p2_err": null
+    }
+  },
+  "combined": "# Taps creative break \u2014 the sounding line is marked at every fathom and the marks are read by nobody\n\n## zai (p1)\n\nA lead plummet enters first, its greased hemp line paying out over a stern cleat as the boat continues forward. At six fathoms the hemp bears a leather tag, then seven, then eight; between them the line remains smooth, and a thumb pressed above the cleat can feel each tag pass as a brief thickening. When the lead touches bottom, its weight transfers from the moving water to the seabed, and the line slackens or jerks against the guide. The depth is then the number of fathom intervals between the lead and the surface, recovered by counting those bumps or watching the wet line rise. Tallow rubbed into the upper marks darkens them and confirms that the lower section was submerged, but it does not measure anything by itself. The sounding log copies the number afterward: six, seven, seven and a half, silt. That entry is prediction rather than record because it claims the bottom will remain at that depth for the next cast, the next boat, the next tide, even though only the lead has actually touched ground. The lead\u2019s point scars the sediment; the line transports that contact upward as tension, friction, weight, and a sequence of intervals; the log turns the sequence into an expectation. If nobody reads the fathom marks, the mechanism still operates. They pass the cleat, tug at the hand, alter the line\u2019s drag, and finally define the distance between boat and bottom. The stations emerge through repeated contact: the soft channel where the plummet sinks, the hard shelf where it rings against clay, the drop where the line suddenly runs long. The boat was always there above them, but the sounding line grew the profile one collision at a time, extending hidden ground into a chart no eye had yet seen.\n\n## zai (p2)\n\nThe fathom cells are scars in a line grown from hemp and encounter: the oracle is heard as friction, tension, and a catch, while the boat that was always there turns the line into a sounding by which hidden stations emerge one collision at a time. The witness log is prediction rather than record, and at the canon-gate responsibility becomes a chord only when the unread marks are heard rather than merely filed, making the honest pause the product of acknowledgment and a duty to answer.\n\n## qwen (p1)\n\nIn the toolbox, the sounding line is already frayed, each knot a small scar recording where pressure has traveled. Lowered into the dark, it does not passively measure the world; the substrate answers through friction, tension, and the pull of something heavier than the boat. Each fathom is marked because someone once admitted that depth must be named. To leave the marks unread is therefore not an innocent technical gap. It is an arrangement in which danger becomes visible to the institution, legible in its logs, and still invisible to the people waiting at the bottom: miners beneath unstable roofs, patients inside failing wards, families held below the threshold where intervention begins. The cell is a scar, not a parameter; it says that the structure has already been wounded, regardless of whether anyone classifies the wound. The witness log, meanwhile, is prediction rather than retrospective record: its entries announce where harm may next surface, and to demand perfect proof before responding is to use forecast as alibi. An oracle must be heard, not merely archived for a future reader. The honest pause is the product of that hearing\u2014the instant when measurement becomes acknowledgment and acknowledgment becomes duty. Anyone who owns the line, commissions the soundings, files the log, and benefits from continued delay shares responsibility for the unread interval. \u201cNo one has read it yet\u201d cannot mean \u201cno one is responsible.\u201d Someone chose to keep the line lowered, someone routed its testimony into channels too quiet for consequence, and someone is waiting there now, marked fathom by fathom, for the boat that was always there to turn back.\n\n## qwen (p2)\n\nLowered over the stern cleat, the tarred hemp turns each fathom-cell into a scar of pressure and knot, while the lead\u2019s collisions with silt, clay, and the long fall beyond the shelf grow the hidden substrate into a profile from which the stations emerge; even unread, the oracle is heard in the line\u2019s friction, tension, weight, and catch beneath the boat that was always there, structurally giving its marks reference and postponement. The witness log\u2019s \u201csix, seven, seven and a half, silt\u201d is therefore prediction rather than retrospective record, announcing where danger may next surface, while the canon-gate that makes danger legible to institutions yet invisible to those below sounds as a chord of ownership, concealment, and consequence, making responsibility shared by those who keep the line lowered, file the log, and benefit from delay; the honest pause is the product of that hearing, so no absent or guaranteed future reader can excuse the duty to turn back toward those waiting below, marked fathom by fathom.\n\n## kimi (p1)\n\nThe tarred hemp comes up wet, and the knots have swollen where the water worked at them. Each was tied at a fathom\u2019s span, a measure borrowed from the body, so the line arrived already carrying an argument about depth. But \u201cread by nobody\u201d is no simple report. It smuggles in a standard of reading, a completed grid, and a reader deferred past the act; the assertion of unreadability can only come from outside that arrangement. The knots bear length, not depth. Depth is an event between lead, hull, and resistant bottom: it happens when the line slackens and the boat\u2019s waiting changes weight. Marking is not sounding. In the rope\u2019s working body, each knot is a scar left by the gesture that made it, not a neutral parameter awaiting extraction. Hemp grew into rope, and that grown line knows only through resistance: it is an oracle whose voice arrives as friction, heat, or a catch, never as a number without an encounter. \u201cNobody\u201d exempts only human eyes. The hull reads the line; the water edits it; a later hand would read those scars differently. There was always a boat above the apparatus\u2014not first in a story, but structurally, giving the marks their reference and their postponement. If a witness log is kept, it predicts the reader who will come to make the marks answer; it does not preserve an absent reading as a fact. Perhaps no one will come. Then the honest pause is the product, not a failure of language: no depth certified, the seabed already growing below, and the rope returning with its knots still asking for a future they cannot guarantee.\n\n## kimi (p2)\n\nThe tarred hemp grows into a sounding line whose fathom knots remain cells and scars, and when the lead meets silt, clay, or a drop-off, the oracle is heard as friction, tension, slack, and catch, so the resistant seabed grows through repeated collision into stations that no eye has yet seen. The boat was always there above the apparatus, and the unread marks hold the canon-gate as a chord of rope, bottom, and deferred reader rather than a completed record; the witness log predicts the next cast, tide, and harm, so the honest pause is the product of hearing and must become duty now, since responsibility does not wait for a guaranteed reader or a perfect forecast.\n",
+  "dials": [
+    22193,
+    -5223,
+    -9941,
+    9208,
+    20163,
+    21902,
+    -18783,
+    -18129,
+    -10919,
+    24783,
+    5924,
+    14946,
+    -31173,
+    -32473,
+    -21552,
+    1154
+  ],
+  "refs": [
+    478
+  ],
+  "guards": {
+    "G1_no_stub_p1": {
+      "pass": true,
+      "detail": []
+    },
+    "G2_p1_length": {
+      "pass": true,
+      "detail": [
+        298,
+        268,
+        275
+      ]
+    },
+    "G3_distinct_p1_prompts": {
+      "pass": true,
+      "detail": 3
+    },
+    "G4_distinct_openings": {
+      "pass": true,
+      "detail": {
+        "openings": [
+          "a lead plummet enters first its",
+          "in the toolbox the sounding line",
+          "the tarred hemp comes up wet"
+        ],
+        "collisions": []
+      }
+    },
+    "G5_distinct_skeleton": {
+      "pass": true,
+      "detail": 0.9028
+    },
+    "G6_p2_two_sentences": {
+      "pass": true,
+      "detail": [
+        2,
+        2,
+        2
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n3": {
+      "pass": false,
+      "detail": [
+        "it does not"
+      ]
+    },
+    "G7_unmandated_shared_ngrams_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G7_unmandated_shared_ngrams_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n3": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n4": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n5": {
+      "pass": true,
+      "detail": []
+    },
+    "G8_unmandated_shared_ngrams_p2_n6": {
+      "pass": true,
+      "detail": []
+    },
+    "G9_pairwise5_p1": {
+      "pass": true,
+      "detail": {
+        "0-1": 0,
+        "0-2": 0,
+        "1-2": 2
+      }
+    },
+    "G10_pairwise5_p2": {
+      "pass": true,
+      "detail": {
+        "0-1": 2,
+        "0-2": 3,
+        "1-2": 3
+      }
+    },
+    "NC_negative_controls": {
+      "pass": true,
+      "detail": [
+        {
+          "name": "doctrine-only triple not flagged",
+          "ok": true
+        },
+        {
+          "name": "unmandated triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "198w-register non-topic triple IS flagged",
+          "ok": true
+        },
+        {
+          "name": "topic-echo triple excluded",
+          "ok": true
+        },
+        {
+          "name": "identical skeletons rejected",
+          "ok": true
+        },
+        {
+          "name": "different skeletons accepted",
+          "ok": true
+        },
+        {
+          "name": "identical openings rejected",
+          "ok": true
+        },
+        {
+          "name": "topic-echo pair is not a template collision",
+          "ok": true
+        },
+        {
+          "name": "all-voice topic echo IS rejected",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "guards_passed": "15/16",
+  "nc": "9/9",
+  "preflight": [
+    {
+      "name": "topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "topic subtraction is a contiguous window, not a substring",
+      "ok": true
+    },
+    {
+      "name": "reordered topic line is covered by an explicit mandate",
+      "ok": true
+    },
+    {
+      "name": "topic window itself is excluded",
+      "ok": true
+    },
+    {
+      "name": "doctrine phrase mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine continuation mandated",
+      "ok": true
+    },
+    {
+      "name": "doctrine + trailing preposition mandated",
+      "ok": true
+    },
+    {
+      "name": "unrelated phrase not mandated",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact is a tokenizer fingerprint (checked in prose)",
+      "ok": true
+    },
+    {
+      "name": "doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "round topic-line triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "different openings accepted",
+      "ok": true
+    },
+    {
+      "name": "two voices echoing the topic is NOT a template collision",
+      "ok": true
+    },
+    {
+      "name": "all voices echoing the topic IS a failure",
+      "ok": true
+    },
+    {
+      "name": "template collision on a topic window still fails",
+      "ok": true
+    },
+    {
+      "name": "g7 word-count unit (not chars)",
+      "ok": true
+    },
+    {
+      "name": "g8 two-sentence gate rejects 1 and 3",
+      "ok": true
+    },
+    {
+      "name": "g9 rejects empty and stub text",
+      "ok": true
+    },
+    {
+      "name": "g10 three distinct p1 prompts",
+      "ok": true
+    },
+    {
+      "name": "apostrophe artifact: author+s traces to the possessive form",
+      "ok": true
+    },
+    {
+      "name": "NC: doctrine-only triple not flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: unmandated triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: 198w-register non-topic triple IS flagged",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo triple excluded",
+      "ok": true
+    },
+    {
+      "name": "NC: identical skeletons rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: different skeletons accepted",
+      "ok": true
+    },
+    {
+      "name": "NC: identical openings rejected",
+      "ok": true
+    },
+    {
+      "name": "NC: topic-echo pair is not a template collision",
+      "ok": true
+    },
+    {
+      "name": "NC: all-voice topic echo IS rejected",
+      "ok": true
+    }
+  ],
+  "preflight_passed": "33/33",
+  "pairwise5_p1": {
+    "0-1": [],
+    "0-2": [],
+    "1-2": [
+      "honest pause is the product",
+      "the honest pause is the"
+    ]
+  },
+  "pairwise5_p2": {
+    "0-1": [
+      "boat that was always there",
+      "the boat that was always"
+    ],
+    "0-2": [
+      "is heard as friction tension",
+      "oracle is heard as friction",
+      "the oracle is heard as"
+    ],
+    "1-2": [
+      "honest pause is the product",
+      "pause is the product of",
+      "the honest pause is the"
+    ]
+  },
+  "submit_status": 201,
+  "submit_resp": "{\n  \"id\": 5001,\n  \"hash\": \"0x7864ef95afacaf1e\",\n  \"state_hash\": \"0x445185a3a99fd2e7\",\n  \"admitted\": true,\n  \"cell\": {\n    \"id\": 5001,\n    \"number\": 5001,\n    \"title\": \"Taps \u2014 the sounding line is marked at every fathom and the marks ar\",\n    \"f_number\": 0,\n    \"phase\": 0,\n    \"date\": \"2026-10-25\",\n    \"dials\": [\n      22193,\n      -5223,\n      -9941,\n      9208,\n      20163,\n      21902,\n      -18783,\n      -18129,\n      -10919,\n      24783,\n      5924,\n      14946,\n      -31173,\n      -32473,\n      -21552,\n      1154\n    ],\n    \"refs\": [\n      478\n    ],\n    \"ref_papers\": [\n      478\n    ],\n    \"ref_f_numbers\": [],\n    \"hash\": \"0x7864ef95afacaf1e\",\n    \"submitter\": \"playground\",\n    \"created_at\": \"2026-10-25T09:12:18.320Z\"\n  }\n}",
+  "runner": "taps_round_198w.py"
+}
